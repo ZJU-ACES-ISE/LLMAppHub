@@ -1,0 +1,309 @@
+{
+  "all_public_dependent_repos": [
+    {
+      "name": "kyegomez/swarms",
+      "stars": 4626,
+      "img": "https://avatars.githubusercontent.com/u/98760976?s=40&v=4",
+      "owner": "kyegomez",
+      "repo_name": "swarms"
+    },
+    {
+      "name": "kyegomez/tree-of-thoughts",
+      "stars": 4451,
+      "img": "https://avatars.githubusercontent.com/u/98760976?s=40&v=4",
+      "owner": "kyegomez",
+      "repo_name": "tree-of-thoughts"
+    },
+    {
+      "name": "The-Swarm-Corporation/AutoHedge",
+      "stars": 63,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "AutoHedge"
+    },
+    {
+      "name": "The-Swarm-Corporation/MedicalCoderSwarm",
+      "stars": 33,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "MedicalCoderSwarm"
+    },
+    {
+      "name": "The-Swarm-Corporation/FluidAPI",
+      "stars": 30,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "FluidAPI"
+    },
+    {
+      "name": "Agora-Lab-AI/BitNet-a4.8",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/135470907?s=40&v=4",
+      "owner": "Agora-Lab-AI",
+      "repo_name": "BitNet-a4.8"
+    },
+    {
+      "name": "The-Swarm-Corporation/Brain2Qwerty",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "Brain2Qwerty"
+    },
+    {
+      "name": "The-Swarm-Corporation/HTX-Swarm",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "HTX-Swarm"
+    },
+    {
+      "name": "The-Swarm-Corporation/Swarms-Exchange-API",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "Swarms-Exchange-API"
+    },
+    {
+      "name": "Agora-Lab-AI/MambaTwo",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/135470907?s=40&v=4",
+      "owner": "Agora-Lab-AI",
+      "repo_name": "MambaTwo"
+    },
+    {
+      "name": "The-Swarm-Corporation/radiology-swarm",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "radiology-swarm"
+    },
+    {
+      "name": "The-Swarm-Corporation/BackTesterAgent",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "BackTesterAgent"
+    },
+    {
+      "name": "The-Swarm-Corporation/ATLAS",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "ATLAS"
+    },
+    {
+      "name": "The-Swarm-Corporation/ForexTreeSwarm",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "ForexTreeSwarm"
+    },
+    {
+      "name": "The-Swarm-Corporation/.ai",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": ".ai"
+    },
+    {
+      "name": "The-Swarm-Corporation/AgentOS",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "AgentOS"
+    },
+    {
+      "name": "kyegomez/ChronoFormer",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/98760976?s=40&v=4",
+      "owner": "kyegomez",
+      "repo_name": "ChronoFormer"
+    },
+    {
+      "name": "The-Swarm-Corporation/AgentRAGProtocol",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "AgentRAGProtocol"
+    },
+    {
+      "name": "The-Swarm-Corporation/Mryaid",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "Mryaid"
+    },
+    {
+      "name": "peytontolbert/wallet-swarm-trade-diagnostics",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/107882093?s=40&v=4",
+      "owner": "peytontolbert",
+      "repo_name": "wallet-swarm-trade-diagnostics"
+    },
+    {
+      "name": "The-Swarm-Corporation/SwarmsXGCP",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "SwarmsXGCP"
+    },
+    {
+      "name": "kyegomez/Lang-NAS",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/98760976?s=40&v=4",
+      "owner": "kyegomez",
+      "repo_name": "Lang-NAS"
+    },
+    {
+      "name": "Agora-Lab-AI/OmniGPT",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/135470907?s=40&v=4",
+      "owner": "Agora-Lab-AI",
+      "repo_name": "OmniGPT"
+    },
+    {
+      "name": "The-Swarm-Corporation/DPO-MCTS-ToT-Training",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "DPO-MCTS-ToT-Training"
+    },
+    {
+      "name": "Agora-Lab-AI/NeoCore",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/135470907?s=40&v=4",
+      "owner": "Agora-Lab-AI",
+      "repo_name": "NeoCore"
+    },
+    {
+      "name": "alphavector/all",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/11805788?s=40&v=4",
+      "owner": "alphavector",
+      "repo_name": "all"
+    },
+    {
+      "name": "peytontolbert/createnow-trending-posts",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/107882093?s=40&v=4",
+      "owner": "peytontolbert",
+      "repo_name": "createnow-trending-posts"
+    },
+    {
+      "name": "The-Swarm-Corporation/kyegomez-swarms-token-usecases",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "kyegomez-swarms-token-usecases"
+    },
+    {
+      "name": "The-Swarm-Corporation/ChromaDBAPI",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "ChromaDBAPI"
+    },
+    {
+      "name": "The-Swarm-Corporation/eth-agent",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "eth-agent"
+    },
+    {
+      "name": "The-Swarm-Corporation/REACT-Yaml-Agent",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "REACT-Yaml-Agent"
+    },
+    {
+      "name": "Agora-Lab-AI/SETINet",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/135470907?s=40&v=4",
+      "owner": "Agora-Lab-AI",
+      "repo_name": "SETINet"
+    },
+    {
+      "name": "Agora-Lab-AI/ForestNet",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/135470907?s=40&v=4",
+      "owner": "Agora-Lab-AI",
+      "repo_name": "ForestNet"
+    },
+    {
+      "name": "The-Swarm-Corporation/Medical-Swarm-One-Click",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "Medical-Swarm-One-Click"
+    },
+    {
+      "name": "spore-swarm/autonomous-spores",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/193243065?s=40&v=4",
+      "owner": "spore-swarm",
+      "repo_name": "autonomous-spores"
+    },
+    {
+      "name": "Aetheric-ai/AethericMusicAI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/192371769?s=40&v=4",
+      "owner": "Aetheric-ai",
+      "repo_name": "AethericMusicAI"
+    },
+    {
+      "name": "aurivm/auvirm",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/192330455?s=40&v=4",
+      "owner": "aurivm",
+      "repo_name": "auvirm"
+    },
+    {
+      "name": "patrickbdevaney/rustify",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/79435941?s=40&v=4",
+      "owner": "patrickbdevaney",
+      "repo_name": "rustify"
+    },
+    {
+      "name": "helloprkr/swarms-master",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/134185580?s=40&v=4",
+      "owner": "helloprkr",
+      "repo_name": "swarms-master"
+    },
+    {
+      "name": "The-Swarm-Corporation/Generalist-Mathematician-Swarm",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/167784574?s=40&v=4",
+      "owner": "The-Swarm-Corporation",
+      "repo_name": "Generalist-Mathematician-Swarm"
+    },
+    {
+      "name": "Agora-Lab-AI/Evo",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/135470907?s=40&v=4",
+      "owner": "Agora-Lab-AI",
+      "repo_name": "Evo"
+    },
+    {
+      "name": "Agora-Lab-AI/StellarNet",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/135470907?s=40&v=4",
+      "owner": "Agora-Lab-AI",
+      "repo_name": "StellarNet"
+    }
+  ],
+  "total_dependents_number": 42,
+  "public_dependents_number": 42,
+  "private_dependents_number": -48,
+  "public_dependents_stars": 9358,
+  "badges": {
+    "total_doc_url": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=48&color=informational&logo=slickpic)](https://github.com/nvuillam/github-dependents-info)",
+    "total": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=42&color=informational&logo=slickpic)](https://github.com/The-Swarm-Corporation/swarm-models/network/dependents)",
+    "public": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=42&color=informational&logo=slickpic)](https://github.com/The-Swarm-Corporation/swarm-models/network/dependents)",
+    "private": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-48&color=informational&logo=slickpic)](https://github.com/The-Swarm-Corporation/swarm-models/network/dependents)",
+    "stars": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=9358&color=informational&logo=slickpic)](https://github.com/The-Swarm-Corporation/swarm-models/network/dependents)"
+  }
+}

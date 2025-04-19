@@ -1,0 +1,750 @@
+{
+  "all_public_dependent_repos": [
+    {
+      "name": "CodePhiliaX/Chat2DB",
+      "stars": 19183,
+      "img": "https://avatars.githubusercontent.com/u/131834193?s=40&v=4",
+      "owner": "CodePhiliaX",
+      "repo_name": "Chat2DB"
+    },
+    {
+      "name": "novicezk/midjourney-proxy",
+      "stars": 4920,
+      "img": "https://avatars.githubusercontent.com/u/20700387?s=40&v=4",
+      "owner": "novicezk",
+      "repo_name": "midjourney-proxy"
+    },
+    {
+      "name": "hncboy/ai-beehive",
+      "stars": 2146,
+      "img": "https://avatars.githubusercontent.com/u/27755574?s=40&v=4",
+      "owner": "hncboy",
+      "repo_name": "ai-beehive"
+    },
+    {
+      "name": "XiaoMi/mone",
+      "stars": 1124,
+      "img": "https://avatars.githubusercontent.com/u/1309360?s=40&v=4",
+      "owner": "XiaoMi",
+      "repo_name": "mone"
+    },
+    {
+      "name": "youshandefeiyang/feiyangdigital-bot",
+      "stars": 583,
+      "img": "https://avatars.githubusercontent.com/u/63959400?s=40&v=4",
+      "owner": "youshandefeiyang",
+      "repo_name": "feiyangdigital-bot"
+    },
+    {
+      "name": "Grt1228/chatgpt-steam-output",
+      "stars": 462,
+      "img": "https://avatars.githubusercontent.com/u/27008803?s=40&v=4",
+      "owner": "Grt1228",
+      "repo_name": "chatgpt-steam-output"
+    },
+    {
+      "name": "cubefs/compass",
+      "stars": 371,
+      "img": "https://avatars.githubusercontent.com/u/33819338?s=40&v=4",
+      "owner": "cubefs",
+      "repo_name": "compass"
+    },
+    {
+      "name": "traas-stack/holoinsight",
+      "stars": 331,
+      "img": "https://avatars.githubusercontent.com/u/106951936?s=40&v=4",
+      "owner": "traas-stack",
+      "repo_name": "holoinsight"
+    },
+    {
+      "name": "shican1234/chatgpt-java-uniapp",
+      "stars": 328,
+      "img": "https://avatars.githubusercontent.com/u/31718812?s=40&v=4",
+      "owner": "shican1234",
+      "repo_name": "chatgpt-java-uniapp"
+    },
+    {
+      "name": "oldinaction/ChatGPT-MP",
+      "stars": 299,
+      "img": "https://avatars.githubusercontent.com/u/15698218?s=40&v=4",
+      "owner": "oldinaction",
+      "repo_name": "ChatGPT-MP"
+    },
+    {
+      "name": "ageerle/ruoyi-ai",
+      "stars": 260,
+      "img": "https://avatars.githubusercontent.com/u/32251822?s=40&v=4",
+      "owner": "ageerle",
+      "repo_name": "ruoyi-ai"
+    },
+    {
+      "name": "XHXJ/json-GPT-translator",
+      "stars": 129,
+      "img": "https://avatars.githubusercontent.com/u/41843867?s=40&v=4",
+      "owner": "XHXJ",
+      "repo_name": "json-GPT-translator"
+    },
+    {
+      "name": "jeecgboot/jeecg-boot-starter",
+      "stars": 70,
+      "img": "https://avatars.githubusercontent.com/u/86360035?s=40&v=4",
+      "owner": "jeecgboot",
+      "repo_name": "jeecg-boot-starter"
+    },
+    {
+      "name": "xianlinyi/midjourney-proxy-starter",
+      "stars": 61,
+      "img": "https://avatars.githubusercontent.com/u/47588282?s=40&v=4",
+      "owner": "xianlinyi",
+      "repo_name": "midjourney-proxy-starter"
+    },
+    {
+      "name": "adorabled4/TurboAPI",
+      "stars": 58,
+      "img": "https://avatars.githubusercontent.com/u/96526641?s=40&v=4",
+      "owner": "adorabled4",
+      "repo_name": "TurboAPI"
+    },
+    {
+      "name": "liyf1/chatgpt-plus",
+      "stars": 56,
+      "img": "https://avatars.githubusercontent.com/u/49024327?s=40&v=4",
+      "owner": "liyf1",
+      "repo_name": "chatgpt-plus"
+    },
+    {
+      "name": "rancytech/mj-plus",
+      "stars": 34,
+      "img": "https://avatars.githubusercontent.com/u/169913039?s=40&v=4",
+      "owner": "rancytech",
+      "repo_name": "mj-plus"
+    },
+    {
+      "name": "which0113/freefish-api",
+      "stars": 33,
+      "img": "https://avatars.githubusercontent.com/u/119718783?s=40&v=4",
+      "owner": "which0113",
+      "repo_name": "freefish-api"
+    },
+    {
+      "name": "cxyxl66/ChatGPTService",
+      "stars": 31,
+      "img": "https://avatars.githubusercontent.com/u/138975200?s=40&v=4",
+      "owner": "cxyxl66",
+      "repo_name": "ChatGPTService"
+    },
+    {
+      "name": "smartisanyyh/chatbot",
+      "stars": 24,
+      "img": "https://avatars.githubusercontent.com/u/20227171?s=40&v=4",
+      "owner": "smartisanyyh",
+      "repo_name": "chatbot"
+    },
+    {
+      "name": "japhet99/ruoyi-openai",
+      "stars": 21,
+      "img": "https://avatars.githubusercontent.com/u/38454934?s=40&v=4",
+      "owner": "japhet99",
+      "repo_name": "ruoyi-openai"
+    },
+    {
+      "name": "ruanrongman/IntelliConnect",
+      "stars": 17,
+      "img": "https://avatars.githubusercontent.com/u/61037455?s=40&v=4",
+      "owner": "ruanrongman",
+      "repo_name": "IntelliConnect"
+    },
+    {
+      "name": "Eric2i/CNCulturalRelicOnline",
+      "stars": 16,
+      "img": "https://avatars.githubusercontent.com/u/17231504?s=40&v=4",
+      "owner": "Eric2i",
+      "repo_name": "CNCulturalRelicOnline"
+    },
+    {
+      "name": "18696232390/sia-ai",
+      "stars": 14,
+      "img": "https://avatars.githubusercontent.com/u/44156273?s=40&v=4",
+      "owner": "18696232390",
+      "repo_name": "sia-ai"
+    },
+    {
+      "name": "someone1128/streamerCardAutomate",
+      "stars": 13,
+      "img": "https://avatars.githubusercontent.com/u/74223664?s=40&v=4",
+      "owner": "someone1128",
+      "repo_name": "streamerCardAutomate"
+    },
+    {
+      "name": "yubb-ai/unofficial-gpt4",
+      "stars": 13,
+      "img": "https://avatars.githubusercontent.com/u/153794571?s=40&v=4",
+      "owner": "yubb-ai",
+      "repo_name": "unofficial-gpt4"
+    },
+    {
+      "name": "kuuhaku1314/qq-robot",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/74090599?s=40&v=4",
+      "owner": "kuuhaku1314",
+      "repo_name": "qq-robot"
+    },
+    {
+      "name": "yuebo/autogpt-java",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/9998927?s=40&v=4",
+      "owner": "yuebo",
+      "repo_name": "autogpt-java"
+    },
+    {
+      "name": "didiEvans/gpt-joy-chat",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/50003054?s=40&v=4",
+      "owner": "didiEvans",
+      "repo_name": "gpt-joy-chat"
+    },
+    {
+      "name": "JBlevinss/Chat2DB",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/108951742?s=40&v=4",
+      "owner": "JBlevinss",
+      "repo_name": "Chat2DB"
+    },
+    {
+      "name": "cmyang-it/wechat-chatgpt",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/41405161?s=40&v=4",
+      "owner": "cmyang-it",
+      "repo_name": "wechat-chatgpt"
+    },
+    {
+      "name": "reinershir/Shir-AI",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/6177423?s=40&v=4",
+      "owner": "reinershir",
+      "repo_name": "Shir-AI"
+    },
+    {
+      "name": "gaozaoshun/sia-ai",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/18024859?s=40&v=4",
+      "owner": "gaozaoshun",
+      "repo_name": "sia-ai"
+    },
+    {
+      "name": "Elm-Forest/Dino-Office",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/62285254?s=40&v=4",
+      "owner": "Elm-Forest",
+      "repo_name": "Dino-Office"
+    },
+    {
+      "name": "Mr-bart/chatgpt-java",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/148409434?s=40&v=4",
+      "owner": "Mr-bart",
+      "repo_name": "chatgpt-java"
+    },
+    {
+      "name": "littlehui/WeChatGPT",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/7424296?s=40&v=4",
+      "owner": "littlehui",
+      "repo_name": "WeChatGPT"
+    },
+    {
+      "name": "136William136/ChatGPTWebApp",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/128681247?s=40&v=4",
+      "owner": "136William136",
+      "repo_name": "ChatGPTWebApp"
+    },
+    {
+      "name": "zhukeyu250712/zkybi",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/47892782?s=40&v=4",
+      "owner": "zhukeyu250712",
+      "repo_name": "zkybi"
+    },
+    {
+      "name": "MRY5L/api_backend",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/113039999?s=40&v=4",
+      "owner": "MRY5L",
+      "repo_name": "api_backend"
+    },
+    {
+      "name": "visual-ddd/wd-common-parent",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/132125713?s=40&v=4",
+      "owner": "visual-ddd",
+      "repo_name": "wd-common-parent"
+    },
+    {
+      "name": "thb10086/one-api-java",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/68690699?s=40&v=4",
+      "owner": "thb10086",
+      "repo_name": "one-api-java"
+    },
+    {
+      "name": "shaonianjzh/ai-platform",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/76216210?s=40&v=4",
+      "owner": "shaonianjzh",
+      "repo_name": "ai-platform"
+    },
+    {
+      "name": "xiaoxiaozhu1130/chatgpt-java-vue",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/141615304?s=40&v=4",
+      "owner": "xiaoxiaozhu1130",
+      "repo_name": "chatgpt-java-vue"
+    },
+    {
+      "name": "GPT-Apps/docGPT",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/132535506?s=40&v=4",
+      "owner": "GPT-Apps",
+      "repo_name": "docGPT"
+    },
+    {
+      "name": "zoo475698058/chatgpt-java-embeddings",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/19967806?s=40&v=4",
+      "owner": "zoo475698058",
+      "repo_name": "chatgpt-java-embeddings"
+    },
+    {
+      "name": "YaoyaoWantMore/chatgptMiraiQQbot",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/77048100?s=40&v=4",
+      "owner": "YaoyaoWantMore",
+      "repo_name": "chatgptMiraiQQbot"
+    },
+    {
+      "name": "vite666/YS-GPT-dec",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/71123610?s=40&v=4",
+      "owner": "vite666",
+      "repo_name": "YS-GPT-dec"
+    },
+    {
+      "name": "sualpha/xiaoyi",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/30691840?s=40&v=4",
+      "owner": "sualpha",
+      "repo_name": "xiaoyi"
+    },
+    {
+      "name": "NingNing0111/matomo-ai",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/125198999?s=40&v=4",
+      "owner": "NingNing0111",
+      "repo_name": "matomo-ai"
+    },
+    {
+      "name": "cfl-chenfangliang/chatgpt-memory-java",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/29916545?s=40&v=4",
+      "owner": "cfl-chenfangliang",
+      "repo_name": "chatgpt-memory-java"
+    },
+    {
+      "name": "a414338069/chatgpt-client-server",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/18670635?s=40&v=4",
+      "owner": "a414338069",
+      "repo_name": "chatgpt-client-server"
+    },
+    {
+      "name": "Kickflip73/CIP",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/103115722?s=40&v=4",
+      "owner": "Kickflip73",
+      "repo_name": "CIP"
+    },
+    {
+      "name": "lindhelium/midjourney",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/170003553?s=40&v=4",
+      "owner": "lindhelium",
+      "repo_name": "midjourney"
+    },
+    {
+      "name": "MRY5L/BI_backend",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/113039999?s=40&v=4",
+      "owner": "MRY5L",
+      "repo_name": "BI_backend"
+    },
+    {
+      "name": "y1466382670/midjourney-api",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/52352678?s=40&v=4",
+      "owner": "y1466382670",
+      "repo_name": "midjourney-api"
+    },
+    {
+      "name": "LeapBound/yucong",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/153073128?s=40&v=4",
+      "owner": "LeapBound",
+      "repo_name": "yucong"
+    },
+    {
+      "name": "yangzhenyu322/OpenTool-Cloud",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/57444995?s=40&v=4",
+      "owner": "yangzhenyu322",
+      "repo_name": "OpenTool-Cloud"
+    },
+    {
+      "name": "Jack-261108/chatgpt-steam-output",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/101715423?s=40&v=4",
+      "owner": "Jack-261108",
+      "repo_name": "chatgpt-steam-output"
+    },
+    {
+      "name": "SG-langshen/chatGpt",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/65337583?s=40&v=4",
+      "owner": "SG-langshen",
+      "repo_name": "chatGpt"
+    },
+    {
+      "name": "MaChathy/maven-practice",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/117183125?s=40&v=4",
+      "owner": "MaChathy",
+      "repo_name": "maven-practice"
+    },
+    {
+      "name": "CMCHENSX/chatchat_java",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/29833779?s=40&v=4",
+      "owner": "CMCHENSX",
+      "repo_name": "chatchat_java"
+    },
+    {
+      "name": "silentiris/cqhttp_bot",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/46958249?s=40&v=4",
+      "owner": "silentiris",
+      "repo_name": "cqhttp_bot"
+    },
+    {
+      "name": "Yaoboyu/webapp",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/63132044?s=40&v=4",
+      "owner": "Yaoboyu",
+      "repo_name": "webapp"
+    },
+    {
+      "name": "lovewtong/NotShitProject",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/89980889?s=40&v=4",
+      "owner": "lovewtong",
+      "repo_name": "NotShitProject"
+    },
+    {
+      "name": "liaocatcat/openai-spring-sse",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/43488907?s=40&v=4",
+      "owner": "liaocatcat",
+      "repo_name": "openai-spring-sse"
+    },
+    {
+      "name": "izerok/my-voice-assistant",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/70507436?s=40&v=4",
+      "owner": "izerok",
+      "repo_name": "my-voice-assistant"
+    },
+    {
+      "name": "zwzs2016/SSMProject",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/44233525?s=40&v=4",
+      "owner": "zwzs2016",
+      "repo_name": "SSMProject"
+    },
+    {
+      "name": "Victor8889/chatgpt-AI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/137128178?s=40&v=4",
+      "owner": "Victor8889",
+      "repo_name": "chatgpt-AI"
+    },
+    {
+      "name": "LoveDoLove-Forked-Projects/Chat2DB",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/157819380?s=40&v=4",
+      "owner": "LoveDoLove-Forked-Projects",
+      "repo_name": "Chat2DB"
+    },
+    {
+      "name": "fastlucker/REP22",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/156526316?s=40&v=4",
+      "owner": "fastlucker",
+      "repo_name": "REP22"
+    },
+    {
+      "name": "cikiPAD/cikiBot-java",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/58922174?s=40&v=4",
+      "owner": "cikiPAD",
+      "repo_name": "cikiBot-java"
+    },
+    {
+      "name": "nami-wh-lo/Chat2DB",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/113587116?s=40&v=4",
+      "owner": "nami-wh-lo",
+      "repo_name": "Chat2DB"
+    },
+    {
+      "name": "rateyu/xunheng-cloud-cola",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/8207606?s=40&v=4",
+      "owner": "rateyu",
+      "repo_name": "xunheng-cloud-cola"
+    },
+    {
+      "name": "yutaixi/ytx-agent-framework",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/10369231?s=40&v=4",
+      "owner": "yutaixi",
+      "repo_name": "ytx-agent-framework"
+    },
+    {
+      "name": "Eternal130/ChatRoom",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/111716703?s=40&v=4",
+      "owner": "Eternal130",
+      "repo_name": "ChatRoom"
+    },
+    {
+      "name": "Stronium-zsy/dbms-backEnd",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/139935527?s=40&v=4",
+      "owner": "Stronium-zsy",
+      "repo_name": "dbms-backEnd"
+    },
+    {
+      "name": "Lifu12/lufei-auto-generate-sql",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/66303359?s=40&v=4",
+      "owner": "Lifu12",
+      "repo_name": "lufei-auto-generate-sql"
+    },
+    {
+      "name": "qoerx/bond-server",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/85288598?s=40&v=4",
+      "owner": "qoerx",
+      "repo_name": "bond-server"
+    },
+    {
+      "name": "zzy-0914/zzy-api-backed",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/132832365?s=40&v=4",
+      "owner": "zzy-0914",
+      "repo_name": "zzy-api-backed"
+    },
+    {
+      "name": "indinner/wall-server-public",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/61656099?s=40&v=4",
+      "owner": "indinner",
+      "repo_name": "wall-server-public"
+    },
+    {
+      "name": "imlee2021/GPTBlogger",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/94844256?s=40&v=4",
+      "owner": "imlee2021",
+      "repo_name": "GPTBlogger"
+    },
+    {
+      "name": "jisenshi/lingguangBI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/152483772?s=40&v=4",
+      "owner": "jisenshi",
+      "repo_name": "lingguangBI"
+    },
+    {
+      "name": "twolf11/chatgpt-fast",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/37363868?s=40&v=4",
+      "owner": "twolf11",
+      "repo_name": "chatgpt-fast"
+    },
+    {
+      "name": "gaosinihaha/mchst-cloud",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/75776463?s=40&v=4",
+      "owner": "gaosinihaha",
+      "repo_name": "mchst-cloud"
+    },
+    {
+      "name": "GXSZone/sia-ai-fuck",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/12530096?s=40&v=4",
+      "owner": "GXSZone",
+      "repo_name": "sia-ai-fuck"
+    },
+    {
+      "name": "327078466/gf-chat-api",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/88604688?s=40&v=4",
+      "owner": "327078466",
+      "repo_name": "gf-chat-api"
+    },
+    {
+      "name": "19512276499/miracle.chat",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/141901361?s=40&v=4",
+      "owner": "19512276499",
+      "repo_name": "miracle.chat"
+    },
+    {
+      "name": "yuyezhiji/chat-ai-yuye",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/127083751?s=40&v=4",
+      "owner": "yuyezhiji",
+      "repo_name": "chat-ai-yuye"
+    },
+    {
+      "name": "flextoo656/heat",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/117671308?s=40&v=4",
+      "owner": "flextoo656",
+      "repo_name": "heat"
+    },
+    {
+      "name": "etoihar/test",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/137224508?s=40&v=4",
+      "owner": "etoihar",
+      "repo_name": "test"
+    },
+    {
+      "name": "Nekit3566/tester",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/136926072?s=40&v=4",
+      "owner": "Nekit3566",
+      "repo_name": "tester"
+    },
+    {
+      "name": "JackieHeckie/myrepo",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/137077284?s=40&v=4",
+      "owner": "JackieHeckie",
+      "repo_name": "myrepo"
+    },
+    {
+      "name": "AoungY/ChatGPT-SpringBoot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/106218728?s=40&v=4",
+      "owner": "AoungY",
+      "repo_name": "ChatGPT-SpringBoot"
+    },
+    {
+      "name": "TridentHuang/my-gpt",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/34737316?s=40&v=4",
+      "owner": "TridentHuang",
+      "repo_name": "my-gpt"
+    },
+    {
+      "name": "MengmengWang/chatgpt-web-api",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/10238620?s=40&v=4",
+      "owner": "MengmengWang",
+      "repo_name": "chatgpt-web-api"
+    },
+    {
+      "name": "Reflecter510/mbsmain",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/36477306?s=40&v=4",
+      "owner": "Reflecter510",
+      "repo_name": "mbsmain"
+    },
+    {
+      "name": "qqiuqingx/chatgpt_java",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/48545125?s=40&v=4",
+      "owner": "qqiuqingx",
+      "repo_name": "chatgpt_java"
+    },
+    {
+      "name": "EricKuan/lineBotRika",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/6245332?s=40&v=4",
+      "owner": "EricKuan",
+      "repo_name": "lineBotRika"
+    },
+    {
+      "name": "liwj10597/trader-parent",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/32696158?s=40&v=4",
+      "owner": "liwj10597",
+      "repo_name": "trader-parent"
+    },
+    {
+      "name": "mingfahk/chatgpt",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/129810845?s=40&v=4",
+      "owner": "mingfahk",
+      "repo_name": "chatgpt"
+    },
+    {
+      "name": "21seu/thanatos",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/51878018?s=40&v=4",
+      "owner": "21seu",
+      "repo_name": "thanatos"
+    },
+    {
+      "name": "Suyunyixi/chat-robot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/58032779?s=40&v=4",
+      "owner": "Suyunyixi",
+      "repo_name": "chat-robot"
+    },
+    {
+      "name": "thinkingme/kylin",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/54928012?s=40&v=4",
+      "owner": "thinkingme",
+      "repo_name": "kylin"
+    },
+    {
+      "name": "shudongW/chatgpt-steam-server",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/24689339?s=40&v=4",
+      "owner": "shudongW",
+      "repo_name": "chatgpt-steam-server"
+    },
+    {
+      "name": "hjl30/ChatGPT",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/118704361?s=40&v=4",
+      "owner": "hjl30",
+      "repo_name": "ChatGPT"
+    }
+  ],
+  "total_dependents_number": 105,
+  "public_dependents_number": 105,
+  "private_dependents_number": -107,
+  "public_dependents_stars": 30794,
+  "badges": {
+    "total_doc_url": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=107&color=informational&logo=slickpic)](https://github.com/nvuillam/github-dependents-info)",
+    "total": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=105&color=informational&logo=slickpic)](https://github.com/Grt1228/chatgpt-java/network/dependents)",
+    "public": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=105&color=informational&logo=slickpic)](https://github.com/Grt1228/chatgpt-java/network/dependents)",
+    "private": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-107&color=informational&logo=slickpic)](https://github.com/Grt1228/chatgpt-java/network/dependents)",
+    "stars": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=30794&color=informational&logo=slickpic)](https://github.com/Grt1228/chatgpt-java/network/dependents)"
+  }
+}

@@ -1,0 +1,972 @@
+[
+  {
+    "full_name": "max-holo/chatgpt-sdk",
+    "name": "chatgpt-sdk",
+    "description": "支持chatgpt3.5、chatgpt4、glm-3-turbo、glm-4、moonshot-8k、moonshot-32k、moonshot-128k"
+  },
+  {
+    "full_name": "namankhurpia/Easy-open-ai",
+    "name": "Easy-open-ai",
+    "description": "This repository contains the community-maintained library for OpenAI's API in java, the easiest way to use GPT 3/4 in your applications."
+  },
+  {
+    "full_name": "kongpf8848/openai",
+    "name": "openai",
+    "description": "Java client libraries for OpenAI API and Azure OpenAI Service"
+  },
+  {
+    "full_name": "Grt1228/chatgpt-java",
+    "name": "chatgpt-java",
+    "description": "ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java"
+  },
+  {
+    "full_name": "SibanandaKuanr/ChatGPT-Android-app",
+    "name": "ChatGPT-Android-app",
+    "description": "🤖 Say hello to Chatbot AI, the innovative chatbot that allows you to easily ask questions and receive accurate and informative responses in real-time. Whether you need help with everyday tasks, want to learn something new, or just want to chat, Chatbot AI has got you covered."
+  },
+  {
+    "full_name": "wtd768566360/openai-client",
+    "name": "openai-client",
+    "description": "针对openai的chatgpt的接口,流式访问的客户端封装"
+  },
+  {
+    "full_name": "zengyusheng1314/chatgpt-java-util",
+    "name": "chatgpt-java-util",
+    "description": "ChatGPT Java  不使用lombok，支持流式输出"
+  },
+  {
+    "full_name": "Ranzeplay/saysth",
+    "name": "saysth",
+    "description": "A Minecraft Mod that connects villagers to AI models."
+  },
+  {
+    "full_name": "jpreethi1522/AI-ChatBot",
+    "name": "AI-ChatBot",
+    "description": "Developed using JAVA,  XML and Android OS. This mobile app integrates a ChatGPT-like chatbot with advanced functionalities, including image generation and real-time news updates. Users can engage in contextually relevant conversations with the AI-powered chatbot, create custom images, and stay informed with the latest news. "
+  },
+  {
+    "full_name": "zhouzhupianbei/OpenAI-ChatGPT-Function-Demo",
+    "name": "OpenAI-ChatGPT-Function-Demo",
+    "description": "这是一个OpenAI Function 接入的Demo，通过Lucene+OpenAI实现个人知识库，但是目前只有服务端，没有页面之类的东西，并且实现的非常简单，所以只能当做一个Demo使用。"
+  },
+  {
+    "full_name": "htinker-hu/android-app-simple-chat",
+    "name": "android-app-simple-chat",
+    "description": "Simple Chat APP based LLM running on Android"
+  },
+  {
+    "full_name": "reactiveclown/openai-webflux-java",
+    "name": "openai-webflux-java",
+    "description": "Reactive WebFlux OpenAI API Client in Java"
+  },
+  {
+    "full_name": "jsdjiazhiheng/ai-chat",
+    "name": "ai-chat",
+    "description": "ai-chat是一个开源的聊天系统后端，支持多种AI模型，旨在提供智能化的聊天服务。它不仅支持文本聊天，还支持图片处理，为用户提供丰富的交互体验。提供多种模型文心一言、KIMI、智谱清言、DeepSeek、OPENAI、通义千问、星火、腾讯混元助手（待接入）、火山引擎（豆包）、百度SD、通义万象、触站AI、画宇宙等。"
+  },
+  {
+    "full_name": "HakonBergtun/GPT-API-Test-Java-21",
+    "name": "GPT-API-Test-Java-21",
+    "description": "Litt testing med java 21 og GPT API "
+  },
+  {
+    "full_name": "OpenAI-Java/openai-sdk",
+    "name": "openai-sdk",
+    "description": "OpenAI Java Client"
+  },
+  {
+    "full_name": "pdkst/models",
+    "name": "models",
+    "description": "a simple llm models client; Try test it for production right now"
+  },
+  {
+    "full_name": "teachingai/langchain4j-examples",
+    "name": "langchain4j-examples",
+    "description": "基于  Langchain4j 的 AI 实践实例"
+  },
+  {
+    "full_name": "zccbbg/chatgpt-springboot-service",
+    "name": "chatgpt-springboot-service",
+    "description": "是一个基于Springboot的一个后端服务，用于实时接收chatGPT的消息，并通过websocket的方式实时反馈前端。本项目还可以助你将GPT机器人集成到钉钉群聊中，通过@机器人进行聊天交互。"
+  },
+  {
+    "full_name": "LnYo-Cly/ai4j",
+    "name": "ai4j",
+    "description": "一款JavaSDK用于快速接入AI大模型应用，整合多平台大模型，如OpenAi、智谱Zhipu(ChatGLM)、深度求索DeepSeek、月之暗面Moonshot(Kimi)、腾讯混元Hunyuan、零一万物(01)等等，提供统一的输入输出(对齐OpenAi)消除差异化，优化函数调用(Tool Call)，优化RAG调用、支持向量数据库(Pinecone)、内置联网增强，并且支持JDK1.8，为用户提供快速整合AI的能力。"
+  },
+  {
+    "full_name": "ivan-digital/lightchain",
+    "name": "lightchain",
+    "description": "LightChain - Java LLM Chat Assistant Tool with Spring Boot support "
+  },
+  {
+    "full_name": "arquimedesurf/chatgpt-spring-boot-starter",
+    "name": "chatgpt-spring-boot-starter",
+    "description": "chatgpt"
+  },
+  {
+    "full_name": "kezhenxu94/chatgpt-java",
+    "name": "chatgpt-java",
+    "description": "ChatGPT SDK for Java, CLI, GitHub Actions, demo, etc."
+  },
+  {
+    "full_name": "oapicf/openapi-openai",
+    "name": "openapi-openai",
+    "description": "API client libraries for OpenAI service generated using OpenAPI Generator"
+  },
+  {
+    "full_name": "qianxunclub/chatgpt-proxy",
+    "name": "chatgpt-proxy",
+    "description": "ChatGPT代理，需要部署到国外服务器上面，已经接入了聊天和图像生成接口，小程序体验：糯糯AI"
+  },
+  {
+    "full_name": "atenearesearchgroup/llm-evaluator-backend",
+    "name": "llm-evaluator-backend",
+    "description": null
+  },
+  {
+    "full_name": "flashvayne/chatgpt-spring-boot-starter",
+    "name": "chatgpt-spring-boot-starter",
+    "description": "a chatgpt starter based on Openai Official Apis."
+  },
+  {
+    "full_name": "agents-flex/agents-flex",
+    "name": "agents-flex",
+    "description": "Agents-Flex is an elegant LLM Application Framework like LangChain with Java."
+  },
+  {
+    "full_name": "zortan3301/ChatGPT4J",
+    "name": "ChatGPT4J",
+    "description": "ChatGPT Java SDK. Official OpenAI API."
+  },
+  {
+    "full_name": "lbayer10/Spring-Boot-Chatgpt",
+    "name": "Spring-Boot-Chatgpt",
+    "description": "We'll create a Spring Boot application that will generate responses to a prompt by calling the OpenAI ChatGPT APIs. 2. OpenAI ChatGPT APIs."
+  },
+  {
+    "full_name": "sashirestela/simple-openai",
+    "name": "simple-openai",
+    "description": "A Java library to use the OpenAI Api in the simplest possible way."
+  },
+  {
+    "full_name": "huangqingjian/chatgpt",
+    "name": "chatgpt",
+    "description": "chatgpt智能聊天平台一站式帮你接入openai api，只需简单配置即可玩转chatgpt，内置用户、会话、充值等完备模块。"
+  },
+  {
+    "full_name": "cedric10101980/APISpringBoot",
+    "name": "APISpringBoot",
+    "description": "APIs exposed through Springboot which connects to the OPENAPI LLM service"
+  },
+  {
+    "full_name": "sayal-aryal/openAiIntegrationToSpringBoot",
+    "name": "openAiIntegrationToSpringBoot",
+    "description": "This is the project to integrate Open Ai to the Spring Boot Project."
+  },
+  {
+    "full_name": "JoaoBSilva98/FATEC_IPI_PROJETOP2_GPT",
+    "name": "FATEC_IPI_PROJETOP2_GPT",
+    "description": "Projeto P2 em grupo com uso da API do ChatGPT/OpenAI"
+  },
+  {
+    "full_name": "sinditech/sindi-ai-openai",
+    "name": "sindi-ai-openai",
+    "description": "Java Implementation of GPT API by OpenAI (with support for GTP-4 o1)."
+  },
+  {
+    "full_name": "lebuffet02/OpenAI-ChatGPT",
+    "name": "OpenAI-ChatGPT",
+    "description": null
+  },
+  {
+    "full_name": "fgreco55/LangChain4j",
+    "name": "LangChain4j",
+    "description": "Repo to show working examples of LangChain4j"
+  },
+  {
+    "full_name": "mkarthikkamath/CMPE277-Android-ChatGPT-Audit-Log",
+    "name": "CMPE277-Android-ChatGPT-Audit-Log",
+    "description": "Save Prompt and Responses on Phone for Audit Log purposes.  "
+  },
+  {
+    "full_name": "mmzsblog/yu-auto-reply",
+    "name": "yu-auto-reply",
+    "description": "AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答。需要自备账号API-Key"
+  },
+  {
+    "full_name": "littlehui/WeChatGPT",
+    "name": "WeChatGPT",
+    "description": "为微信公众号接入ChatGPT。支持单用户限流，多用户私有OpenAiApiKey配置，聊天内容上下文关联，优化的被动回复消息。"
+  },
+  {
+    "full_name": "izzat-najah-edu/chat-agent",
+    "name": "chat-agent",
+    "description": "A Spring Boot library designed to abstract the interaction with the OpenAI Chat-Completion API."
+  },
+  {
+    "full_name": "nicodev29/OpenAI-integration",
+    "name": "OpenAI-integration",
+    "description": "Integracion de OpenAI con Spring Boot"
+  },
+  {
+    "full_name": "mkarthikkamath/CMPE277-Android-ChatGPT-UI-App",
+    "name": "CMPE277-Android-ChatGPT-UI-App",
+    "description": "The purpose of the app is to apply AsyncTask to call Open AI LLM (ChatGPT 3.5 Turbo) model in the background and display response to the Android App. "
+  },
+  {
+    "full_name": "forestwanglin/openai-java",
+    "name": "openai-java",
+    "description": "OpenAi GPT API for Java. Including all API from OpenAI except deprecated. It especially includes stream client and jtokkit with function calculation. Including Baidu AI."
+  },
+  {
+    "full_name": "CodexioLtd/openai-api-sdk",
+    "name": "openai-api-sdk",
+    "description": "Java Fluent SDK for OpenAI API"
+  },
+  {
+    "full_name": "XingRay/java-openai",
+    "name": "java-openai",
+    "description": "openai webapi implements by java, use Spring-WebFlux framework"
+  },
+  {
+    "full_name": "agoncal/agoncal-sample-langchain4j",
+    "name": "agoncal-sample-langchain4j",
+    "description": "Public Samples about LangChain4j"
+  },
+  {
+    "full_name": "hongspell/chatgpt-java",
+    "name": "chatgpt-java",
+    "description": "ChatGPT Java, it supports some of OpenAI's official interfaces (all interfaces will be supported in the future) and provides a conversational mode based on command-line chat."
+  },
+  {
+    "full_name": "WhiteMagic2014/gpt-magic",
+    "name": "gpt-magic",
+    "description": "openai chat-gpt java library "
+  },
+  {
+    "full_name": "RobJenks/gpt-codegen",
+    "name": "gpt-codegen",
+    "description": "BPMN model generation using GPT AI language models"
+  },
+  {
+    "full_name": "woolfel/murmurio",
+    "name": "murmurio",
+    "description": "murmur.io is a set of libraries for OpenAI API"
+  },
+  {
+    "full_name": "gradusnikov/eclipse-chatgpt-plugin",
+    "name": "eclipse-chatgpt-plugin",
+    "description": "An Eclipse plugin that integrates with ChatGPT"
+  },
+  {
+    "full_name": "brunofjesus/chatgpt-java",
+    "name": "chatgpt-java",
+    "description": "CLASSROOM PROJECT: Simple ChatGPT chatbot in java"
+  },
+  {
+    "full_name": "speakeasy-sdks/openai-java-sdk",
+    "name": "openai-java-sdk",
+    "description": "Java SDK for the OpenAI API"
+  },
+  {
+    "full_name": "Apress/ChatGPT-for-Java",
+    "name": "ChatGPT-for-Java",
+    "description": "Original source code for ChatGPT for Java by Bruce Hopkins"
+  },
+  {
+    "full_name": "Smitlea/Java_LLM_lesson--1",
+    "name": "Java_LLM_lesson--1",
+    "description": " a series of teaching lesson how to use java combine with AIGC"
+  },
+  {
+    "full_name": "cis-famu/chatgpt-cli-xavthom0104",
+    "name": "chatgpt-cli-xavthom0104",
+    "description": "chatgpt-cli-xavthom0104 created by GitHub Classroom"
+  },
+  {
+    "full_name": "coderyu5523/openai-spring-test",
+    "name": "openai-spring-test",
+    "description": null
+  },
+  {
+    "full_name": "rajadilipkolli/ai-playground",
+    "name": "ai-playground",
+    "description": "AI implementation using langchain4j and springAI frameworks with Java"
+  },
+  {
+    "full_name": "JungHyunMoon/-TOY-OPENAI_API",
+    "name": "-TOY-OPENAI_API",
+    "description": "openAI API를 활용한 Chat GPT 호출하고 응답받기"
+  },
+  {
+    "full_name": "JeffreyYou/OpenAI_SDK",
+    "name": "OpenAI_SDK",
+    "description": "Provides an easy-to-use SDK for Java developers to interact with the APIs of open AI models."
+  },
+  {
+    "full_name": "ThomasVitale/langchain4j-spring-boot",
+    "name": "langchain4j-spring-boot",
+    "description": "LangChain4j support in Spring Boot to build AI and LLM-powered applications."
+  },
+  {
+    "full_name": "maxamel/OmegleGPT",
+    "name": "OmegleGPT",
+    "description": "JavaFX chatgpt-based application for simulating the online chat service Omegle. "
+  },
+  {
+    "full_name": "cis-famu/chatgpt-cli-YonYon2",
+    "name": "chatgpt-cli-YonYon2",
+    "description": "chatgpt-cli-YonYon2 created by GitHub Classroom"
+  },
+  {
+    "full_name": "VishalRomel/AI-Fitness-And-Meal-Prep-Mobile-App",
+    "name": "AI-Fitness-And-Meal-Prep-Mobile-App",
+    "description": "This Android application is designed to gather user information and their fitness goals, leveraging cutting-edge AI technology to craft a customized workout and meal plan tailored specifically to the individual. (In Progress)"
+  },
+  {
+    "full_name": "xBrokenBrainx/api-openai",
+    "name": "api-openai",
+    "description": "Aplicação Java para simples integração ao Chat GPT"
+  },
+  {
+    "full_name": "PlexPt/chatgpt-java",
+    "name": "chatgpt-java",
+    "description": "ChatGPT Java SDK。支持 GPT-4o、 GPT4 API。开箱即用。An unofficial Java SDK for seamless integration with ChatGPT's GPT-3.5 and GPT-4 APIs. Ready-to-use, simple setup, and efficient for building AI-powered applications."
+  },
+  {
+    "full_name": "nwrn/java-apache-openai",
+    "name": "java-apache-openai",
+    "description": "Programa em Java para consumir a API da Open AI. No código está fazendo um POST para o modelo 'text-davinci-003'"
+  },
+  {
+    "full_name": "DamianRavinduPeiris/ChatGPT-CLI",
+    "name": "ChatGPT-CLI",
+    "description": "A simple Java-CLI  based ChatGPT client built on top of the OpenAI's gpt-3 API."
+  },
+  {
+    "full_name": "LuckyBian/Academic-Search-Engines",
+    "name": "Academic-Search-Engines",
+    "description": "IntellectSeeker tackles the challenges of overwhelming academic literature and ineffective searches by integrating an LLM-based bot and probabilistic model to personalize and refine results. It fine-tunes GPT-3.5-turbo to convert everyday language into academic terms, especially helping newcomers. "
+  },
+  {
+    "full_name": "tencentmusic/supersonic",
+    "name": "supersonic",
+    "description": "SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms."
+  },
+  {
+    "full_name": "linyours/chatgpt-java-web",
+    "name": "chatgpt-java-web",
+    "description": "chatgpt-java-web 开源项目"
+  },
+  {
+    "full_name": "CaSkade-Automation/LLM4Cap",
+    "name": "LLM4Cap",
+    "description": "Method for the automated generation of capability ontologies with LLMs and the verification of the results. "
+  },
+  {
+    "full_name": "zhiyongzhao/ChatGPT-JueJin-Java",
+    "name": "ChatGPT-JueJin-Java",
+    "description": "ChatGPT-JueJin是一款基于ChatGPT的web应用聊天软件，本项目为ChatGPT-JueJin应用的Java后端"
+  },
+  {
+    "full_name": "sivaprasadreddy/langchain4j-demos",
+    "name": "langchain4j-demos",
+    "description": "LangChain4j demos"
+  },
+  {
+    "full_name": "Lambdua/openai4j",
+    "name": "openai4j",
+    "description": "Java client library for OpenAI API.Full support for all OpenAI API models including Completions, Chat, Edits, Embeddings, Audio, Files, Assistants-v2, Images, Moderations, Batch, and Fine-tuning."
+  },
+  {
+    "full_name": "Qing-JiuJiu/ChatGPT-TelegramBot",
+    "name": "ChatGPT-TelegramBot",
+    "description": "使用 TelegramBot Api 与 ChatGPT3.5 Api 实现在 Telegram 聊天软件里与 ChatGPT AI 对话"
+  },
+  {
+    "full_name": "Valkryst/Valerie",
+    "name": "Valerie",
+    "description": " Valerie is a customizable chat interface for OpenAI's ChatGPT. It allows users to create named personalities for tailored interactions, supports code formatting, and offers voice-to-text and text-to-speech features."
+  },
+  {
+    "full_name": "thi4go-git/chat-gpt-quarkus",
+    "name": "chat-gpt-quarkus",
+    "description": "chat-gpt-quarkus"
+  },
+  {
+    "full_name": "TONY-STARK-TECH-ORG/fastx-ai-llm",
+    "name": "fastx-ai-llm",
+    "description": "rag llm system for fastx ai"
+  },
+  {
+    "full_name": "vigneshsaravanakumar404/Text-Messaging-App",
+    "name": "Text-Messaging-App",
+    "description": "Simple text messaging app with ChatGPT integration to directly chat with OpenAI's language models"
+  },
+  {
+    "full_name": "suimz/chatgpt-web-java",
+    "name": "chatgpt-web-java",
+    "description": "基于 Spring Boot 搭建的 ChatGPT 聊天网站项目，支持 Docker 快速部署"
+  },
+  {
+    "full_name": "rohan221102/comicGPT",
+    "name": "comicGPT",
+    "description": "This project is a Java application that generates comic strips using the power of GPT-3.5. Built with an Agile methodology, the app leverages the GPT API to create engaging and dynamic comic stories."
+  },
+  {
+    "full_name": "s0571584/recipeCreator",
+    "name": "recipeCreator",
+    "description": "Eine App, die Rezepte erstellen kann mithilfe von OpenAI's gpt 3.5 turbo"
+  },
+  {
+    "full_name": "pannous/jini-plugin",
+    "name": "jini-plugin",
+    "description": "Copilot X like features for Jetbrains IDEs using ChatGpt and GPT-4"
+  },
+  {
+    "full_name": "nxin-github/athena-chatGPT-service",
+    "name": "athena-chatGPT-service",
+    "description": "简单、门槛低、内存占用低，支持团队共享ChatGPT账号。轻松体会ChatGPT的魅力——服务端"
+  },
+  {
+    "full_name": "tarekmues/openai-assistant-sdk",
+    "name": "openai-assistant-sdk",
+    "description": null
+  },
+  {
+    "full_name": "groundcat/Translator",
+    "name": "Translator",
+    "description": "A simple Java Swing GUI of translation tool, supports OpenAI GPT, DeepL, Google Cloud Translate"
+  },
+  {
+    "full_name": "Walter-Stroebel/Jllama",
+    "name": "Jllama",
+    "description": "Java support for the fantastic Ollama project"
+  },
+  {
+    "full_name": "audreycj/unit-test-generator",
+    "name": "unit-test-generator",
+    "description": "CLI unit test generator that uses OpenAI API. Built using Spring Boot, Picocli, and GraalVM native-image."
+  },
+  {
+    "full_name": "linux-china/chatgpt-spring-boot-starter",
+    "name": "chatgpt-spring-boot-starter",
+    "description": "Spring Boot ChatGPT Starter"
+  },
+  {
+    "full_name": "llmjava/llm4j",
+    "name": "llm4j",
+    "description": "One API to access Large Language Models in Java"
+  },
+  {
+    "full_name": "AndresFelipe23/chatgpt-liemav",
+    "name": "chatgpt-liemav",
+    "description": "Proyecto realizado en la electiva de ciencia de datos de la universidad de cordoba."
+  },
+  {
+    "full_name": "x136931283/tian-chatgpt-api",
+    "name": "tian-chatgpt-api",
+    "description": "简单的chatgpt-api接口调用，无需任何配置，启动即用"
+  },
+  {
+    "full_name": "poncema4/OpenAI-API",
+    "name": "OpenAI-API",
+    "description": "Get the latest discussion post and respond accordingly to the prompt using OpenAI API and Canvas Token"
+  },
+  {
+    "full_name": "stq957023588/chat-gpt-mirai-console-plugin",
+    "name": "chat-gpt-mirai-console-plugin",
+    "description": "基于mirai的ChatGPT插件"
+  },
+  {
+    "full_name": "artemnefedov/JavaAI",
+    "name": "JavaAI",
+    "description": "Lightweight Java library to interact with the OpenAI API (GPT, DALL-E, TTS, etc.)"
+  },
+  {
+    "full_name": "JamieM0/structured-outputs",
+    "name": "structured-outputs",
+    "description": "Java implementation of the OpenAI API structured outputs"
+  },
+  {
+    "full_name": "ai-versum/ai-versum",
+    "name": "ai-versum",
+    "description": "The chat to communicate with either offline or online models like Ollama, ChatGPT, VertexAI, Claude, Gemini, etc. "
+  },
+  {
+    "full_name": "GuyBernstein/Game-Image-LessonPlan-AIGeneration",
+    "name": "Game-Image-LessonPlan-AIGeneration",
+    "description": "A web application for special education teachers to store and manage teaching resources including painting pages, games and lesson plans. content is made by AI text and image generation by chatgpt."
+  },
+  {
+    "full_name": "dadiakonov/telegram-bot-gpt",
+    "name": "telegram-bot-gpt",
+    "description": "Telegram Bot Demo with OpenAI GPT Integration"
+  },
+  {
+    "full_name": "DennyM55/openai-python-java-lab",
+    "name": "openai-python-java-lab",
+    "description": null
+  },
+  {
+    "full_name": "pablogzalez/OpenAI-API-Java-Request",
+    "name": "OpenAI-API-Java-Request",
+    "description": "This repository demonstrates how to interact with OpenAI's API using a Java test class, OpenAIRequesterTest"
+  },
+  {
+    "full_name": "quarkiverse/quarkus-langchain4j",
+    "name": "quarkus-langchain4j",
+    "description": "Quarkus Langchain4j extension"
+  },
+  {
+    "full_name": "ekantchandrakar/vectordb",
+    "name": "vectordb",
+    "description": "A simple vector database for RAG applications"
+  },
+  {
+    "full_name": "roumaysae/Recommendation-systemOfFood",
+    "name": "Recommendation-systemOfFood",
+    "description": "A Desktop application of meals recommandation system with OpenAI"
+  },
+  {
+    "full_name": "fb71/ragtime",
+    "name": "ragtime",
+    "description": "New plans, new horizons :)"
+  },
+  {
+    "full_name": "wzm66666/chatGPT-API",
+    "name": "chatGPT-API",
+    "description": "CHATGPT AI 问答助手"
+  },
+  {
+    "full_name": "VerisimilitudeX/NuanceGPT",
+    "name": "NuanceGPT",
+    "description": "NuanceGPT is a state-of-the-art product that leverages the powerful GPT-4o and Claude Sonnet 3.5 API to take your ChatGPT and DALLE-3 prompts to the next level!"
+  },
+  {
+    "full_name": "AeolusJack/ChatGPT-Server",
+    "name": "ChatGPT-Server",
+    "description": "Provides various functions of the ChatGPT, including authentication and login, by exposing interfaces."
+  },
+  {
+    "full_name": "wishpath/ai-client",
+    "name": "ai-client",
+    "description": "Simple OpenAi API client class. Ask string question - get string answer."
+  },
+  {
+    "full_name": "kon0di0da/ChatGPT-SDK",
+    "name": "ChatGPT-SDK",
+    "description": "孙雨ChatGPT-SDK实现"
+  },
+  {
+    "full_name": "anuragjatofficial/code-pulse",
+    "name": "code-pulse",
+    "description": "CodePulse, AI Interview Platform. Practice with AI-driven simulations tailored to your skills and industry. Get instant feedback and performance insights to refine your approach. "
+  },
+  {
+    "full_name": "a616567126/GPT-WEB-JAVA",
+    "name": "GPT-WEB-JAVA",
+    "description": "基于JDK8 AI 聊天机器人！微信公众号 Midjourney画图、卡密兑换、web 支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥"
+  },
+  {
+    "full_name": "ivermektin/caledonia",
+    "name": "caledonia",
+    "description": "Caledonia is a Java-based open-source tool designed to allow end users to aggregate notes and then interrogate them for insights using the power of OpenAI’s GPT model."
+  },
+  {
+    "full_name": "DereWah/Skript-GPT",
+    "name": "Skript-GPT",
+    "description": "A Skript Addon that allows users to interface with the OpenAI API and lets them send completion requests."
+  },
+  {
+    "full_name": "Qoumis/GPT-LODs-Spring_API",
+    "name": "GPT-LODs-Spring_API",
+    "description": "Rest API for remote use of GPT-LODS+"
+  },
+  {
+    "full_name": "pkini2002/ChatGPT-App",
+    "name": "ChatGPT-App",
+    "description": "A simple ChatGPT app built using OpenAI API using Java for the backend and OkHttp library for creating HTTP requests"
+  },
+  {
+    "full_name": "virat122/My_GPT-Generative-Pre-trained-Transformer",
+    "name": "My_GPT-Generative-Pre-trained-Transformer",
+    "description": "final"
+  },
+  {
+    "full_name": "coderabbit214/bibliothecarius",
+    "name": "bibliothecarius",
+    "description": "Quickly build services to integrate your local data and AI models."
+  },
+  {
+    "full_name": "jukofyork/aiassistant",
+    "name": "aiassistant",
+    "description": "An Eclipse IDE plugin that uses OpenAI compatible API."
+  },
+  {
+    "full_name": "my-fastcms/nexfly",
+    "name": "nexfly",
+    "description": "Nexfly是一款深度整合Spring-Ai框架构建的微服务开源项目，拥有RAG，以及AI编排等功能，旨在简化包含人工智能功能的应用程序的开发，避免不必要的复杂性，让企业接入ai能力变得更加容易"
+  },
+  {
+    "full_name": "omarkashour/ComputerScienceAssistant",
+    "name": "ComputerScienceAssistant",
+    "description": "An Assistant application for Birzeit University students that contains all the students needs for the major, Plus an integrated ai assistant powered by gpt-3.5-turbo."
+  },
+  {
+    "full_name": "botirk38/fact-checker",
+    "name": "fact-checker",
+    "description": "TruthLens is a cutting-edge video analysis platform that leverages artificial intelligence to scrutinize claims made in video content, providing a comprehensive fact-checking and content categorization solution."
+  },
+  {
+    "full_name": "GregorGolen/adoptpetLLMusage",
+    "name": "adoptpetLLMusage",
+    "description": "Example of POC for hyper declarative programming paradigm. In this simple app business logic (in this case reduced to service) is generated ad hoc by AI and dynamically executed in the runtime."
+  },
+  {
+    "full_name": "miladhub/chat-ai",
+    "name": "chat-ai",
+    "description": "Example of using a conversational AI with embeddings with Java"
+  },
+  {
+    "full_name": "ImethP2/archie-chatbot",
+    "name": "archie-chatbot",
+    "description": "chatbot app for android powered by chatgpt"
+  },
+  {
+    "full_name": "cupybara/java-langchains",
+    "name": "java-langchains",
+    "description": "A Java 8+ LangChain implementation. Build powerful LLM based applications in an (enterprise) Java context."
+  },
+  {
+    "full_name": "zhao458114067/gpt-wechat",
+    "name": "gpt-wechat",
+    "description": "公众号接入chatGPT,只需要有公众账号、chatGPT账号、通过配置启动，开箱即用。 token计算，自动组合聊天上下文。天气预报/天气预警推送功能"
+  },
+  {
+    "full_name": "PastKing/ChatGPT-Android",
+    "name": "ChatGPT-Android",
+    "description": "基于Android Studio的ChatGPT服务"
+  },
+  {
+    "full_name": "hkh1012/langboot",
+    "name": "langboot",
+    "description": "Using Langchain's ideas to build SpringBoot AI applications   |  用langchain的思想，构建SpringBoot AI应用"
+  },
+  {
+    "full_name": "zhangyunan1994/ChattyAI",
+    "name": "ChattyAI",
+    "description": "This project is a ChatGPT UI system that utilizes OpenAI to provide a chatbot service with user management, billing, and sensitive word filtering. The system has a simple and user-friendly interface and is cloud-based for secure and stable operation globally."
+  },
+  {
+    "full_name": "SirBento/AskBento",
+    "name": "AskBento",
+    "description": "An OpenAI chatting Application"
+  },
+  {
+    "full_name": "dddadan/chat-gpt-wechat",
+    "name": "chat-gpt-wechat",
+    "description": "chatgpt微信聊天小程序。java编写服务器，实现chatgpt接口的调用，微信小程序用于聊天。二者基于webSocket进行通信"
+  },
+  {
+    "full_name": "shenyubao/javachain",
+    "name": "javachain",
+    "description": "JavaChain 用于快速搭建LLM应用，参考了 LangChain 的架构设计，基于Java8实现。"
+  },
+  {
+    "full_name": "bigboxer23/meural-control",
+    "name": "meural-control",
+    "description": "Push content to a Meural display from sources not supported by the official software. Supported sources include OpenAI TextCompletion (Dall-e 3), OpenAI ChatGPT (Dall-e 3), a Google Photos Album, James Webb Space Telescope, or an external URL."
+  },
+  {
+    "full_name": "lrbmike/java-ai-sdk",
+    "name": "java-ai-sdk",
+    "description": "AI APIs SDK for JAVA. Provide an easy way to improve development. Support Google Gemini, OpenAi, Ollama"
+  },
+  {
+    "full_name": "didalgolab/chatgpt-intellij-plugin",
+    "name": "chatgpt-intellij-plugin",
+    "description": "Yet another JetBrains extension that enables you to use ChatGPT within your favorite IDE."
+  },
+  {
+    "full_name": "Qoumis/GPT-LODs_plus",
+    "name": "GPT-LODs_plus",
+    "description": "A Chat Application for Enriching and Validating  ChatGPT Responses through Knowledge Graphs"
+  },
+  {
+    "full_name": "Venkat2552004/MiniGPT",
+    "name": "MiniGPT",
+    "description": "MiniGPT is a Chatbot that uses the powerful Gemini for text generation using given input prompts"
+  },
+  {
+    "full_name": "Flashify-Inc/Flashify",
+    "name": "Flashify",
+    "description": "Flashcard learning tool leveraging AI for rapid flashcard generation"
+  },
+  {
+    "full_name": "BR184/ChatGPT-Vue-Springboot",
+    "name": "ChatGPT-Vue-Springboot",
+    "description": "基于Spring Boot + Redis + ChatGPT + Spring Security 的 GPT 个性化助理平台。用户可以自定义或共享 GPT 的 Prompt 等参数，获得更加个性化的服务。并可创建并保留多条对话记录，实时显示剩余对话Token等。"
+  },
+  {
+    "full_name": "devlive-community/openai-java-sdk",
+    "name": "openai-java-sdk",
+    "description": "Provides an easy-to-use SDK for Java developers to interact with the APIs of open AI models."
+  },
+  {
+    "full_name": "lazzy07/llm_as_np_heuristic",
+    "name": "llm_as_np_heuristic",
+    "description": null
+  },
+  {
+    "full_name": "FatihEmin48/OpenAI-Image-Generation-App",
+    "name": "OpenAI-Image-Generation-App",
+    "description": "Image Generator App"
+  },
+  {
+    "full_name": "leonid20000/OdinRunes",
+    "name": "OdinRunes",
+    "description": "Odin Runes, a java-based GPT client, facilitates interaction with your preferred GPT model right through your favorite text editor. There is more: It also facilitates prompt-engineering by extracting context from diverse sources using technologies such as OCR, enhancing overall productivity and saving costs."
+  },
+  {
+    "full_name": "U109/z-chatgpt-data",
+    "name": "z-chatgpt-data",
+    "description": "Chatgpt套壳程序后端实现"
+  },
+  {
+    "full_name": "rohanworld/Snapify",
+    "name": "Snapify",
+    "description": "Text-to-Image Conversion Android App based on OpenAI's Dall-E API"
+  },
+  {
+    "full_name": "MatanelM/ApplicationModerationModule",
+    "name": "ApplicationModerationModule",
+    "description": "Android java module for messages moderation using openai moderation api"
+  },
+  {
+    "full_name": "KhaledElshokri/Slouch-Patrol",
+    "name": "Slouch-Patrol",
+    "description": "A wearable device to monitor slouching by providing the user with a real-time score by leveraging IMUs for data collection."
+  },
+  {
+    "full_name": "lutencjusz/SimpleNeuralNetwork",
+    "name": "SimpleNeuralNetwork",
+    "description": "SimpleNeuralNetwork"
+  },
+  {
+    "full_name": "lemonguge/autogen4j",
+    "name": "autogen4j",
+    "description": "Design inspired by Microsoft's AutoGen. 设计灵感源自微软的 AutoGen，除了传统的 Single-Agent 模式，引入了 Multi-Agent 协作解决复杂的问题。对于 Java 开发者而言，助力你探索不同的应用场景和业务需求。"
+  },
+  {
+    "full_name": "itlemon/chatgpt4j",
+    "name": "chatgpt4j",
+    "description": "chatgpt4j 是一个用于访问 ChatGPT API 的 Java 客户端库，支持 OpenAI 全部的接口，几行代码就可以帮助用户实现将 ChatGPT 快速接入到自己的项目中。"
+  },
+  {
+    "full_name": "liaocatcat/openai-spring-sse",
+    "name": "openai-spring-sse",
+    "description": "chatgpt-java,sse输出，需要配合前端使用"
+  },
+  {
+    "full_name": "paulparkinson/ai-and-oracle-for-good",
+    "name": "ai-and-oracle-for-good",
+    "description": "Developing with OpenAI, Hugging Face, and Oracle Database and AI Services (Use Cases for the Better Good)"
+  },
+  {
+    "full_name": "profiq/docgen",
+    "name": "docgen",
+    "description": "IntelliJ plugin to generate Python documentation using OpenAI's GPT model"
+  },
+  {
+    "full_name": "Frinkles/ChatGPT-Android",
+    "name": "ChatGPT-Android",
+    "description": "An android integration of ChatGPT and DALLE"
+  },
+  {
+    "full_name": "super6wenzi/chatgpt-aidoc",
+    "name": "chatgpt-aidoc",
+    "description": "OpenAI chatGPT 微信小程序 大型预训练语言模型 A weChat based on OpenAI API (gpt-3.5-turbo) GPT-4，AI营销助手，chatgpt3.5，chatgpt4，人工智能细化落地"
+  },
+  {
+    "full_name": "infott2t/JavaSwingChatGpt",
+    "name": "JavaSwingChatGpt",
+    "description": "자바 스윙에서 구현한 ChatGPT입니다. OpenAI의 API Key가 필요합니다."
+  },
+  {
+    "full_name": "Skythinker616/gpt-assistant-android",
+    "name": "gpt-assistant-android",
+    "description": "免费的ChatGPT API的安卓语音助手，可用音量键唤起并进行语音交流，支持联网、Vision拍照识图、提问模板等功能 | A free ChatGPT API voice assistant for Android, activated via volume keys for voice interaction, supporting features such as network connectivity, Vision photo recognition, and question templates."
+  },
+  {
+    "full_name": "auzpatwary37/matsim_llm_plugins",
+    "name": "matsim_llm_plugins",
+    "description": "The goal of this project is to write plugins for connecting large language model (LLM) agents to MATSim."
+  },
+  {
+    "full_name": "UwUTastisch/JavaBeth",
+    "name": "JavaBeth",
+    "description": "This is a LLM-DiscordBot, that can write with users in Specific Channles."
+  },
+  {
+    "full_name": "persistencelkg/GPT-UnitTest-Plugin",
+    "name": "GPT-UnitTest-Plugin",
+    "description": "基于GPT的单元测试用例插件"
+  },
+  {
+    "full_name": "TarunSingh2002/Tell-tale",
+    "name": "Tell-tale",
+    "description": "The Tell Tale App is a native application designed to provide customizable and engaging bedtime stories for children. By leveraging the ChatGPT API, Java backend, and XML for design, this app offers a seamless and enjoyable experience for both parents and children alike."
+  },
+  {
+    "full_name": "VerisimilitudeX/TaxGPT",
+    "name": "TaxGPT",
+    "description": "Say goodbye to the hassle of tax season with TaxGPT, the GPT-4-Vision powered AI tax assistant that helps you navigate the complex world of taxation with ease and precision."
+  },
+  {
+    "full_name": "TheSittingCat/belief_enhanced_diarc",
+    "name": "belief_enhanced_diarc",
+    "description": "This is the repository for the implementation of Diarc with an LLM as the belief maintainer. "
+  },
+  {
+    "full_name": "feddericovonwernich/spring-ai-function-calling-service",
+    "name": "spring-ai-function-calling-service",
+    "description": "Utility library that configures a service that can process user input and call annotated methods using an OpenIA model."
+  },
+  {
+    "full_name": "ai-for-java/openai4j",
+    "name": "openai4j",
+    "description": "Java client library for OpenAI API"
+  },
+  {
+    "full_name": "isliudong/GPT-copilot-plugin",
+    "name": "GPT-copilot-plugin",
+    "description": "GPT plugin for IntelliJIDEA"
+  },
+  {
+    "full_name": "Emirateyang/llm-agent",
+    "name": "llm-agent",
+    "description": null
+  },
+  {
+    "full_name": "shican1234/chatgpt-java-uniapp",
+    "name": "chatgpt-java-uniapp",
+    "description": "java开发的chatgpt小程序  前端使用uniapp,可打包多端运行,APP,H5,公众号,小程序等 ,三级分销,卡密充值,提供opai的反向代理,支持WEB端，SD绘画等AI绘画功能。基础的CHATPDF阅读功能，MarkDown语法，代码高亮，表格格式化等。"
+  },
+  {
+    "full_name": "Pragadhesh/RoamingKitchen-Bunnyshell",
+    "name": "RoamingKitchen-Bunnyshell",
+    "description": "Roaming Kitchen application"
+  },
+  {
+    "full_name": "Achaljs/AskMe",
+    "name": "AskMe",
+    "description": "your Own AI Assistant Jenny, She can do lots of amazing things , she is powered by openAI"
+  },
+  {
+    "full_name": "quaziii/LSLLM",
+    "name": "LSLLM",
+    "description": null
+  },
+  {
+    "full_name": "ManithLD/GameOn-AndroidApp",
+    "name": "GameOn-AndroidApp",
+    "description": "Personal project: fullstack android app. Designed to help and encourage users to be healthier."
+  },
+  {
+    "full_name": "Starcloud-Cloud/java-langchain",
+    "name": "java-langchain",
+    "description": "一个Java 8+的LangChain实现。在(企业)Java环境中构建强大的基于LLM的应用程序。附带详细的Java入门的LLM学习课程"
+  },
+  {
+    "full_name": "Nasdanika/retrieval-augmented-generation",
+    "name": "retrieval-augmented-generation",
+    "description": "RAG in Java"
+  },
+  {
+    "full_name": "DerikZhang/SkyCode",
+    "name": "SkyCode",
+    "description": "JetBrain plugin for connecting openai gpt api"
+  },
+  {
+    "full_name": "ronojoyb23/course-builder-lite",
+    "name": "course-builder-lite",
+    "description": "demo code for coursebuilder using whisper API/OpenAI Chat GPT"
+  },
+  {
+    "full_name": "maartenn/chess-chatgpt-images",
+    "name": "chess-chatgpt-images",
+    "description": "project to play chess on chess.com with chatgpt using screenshots of the board"
+  },
+  {
+    "full_name": "RahulVanchate008/digital-library-backend",
+    "name": "digital-library-backend",
+    "description": "Digital Library using Elasticsearch and OpenAI Chatbot:"
+  },
+  {
+    "full_name": "supratim-coder/AndroidAppWithChatbot",
+    "name": "AndroidAppWithChatbot",
+    "description": "This is an Android Application developed on Android studio with Java language. It is integrated with Gemini 1.5 flash API model which acts as an AI chatbot"
+  },
+  {
+    "full_name": "ilenhanako/Gobble",
+    "name": "Gobble",
+    "description": "Developed a native Android app that centralizes reviews from other platforms, and utilizes Generative AI, ChatGPT’s LLM to give restaurant recommendations based on user preferences and the restaurants’ profiles."
+  },
+  {
+    "full_name": "icecoins/ChatGPT_Server",
+    "name": "ChatGPT_Server",
+    "description": "使用springboot+websocket与APP进行即时通讯，中转 https://api.openai.com 的流量"
+  },
+  {
+    "full_name": "jpr-devx/PeopleCodeOpenAI_Extension",
+    "name": "PeopleCodeOpenAI_Extension",
+    "description": "Repo solely for the extension of Dr. David Wolber's (University of San Francisco, CS514) PeopleCodeOpenAI library"
+  },
+  {
+    "full_name": "langchain4j/langchain4j",
+    "name": "langchain4j",
+    "description": "Java version of LangChain"
+  },
+  {
+    "full_name": "shixiangcap/llama-pinyinIME",
+    "name": "llama-pinyinIME",
+    "description": "Android Pinyin IME for port of Facebook's LLaMA model in C/C++"
+  },
+  {
+    "full_name": "vacuityv/ai-java-sdk",
+    "name": "ai-java-sdk",
+    "description": "java sdk for ai apis. Support claude ai and google gemini and part of openai (chatgpt). 支持chatgpt/gemini/claude的java sdk。"
+  },
+  {
+    "full_name": "icecoins/ChatGPT_Android",
+    "name": "ChatGPT_Android",
+    "description": "an android demo to use openai's api  / 一个调用openai接口实现与ChatGPT对话的APP示例"
+  },
+  {
+    "full_name": "tinystruct/smalltalk",
+    "name": "smalltalk",
+    "description": "A tinystruct-based chat module which integrated with @OpenAI GPT-4 / 3.5-turbo / ChatGPT. @tinystruct"
+  },
+  {
+    "full_name": "abdummm/Artificial-Network-Based-Video-Engine",
+    "name": "Artificial-Network-Based-Video-Engine",
+    "description": "This Java-based application leverages JavaFX and the OpenAI API to transform text prompts into customizable videos. Key features include the ability to add and sync audio, edit individual frames, adjust aspect ratios, and modify text attributes such as font size and color."
+  },
+  {
+    "full_name": "richeeta/AIAuditor",
+    "name": "AIAuditor",
+    "description": "Lightweight BApp that seamlessly integrates powerful LLM-scanning capabilities into Burp's built-in Scanner with improved accuracy. Supports the latest LLMs from OpenAI (gpt-4o, o1), Anthropic (Claude 3.5, Claude 3), and Google (Gemini 1.5). Requires valid API key(s) and an active Burp Suite Pro or Enterprise license."
+  },
+  {
+    "full_name": "GGGuYu/voice_GPT_APP_with_memo",
+    "name": "voice_GPT_APP_with_memo",
+    "description": "中文GPT语音助手安卓APP，有短期的记忆系统，主要负责聊天，需要使用OPENAIkey"
+  },
+  {
+    "full_name": "ainoya/openai-java-generated-client",
+    "name": "openai-java-generated-client",
+    "description": "Java client library for OpenAI API, generated using openai-generator with modifications to the official spec for error-free generation and functionality"
+  }
+]

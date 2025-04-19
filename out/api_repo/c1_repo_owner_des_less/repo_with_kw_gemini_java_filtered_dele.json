@@ -1,0 +1,122 @@
+[
+  {
+    "full_name": "fuzhengwei/openai-sdk-java",
+    "name": "openai-sdk-java",
+    "description": "星球开源共建项目 《OpenAI SDK》 统一大模型标准化对接的技术组件项目，此项目以解决实际市面上的场景为诉求，将 OpenAI、Claude、PalM、文心一言、通义千问、讯飞星火、智谱 ChatGLM、腾讯混元等这些大模型做一个统一的 SDK 对接组件。"
+  },
+  {
+    "full_name": "Lunatix01/ragscan",
+    "name": "ragscan",
+    "description": "Simple CLI RAG scanner"
+  },
+  {
+    "full_name": "Suhas-Koheda/Gemini_Java_Wrapper",
+    "name": "Gemini_Java_Wrapper",
+    "description": null
+  },
+  {
+    "full_name": "AlvesBenvindo/ChatBox",
+    "name": "ChatBox",
+    "description": "Pequeno chat feito em JAVA integrado com Gemini"
+  },
+  {
+    "full_name": "IvanSJr/spring-integration-gemini",
+    "name": "spring-integration-gemini",
+    "description": "Integração do Spring Boot com o Gemini"
+  },
+  {
+    "full_name": "sam253narula/spring-boot-gemini",
+    "name": "spring-boot-gemini",
+    "description": "Spring Boot gemini integration project"
+  },
+  {
+    "full_name": "devlive-community/openai-java-sdk",
+    "name": "openai-java-sdk",
+    "description": "Provides an easy-to-use SDK for Java developers to interact with the APIs of open AI models."
+  },
+  {
+    "full_name": "valdineisaugo/java-google-gemini",
+    "name": "java-google-gemini",
+    "description": null
+  },
+  {
+    "full_name": "quochung-cyou/GGStudy",
+    "name": "GGStudy",
+    "description": "GGStudy is a smart learning platform that uses artificial intelligence (AI), specifically Gemini, to create customized learning slides, facilitating efficient and accessible learning through a structured roadmap and continuous interaction."
+  },
+  {
+    "full_name": "Abduazizxon11/Gemini-AI-telegram-bot",
+    "name": "Gemini-AI-telegram-bot",
+    "description": null
+  },
+  {
+    "full_name": "ai-versum/ai-versum",
+    "name": "ai-versum",
+    "description": "The chat to communicate with either offline or online models like Ollama, ChatGPT, VertexAI, Claude, Gemini, etc. "
+  },
+  {
+    "full_name": "04aks/gemini-sdk",
+    "name": "gemini-sdk",
+    "description": null
+  },
+  {
+    "full_name": "langchain4j/langchain4j",
+    "name": "langchain4j",
+    "description": "Java version of LangChain"
+  },
+  {
+    "full_name": "ramide1/mcgemini",
+    "name": "mcgemini",
+    "description": "A Minecraft Google Gemini bridge for interacting with Spigot server"
+  },
+  {
+    "full_name": "chandan789maity/LLM-using-Spring-boot",
+    "name": "LLM-using-Spring-boot",
+    "description": "We are developing a LLM based Chatbot using Spring boot, Typescript  etc."
+  },
+  {
+    "full_name": "st0rm1O1/Gemini-API",
+    "name": "Gemini-API",
+    "description": "Java example demonstrating how to use the `GeminiAPI` to generate text responses based on a given prompt."
+  },
+  {
+    "full_name": "Praveen-Tankala/BuildAndBlogMarathon",
+    "name": "BuildAndBlogMarathon",
+    "description": "Smart Storage Software with Gemini AI"
+  },
+  {
+    "full_name": "zhangjh/gemini_sdk",
+    "name": "gemini_sdk",
+    "description": "Google gemini api's java implement"
+  },
+  {
+    "full_name": "lrbmike/java-ai-sdk",
+    "name": "java-ai-sdk",
+    "description": "AI APIs SDK for JAVA. Provide an easy way to improve development. Support Google Gemini, OpenAi, Ollama"
+  },
+  {
+    "full_name": "mdaconta/xlm-eco-api",
+    "name": "xlm-eco-api",
+    "description": "Cross Language Model (LLM/SLM/etc.) Ecosystem API (xlm-eco-api)"
+  },
+  {
+    "full_name": "michael-ameri/gemini-api",
+    "name": "gemini-api",
+    "description": "Java library for gemini api"
+  },
+  {
+    "full_name": "didalgolab/spring-ai-gemini",
+    "name": "spring-ai-gemini",
+    "description": "Spring AI compatible Gemini API provider"
+  },
+  {
+    "full_name": "richeeta/AIAuditor",
+    "name": "AIAuditor",
+    "description": "Lightweight BApp that seamlessly integrates powerful LLM-scanning capabilities into Burp's built-in Scanner with improved accuracy. Supports the latest LLMs from OpenAI (gpt-4o, o1), Anthropic (Claude 3.5, Claude 3), and Google (Gemini 1.5). Requires valid API key(s) and an active Burp Suite Pro or Enterprise license."
+  },
+  {
+    "full_name": "flyun/chatAir",
+    "name": "chatAir",
+    "description": "☁️A native Android app for ChatGPT, Gemini, and Claude ☁️ChatGPT、Gemini 和 Claude 的原生安卓应用程序"
+  }
+]

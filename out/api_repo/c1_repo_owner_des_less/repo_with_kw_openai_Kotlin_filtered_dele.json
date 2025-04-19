@@ -1,0 +1,277 @@
+[
+  {
+    "full_name": "LeeEunjeong1/GPTalk",
+    "name": "GPTalk",
+    "description": "Used GPT-3 API"
+  },
+  {
+    "full_name": "Enso-Soft/GPT-Chat",
+    "name": "GPT-Chat",
+    "description": "GPT API를 이용한 Chat Bot "
+  },
+  {
+    "full_name": "moallemi/ChatGPT-basic-android-client",
+    "name": "ChatGPT-basic-android-client",
+    "description": "Source code for the ChatGPT Basic Android Client app on YouTube"
+  },
+  {
+    "full_name": "Nuvalence/data-gpt",
+    "name": "data-gpt",
+    "description": "Using OpenAI / GPT-3 to crunch data"
+  },
+  {
+    "full_name": "Tejas-Pandule/TalkGenie",
+    "name": "TalkGenie",
+    "description": "Talk Genie- OpenAI-based Chatbot Android Application"
+  },
+  {
+    "full_name": "achrafhammi/TP-GPT-ANDROID",
+    "name": "TP-GPT-ANDROID",
+    "description": "Ce TP consiste d'une application mobile qui est une chat avec le modele de OpenAI GPT 3.5"
+  },
+  {
+    "full_name": "0bera1/ArtificialIntelligenceAssistant-App-Chat-GPT3-Technology",
+    "name": "ArtificialIntelligenceAssistant-App-Chat-GPT3-Technology",
+    "description": "Chat with artificial intelligence or obtain any photo or drawing you want from artificial intelligence. Utilized Kotlin and the OpenAI API. "
+  },
+  {
+    "full_name": "muratozturk5/OpenAI-Dall-E-2",
+    "name": "OpenAI-Dall-E-2",
+    "description": "Kotlin DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language."
+  },
+  {
+    "full_name": "mhasancse15/OpenAI-Dall-E",
+    "name": "OpenAI-Dall-E",
+    "description": "OpenAI Dall•E Application Build With Kotlin MVVM (Model - View - ViewModel) Clean Architecture, Beautiful Design UI, Smooth Animations Using Tools And Components Supported By Google And By Most Of The Android Development Community"
+  },
+  {
+    "full_name": "YassinMk/ChatAi-Mobile",
+    "name": "ChatAi-Mobile",
+    "description": "Mobile application for conversing with ChatGPT"
+  },
+  {
+    "full_name": "akifisitan/MobiGPT",
+    "name": "MobiGPT",
+    "description": "Android App consuming the OpenAI Chat API"
+  },
+  {
+    "full_name": "zjh7890/gpt-tools",
+    "name": "gpt-tools",
+    "description": null
+  },
+  {
+    "full_name": "babogoos/PodcastToLearn",
+    "name": "PodcastToLearn",
+    "description": "A podcast player for helping people learn language by listening daily news with AI powered Large Language Models service."
+  },
+  {
+    "full_name": "TWJessieChen/Android-ChatGPT-API-Example",
+    "name": "Android-ChatGPT-API-Example",
+    "description": "Android ChatGPT API Example"
+  },
+  {
+    "full_name": "nohjunh/ChatGPTAndroid",
+    "name": "ChatGPTAndroid",
+    "description": "OpenAI ChatGPT for Android"
+  },
+  {
+    "full_name": "cssxsh/mirai-openai-plugin",
+    "name": "mirai-openai-plugin",
+    "description": "Mirai Console OpenAI ChatBot 插件"
+  },
+  {
+    "full_name": "CJCrafter/ChatGPT-Java-API",
+    "name": "ChatGPT-Java-API",
+    "description": "Unofficial Java API supporting Chat, Assistants, and more!"
+  },
+  {
+    "full_name": "DeimosHall/OpenAI-API-Kotlin",
+    "name": "OpenAI-API-Kotlin",
+    "description": "API to use GPT from OpenAI"
+  },
+  {
+    "full_name": "sunnywalden/intellij-thirdparty-chatgpt-plugin",
+    "name": "intellij-thirdparty-chatgpt-plugin",
+    "description": "thirdparty chatgpt plugin for intellij platform"
+  },
+  {
+    "full_name": "sectlying/BotGPT",
+    "name": "BotGPT",
+    "description": "对接OpenAI ChatGPT API提供私聊、群聊AI对话的Mirai Console插件(QQ机器人)"
+  },
+  {
+    "full_name": "SeptiawanAjiP/ChatGPT-DiaLoGue",
+    "name": "ChatGPT-DiaLoGue",
+    "description": "🤖 Your AI-Based Virtual English Tutor"
+  },
+  {
+    "full_name": "uyqn/gipt",
+    "name": "gipt",
+    "description": "GIPT is a script that writes your conventional commit messages for you, using OPENAI's API."
+  },
+  {
+    "full_name": "sanjushahgupta/chat-gpt",
+    "name": "chat-gpt",
+    "description": "Chat with an AI using your OpenAI API key with this app."
+  },
+  {
+    "full_name": "Helltar/artific_intellig_bot",
+    "name": "artific_intellig_bot",
+    "description": "AI Telegram Bot, ChatGPT, Dalle2, Whisper, GPT-4 Vision, Stability AI"
+  },
+  {
+    "full_name": "tshenolo/chatgpt-integration",
+    "name": "chatgpt-integration",
+    "description": "This repository provides an example integration guide for incorporating ChatGPT into an existing application"
+  },
+  {
+    "full_name": "Smart-Recommendations/Smart-Recommendations",
+    "name": "Smart-Recommendations",
+    "description": "Mobile front end client using LLM technology for sourcing desired personal entertainment"
+  },
+  {
+    "full_name": "fbwogur121/Internship_TmaxSoft",
+    "name": "Internship_TmaxSoft",
+    "description": "TmaxSoft 인턴십 intelliJ LLM 플러그인_TmaxPlugin 개발 프로젝트"
+  },
+  {
+    "full_name": "Ivy-Apps/automate",
+    "name": "automate",
+    "description": "An experiment for automating tasks using state machines and AI models like ChatGPT and Dall-E."
+  },
+  {
+    "full_name": "JetBrains-Research/llm-integration-plugin-template",
+    "name": "llm-integration-plugin-template",
+    "description": null
+  },
+  {
+    "full_name": "namuan/gpt-fx",
+    "name": "gpt-fx",
+    "description": "ChatGPT clone with JavaFX"
+  },
+  {
+    "full_name": "tddworks/openai-kotlin",
+    "name": "openai-kotlin",
+    "description": "OpenAI clients for kotlin multiplatform SDK, supports OpenAI, Anthropic, Azure, Ollama with TDD"
+  },
+  {
+    "full_name": "propush/openaigptclient-spring-boot-starter",
+    "name": "openaigptclient-spring-boot-starter",
+    "description": "Spring Boot Starter for OpenAI GPT Client"
+  },
+  {
+    "full_name": "mhconradt/drone-gpt",
+    "name": "drone-gpt",
+    "description": "Chat that uses GPT-4V to fly a drone"
+  },
+  {
+    "full_name": "s9hn/COSMO",
+    "name": "COSMO",
+    "description": "📲 COSMO Android provides a computer science education application using OpenAI(ChatGPT, Claude)."
+  },
+  {
+    "full_name": "LittleOwle/littleowle-ai-ollama-commit-plugin-intellij-platform",
+    "name": "littleowle-ai-ollama-commit-plugin-intellij-platform",
+    "description": "Ollama AI Commit Plugin by Jamil Services for IntelliJ Platform"
+  },
+  {
+    "full_name": "lmos-ai/lmos-router",
+    "name": "lmos-router",
+    "description": "Efficient Agent Routing with SOTA Language and Embedding Models."
+  },
+  {
+    "full_name": "Kan7sh/Image-Genius",
+    "name": "Image-Genius",
+    "description": "Image Genius: Android App using Kotlin, Firebase. 1) Generates Logo using AI from OpenAI's API DALL-E. 2) Convert Images to PDF. Perform CRUD operations on them. 3) Share Documents with others in common room using Firebase cloud storage. 4) Make Notes private using Speech to Text."
+  },
+  {
+    "full_name": "BrianJr03/Issa-Recipe-App",
+    "name": "Issa-Recipe-App",
+    "description": "A simple recipe app powered by ChatGPT"
+  },
+  {
+    "full_name": "kossy205/ChatGpt-Android-App",
+    "name": "ChatGpt-Android-App",
+    "description": "Built before OpenAi launched the ChatGPT android app. Uses the OpenAI's GPT-3 \"davinci\" model. It integrates Firebase Auth for secure authentication, Firestore for real-time chat storage, Room DB for offline access, and Retrofit for the API interactions.  It was designed to provide android users easy and quick access to ChatGPT."
+  },
+  {
+    "full_name": "esperar/ChatGPT-boot",
+    "name": "ChatGPT-boot",
+    "description": "Use httpclient to use open ai chat gpt question open source api."
+  },
+  {
+    "full_name": "xebia-functional/xef",
+    "name": "xef",
+    "description": "Building applications with LLMs through composability, in Kotlin, Scala, ..."
+  },
+  {
+    "full_name": "youminxue/onegai-codegpt-plugin",
+    "name": "onegai-codegpt-plugin",
+    "description": "onegai-codegpt-plugin is an IntelliJ IDEA plugin that leverages the power of the ChatGPT API to generate code and tests from natural language descriptions. "
+  },
+  {
+    "full_name": "Trree/cool-chat",
+    "name": "cool-chat",
+    "description": "android chatgpt"
+  },
+  {
+    "full_name": "eclipse-lmos/lmos-router",
+    "name": "lmos-router",
+    "description": "Efficient Agent Routing with SOTA Language and Embedding Models"
+  },
+  {
+    "full_name": "TouchMarsSolutions/kotlin-retrofit2-client-openai-api",
+    "name": "kotlin-retrofit2-client-openai-api",
+    "description": "kotlin retrofit coroutine based client library to call OpenAI API"
+  },
+  {
+    "full_name": "palexis3/GPT",
+    "name": "GPT",
+    "description": "GPT is a MVVM Android experimentation app currently centered around the OpenAi API."
+  },
+  {
+    "full_name": "brunodpoliveira/Fallout1DemoAI",
+    "name": "Fallout1DemoAI",
+    "description": "This project is a proof-of-concept demonstration of the Fallout 1 demo town, Scrapheap, built using Korge and Kotlin. The main highlight of the project is the use of GPT-3.5 Turbo to power the NPC interactions, making them dynamic and conversational."
+  },
+  {
+    "full_name": "shivank8/ChatGPT_App",
+    "name": "ChatGPT_App",
+    "description": "Chat gpt android app with the help of openai API, allows users to input their questions, which are then sent to OpenAI's GPT-3 model for processing. The response generated by the model is then displayed back to the user. "
+  },
+  {
+    "full_name": "SaiKrishna221b/OpenAI_integration_simpleApp",
+    "name": "OpenAI_integration_simpleApp",
+    "description": "Simple single screen app to demonstrate prompt and response from OpenAI"
+  },
+  {
+    "full_name": "mufasa08/CaptionMagic-AI",
+    "name": "CaptionMagic-AI",
+    "description": "Utilizing OpenAI ChatGPT for auto generating instagram and other social media posts"
+  },
+  {
+    "full_name": "phodal/shire",
+    "name": "shire",
+    "description": "Shire - AI Coding Agent Language (智能研发智能体语言), which can enables communication between an LLM and control IDE for automated programming."
+  },
+  {
+    "full_name": "rajbagri/ChatGPT-Android-App",
+    "name": "ChatGPT-Android-App",
+    "description": "This is the android version of ChatGPT"
+  },
+  {
+    "full_name": "carlrobertoh/CodeGPT",
+    "name": "CodeGPT",
+    "description": "The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like."
+  },
+  {
+    "full_name": "idineshgovind/ArtieChatBot",
+    "name": "ArtieChatBot",
+    "description": "This is AI based ChatBot which give answers,suggestions,tips anything you ask. this api was took from openai's api and implemented in Android using Kotlin"
+  },
+  {
+    "full_name": "esafirm/compose-ai-chat",
+    "name": "compose-ai-chat",
+    "description": "AI Chat Bot application like ChatGPT that (supposedly) can change its model"
+  }
+]

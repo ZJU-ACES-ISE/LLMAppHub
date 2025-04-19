@@ -1,0 +1,1062 @@
+[
+  {
+    "full_name": "andrekramer/py-multi-llm",
+    "name": "py-multi-llm",
+    "description": "Python3 Query multiple LLMs and compare results to suppress  model errors."
+  },
+  {
+    "full_name": "trypromptly/LLMStack",
+    "name": "LLMStack",
+    "description": "No-code multi-agent framework to build LLM Agents, workflows and applications with your data"
+  },
+  {
+    "full_name": "hunarbatra/claude-proxy-flask",
+    "name": "claude-proxy-flask",
+    "description": "Reverse CORS proxy to access claude via API"
+  },
+  {
+    "full_name": "mori-mmmm/Seni",
+    "name": "Seni",
+    "description": "Self-implementig and Self-improving GPT/CLAUDE based Discord Chatbot"
+  },
+  {
+    "full_name": "crypticpy/AgenticClaude",
+    "name": "AgenticClaude",
+    "description": "An Agent Framework for Claude"
+  },
+  {
+    "full_name": "PirateforFreedom/TypeAgent",
+    "name": "TypeAgent",
+    "description": "Luann allows you to create a LLM agent,which has complete memory module (long-term memory, short-term memory) and knowledge module（Various knowledge bases）,eventually become an agent with both EQ and IQ"
+  },
+  {
+    "full_name": "nasir19noor/python-claude",
+    "name": "python-claude",
+    "description": null
+  },
+  {
+    "full_name": "gabacode/yt-tldr",
+    "name": "yt-tldr",
+    "description": "Summarize YouTube Videos with LLMs"
+  },
+  {
+    "full_name": "sauravpanda/leanllm",
+    "name": "leanllm",
+    "description": "A lean and efficient LLM inference router for your applications"
+  },
+  {
+    "full_name": "dimagi/open-chat-studio",
+    "name": "open-chat-studio",
+    "description": "A web based platform for building Chatbots backed by Large Language Models"
+  },
+  {
+    "full_name": "nrimsky/LM-exp",
+    "name": "LM-exp",
+    "description": "LLM experiments done during SERI MATS - focusing on activation steering / interpreting activation spaces"
+  },
+  {
+    "full_name": "JFrieden/llm-adversarial-evaluation",
+    "name": "llm-adversarial-evaluation",
+    "description": null
+  },
+  {
+    "full_name": "jgravelle/AutoGroq",
+    "name": "AutoGroq",
+    "description": "AutoGroq is a groundbreaking tool that revolutionizes the way users interact with Autogen™ and other AI assistants. By dynamically generating tailored teams of AI agents based on your project requirements, AutoGroq eliminates the need for manual configuration and allows you to tackle any question, problem, or project with ease and efficiency."
+  },
+  {
+    "full_name": "AzothCorp/AnthropologAI",
+    "name": "AnthropologAI",
+    "description": "quick gradio chat interface for Anthropic AI's API for Claude, including 100k"
+  },
+  {
+    "full_name": "Blackhole0909/AutoGenAgen",
+    "name": "AutoGenAgen",
+    "description": null
+  },
+  {
+    "full_name": "RobBlackwell/golem",
+    "name": "golem",
+    "description": "Golem provides a consistent command line interface to a variety of Large Language Model APIs. Golem is primarily used for batch-mode LLM benchmarking."
+  },
+  {
+    "full_name": "jtsang4/claude-to-chatgpt",
+    "name": "claude-to-chatgpt",
+    "description": "This project converts the API of Anthropic's Claude model to the OpenAI Chat API format."
+  },
+  {
+    "full_name": "just-record/langchain_practice",
+    "name": "langchain_practice",
+    "description": "langchain_practice"
+  },
+  {
+    "full_name": "FSoft-AI4Code/HyperAgent",
+    "name": "HyperAgent",
+    "description": "Generalist Software Agents to Solve Soware Engineering Tasks"
+  },
+  {
+    "full_name": "marhar/llmuri",
+    "name": "llmuri",
+    "description": "URI support for LLMs"
+  },
+  {
+    "full_name": "nickspeelman/claude_meets_gpt",
+    "name": "claude_meets_gpt",
+    "description": null
+  },
+  {
+    "full_name": "johnnygreco/lmao",
+    "name": "lmao",
+    "description": "🙊 LMFAO: Language Model Adapter Objects"
+  },
+  {
+    "full_name": "jgravelle/Groqqle",
+    "name": "Groqqle",
+    "description": "Groqqle is a powerful web search and content summarization tool built with Python, leveraging Groq's LLM API for advanced natural language processing. It offers customizable web and news searches, image analysis, and adaptive content summaries, making it ideal for researchers, developers, and anyone seeking enhanced information retrieval."
+  },
+  {
+    "full_name": "josefkerner/llm_education",
+    "name": "llm_education",
+    "description": "Education about LLM and NLP possibilites"
+  },
+  {
+    "full_name": "Wesius/LLM-Based-Story-Extender",
+    "name": "LLM-Based-Story-Extender",
+    "description": "Uses LLMs to read and store information about a story, then, reference and use that information when generating future chapters."
+  },
+  {
+    "full_name": "danielgross/python-llm-archive",
+    "name": "python-llm-archive",
+    "description": null
+  },
+  {
+    "full_name": "jplhughes/evals_template",
+    "name": "evals_template",
+    "description": "Template for any evals project using LLM apis"
+  },
+  {
+    "full_name": "marcasty/infinity-llm",
+    "name": "infinity-llm",
+    "description": "use any LLM API with this lightweight wrapper"
+  },
+  {
+    "full_name": "shamalgithub/asyncllm",
+    "name": "asyncllm",
+    "description": "A asynchronous wrapper for popular LLM API's "
+  },
+  {
+    "full_name": "094459/ragna-bedrock",
+    "name": "ragna-bedrock",
+    "description": "An example of how to integrate Amazon Bedrock into the open source RAG orchestration tool, Ragna"
+  },
+  {
+    "full_name": "Avidity-Dev/paper_qa",
+    "name": "paper_qa",
+    "description": "Implementation of paper-qa's RAG system for research paper chat"
+  },
+  {
+    "full_name": "felixbinder/introspection_self_prediction",
+    "name": "introspection_self_prediction",
+    "description": "Code for experiments on self-prediction as a way to measure introspection in LLMs"
+  },
+  {
+    "full_name": "vatsalsaglani/claudetools",
+    "name": "claudetools",
+    "description": "Claudetools is a Python library that enables function calling with the Claude 3 family of language models from Anthropic."
+  },
+  {
+    "full_name": "llm-council/llm-council",
+    "name": "llm-council",
+    "description": "LLMs sitting on a council together to decide, by consensus, who among them is the best."
+  },
+  {
+    "full_name": "onehumanbeing/LLMpad",
+    "name": "LLMpad",
+    "description": null
+  },
+  {
+    "full_name": "ORESoftware/llms",
+    "name": "llms",
+    "description": "LLM models for CRMs"
+  },
+  {
+    "full_name": "TJC-LP/spark-instructor",
+    "name": "spark-instructor",
+    "description": "A library for building structured LLM responses with Spark"
+  },
+  {
+    "full_name": "edmondsylar/autoGen-GeneralStudy",
+    "name": "autoGen-GeneralStudy",
+    "description": null
+  },
+  {
+    "full_name": "Jai1122/ask-pdf",
+    "name": "ask-pdf",
+    "description": "Python based OpenAI application that enables users to ask questions on PDF documents"
+  },
+  {
+    "full_name": "meghoward/AGI-Alignment-and-Safety-Research",
+    "name": "AGI-Alignment-and-Safety-Research",
+    "description": "Investigating AGI alignment, safety, and ethical considerations in AI systems through causal reasoning, red-teaming prompts, and fairness evaluations across large language models (LLMs)."
+  },
+  {
+    "full_name": "iterabloom/BranchyMcChatFace",
+    "name": "BranchyMcChatFace",
+    "description": "Chat interface with conversation branching. Explore dialogue trees, visualize chat paths, and interact with multiple LLMs."
+  },
+  {
+    "full_name": "acid-design-lab/LLM_classifier_old",
+    "name": "LLM_classifier_old",
+    "description": null
+  },
+  {
+    "full_name": "langflow-ai/langflow",
+    "name": "langflow",
+    "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database."
+  },
+  {
+    "full_name": "jmikedupont2/openlightllm",
+    "name": "openlightllm",
+    "description": "fork of litellm that is open source"
+  },
+  {
+    "full_name": "eususu/lite-llm-client",
+    "name": "lite-llm-client",
+    "description": "LLM client library. it communicate with LLM by only REST API"
+  },
+  {
+    "full_name": "uripeled2/llm-client-sdk",
+    "name": "llm-client-sdk",
+    "description": "SDK for using LLM"
+  },
+  {
+    "full_name": "chenbin234/Claude-alfred-workflow",
+    "name": "Claude-alfred-workflow",
+    "description": null
+  },
+  {
+    "full_name": "AnandAditya2002/RAG",
+    "name": "RAG",
+    "description": "Retrieval Augmented Generation"
+  },
+  {
+    "full_name": "pymike00/tinychat",
+    "name": "tinychat",
+    "description": "🔮 TinyChat is a lightweight Desktop client for modern Language Models designed for straightforward comprehension. Supports OpenAI, Anthropic, Meta, Mistral, Google and Cohere APIs."
+  },
+  {
+    "full_name": "DanielBalsam/surv_ai",
+    "name": "surv_ai",
+    "description": "A framework to empower forecasting using Large Language Models (LLMs)"
+  },
+  {
+    "full_name": "cyberark/FuzzyAI",
+    "name": "FuzzyAI",
+    "description": "A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential security vulnerabilities in their LLM APIs."
+  },
+  {
+    "full_name": "pdx-labs/pdx",
+    "name": "pdx",
+    "description": "Prompt Engineering and Dev-Ops toolkit for applications powered by Language Models"
+  },
+  {
+    "full_name": "Atharva-Gundawar/GUI-Automation",
+    "name": "GUI-Automation",
+    "description": "Automating Amazon.com with LLMs"
+  },
+  {
+    "full_name": "brokensandals/maubot-llm",
+    "name": "maubot-llm",
+    "description": "Maubot plugin for chatting with LLMs."
+  },
+  {
+    "full_name": "xingyaoww/code-act",
+    "name": "code-act",
+    "description": "Official Repo for ICML 2024 paper \"Executable Code Actions Elicit Better LLM Agents\" by Xingyao Wang, Yangyi Chen, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji."
+  },
+  {
+    "full_name": "flubbid/LLM_API_Helper",
+    "name": "LLM_API_Helper",
+    "description": null
+  },
+  {
+    "full_name": "xingyaoww/mint-bench",
+    "name": "mint-bench",
+    "description": "Official Repo for ICLR 2024 paper MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback by Xingyao Wang*, Zihan Wang*, Jiateng Liu, Yangyi Chen, Lifan Yuan, Hao Peng and Heng Ji."
+  },
+  {
+    "full_name": "TravinDSO/MultiLLM",
+    "name": "MultiLLM",
+    "description": "Modular frontend supporting any number of LLMs"
+  },
+  {
+    "full_name": "ngrinnel/LLMBias",
+    "name": "LLMBias",
+    "description": null
+  },
+  {
+    "full_name": "musa-dev-team/base-rag-proj",
+    "name": "base-rag-proj",
+    "description": null
+  },
+  {
+    "full_name": "ptipri047/llm-agents",
+    "name": "llm-agents",
+    "description": null
+  },
+  {
+    "full_name": "hkust-nlp/AgentBoard",
+    "name": "AgentBoard",
+    "description": "An Analytical Evaluation Board of Multi-turn LLM Agents"
+  },
+  {
+    "full_name": "tsinghua-fib-lab/AgentSquare",
+    "name": "AgentSquare",
+    "description": "The official implementation of the paper \"AgentSquare: Automatic LLM Agent Search in Modular Design Space\"\""
+  },
+  {
+    "full_name": "astonishedrobo/sec-llm-insights",
+    "name": "sec-llm-insights",
+    "description": "Analyzes 10K Filings Using LLM"
+  },
+  {
+    "full_name": "open-compass/VLMEvalKit",
+    "name": "VLMEvalKit",
+    "description": "Open-source evaluation toolkit of large vision-language models (LVLMs), support 160+ VLMs, 50+ benchmarks"
+  },
+  {
+    "full_name": "trishcho/Lang-graph_websearch_agent",
+    "name": "Lang-graph_websearch_agent",
+    "description": "This repository demonstrates the use of LangGraph and various LLM applications to create a Multi-Agent AI system for web search, referred to as a \"Custom WebSearch Agent with LangGraph"
+  },
+  {
+    "full_name": "nishant5790/research_ai",
+    "name": "research_ai",
+    "description": "LLM system to do research "
+  },
+  {
+    "full_name": "tian-minghui/openai-style-api",
+    "name": "openai-style-api",
+    "description": "支持将openai、claude、azure openai, gemini,kimi, 智谱AI,通义千问,讯飞星火API等模型服务方的调用转为openai方式调用。屏蔽不同大模型API的差异，统一用openai api标准格式使用大模型(Shield the differences between different large model APIs and use large models in a unified openai API standard format)"
+  },
+  {
+    "full_name": "simonpierreboucher/LLMFLOW",
+    "name": "LLMFLOW",
+    "description": null
+  },
+  {
+    "full_name": "natanaelwf/LLMTest_FindTheOrigin",
+    "name": "LLMTest_FindTheOrigin",
+    "description": "Testing reasoning degradation in LLMs with variable context windows and information organization."
+  },
+  {
+    "full_name": "explosion/spacy-llm",
+    "name": "spacy-llm",
+    "description": "🦙 Integrating LLMs into structured NLP pipelines"
+  },
+  {
+    "full_name": "muximus3/OneAPI",
+    "name": "OneAPI",
+    "description": "Easily access multiple ChatGPT/Claude APIs with just one line of code/command."
+  },
+  {
+    "full_name": "hecrp/Persona-Chatting-Twitch-Bot",
+    "name": "Persona-Chatting-Twitch-Bot",
+    "description": "Twitchio chatbot that uses AI language models (Claude and GPT) to interact with chat users in different personas."
+  },
+  {
+    "full_name": "d223302/Over-Reasoning-of-LLMs",
+    "name": "Over-Reasoning-of-LLMs",
+    "description": "Data and code for EACL'24 paper: Over-Reasoning and Redundant Calculation of Large Language Models"
+  },
+  {
+    "full_name": "jgpeiro/esp32-s3_ai_game_builder",
+    "name": "esp32-s3_ai_game_builder",
+    "description": "This project uses an LLM to build any game you describe"
+  },
+  {
+    "full_name": "Alignment-Lab-AI/Preft-data-claude",
+    "name": "Preft-data-claude",
+    "description": "a short script to create preference data with claude "
+  },
+  {
+    "full_name": "kavigupta/evallm",
+    "name": "evallm",
+    "description": null
+  },
+  {
+    "full_name": "digitalwert-devs/claude-pipeline-owu",
+    "name": "claude-pipeline-owu",
+    "description": "Claude Pipeline for openwebui"
+  },
+  {
+    "full_name": "BerriAI/litellm",
+    "name": "litellm",
+    "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]"
+  },
+  {
+    "full_name": "simonpierreboucher/llm-chatbot-function",
+    "name": "llm-chatbot-function",
+    "description": "At the heart of this project is the ChatBot class, a versatile Python class designed to interact seamlessly with multiple LLM providers. "
+  },
+  {
+    "full_name": "adityaharishch/llm-microservice",
+    "name": "llm-microservice",
+    "description": null
+  },
+  {
+    "full_name": "top-yun/SPARK",
+    "name": "SPARK",
+    "description": " A benchmark dataset and simple code examples for measuring the perception and reasoning of multi-sensor Vision Language models."
+  },
+  {
+    "full_name": "mahima-khera-codes/cookbookAi_langchain",
+    "name": "cookbookAi_langchain",
+    "description": null
+  },
+  {
+    "full_name": "compl-ai/compl-ai",
+    "name": "compl-ai",
+    "description": "An open-source compliance-centered evaluation framework for Generative AI models"
+  },
+  {
+    "full_name": "Muhanad-husn/SpecClass",
+    "name": "SpecClass",
+    "description": "An optimized document classification pipeline that processes and classifies specification documents. It supports similarity search using embeddings, batch processing, and leverages language models like OpenAI, Ollama, and Claude. Easy to set up with Docker and configurable for different models and document types."
+  },
+  {
+    "full_name": "officialsahyaboutorabi/litellm",
+    "name": "litellm",
+    "description": null
+  },
+  {
+    "full_name": "ShinChven/doc-gpt",
+    "name": "doc-gpt",
+    "description": "doc-gpt is a Python CLI tool that processes document files (pdf, docx, pptx, txt, md) using Large Language Models."
+  },
+  {
+    "full_name": "smkrv/ha-text-ai",
+    "name": "ha-text-ai",
+    "description": "Cutting-edge AI solution for Home Assistant. Multi-LLM provider support to transform your smart home experience with intelligent, adaptive automation."
+  },
+  {
+    "full_name": "certainforest/llm-modularity",
+    "name": "llm-modularity",
+    "description": "Final project for BlueDot AIS. :-)"
+  },
+  {
+    "full_name": "ps2-controller/anthropic_mock_wrapper",
+    "name": "anthropic_mock_wrapper",
+    "description": "Lightweight mock wrapper around Anthropic Python client"
+  },
+  {
+    "full_name": "furlat/LLMBooster",
+    "name": "LLMBooster",
+    "description": "structured generation at rate limits"
+  },
+  {
+    "full_name": "monsternlp/ullm",
+    "name": "ullm",
+    "description": "A unified interface for local Large Language Models(LLM)  and online LLM providers. "
+  },
+  {
+    "full_name": "luricodes/Samuraizer",
+    "name": "Samuraizer",
+    "description": "Large scale generation of serialising data packages of repositorys (local aswell as github integrated). Also generating preprocessed JSONL for LLM training"
+  },
+  {
+    "full_name": "python273/eimi",
+    "name": "eimi",
+    "description": "Tree Comments / Threaded UI for LLMs | eimi.cns.wtf"
+  },
+  {
+    "full_name": "Andres77872/magic-llm",
+    "name": "magic-llm",
+    "description": "Simple llm router"
+  },
+  {
+    "full_name": "836304831/langchain-anal",
+    "name": "langchain-anal",
+    "description": null
+  },
+  {
+    "full_name": "humanbright/langchain",
+    "name": "langchain",
+    "description": "langchain"
+  },
+  {
+    "full_name": "sdpmas/langchain",
+    "name": "langchain",
+    "description": null
+  },
+  {
+    "full_name": "valerie979/langchain",
+    "name": "langchain",
+    "description": null
+  },
+  {
+    "full_name": "mkoteshai9/langchain",
+    "name": "langchain",
+    "description": null
+  },
+  {
+    "full_name": "w1ll14mmoore/https-github.com-hwchase17-langchain",
+    "name": "https-github.com-hwchase17-langchain",
+    "description": null
+  },
+  {
+    "full_name": "MCG-NJU/p-MoD",
+    "name": "p-MoD",
+    "description": "p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay"
+  },
+  {
+    "full_name": "alea-institute/alea-llm-client",
+    "name": "alea-llm-client",
+    "description": "ALEA LLM client interface"
+  },
+  {
+    "full_name": "Je-Cp/jcp-langchain",
+    "name": "jcp-langchain",
+    "description": null
+  },
+  {
+    "full_name": "edchen1240/LLM-API-Python-Quick-Start",
+    "name": "LLM-API-Python-Quick-Start",
+    "description": "This repository includes working basic API functions to connect to ChatGPT by OpenAI, Gemini by Google Deepmind, and Claude by Anthropic."
+  },
+  {
+    "full_name": "KrishayNair/RAG_Chatbot",
+    "name": "RAG_Chatbot",
+    "description": null
+  },
+  {
+    "full_name": "lordpython/new-llm",
+    "name": "new-llm",
+    "description": null
+  },
+  {
+    "full_name": "LeBlancProductions/langchain",
+    "name": "langchain",
+    "description": null
+  },
+  {
+    "full_name": "aryanyadav-dev/LLM-aggregator",
+    "name": "LLM-aggregator",
+    "description": "This software integrates multiple language models like GPT-4, Claude, and Gemini, providing a dynamic user experience with advanced Framer Motion animations. It supports seamless model selection and response generation."
+  },
+  {
+    "full_name": "myeon9h/PlanRAG",
+    "name": "PlanRAG",
+    "description": "Repository for “PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers”, NAACL24"
+  },
+  {
+    "full_name": "jnorderia82/langchain-ai-langchain",
+    "name": "langchain-ai-langchain",
+    "description": null
+  },
+  {
+    "full_name": "Retrofiyer/MediWiki",
+    "name": "MediWiki",
+    "description": "Aplicación médica usando Langchain"
+  },
+  {
+    "full_name": "karman103/multiplechat-pdf-llm",
+    "name": "multiplechat-pdf-llm",
+    "description": null
+  },
+  {
+    "full_name": "LeafarCoder/llm-experiments",
+    "name": "llm-experiments",
+    "description": null
+  },
+  {
+    "full_name": "F00LIAN/langchain-musical-theme-chat",
+    "name": "langchain-musical-theme-chat",
+    "description": "A streamlit web GUI chat that takes the user's input and creates a musical from it. "
+  },
+  {
+    "full_name": "nicholasmoy/langchain-fork",
+    "name": "langchain-fork",
+    "description": null
+  },
+  {
+    "full_name": "fogel-j/langchain",
+    "name": "langchain",
+    "description": "Extracted langchain from monorepo for edits"
+  },
+  {
+    "full_name": "NotAndOr/langchain",
+    "name": "langchain",
+    "description": null
+  },
+  {
+    "full_name": "muhammadshahzad110/langchain",
+    "name": "langchain",
+    "description": "langchain"
+  },
+  {
+    "full_name": "smartcat923/langChain",
+    "name": "langChain",
+    "description": null
+  },
+  {
+    "full_name": "shaunck96/Langchain_To_Build_Apps",
+    "name": "Langchain_To_Build_Apps",
+    "description": null
+  },
+  {
+    "full_name": "OmarBubkr/LangChain",
+    "name": "LangChain",
+    "description": null
+  },
+  {
+    "full_name": "BINGI-ADHITYA-RAJESH/CustomGPT_21cs3011",
+    "name": "CustomGPT_21cs3011",
+    "description": "This is a chatbot that can give answers on your own dataset. Flutter,Python, LangChain,Firebase and OpenAI API are used in the development."
+  },
+  {
+    "full_name": "Anu0408/House_Price_Prediction-Machine_Learning_Application",
+    "name": "House_Price_Prediction-Machine_Learning_Application",
+    "description": "A real-time, end-to-end machine learning application built with Flask and integrated with MLflow for tracking and model management. The application predicts house prices based on user input, leveraging trained regression models and providing a web interface for seamless interaction."
+  },
+  {
+    "full_name": "ephoning/sam-genai-rag-prototype",
+    "name": "sam-genai-rag-prototype",
+    "description": null
+  },
+  {
+    "full_name": "rescode-team/langchain",
+    "name": "langchain",
+    "description": "Large language models (LLMs) are emerging as a transformative technology, enabling developers to build applications that they previously could not. However, using these LLMs in isolation is often insufficient for creating a truly powerful app - the real power comes when you can combine them with other sources of computation or knowledge."
+  },
+  {
+    "full_name": "tekiny/langchain",
+    "name": "langchain",
+    "description": null
+  },
+  {
+    "full_name": "Lavania-19/Debate-Master",
+    "name": "Debate-Master",
+    "description": "Debate Master is a web application powered by OpenAI's GPT-3.5 Turbo, offering users the ability to engage in dynamic debates on various topics. Set the difficulty level, pick a topic, and start a debate with the AI assistant. It's a platform for thought-provoking discussions"
+  },
+  {
+    "full_name": "kiffoh/text_based_adventure_game",
+    "name": "text_based_adventure_game",
+    "description": "A simple text based game similar to dungeon and dragons using the chatGPT API as a realtime dungeon master."
+  },
+  {
+    "full_name": "sreeramathrij/callisto",
+    "name": "callisto",
+    "description": "Leveraging the power of Artificial Intelligence, our innovative website/app aims to revolutionize this preparatory process. Our website/app provides a dynamic platform where we use retrieval augmented generation approach to provide study notes, mark based answers for old questions etc."
+  },
+  {
+    "full_name": "utilityfog/LLM_POP",
+    "name": "LLM_POP",
+    "description": "Application of RAG and LLM Fine Tuning in Pop Culture Analysis"
+  },
+  {
+    "full_name": "yilongzhou/langchain",
+    "name": "langchain",
+    "description": null
+  },
+  {
+    "full_name": "mehmeteminak/ice-break",
+    "name": "ice-break",
+    "description": "This is AI based personal career inquiry software. I used langchain library in this project"
+  },
+  {
+    "full_name": "Jerrinthomas007/langchain",
+    "name": "langchain",
+    "description": null
+  },
+  {
+    "full_name": "EleutherAI/lm-evaluation-harness",
+    "name": "lm-evaluation-harness",
+    "description": "A framework for few-shot evaluation of language models."
+  },
+  {
+    "full_name": "viditpandey06/Langify",
+    "name": "Langify",
+    "description": "Langster is a chatbot that uses langchain, a framework that connects large language models to external data sources and APIs. Langster can generate natural and informative responses based on custom data and computations."
+  },
+  {
+    "full_name": "saciyer/langchain",
+    "name": "langchain",
+    "description": null
+  },
+  {
+    "full_name": "gridgentoo/langchain",
+    "name": "langchain",
+    "description": "Фреймворк для создания приложений с LLM"
+  },
+  {
+    "full_name": "jmoraledac/Langchain",
+    "name": "Langchain",
+    "description": null
+  },
+  {
+    "full_name": "FaycalD/langchain",
+    "name": "langchain",
+    "description": null
+  },
+  {
+    "full_name": "abdulrahman305/Langchain_gcp",
+    "name": "Langchain_gcp",
+    "description": null
+  },
+  {
+    "full_name": "princekeshriabc/LLM_Project",
+    "name": "LLM_Project",
+    "description": "The project is currently in it's developing phase. We, @princekeshriabc and @dishhaa03 are working on it."
+  },
+  {
+    "full_name": "LucasRomanato0/ChatBot",
+    "name": "ChatBot",
+    "description": "Estudo de LLM com a criação de um chatbox."
+  },
+  {
+    "full_name": "ekkamel/rag",
+    "name": "rag",
+    "description": null
+  },
+  {
+    "full_name": "BevanSmith/RAG-LLM-1",
+    "name": "RAG-LLM-1",
+    "description": "In this folder I show projects on how to implement retrieval augmented generation and others"
+  },
+  {
+    "full_name": "phaniteja5789/Intelligent-Document-Retrieval-and-Question-Answering-System-with-RAG-Approach",
+    "name": "Intelligent-Document-Retrieval-and-Question-Answering-System-with-RAG-Approach",
+    "description": null
+  },
+  {
+    "full_name": "Rami-Aloui/flask_login_app",
+    "name": "flask_login_app",
+    "description": "neo4j GraphDatabase connection, sweetalert2,cryptography.fernet password encryption decryption langchain openai"
+  },
+  {
+    "full_name": "gptbuilds/Langchain-Web-Scraper",
+    "name": "Langchain-Web-Scraper",
+    "description": null
+  },
+  {
+    "full_name": "Dev-inmaking1211/MCQ-generator-using-OpenAi-and-Langchain",
+    "name": "MCQ-generator-using-OpenAi-and-Langchain",
+    "description": null
+  },
+  {
+    "full_name": "dolwinf/RAG-Blueprint",
+    "name": "RAG-Blueprint",
+    "description": "Implementing RAG without a framework"
+  },
+  {
+    "full_name": "Ai-Sukmoren/langchain_demo",
+    "name": "langchain_demo",
+    "description": null
+  },
+  {
+    "full_name": "pramodkoujalagi/AI-Personal-Agent",
+    "name": "AI-Personal-Agent",
+    "description": "The code sets up a Streamlit application where users can interact with a personal agent powered by various language models and tools, including OpenAI's GPT, DuckDuckGo search, and mathematical reasoning capabilities, enabling users to ask questions and receive responses."
+  },
+  {
+    "full_name": "gabacame/LLM2Math_Engine",
+    "name": "LLM2Math_Engine",
+    "description": "Improve the mathematical performance of a lightweight LLM (gemma 2b) by using RAG to extend its knowledge and give it access to a mathematical engine to perform operations"
+  },
+  {
+    "full_name": "pareekshitreddy/AskAlly-Your-Intuitive-Q-A-Chatbot",
+    "name": "AskAlly-Your-Intuitive-Q-A-Chatbot",
+    "description": "This project implements a question-answering chatbot using Python and Streamlit, integrating the Langchain language model and the OpenAI API for language understanding. The application is deployed on Hugging Face Spaces and can be accessed here."
+  },
+  {
+    "full_name": "y20acs524/Conversational-AI-chatbot",
+    "name": "Conversational-AI-chatbot",
+    "description": "chatbot using python,NLP,LLM and Generative AI technology.It also includes speech recognition to give voice inputs."
+  },
+  {
+    "full_name": "rohit-b27/PDF_Analyser-using-LLM-and-vectordb",
+    "name": "PDF_Analyser-using-LLM-and-vectordb",
+    "description": null
+  },
+  {
+    "full_name": "Shiva008/MCQ-generator-with-OpenAi",
+    "name": "MCQ-generator-with-OpenAi",
+    "description": "This project automates the creation of multiple-choice questions (MCQs) from a given PDF document using the power of generative AI, specifically the OpenAI API. It streamlines the process of crafting assessment materials, saving educators and trainers valuable time and effort."
+  },
+  {
+    "full_name": "devnayyar/Mcq_generator_llm",
+    "name": "Mcq_generator_llm",
+    "description": null
+  },
+  {
+    "full_name": "arsath-eng/RAG1-NVIDIA-GENAI",
+    "name": "RAG1-NVIDIA-GENAI",
+    "description": "A powerful Retrieval Augmented Generation (RAG) application built with NVIDIA AI endpoints and Streamlit. This solution enables intelligent document analysis and question-answering using state-of-the-art language models, featuring multi-PDF processing, FAISS vector store integration, and advanced prompt engineering."
+  },
+  {
+    "full_name": "oceanbase-devhub/langchain-community",
+    "name": "langchain-community",
+    "description": "Community contributed LangChain integrations."
+  },
+  {
+    "full_name": "Kar-nV/LLM-with-LangChain",
+    "name": "LLM-with-LangChain",
+    "description": null
+  },
+  {
+    "full_name": "YoChan1017/Django_openAI",
+    "name": "Django_openAI",
+    "description": null
+  },
+  {
+    "full_name": "SAI-ADITY-A/Code-Assistant---Gen-AI",
+    "name": "Code-Assistant---Gen-AI",
+    "description": "This project demonstrates how to create a personal code assistant using a local open-source large language model (LLM). We utilize Codellama, a fine-tuned version of Llama specifically developed for coding tasks, along with Ollama, Langchain, and Streamlit to build a robust, interactive, and user-friendly interface."
+  },
+  {
+    "full_name": "AlaBelgacem/RAG-Speech-to-text",
+    "name": "RAG-Speech-to-text",
+    "description": null
+  },
+  {
+    "full_name": "rajendrasrao/Ask-Your-CSV-Bot",
+    "name": "Ask-Your-CSV-Bot",
+    "description": "A versatile chatbot capable of answering questions based on the data provided in a CSV file. Simply upload your CSV, ask your questions in provided text box and it will reply using LLM models"
+  },
+  {
+    "full_name": "sidneybispo/ai-trainer",
+    "name": "ai-trainer",
+    "description": "Visão Geral do Projeto. Este projeto implementa um agente de consulta SQL com uma interface de usuário baseada em Streamlit. O sistema permite que os usuários façam perguntas em linguagem natural sobre dados armazenados em um banco de dados PostgreSQL ou em uma planilha, e recebam respostas geradas por um modelo de linguagem."
+  },
+  {
+    "full_name": "fellenwennesa/PMCoding",
+    "name": "PMCoding",
+    "description": "This is a Simple LLM App that generates Social Media Caption based on topic."
+  },
+  {
+    "full_name": "Ashish-kharde1/GeminiLLM",
+    "name": "GeminiLLM",
+    "description": null
+  },
+  {
+    "full_name": "Roopshankar10/LLM-Based-RAG-System",
+    "name": "LLM-Based-RAG-System",
+    "description": null
+  },
+  {
+    "full_name": "JadBaradei/LLM_Project",
+    "name": "LLM_Project",
+    "description": "This code creates streamlit web application to communicate with a gemini agent"
+  },
+  {
+    "full_name": "MetaSonic001/local-pdf-rag-with-fastapi",
+    "name": "local-pdf-rag-with-fastapi",
+    "description": null
+  },
+  {
+    "full_name": "Andrejr82/agente-sql-langchain",
+    "name": "agente-sql-langchain",
+    "description": null
+  },
+  {
+    "full_name": "AizFaliq/Ollama3-Chatbot",
+    "name": "Ollama3-Chatbot",
+    "description": "Ollama3 Chatbot with hidden context + StreamLit"
+  },
+  {
+    "full_name": "Anmol-2003/resumer-dockerized",
+    "name": "resumer-dockerized",
+    "description": "A tool to generate a resume given a job description using latex and llama-3.1"
+  },
+  {
+    "full_name": "Roshan0909/LangChain-PDF-Processor",
+    "name": "LangChain-PDF-Processor",
+    "description": null
+  },
+  {
+    "full_name": "AshwinKrishnaK/langchain-basics",
+    "name": "langchain-basics",
+    "description": null
+  },
+  {
+    "full_name": "Dousery/Open-Source-LLM-RAG",
+    "name": "Open-Source-LLM-RAG",
+    "description": null
+  },
+  {
+    "full_name": "JessiP23/langchain-chatbot",
+    "name": "langchain-chatbot",
+    "description": null
+  },
+  {
+    "full_name": "yashvinshah/LLM-RAG-chat",
+    "name": "LLM-RAG-chat",
+    "description": null
+  },
+  {
+    "full_name": "edwardfranciaescuelaing/langchaingpt",
+    "name": "langchaingpt",
+    "description": null
+  },
+  {
+    "full_name": "rebumatadele/translate",
+    "name": "translate",
+    "description": "This repository will hold OpenAi API integration"
+  },
+  {
+    "full_name": "JANHMS/needle-langchain-partner",
+    "name": "needle-langchain-partner",
+    "description": "Partner Package for needle langchain integration"
+  },
+  {
+    "full_name": "AdamSobieszek/langtorch",
+    "name": "langtorch",
+    "description": "Building LLM apps with Text Tensors using PyTorch concepts and text gradients"
+  },
+  {
+    "full_name": "aceliuchanghong/large_scale_models_learning_log",
+    "name": "large_scale_models_learning_log",
+    "description": "my large scale models learning log(我的大模型学习记录,包括langchain之类的放在一起)"
+  },
+  {
+    "full_name": "PromptSail/prompt_sail",
+    "name": "prompt_sail",
+    "description": "Open Source LLM proxy that transparently captures and logs all interactions with LLM API"
+  },
+  {
+    "full_name": "sliday/telegram-ai-digest",
+    "name": "telegram-ai-digest",
+    "description": "Automates Telegram message digests using Claude AI for summaries and Replicate API for image generation, sending results to saved messages."
+  },
+  {
+    "full_name": "9600dev/llmvm",
+    "name": "llmvm",
+    "description": "LLM <-> Python agentic runtime prototype"
+  },
+  {
+    "full_name": "cmcguinness/newsreader",
+    "name": "newsreader",
+    "description": "Simple LLM based news reading program"
+  },
+  {
+    "full_name": "aypan17/llm-feedback",
+    "name": "llm-feedback",
+    "description": null
+  },
+  {
+    "full_name": "xxxAleksandrxxx/terminal_companion_v2",
+    "name": "terminal_companion_v2",
+    "description": "It's a simple Python app (use Python 3.12.2) for communicating with the ChatGPT API, and local LLMs using [ollama](https://github.com/ollama/ollama), directly from the terminal."
+  },
+  {
+    "full_name": "plotJ/SelfGPT",
+    "name": "SelfGPT",
+    "description": "A clone of ChatGPT for web deployment with user's OpenAI API key"
+  },
+  {
+    "full_name": "fabriziosalmi/UglyFeed",
+    "name": "UglyFeed",
+    "description": "Retrieve, aggregate, filter, evaluate, rewrite and serve RSS feeds using Large Language Models for fun, research and learning purposes"
+  },
+  {
+    "full_name": "yym68686/uni-api",
+    "name": "uni-api",
+    "description": "This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, Anthropic, DeepBricks, OpenRouter, Gemini, Vertex, etc."
+  },
+  {
+    "full_name": "wgryc/phasellm",
+    "name": "phasellm",
+    "description": "Large language model evaluation and workflow framework from Phase AI."
+  },
+  {
+    "full_name": "valentinfrlch/ha-llmvision",
+    "name": "ha-llmvision",
+    "description": "Let Home Assistant see!"
+  },
+  {
+    "full_name": "anthropics/anthropic-sdk-python",
+    "name": "anthropic-sdk-python",
+    "description": null
+  },
+  {
+    "full_name": "pkelaita/l2m2",
+    "name": "l2m2",
+    "description": "A simple Python library for asynchronous, model-agnostic LLM inference."
+  },
+  {
+    "full_name": "cohere-ai/self-reflection-planning-paper",
+    "name": "self-reflection-planning-paper",
+    "description": "This repository contains the code for our paper: \"On the Efficacy of Self-reflection for Improving LLM Agent Planning\"."
+  },
+  {
+    "full_name": "whuera/langchain-proyects",
+    "name": "langchain-proyects",
+    "description": null
+  },
+  {
+    "full_name": "protectai/vulnhuntr",
+    "name": "vulnhuntr",
+    "description": "Zero shot vulnerability discovery using LLMs"
+  },
+  {
+    "full_name": "afiq-aswadi/anki-assistant",
+    "name": "anki-assistant",
+    "description": "Tool that calls Claude API to edit Anki flashcards for you."
+  },
+  {
+    "full_name": "karthikeya-peeriga/claude-internal",
+    "name": "claude-internal",
+    "description": "Internal exploratory tool for claude api"
+  },
+  {
+    "full_name": "pranalimandhare/Microservices",
+    "name": "Microservices",
+    "description": "Python Chatbots and AI models"
+  },
+  {
+    "full_name": "LiquidAdTech/Zahara-LiteLLM",
+    "name": "Zahara-LiteLLM",
+    "description": "Gen AI tools "
+  },
+  {
+    "full_name": "h2oai/h2ogpt",
+    "name": "h2ogpt",
+    "description": "Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/"
+  },
+  {
+    "full_name": "ITSpecialist111/ai_automation_suggester",
+    "name": "ai_automation_suggester",
+    "description": "This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI providers, including OpenAI, Anthropic, Google, Groq, LocalAI, and Ollama. The integration provides automation suggestions via persistent notifications."
+  },
+  {
+    "full_name": "pwnhyo/LIAV-Checker",
+    "name": "LIAV-Checker",
+    "description": "LLM-Integrated Application Vulnerability Checker"
+  },
+  {
+    "full_name": "Eslamasabry/litellm",
+    "name": "litellm",
+    "description": null
+  },
+  {
+    "full_name": "DefamationStation/Retrochat-v2",
+    "name": "Retrochat-v2",
+    "description": "RetroChat is a powerful command-line interface for interacting with various AI language models. It provides a seamless experience for engaging with different chat providers while offering robust features for managing and customizing your conversations. The code in this repo is 100% AI generated. Nothing has been written by a human. "
+  },
+  {
+    "full_name": "Jinash-Rouniyar/Web_Rembrance",
+    "name": "Web_Rembrance",
+    "description": "A web-application that provides personalized, conversational SAT tutoring to help students practice SAT questions built on top of Langchain and deployed using docker on DigitalOcean. . "
+  },
+  {
+    "full_name": "Makesh-Srinivasan/LangChain-GPT-Researcher",
+    "name": "LangChain-GPT-Researcher",
+    "description": "GPT-Researcher as a LangChain tool to be used in Agents and Chains"
+  },
+  {
+    "full_name": "wzdnzd/chatgpt-collector",
+    "name": "chatgpt-collector",
+    "description": "AIGC API Services Freedom"
+  }
+]

@@ -1,0 +1,1155 @@
+{
+  "all_public_dependent_repos": [
+    {
+      "name": "geekan/MetaGPT",
+      "stars": 45928,
+      "img": "https://avatars.githubusercontent.com/u/2707039?s=40&v=4",
+      "owner": "geekan",
+      "repo_name": "MetaGPT"
+    },
+    {
+      "name": "microsoft/semantic-kernel",
+      "stars": 22296,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "semantic-kernel"
+    },
+    {
+      "name": "Josh-XT/AGiXT",
+      "stars": 2672,
+      "img": "https://avatars.githubusercontent.com/u/102809327?s=40&v=4",
+      "owner": "Josh-XT",
+      "repo_name": "AGiXT"
+    },
+    {
+      "name": "Azure/PyRIT",
+      "stars": 1977,
+      "img": "https://avatars.githubusercontent.com/u/6844498?s=40&v=4",
+      "owner": "Azure",
+      "repo_name": "PyRIT"
+    },
+    {
+      "name": "akshata29/entaoai",
+      "stars": 849,
+      "img": "https://avatars.githubusercontent.com/u/18509807?s=40&v=4",
+      "owner": "akshata29",
+      "repo_name": "entaoai"
+    },
+    {
+      "name": "microsoft/semantic-kernel-starters",
+      "stars": 350,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "semantic-kernel-starters"
+    },
+    {
+      "name": "Azure/intro-to-intelligent-apps",
+      "stars": 191,
+      "img": "https://avatars.githubusercontent.com/u/6844498?s=40&v=4",
+      "owner": "Azure",
+      "repo_name": "intro-to-intelligent-apps"
+    },
+    {
+      "name": "Azure/co-op-translator",
+      "stars": 182,
+      "img": "https://avatars.githubusercontent.com/u/6844498?s=40&v=4",
+      "owner": "Azure",
+      "repo_name": "co-op-translator"
+    },
+    {
+      "name": "happyapplehorse/gptui",
+      "stars": 131,
+      "img": "https://avatars.githubusercontent.com/u/80760121?s=40&v=4",
+      "owner": "happyapplehorse",
+      "repo_name": "gptui"
+    },
+    {
+      "name": "microsoft/semanticworkbench",
+      "stars": 100,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "semanticworkbench"
+    },
+    {
+      "name": "alibaba/app-controller",
+      "stars": 93,
+      "img": "https://avatars.githubusercontent.com/u/1961952?s=40&v=4",
+      "owner": "alibaba",
+      "repo_name": "app-controller"
+    },
+    {
+      "name": "Josephrp/DataTonic",
+      "stars": 85,
+      "img": "https://avatars.githubusercontent.com/u/18212928?s=40&v=4",
+      "owner": "Josephrp",
+      "repo_name": "DataTonic"
+    },
+    {
+      "name": "microsoft/EveryoneCanCode-US",
+      "stars": 68,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "EveryoneCanCode-US"
+    },
+    {
+      "name": "Azure/azureml-assets",
+      "stars": 65,
+      "img": "https://avatars.githubusercontent.com/u/6844498?s=40&v=4",
+      "owner": "Azure",
+      "repo_name": "azureml-assets"
+    },
+    {
+      "name": "docqai/docq",
+      "stars": 58,
+      "img": "https://avatars.githubusercontent.com/u/132401033?s=40&v=4",
+      "owner": "docqai",
+      "repo_name": "docq"
+    },
+    {
+      "name": "microsoft/promptflow-resource-hub",
+      "stars": 53,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "promptflow-resource-hub"
+    },
+    {
+      "name": "Josephrp/scitonic",
+      "stars": 49,
+      "img": "https://avatars.githubusercontent.com/u/18212928?s=40&v=4",
+      "owner": "Josephrp",
+      "repo_name": "scitonic"
+    },
+    {
+      "name": "Azure/gpt-rag-orchestrator",
+      "stars": 48,
+      "img": "https://avatars.githubusercontent.com/u/6844498?s=40&v=4",
+      "owner": "Azure",
+      "repo_name": "gpt-rag-orchestrator"
+    },
+    {
+      "name": "Azure/azure-ai-cli",
+      "stars": 40,
+      "img": "https://avatars.githubusercontent.com/u/6844498?s=40&v=4",
+      "owner": "Azure",
+      "repo_name": "azure-ai-cli"
+    },
+    {
+      "name": "gnosis/prediction-market-agent",
+      "stars": 38,
+      "img": "https://avatars.githubusercontent.com/u/24954468?s=40&v=4",
+      "owner": "gnosis",
+      "repo_name": "prediction-market-agent"
+    },
+    {
+      "name": "microsoft/dstoolkit-text2sql-and-imageprocessing",
+      "stars": 34,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "dstoolkit-text2sql-and-imageprocessing"
+    },
+    {
+      "name": "cjoakim/CosmosAIGraph",
+      "stars": 33,
+      "img": "https://avatars.githubusercontent.com/u/20808?s=40&v=4",
+      "owner": "cjoakim",
+      "repo_name": "CosmosAIGraph"
+    },
+    {
+      "name": "john0isaac/rag-semantic-kernel-mongodb-vcore",
+      "stars": 33,
+      "img": "https://avatars.githubusercontent.com/u/64026625?s=40&v=4",
+      "owner": "john0isaac",
+      "repo_name": "rag-semantic-kernel-mongodb-vcore"
+    },
+    {
+      "name": "sonnhfit/SonAgent",
+      "stars": 29,
+      "img": "https://avatars.githubusercontent.com/u/38657002?s=40&v=4",
+      "owner": "sonnhfit",
+      "repo_name": "SonAgent"
+    },
+    {
+      "name": "AzureCosmosDB/CosmosAIGraph",
+      "stars": 28,
+      "img": "https://avatars.githubusercontent.com/u/33746873?s=40&v=4",
+      "owner": "AzureCosmosDB",
+      "repo_name": "CosmosAIGraph"
+    },
+    {
+      "name": "alexchaomander/semantic-kernel-v1.0-hackathon",
+      "stars": 25,
+      "img": "https://avatars.githubusercontent.com/u/5111035?s=40&v=4",
+      "owner": "alexchaomander",
+      "repo_name": "semantic-kernel-v1.0-hackathon"
+    },
+    {
+      "name": "Josephrp/LablabAutogen",
+      "stars": 25,
+      "img": "https://avatars.githubusercontent.com/u/18212928?s=40&v=4",
+      "owner": "Josephrp",
+      "repo_name": "LablabAutogen"
+    },
+    {
+      "name": "smile-wingbow/pudding-robot",
+      "stars": 23,
+      "img": "https://avatars.githubusercontent.com/u/174078102?s=40&v=4",
+      "owner": "smile-wingbow",
+      "repo_name": "pudding-robot"
+    },
+    {
+      "name": "HenriSchulte-MS/FlightBookingWithAIAgents",
+      "stars": 19,
+      "img": "https://avatars.githubusercontent.com/u/77101781?s=40&v=4",
+      "owner": "HenriSchulte-MS",
+      "repo_name": "FlightBookingWithAIAgents"
+    },
+    {
+      "name": "irarainey/az-copilot",
+      "stars": 19,
+      "img": "https://avatars.githubusercontent.com/u/74962459?s=40&v=4",
+      "owner": "irarainey",
+      "repo_name": "az-copilot"
+    },
+    {
+      "name": "joowon-dm-snu/fastcampus-chatgpt-intro-frameworks",
+      "stars": 18,
+      "img": "https://avatars.githubusercontent.com/u/69464062?s=40&v=4",
+      "owner": "joowon-dm-snu",
+      "repo_name": "fastcampus-chatgpt-intro-frameworks"
+    },
+    {
+      "name": "ucl-docaider/docAider",
+      "stars": 17,
+      "img": "https://avatars.githubusercontent.com/u/172435741?s=40&v=4",
+      "owner": "ucl-docaider",
+      "repo_name": "docAider"
+    },
+    {
+      "name": "microsoft/chimera",
+      "stars": 17,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "chimera"
+    },
+    {
+      "name": "lfbraz/semantic-kernel-nltosql",
+      "stars": 17,
+      "img": "https://avatars.githubusercontent.com/u/15925853?s=40&v=4",
+      "owner": "lfbraz",
+      "repo_name": "semantic-kernel-nltosql"
+    },
+    {
+      "name": "Ori-Replication/MetaGPT_webui",
+      "stars": 15,
+      "img": "https://avatars.githubusercontent.com/u/109295054?s=40&v=4",
+      "owner": "Ori-Replication",
+      "repo_name": "MetaGPT_webui"
+    },
+    {
+      "name": "johnmaeda/pizzashop-and-ai",
+      "stars": 15,
+      "img": "https://avatars.githubusercontent.com/u/2140796?s=40&v=4",
+      "owner": "johnmaeda",
+      "repo_name": "pizzashop-and-ai"
+    },
+    {
+      "name": "kevon217/custom-agency-swarms",
+      "stars": 12,
+      "img": "https://avatars.githubusercontent.com/u/13077896?s=40&v=4",
+      "owner": "kevon217",
+      "repo_name": "custom-agency-swarms"
+    },
+    {
+      "name": "msalemor/llm-use-cases",
+      "stars": 12,
+      "img": "https://avatars.githubusercontent.com/u/44649358?s=40&v=4",
+      "owner": "msalemor",
+      "repo_name": "llm-use-cases"
+    },
+    {
+      "name": "microsoft/kagami",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "kagami"
+    },
+    {
+      "name": "msalemor/adventureworks-viewer-ai",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/44649358?s=40&v=4",
+      "owner": "msalemor",
+      "repo_name": "adventureworks-viewer-ai"
+    },
+    {
+      "name": "Joining-AI/JoinAgent",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/154000096?s=40&v=4",
+      "owner": "Joining-AI",
+      "repo_name": "JoinAgent"
+    },
+    {
+      "name": "antronic/maid_semantic_kernel",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/2222477?s=40&v=4",
+      "owner": "antronic",
+      "repo_name": "maid_semantic_kernel"
+    },
+    {
+      "name": "cxbxmxcx/GPT-Agents",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/10665060?s=40&v=4",
+      "owner": "cxbxmxcx",
+      "repo_name": "GPT-Agents"
+    },
+    {
+      "name": "chriscrcodes/talk-to-your-factory",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/46497089?s=40&v=4",
+      "owner": "chriscrcodes",
+      "repo_name": "talk-to-your-factory"
+    },
+    {
+      "name": "IntelliTect/EssentialCSharp.Web",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/793568?s=40&v=4",
+      "owner": "IntelliTect",
+      "repo_name": "EssentialCSharp.Web"
+    },
+    {
+      "name": "briancabbott/ChatNow",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/2147648?s=40&v=4",
+      "owner": "briancabbott",
+      "repo_name": "ChatNow"
+    },
+    {
+      "name": "chanchimin/AgentMonitor",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/75533759?s=40&v=4",
+      "owner": "chanchimin",
+      "repo_name": "AgentMonitor"
+    },
+    {
+      "name": "jbernec/rag-orchestrations",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/92888747?s=40&v=4",
+      "owner": "jbernec",
+      "repo_name": "rag-orchestrations"
+    },
+    {
+      "name": "ROBROICH/intro-to-intelligent-apps",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/51105958?s=40&v=4",
+      "owner": "ROBROICH",
+      "repo_name": "intro-to-intelligent-apps"
+    },
+    {
+      "name": "microsoft/Hygeia",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "Hygeia"
+    },
+    {
+      "name": "embedelite/embedelite-sk-plugin",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/128965123?s=40&v=4",
+      "owner": "embedelite",
+      "repo_name": "embedelite-sk-plugin"
+    },
+    {
+      "name": "hfjchdjdh/text2sqlWithRHLF_MAC_SQL_2024",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/42296668?s=40&v=4",
+      "owner": "hfjchdjdh",
+      "repo_name": "text2sqlWithRHLF_MAC_SQL_2024"
+    },
+    {
+      "name": "Joining-AI/RepoAnnotator",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/154000096?s=40&v=4",
+      "owner": "Joining-AI",
+      "repo_name": "RepoAnnotator"
+    },
+    {
+      "name": "microsoft/asclepius",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "asclepius"
+    },
+    {
+      "name": "microsoft/polonius",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "polonius"
+    },
+    {
+      "name": "renepajta/intro-to-intelligent-apps",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/6043628?s=40&v=4",
+      "owner": "renepajta",
+      "repo_name": "intro-to-intelligent-apps"
+    },
+    {
+      "name": "madebygps/buildthecloud",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/6733686?s=40&v=4",
+      "owner": "madebygps",
+      "repo_name": "buildthecloud"
+    },
+    {
+      "name": "minerva-ed/MinervAI",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/150646217?s=40&v=4",
+      "owner": "minerva-ed",
+      "repo_name": "MinervAI"
+    },
+    {
+      "name": "MIBlue119/storystudio",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/9137836?s=40&v=4",
+      "owner": "MIBlue119",
+      "repo_name": "storystudio"
+    },
+    {
+      "name": "embedelite/sk-hackathon",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/128965123?s=40&v=4",
+      "owner": "embedelite",
+      "repo_name": "sk-hackathon"
+    },
+    {
+      "name": "MeyerPerin-Foundation/thread-manager",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/157002761?s=40&v=4",
+      "owner": "MeyerPerin-Foundation",
+      "repo_name": "thread-manager"
+    },
+    {
+      "name": "pigg-ai/conductor",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/178526897?s=40&v=4",
+      "owner": "pigg-ai",
+      "repo_name": "conductor"
+    },
+    {
+      "name": "wunderwuzzi23/wuzzi-chat",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/35349594?s=40&v=4",
+      "owner": "wunderwuzzi23",
+      "repo_name": "wuzzi-chat"
+    },
+    {
+      "name": "rashedtalukder/sharepoint-azure-openai-rag",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/9218468?s=40&v=4",
+      "owner": "rashedtalukder",
+      "repo_name": "sharepoint-azure-openai-rag"
+    },
+    {
+      "name": "dmavani25/MinervAI",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/89651168?s=40&v=4",
+      "owner": "dmavani25",
+      "repo_name": "MinervAI"
+    },
+    {
+      "name": "JustinMeimar/hack-gpt",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/32406396?s=40&v=4",
+      "owner": "JustinMeimar",
+      "repo_name": "hack-gpt"
+    },
+    {
+      "name": "ayushib4/smartFin",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/62727780?s=40&v=4",
+      "owner": "ayushib4",
+      "repo_name": "smartFin"
+    },
+    {
+      "name": "whiteduck-training/wd-ai-hackathon",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/185513507?s=40&v=4",
+      "owner": "whiteduck-training",
+      "repo_name": "wd-ai-hackathon"
+    },
+    {
+      "name": "alphavector/all",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/11805788?s=40&v=4",
+      "owner": "alphavector",
+      "repo_name": "all"
+    },
+    {
+      "name": "Space3D-Bench/RAG3D-Chat",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/178774314?s=40&v=4",
+      "owner": "Space3D-Bench",
+      "repo_name": "RAG3D-Chat"
+    },
+    {
+      "name": "Zhou-CyberSecurity-AI/ATBA",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/35444743?s=40&v=4",
+      "owner": "Zhou-CyberSecurity-AI",
+      "repo_name": "ATBA"
+    },
+    {
+      "name": "Agentic-Insights/sk-python-labs",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/171188275?s=40&v=4",
+      "owner": "Agentic-Insights",
+      "repo_name": "sk-python-labs"
+    },
+    {
+      "name": "khchan/building-blocks-ai",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/1270511?s=40&v=4",
+      "owner": "khchan",
+      "repo_name": "building-blocks-ai"
+    },
+    {
+      "name": "jakeatmsft/promptflow_patterns",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/47987698?s=40&v=4",
+      "owner": "jakeatmsft",
+      "repo_name": "promptflow_patterns"
+    },
+    {
+      "name": "Lyn4ever29/pipy_server",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/25952589?s=40&v=4",
+      "owner": "Lyn4ever29",
+      "repo_name": "pipy_server"
+    },
+    {
+      "name": "XpiritBV/AzOpenAI-RAG-ChatApp",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/9567984?s=40&v=4",
+      "owner": "XpiritBV",
+      "repo_name": "AzOpenAI-RAG-ChatApp"
+    },
+    {
+      "name": "matthewbolanos/sk-party-planning-committee",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/1409190?s=40&v=4",
+      "owner": "matthewbolanos",
+      "repo_name": "sk-party-planning-committee"
+    },
+    {
+      "name": "Geniusning/AI",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/27037651?s=40&v=4",
+      "owner": "Geniusning",
+      "repo_name": "AI"
+    },
+    {
+      "name": "Josephrp/trueralablabsubmission",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/18212928?s=40&v=4",
+      "owner": "Josephrp",
+      "repo_name": "trueralablabsubmission"
+    },
+    {
+      "name": "msalemor/sk-summarizer-pattern",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/44649358?s=40&v=4",
+      "owner": "msalemor",
+      "repo_name": "sk-summarizer-pattern"
+    },
+    {
+      "name": "passadis/react-semantic-kernel",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/53148138?s=40&v=4",
+      "owner": "passadis",
+      "repo_name": "react-semantic-kernel"
+    },
+    {
+      "name": "MG-Microsoft/SemanticKernel_PromptFlow",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/79723187?s=40&v=4",
+      "owner": "MG-Microsoft",
+      "repo_name": "SemanticKernel_PromptFlow"
+    },
+    {
+      "name": "Azure-For-Everyone/sk-hotelfiltering",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/104997505?s=40&v=4",
+      "owner": "Azure-For-Everyone",
+      "repo_name": "sk-hotelfiltering"
+    },
+    {
+      "name": "microsoft/llmsecops-hands-on-lab",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "llmsecops-hands-on-lab"
+    },
+    {
+      "name": "scallighan/labby",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/91623699?s=40&v=4",
+      "owner": "scallighan",
+      "repo_name": "labby"
+    },
+    {
+      "name": "Joining-AI/JoinQwen",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/154000096?s=40&v=4",
+      "owner": "Joining-AI",
+      "repo_name": "JoinQwen"
+    },
+    {
+      "name": "Bistu-OSSDT-2024/12-project-12",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/172448273?s=40&v=4",
+      "owner": "Bistu-OSSDT-2024",
+      "repo_name": "12-project-12"
+    },
+    {
+      "name": "pablosalvador10/gbbai-azure-ai-agentic-frameworks",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/31255154?s=40&v=4",
+      "owner": "pablosalvador10",
+      "repo_name": "gbbai-azure-ai-agentic-frameworks"
+    },
+    {
+      "name": "georgeIshaq/Q-Hack",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/123267653?s=40&v=4",
+      "owner": "georgeIshaq",
+      "repo_name": "Q-Hack"
+    },
+    {
+      "name": "jordanbean-msft/semantic-kernel-intent",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/84806584?s=40&v=4",
+      "owner": "jordanbean-msft",
+      "repo_name": "semantic-kernel-intent"
+    },
+    {
+      "name": "WuJunde/werewolf_ai_agents",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/23454271?s=40&v=4",
+      "owner": "WuJunde",
+      "repo_name": "werewolf_ai_agents"
+    },
+    {
+      "name": "Cataldir/semantic-kernel-py-training",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/29005497?s=40&v=4",
+      "owner": "Cataldir",
+      "repo_name": "semantic-kernel-py-training"
+    },
+    {
+      "name": "Gavinbeauch13/Accommodate",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/100885952?s=40&v=4",
+      "owner": "Gavinbeauch13",
+      "repo_name": "Accommodate"
+    },
+    {
+      "name": "percebus/openai-sandbox-py",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/5483088?s=40&v=4",
+      "owner": "percebus",
+      "repo_name": "openai-sandbox-py"
+    },
+    {
+      "name": "teerasej/nextflow-semantic-kernel-python-pycon-2023",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/85179?s=40&v=4",
+      "owner": "teerasej",
+      "repo_name": "nextflow-semantic-kernel-python-pycon-2023"
+    },
+    {
+      "name": "MTCMarkFranco/python-sql-Interpreter",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/36431095?s=40&v=4",
+      "owner": "MTCMarkFranco",
+      "repo_name": "python-sql-Interpreter"
+    },
+    {
+      "name": "madebygps/cosmos-vector-aoai",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/6733686?s=40&v=4",
+      "owner": "madebygps",
+      "repo_name": "cosmos-vector-aoai"
+    },
+    {
+      "name": "MohammedFadin/semantic-kernel-easier-start",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/2106384?s=40&v=4",
+      "owner": "MohammedFadin",
+      "repo_name": "semantic-kernel-easier-start"
+    },
+    {
+      "name": "iamjoel/four-dimensional-space-bag",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/2120155?s=40&v=4",
+      "owner": "iamjoel",
+      "repo_name": "four-dimensional-space-bag"
+    },
+    {
+      "name": "layogtima/termi",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/119887692?s=40&v=4",
+      "owner": "layogtima",
+      "repo_name": "termi"
+    },
+    {
+      "name": "Ananya-AJ/Chest-Xray_Medical_Report_generation",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/111623197?s=40&v=4",
+      "owner": "Ananya-AJ",
+      "repo_name": "Chest-Xray_Medical_Report_generation"
+    },
+    {
+      "name": "StevenWangler/Blizzard",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/28370918?s=40&v=4",
+      "owner": "StevenWangler",
+      "repo_name": "Blizzard"
+    },
+    {
+      "name": "Boykai/octo-microhack-rag-ai-and-your-data",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/9115570?s=40&v=4",
+      "owner": "Boykai",
+      "repo_name": "octo-microhack-rag-ai-and-your-data"
+    },
+    {
+      "name": "gilbertalgordo/semantic-kernel",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/69397216?s=40&v=4",
+      "owner": "gilbertalgordo",
+      "repo_name": "semantic-kernel"
+    },
+    {
+      "name": "jordanbean-msft/openai-agents-fastapi",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/84806584?s=40&v=4",
+      "owner": "jordanbean-msft",
+      "repo_name": "openai-agents-fastapi"
+    },
+    {
+      "name": "franciszchen/MAIDS",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/16402098?s=40&v=4",
+      "owner": "franciszchen",
+      "repo_name": "MAIDS"
+    },
+    {
+      "name": "nacoline/MetaMG400",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/96275268?s=40&v=4",
+      "owner": "nacoline",
+      "repo_name": "MetaMG400"
+    },
+    {
+      "name": "RalphHightower/semantic-kernel",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/32745442?s=40&v=4",
+      "owner": "RalphHightower",
+      "repo_name": "semantic-kernel"
+    },
+    {
+      "name": "XiangJinyu/Aflow",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/137690584?s=40&v=4",
+      "owner": "XiangJinyu",
+      "repo_name": "Aflow"
+    },
+    {
+      "name": "wmeints/paperboy",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1550763?s=40&v=4",
+      "owner": "wmeints",
+      "repo_name": "paperboy"
+    },
+    {
+      "name": "patooworld/autogen",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/114192133?s=40&v=4",
+      "owner": "patooworld",
+      "repo_name": "autogen"
+    },
+    {
+      "name": "orellanoyamile/database_chatbot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/131058655?s=40&v=4",
+      "owner": "orellanoyamile",
+      "repo_name": "database_chatbot"
+    },
+    {
+      "name": "colincmac/ai-rag-techniques-on-azure",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/99688332?s=40&v=4",
+      "owner": "colincmac",
+      "repo_name": "ai-rag-techniques-on-azure"
+    },
+    {
+      "name": "pnd-andrei/SmartResume",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/76188072?s=40&v=4",
+      "owner": "pnd-andrei",
+      "repo_name": "SmartResume"
+    },
+    {
+      "name": "Xin-Ray/AiCoach",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/113844301?s=40&v=4",
+      "owner": "Xin-Ray",
+      "repo_name": "AiCoach"
+    },
+    {
+      "name": "Thoams0211/Stock-Insight",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/97227379?s=40&v=4",
+      "owner": "Thoams0211",
+      "repo_name": "Stock-Insight"
+    },
+    {
+      "name": "pfekrati/langchain-vs-semantickernel",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/106823811?s=40&v=4",
+      "owner": "pfekrati",
+      "repo_name": "langchain-vs-semantickernel"
+    },
+    {
+      "name": "Imperial-EE-Microsoft/github-app-public",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/169689686?s=40&v=4",
+      "owner": "Imperial-EE-Microsoft",
+      "repo_name": "github-app-public"
+    },
+    {
+      "name": "umermansoor/llm-ai-coach",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/862952?s=40&v=4",
+      "owner": "umermansoor",
+      "repo_name": "llm-ai-coach"
+    },
+    {
+      "name": "avidunixuser/AOAICoE",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/2113048?s=40&v=4",
+      "owner": "avidunixuser",
+      "repo_name": "AOAICoE"
+    },
+    {
+      "name": "YoutacRandS-VA/autogen",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/146207501?s=40&v=4",
+      "owner": "YoutacRandS-VA",
+      "repo_name": "autogen"
+    },
+    {
+      "name": "sghao/kaggle",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/24216745?s=40&v=4",
+      "owner": "sghao",
+      "repo_name": "kaggle"
+    },
+    {
+      "name": "meslubi2021/semantic-kernel-starters",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/145295387?s=40&v=4",
+      "owner": "meslubi2021",
+      "repo_name": "semantic-kernel-starters"
+    },
+    {
+      "name": "meslubi2021/semantic-kernel",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/145295387?s=40&v=4",
+      "owner": "meslubi2021",
+      "repo_name": "semantic-kernel"
+    },
+    {
+      "name": "HenriSchulte-MS/Basic-Semantic-Kernel-Copilot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/77101781?s=40&v=4",
+      "owner": "HenriSchulte-MS",
+      "repo_name": "Basic-Semantic-Kernel-Copilot"
+    },
+    {
+      "name": "joansoleroig/Predictive-Maintenance-Streamlit-App",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/119736097?s=40&v=4",
+      "owner": "joansoleroig",
+      "repo_name": "Predictive-Maintenance-Streamlit-App"
+    },
+    {
+      "name": "black-da-bull/autogen",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/110015660?s=40&v=4",
+      "owner": "black-da-bull",
+      "repo_name": "autogen"
+    },
+    {
+      "name": "paaschdigital/autogen",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/100975984?s=40&v=4",
+      "owner": "paaschdigital",
+      "repo_name": "autogen"
+    },
+    {
+      "name": "ehimen-io/resume-helper",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/43546100?s=40&v=4",
+      "owner": "ehimen-io",
+      "repo_name": "resume-helper"
+    },
+    {
+      "name": "yuxiaobopp/metagpt_spider",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/22901629?s=40&v=4",
+      "owner": "yuxiaobopp",
+      "repo_name": "metagpt_spider"
+    },
+    {
+      "name": "Eightina/arxiv-agent",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/81902383?s=40&v=4",
+      "owner": "Eightina",
+      "repo_name": "arxiv-agent"
+    },
+    {
+      "name": "Maximiliano-Villanueva/orchestrator-semantic-kernel-api",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/76200479?s=40&v=4",
+      "owner": "Maximiliano-Villanueva",
+      "repo_name": "orchestrator-semantic-kernel-api"
+    },
+    {
+      "name": "onhello-automation/otto",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/83440597?s=40&v=4",
+      "owner": "onhello-automation",
+      "repo_name": "otto"
+    },
+    {
+      "name": "cerberuswilliam/MetaGPT",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/39875358?s=40&v=4",
+      "owner": "cerberuswilliam",
+      "repo_name": "MetaGPT"
+    },
+    {
+      "name": "cerberuswilliam/worldMetaGPT",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/39875358?s=40&v=4",
+      "owner": "cerberuswilliam",
+      "repo_name": "worldMetaGPT"
+    },
+    {
+      "name": "nandumsft/promtfloweval",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/123025520?s=40&v=4",
+      "owner": "nandumsft",
+      "repo_name": "promtfloweval"
+    },
+    {
+      "name": "SehejSoni/try",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/134284071?s=40&v=4",
+      "owner": "SehejSoni",
+      "repo_name": "try"
+    },
+    {
+      "name": "QoutiOussama13/InsurAI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/81428754?s=40&v=4",
+      "owner": "QoutiOussama13",
+      "repo_name": "InsurAI"
+    },
+    {
+      "name": "kdcllc/nlp-sql-in-a-box",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/13120940?s=40&v=4",
+      "owner": "kdcllc",
+      "repo_name": "nlp-sql-in-a-box"
+    },
+    {
+      "name": "synedra/vector_linkedin",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/77410784?s=40&v=4",
+      "owner": "synedra",
+      "repo_name": "vector_linkedin"
+    },
+    {
+      "name": "AymenSegni/ecoai-app",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/28219843?s=40&v=4",
+      "owner": "AymenSegni",
+      "repo_name": "ecoai-app"
+    },
+    {
+      "name": "martcpp/MetaGPT",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/103220475?s=40&v=4",
+      "owner": "martcpp",
+      "repo_name": "MetaGPT"
+    },
+    {
+      "name": "dan-redcupit/MetaGPT",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/8456328?s=40&v=4",
+      "owner": "dan-redcupit",
+      "repo_name": "MetaGPT"
+    },
+    {
+      "name": "Gonzivang/SecondTry",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/29268941?s=40&v=4",
+      "owner": "Gonzivang",
+      "repo_name": "SecondTry"
+    },
+    {
+      "name": "castillosebastian/genai3",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/17081544?s=40&v=4",
+      "owner": "castillosebastian",
+      "repo_name": "genai3"
+    },
+    {
+      "name": "msalemor/gpt-assistants",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/44649358?s=40&v=4",
+      "owner": "msalemor",
+      "repo_name": "gpt-assistants"
+    },
+    {
+      "name": "silarsis/assistant",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/2221181?s=40&v=4",
+      "owner": "silarsis",
+      "repo_name": "assistant"
+    },
+    {
+      "name": "vinod-soni-microsoft/thinking-out-loud-librarian-whisper",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/117770765?s=40&v=4",
+      "owner": "vinod-soni-microsoft",
+      "repo_name": "thinking-out-loud-librarian-whisper"
+    },
+    {
+      "name": "vinod-soni-microsoft/chain-of-thought",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/117770765?s=40&v=4",
+      "owner": "vinod-soni-microsoft",
+      "repo_name": "chain-of-thought"
+    },
+    {
+      "name": "vinod-soni-microsoft/simple-summarizer-with-semantic-kernel",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/117770765?s=40&v=4",
+      "owner": "vinod-soni-microsoft",
+      "repo_name": "simple-summarizer-with-semantic-kernel"
+    },
+    {
+      "name": "awkwardindustries/starter-sk-python-functions",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/31149154?s=40&v=4",
+      "owner": "awkwardindustries",
+      "repo_name": "starter-sk-python-functions"
+    },
+    {
+      "name": "rom212/semantic_skill_evaluation",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/54595299?s=40&v=4",
+      "owner": "rom212",
+      "repo_name": "semantic_skill_evaluation"
+    },
+    {
+      "name": "SMC-Presales-Accelerators/azure-data-chat",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/156377865?s=40&v=4",
+      "owner": "SMC-Presales-Accelerators",
+      "repo_name": "azure-data-chat"
+    },
+    {
+      "name": "minerva-ed/SustAInSim",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/150646217?s=40&v=4",
+      "owner": "minerva-ed",
+      "repo_name": "SustAInSim"
+    },
+    {
+      "name": "ajonathan/intro-to-intelligent-apps",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/15071719?s=40&v=4",
+      "owner": "ajonathan",
+      "repo_name": "intro-to-intelligent-apps"
+    },
+    {
+      "name": "kirenz/lab-langchain-functions",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/48259550?s=40&v=4",
+      "owner": "kirenz",
+      "repo_name": "lab-langchain-functions"
+    },
+    {
+      "name": "areibman/MetaGPT",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/14807319?s=40&v=4",
+      "owner": "areibman",
+      "repo_name": "MetaGPT"
+    },
+    {
+      "name": "enwask/due-diligence",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/144351164?s=40&v=4",
+      "owner": "enwask",
+      "repo_name": "due-diligence"
+    },
+    {
+      "name": "raffertyuy/RazGPT",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1037626?s=40&v=4",
+      "owner": "raffertyuy",
+      "repo_name": "RazGPT"
+    },
+    {
+      "name": "amitpuri/LLM-Text-Completion-Semantic-Kernel",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/6460233?s=40&v=4",
+      "owner": "amitpuri",
+      "repo_name": "LLM-Text-Completion-Semantic-Kernel"
+    },
+    {
+      "name": "JustinMeimar/hack-gpt-dev",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/32406396?s=40&v=4",
+      "owner": "JustinMeimar",
+      "repo_name": "hack-gpt-dev"
+    },
+    {
+      "name": "philmui/asdrp2023",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/78625?s=40&v=4",
+      "owner": "philmui",
+      "repo_name": "asdrp2023"
+    },
+    {
+      "name": "placerda/gpt-oyd-ingestion",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/6265211?s=40&v=4",
+      "owner": "placerda",
+      "repo_name": "gpt-oyd-ingestion"
+    },
+    {
+      "name": "showpune/windup-prompt",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1787505?s=40&v=4",
+      "owner": "showpune",
+      "repo_name": "windup-prompt"
+    }
+  ],
+  "total_dependents_number": 164,
+  "public_dependents_number": 164,
+  "public_dependents_stars": 75995
+}

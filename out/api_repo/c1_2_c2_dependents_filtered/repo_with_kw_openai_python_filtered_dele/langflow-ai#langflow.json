@@ -1,0 +1,484 @@
+{
+  "all_public_dependent_repos": [
+    {
+      "name": "langflow-ai/langflow",
+      "stars": 49135,
+      "img": "https://avatars.githubusercontent.com/u/85702467?s=40&v=4",
+      "owner": "langflow-ai",
+      "repo_name": "langflow"
+    },
+    {
+      "name": "bRAGAI/bRAG-langchain",
+      "stars": 1733,
+      "img": "https://avatars.githubusercontent.com/u/188657705?s=40&v=4",
+      "owner": "bRAGAI",
+      "repo_name": "bRAG-langchain"
+    },
+    {
+      "name": "opendatahub-io-contrib/workbench-images",
+      "stars": 43,
+      "img": "https://avatars.githubusercontent.com/u/107418811?s=40&v=4",
+      "owner": "opendatahub-io-contrib",
+      "repo_name": "workbench-images"
+    },
+    {
+      "name": "yaitec/langflow-streamlit",
+      "stars": 24,
+      "img": "https://avatars.githubusercontent.com/u/137899388?s=40&v=4",
+      "owner": "yaitec",
+      "repo_name": "langflow-streamlit"
+    },
+    {
+      "name": "menloparklab/langflow-railway-deployment",
+      "stars": 20,
+      "img": "https://avatars.githubusercontent.com/u/117567996?s=40&v=4",
+      "owner": "menloparklab",
+      "repo_name": "langflow-railway-deployment"
+    },
+    {
+      "name": "TheCompAce/Virtual-Office-AI",
+      "stars": 19,
+      "img": "https://avatars.githubusercontent.com/u/47639480?s=40&v=4",
+      "owner": "TheCompAce",
+      "repo_name": "Virtual-Office-AI"
+    },
+    {
+      "name": "ogabrielluiz/langflow-railway",
+      "stars": 16,
+      "img": "https://avatars.githubusercontent.com/u/24829397?s=40&v=4",
+      "owner": "ogabrielluiz",
+      "repo_name": "langflow-railway"
+    },
+    {
+      "name": "langflow-ai/langflow-extras",
+      "stars": 14,
+      "img": "https://avatars.githubusercontent.com/u/85702467?s=40&v=4",
+      "owner": "langflow-ai",
+      "repo_name": "langflow-extras"
+    },
+    {
+      "name": "melienherrera/resumAI",
+      "stars": 13,
+      "img": "https://avatars.githubusercontent.com/u/85907755?s=40&v=4",
+      "owner": "melienherrera",
+      "repo_name": "resumAI"
+    },
+    {
+      "name": "brylie/langflow-fastapi-htmx",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/17307?s=40&v=4",
+      "owner": "brylie",
+      "repo_name": "langflow-fastapi-htmx"
+    },
+    {
+      "name": "xhiroga/til",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/13391129?s=40&v=4",
+      "owner": "xhiroga",
+      "repo_name": "til"
+    },
+    {
+      "name": "asimov-academy/Youtube-Newsletter",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/103602795?s=40&v=4",
+      "owner": "asimov-academy",
+      "repo_name": "Youtube-Newsletter"
+    },
+    {
+      "name": "ogabrielluiz/vercel-langflow",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/24829397?s=40&v=4",
+      "owner": "ogabrielluiz",
+      "repo_name": "vercel-langflow"
+    },
+    {
+      "name": "ojusave/zoom-astra-meeting-bot",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/18503333?s=40&v=4",
+      "owner": "ojusave",
+      "repo_name": "zoom-astra-meeting-bot"
+    },
+    {
+      "name": "zsolt-szekeres/youtube_news",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/15879446?s=40&v=4",
+      "owner": "zsolt-szekeres",
+      "repo_name": "youtube_news"
+    },
+    {
+      "name": "CycodeLabs/langflow-gitlab-server-evaluator",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/109922762?s=40&v=4",
+      "owner": "CycodeLabs",
+      "repo_name": "langflow-gitlab-server-evaluator"
+    },
+    {
+      "name": "SonicDMG/babbelfish.ai",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/23346205?s=40&v=4",
+      "owner": "SonicDMG",
+      "repo_name": "babbelfish.ai"
+    },
+    {
+      "name": "yaitec/Langflow-Streamlit-integration",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/137899388?s=40&v=4",
+      "owner": "yaitec",
+      "repo_name": "Langflow-Streamlit-integration"
+    },
+    {
+      "name": "Fareed95/Social-Media-insight",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/143815597?s=40&v=4",
+      "owner": "Fareed95",
+      "repo_name": "Social-Media-insight"
+    },
+    {
+      "name": "alphavector/all",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/11805788?s=40&v=4",
+      "owner": "alphavector",
+      "repo_name": "all"
+    },
+    {
+      "name": "konradbjk/hackyeah-2024-building-genai-apps",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/31480935?s=40&v=4",
+      "owner": "konradbjk",
+      "repo_name": "hackyeah-2024-building-genai-apps"
+    },
+    {
+      "name": "Souradeep1101/SugarBear",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/77822729?s=40&v=4",
+      "owner": "Souradeep1101",
+      "repo_name": "SugarBear"
+    },
+    {
+      "name": "SVyusti/CogniCare",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/101053307?s=40&v=4",
+      "owner": "SVyusti",
+      "repo_name": "CogniCare"
+    },
+    {
+      "name": "Lyn4ever29/pipy_server",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/25952589?s=40&v=4",
+      "owner": "Lyn4ever29",
+      "repo_name": "pipy_server"
+    },
+    {
+      "name": "jawa0/aish3",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/1636520?s=40&v=4",
+      "owner": "jawa0",
+      "repo_name": "aish3"
+    },
+    {
+      "name": "alfonsoastral/langflow2",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/134234458?s=40&v=4",
+      "owner": "alfonsoastral",
+      "repo_name": "langflow2"
+    },
+    {
+      "name": "wjurayj/web-assistant",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/44933917?s=40&v=4",
+      "owner": "wjurayj",
+      "repo_name": "web-assistant"
+    },
+    {
+      "name": "TGusciora/DemystifAI_Agents",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/47835700?s=40&v=4",
+      "owner": "TGusciora",
+      "repo_name": "DemystifAI_Agents"
+    },
+    {
+      "name": "DingHu-SEU/LangFlowApplications",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/46963410?s=40&v=4",
+      "owner": "DingHu-SEU",
+      "repo_name": "LangFlowApplications"
+    },
+    {
+      "name": "robertoamoreno/macos-security-report",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/16195292?s=40&v=4",
+      "owner": "robertoamoreno",
+      "repo_name": "macos-security-report"
+    },
+    {
+      "name": "selma-Bentaiba/Mini-AraQuiz-",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/99991684?s=40&v=4",
+      "owner": "selma-Bentaiba",
+      "repo_name": "Mini-AraQuiz-"
+    },
+    {
+      "name": "AbelardoGP/langflowAG",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/50301869?s=40&v=4",
+      "owner": "AbelardoGP",
+      "repo_name": "langflowAG"
+    },
+    {
+      "name": "rerm06/langflow22",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/60851430?s=40&v=4",
+      "owner": "rerm06",
+      "repo_name": "langflow22"
+    },
+    {
+      "name": "fredriccliver/knowledge-based-gpt",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/3406964?s=40&v=4",
+      "owner": "fredriccliver",
+      "repo_name": "knowledge-based-gpt"
+    },
+    {
+      "name": "DevSpirit-Man/Langchain_Backend_DigitalOcean",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/129690754?s=40&v=4",
+      "owner": "DevSpirit-Man",
+      "repo_name": "Langchain_Backend_DigitalOcean"
+    },
+    {
+      "name": "rahul38888/coding_practice",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/4942072?s=40&v=4",
+      "owner": "rahul38888",
+      "repo_name": "coding_practice"
+    },
+    {
+      "name": "bharathajjarapu/Analytics",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/106143429?s=40&v=4",
+      "owner": "bharathajjarapu",
+      "repo_name": "Analytics"
+    },
+    {
+      "name": "abizer007/Social-Media-Performance-Analysis",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/133958757?s=40&v=4",
+      "owner": "abizer007",
+      "repo_name": "Social-Media-Performance-Analysis"
+    },
+    {
+      "name": "Kunal-sharan/social_analyzer",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/117339459?s=40&v=4",
+      "owner": "Kunal-sharan",
+      "repo_name": "social_analyzer"
+    },
+    {
+      "name": "vikaspal1704/Social-Media-performance-analysis",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/64062341?s=40&v=4",
+      "owner": "vikaspal1704",
+      "repo_name": "Social-Media-performance-analysis"
+    },
+    {
+      "name": "Vishal2053/Advanced-LLM-Chatbots",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/130221313?s=40&v=4",
+      "owner": "Vishal2053",
+      "repo_name": "Advanced-LLM-Chatbots"
+    },
+    {
+      "name": "ArchDevData/langflowRAG1",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/190067016?s=40&v=4",
+      "owner": "ArchDevData",
+      "repo_name": "langflowRAG1"
+    },
+    {
+      "name": "piers109uk/json-lawgic",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/28823694?s=40&v=4",
+      "owner": "piers109uk",
+      "repo_name": "json-lawgic"
+    },
+    {
+      "name": "abhimvp/Multi_Agent",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/128408809?s=40&v=4",
+      "owner": "abhimvp",
+      "repo_name": "Multi_Agent"
+    },
+    {
+      "name": "JohnNixon6972/Python-Multi-Agent",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/69578073?s=40&v=4",
+      "owner": "JohnNixon6972",
+      "repo_name": "Python-Multi-Agent"
+    },
+    {
+      "name": "karanidenis/Capstone",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/101557403?s=40&v=4",
+      "owner": "karanidenis",
+      "repo_name": "Capstone"
+    },
+    {
+      "name": "supreddy/DocAppBackend",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1208283?s=40&v=4",
+      "owner": "supreddy",
+      "repo_name": "DocAppBackend"
+    },
+    {
+      "name": "Rhogger/Image-Generator",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/83069922?s=40&v=4",
+      "owner": "Rhogger",
+      "repo_name": "Image-Generator"
+    },
+    {
+      "name": "allanspadini/competicao-ia-devs",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/7840963?s=40&v=4",
+      "owner": "allanspadini",
+      "repo_name": "competicao-ia-devs"
+    },
+    {
+      "name": "robertonetoz/financeiro-app",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/133679859?s=40&v=4",
+      "owner": "robertonetoz",
+      "repo_name": "financeiro-app"
+    },
+    {
+      "name": "Sree-Krishna/Langflow-Fullstack",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/73356644?s=40&v=4",
+      "owner": "Sree-Krishna",
+      "repo_name": "Langflow-Fullstack"
+    },
+    {
+      "name": "Azizomezine/Healthpath",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/80254112?s=40&v=4",
+      "owner": "Azizomezine",
+      "repo_name": "Healthpath"
+    },
+    {
+      "name": "Ai-ENGINEER-s/AI_Project",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/93799144?s=40&v=4",
+      "owner": "Ai-ENGINEER-s",
+      "repo_name": "AI_Project"
+    },
+    {
+      "name": "DataCraftsmanAU/local-langchain",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/44729765?s=40&v=4",
+      "owner": "DataCraftsmanAU",
+      "repo_name": "local-langchain"
+    },
+    {
+      "name": "dongxiaolong/langflow-railway",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/23193031?s=40&v=4",
+      "owner": "dongxiaolong",
+      "repo_name": "langflow-railway"
+    },
+    {
+      "name": "matijasipek/MLOps_PortfolioOptimization",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/35802681?s=40&v=4",
+      "owner": "matijasipek",
+      "repo_name": "MLOps_PortfolioOptimization"
+    },
+    {
+      "name": "dupf/langflow-railway",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/917544?s=40&v=4",
+      "owner": "dupf",
+      "repo_name": "langflow-railway"
+    },
+    {
+      "name": "conceptkitchen/yttranscribe",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/137809594?s=40&v=4",
+      "owner": "conceptkitchen",
+      "repo_name": "yttranscribe"
+    },
+    {
+      "name": "mynumu/langflow-railway-api",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/121490973?s=40&v=4",
+      "owner": "mynumu",
+      "repo_name": "langflow-railway-api"
+    },
+    {
+      "name": "cutmasta-kun/Yggdrasil",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/15085007?s=40&v=4",
+      "owner": "cutmasta-kun",
+      "repo_name": "Yggdrasil"
+    },
+    {
+      "name": "mynumu/langflow-railway",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/121490973?s=40&v=4",
+      "owner": "mynumu",
+      "repo_name": "langflow-railway"
+    },
+    {
+      "name": "hariag/langflow-railway",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/2148771?s=40&v=4",
+      "owner": "hariag",
+      "repo_name": "langflow-railway"
+    },
+    {
+      "name": "starmorph/langflow-railway",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/121908331?s=40&v=4",
+      "owner": "starmorph",
+      "repo_name": "langflow-railway"
+    },
+    {
+      "name": "monarch-initiative/oneilsh-llm-tools-tests",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/5161984?s=40&v=4",
+      "owner": "monarch-initiative",
+      "repo_name": "oneilsh-llm-tools-tests"
+    },
+    {
+      "name": "imanmalhi/sales-ai-agent",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/16513362?s=40&v=4",
+      "owner": "imanmalhi",
+      "repo_name": "sales-ai-agent"
+    },
+    {
+      "name": "botbusiness-org/builder",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/196480243?s=40&v=4",
+      "owner": "botbusiness-org",
+      "repo_name": "builder"
+    },
+    {
+      "name": "Nishchaypat/Athlyze",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/100232114?s=40&v=4",
+      "owner": "Nishchaypat",
+      "repo_name": "Athlyze"
+    }
+  ],
+  "total_dependents_number": 67,
+  "public_dependents_number": 67,
+  "private_dependents_number": -85,
+  "public_dependents_stars": 51157,
+  "badges": {
+    "total_doc_url": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=85&color=informational&logo=slickpic)](https://github.com/nvuillam/github-dependents-info)",
+    "total": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=67&color=informational&logo=slickpic)](https://github.com/langflow-ai/langflow/network/dependents)",
+    "public": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=67&color=informational&logo=slickpic)](https://github.com/langflow-ai/langflow/network/dependents)",
+    "private": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-85&color=informational&logo=slickpic)](https://github.com/langflow-ai/langflow/network/dependents)",
+    "stars": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=51157&color=informational&logo=slickpic)](https://github.com/langflow-ai/langflow/network/dependents)"
+  }
+}

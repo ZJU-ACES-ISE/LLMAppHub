@@ -1,0 +1,2213 @@
+{
+  "all_public_dependent_repos": [
+    {
+      "name": "apache/flink-cdc",
+      "stars": 5954,
+      "img": "https://avatars.githubusercontent.com/u/47359?s=40&v=4",
+      "owner": "apache",
+      "repo_name": "flink-cdc"
+    },
+    {
+      "name": "langchain4j/langchain4j",
+      "stars": 5860,
+      "img": "https://avatars.githubusercontent.com/u/132277850?s=40&v=4",
+      "owner": "langchain4j",
+      "repo_name": "langchain4j"
+    },
+    {
+      "name": "apache/camel",
+      "stars": 5731,
+      "img": "https://avatars.githubusercontent.com/u/47359?s=40&v=4",
+      "owner": "apache",
+      "repo_name": "camel"
+    },
+    {
+      "name": "comet-ml/opik",
+      "stars": 5108,
+      "img": "https://avatars.githubusercontent.com/u/31487821?s=40&v=4",
+      "owner": "comet-ml",
+      "repo_name": "opik"
+    },
+    {
+      "name": "helidon-io/helidon",
+      "stars": 3593,
+      "img": "https://avatars.githubusercontent.com/u/107568707?s=40&v=4",
+      "owner": "helidon-io",
+      "repo_name": "helidon"
+    },
+    {
+      "name": "tencentmusic/supersonic",
+      "stars": 2973,
+      "img": "https://avatars.githubusercontent.com/u/53810446?s=40&v=4",
+      "owner": "tencentmusic",
+      "repo_name": "supersonic"
+    },
+    {
+      "name": "vearch/vearch",
+      "stars": 2125,
+      "img": "https://avatars.githubusercontent.com/u/40046182?s=40&v=4",
+      "owner": "vearch",
+      "repo_name": "vearch"
+    },
+    {
+      "name": "apache/hop",
+      "stars": 1062,
+      "img": "https://avatars.githubusercontent.com/u/47359?s=40&v=4",
+      "owner": "apache",
+      "repo_name": "hop"
+    },
+    {
+      "name": "TyCoding/langchat",
+      "stars": 840,
+      "img": "https://avatars.githubusercontent.com/u/36946717?s=40&v=4",
+      "owner": "TyCoding",
+      "repo_name": "langchat"
+    },
+    {
+      "name": "platonai/PulsarRPA",
+      "stars": 804,
+      "img": "https://avatars.githubusercontent.com/u/37785921?s=40&v=4",
+      "owner": "platonai",
+      "repo_name": "PulsarRPA"
+    },
+    {
+      "name": "freechat-fun/freechat",
+      "stars": 549,
+      "img": "https://avatars.githubusercontent.com/u/141302863?s=40&v=4",
+      "owner": "freechat-fun",
+      "repo_name": "freechat"
+    },
+    {
+      "name": "moyangzhan/langchain4j-aideepin",
+      "stars": 413,
+      "img": "https://avatars.githubusercontent.com/u/83471894?s=40&v=4",
+      "owner": "moyangzhan",
+      "repo_name": "langchain4j-aideepin"
+    },
+    {
+      "name": "clearflask/clearflask",
+      "stars": 336,
+      "img": "https://avatars.githubusercontent.com/u/88318533?s=40&v=4",
+      "owner": "clearflask",
+      "repo_name": "clearflask"
+    },
+    {
+      "name": "labsai/EDDI",
+      "stars": 263,
+      "img": "https://avatars.githubusercontent.com/u/22817083?s=40&v=4",
+      "owner": "labsai",
+      "repo_name": "EDDI"
+    },
+    {
+      "name": "apache/camel-quarkus",
+      "stars": 257,
+      "img": "https://avatars.githubusercontent.com/u/47359?s=40&v=4",
+      "owner": "apache",
+      "repo_name": "camel-quarkus"
+    },
+    {
+      "name": "mark-watson/Java-AI-Book-Code",
+      "stars": 248,
+      "img": "https://avatars.githubusercontent.com/u/33912?s=40&v=4",
+      "owner": "mark-watson",
+      "repo_name": "Java-AI-Book-Code"
+    },
+    {
+      "name": "IanDarwin/javasrc",
+      "stars": 244,
+      "img": "https://avatars.githubusercontent.com/u/4762842?s=40&v=4",
+      "owner": "IanDarwin",
+      "repo_name": "javasrc"
+    },
+    {
+      "name": "bsorrentino/langgraph4j",
+      "stars": 234,
+      "img": "https://avatars.githubusercontent.com/u/301596?s=40&v=4",
+      "owner": "bsorrentino",
+      "repo_name": "langgraph4j"
+    },
+    {
+      "name": "quarkiverse/quarkus-langchain4j",
+      "stars": 170,
+      "img": "https://avatars.githubusercontent.com/u/69191779?s=40&v=4",
+      "owner": "quarkiverse",
+      "repo_name": "quarkus-langchain4j"
+    },
+    {
+      "name": "langchain4j/langchain4j-spring",
+      "stars": 163,
+      "img": "https://avatars.githubusercontent.com/u/132277850?s=40&v=4",
+      "owner": "langchain4j",
+      "repo_name": "langchain4j-spring"
+    },
+    {
+      "name": "neo4j/neo4j-jdbc",
+      "stars": 137,
+      "img": "https://avatars.githubusercontent.com/u/201120?s=40&v=4",
+      "owner": "neo4j",
+      "repo_name": "neo4j-jdbc"
+    },
+    {
+      "name": "mindolph/Mindolph",
+      "stars": 137,
+      "img": "https://avatars.githubusercontent.com/u/103452846?s=40&v=4",
+      "owner": "mindolph",
+      "repo_name": "Mindolph"
+    },
+    {
+      "name": "ww20081120/framework",
+      "stars": 134,
+      "img": "https://avatars.githubusercontent.com/u/3131302?s=40&v=4",
+      "owner": "ww20081120",
+      "repo_name": "framework"
+    },
+    {
+      "name": "quarkusio/quarkus-platform",
+      "stars": 127,
+      "img": "https://avatars.githubusercontent.com/u/47638783?s=40&v=4",
+      "owner": "quarkusio",
+      "repo_name": "quarkus-platform"
+    },
+    {
+      "name": "vishalmysore/Tools4AI",
+      "stars": 117,
+      "img": "https://avatars.githubusercontent.com/u/25938717?s=40&v=4",
+      "owner": "vishalmysore",
+      "repo_name": "Tools4AI"
+    },
+    {
+      "name": "czelabueno/jai-workflow",
+      "stars": 100,
+      "img": "https://avatars.githubusercontent.com/u/1715122?s=40&v=4",
+      "owner": "czelabueno",
+      "repo_name": "jai-workflow"
+    },
+    {
+      "name": "GAIGResearch/TabletopGames",
+      "stars": 87,
+      "img": "https://avatars.githubusercontent.com/u/35296018?s=40&v=4",
+      "owner": "GAIGResearch",
+      "repo_name": "TabletopGames"
+    },
+    {
+      "name": "langchain4j/langchain4j-embeddings",
+      "stars": 77,
+      "img": "https://avatars.githubusercontent.com/u/132277850?s=40&v=4",
+      "owner": "langchain4j",
+      "repo_name": "langchain4j-embeddings"
+    },
+    {
+      "name": "stephanj/rag-genie",
+      "stars": 74,
+      "img": "https://avatars.githubusercontent.com/u/179457?s=40&v=4",
+      "owner": "stephanj",
+      "repo_name": "rag-genie"
+    },
+    {
+      "name": "marcushellberg/java-chat-with-documents",
+      "stars": 71,
+      "img": "https://avatars.githubusercontent.com/u/883698?s=40&v=4",
+      "owner": "marcushellberg",
+      "repo_name": "java-chat-with-documents"
+    },
+    {
+      "name": "francelabs/datafari",
+      "stars": 69,
+      "img": "https://avatars.githubusercontent.com/u/6458929?s=40&v=4",
+      "owner": "francelabs",
+      "repo_name": "datafari"
+    },
+    {
+      "name": "BuildCLI/BuildCLI",
+      "stars": 61,
+      "img": "https://avatars.githubusercontent.com/u/197433780?s=40&v=4",
+      "owner": "BuildCLI",
+      "repo_name": "BuildCLI"
+    },
+    {
+      "name": "apache/bigtop-manager",
+      "stars": 59,
+      "img": "https://avatars.githubusercontent.com/u/47359?s=40&v=4",
+      "owner": "apache",
+      "repo_name": "bigtop-manager"
+    },
+    {
+      "name": "liyf1/chatgpt-plus",
+      "stars": 56,
+      "img": "https://avatars.githubusercontent.com/u/49024327?s=40&v=4",
+      "owner": "liyf1",
+      "repo_name": "chatgpt-plus"
+    },
+    {
+      "name": "wso2/orbit",
+      "stars": 48,
+      "img": "https://avatars.githubusercontent.com/u/533043?s=40&v=4",
+      "owner": "wso2",
+      "repo_name": "orbit"
+    },
+    {
+      "name": "WolfLink-DevTeam/lite-etl",
+      "stars": 41,
+      "img": "https://avatars.githubusercontent.com/u/127841785?s=40&v=4",
+      "owner": "WolfLink-DevTeam",
+      "repo_name": "lite-etl"
+    },
+    {
+      "name": "mariofusco/droolsGPT",
+      "stars": 35,
+      "img": "https://avatars.githubusercontent.com/u/372781?s=40&v=4",
+      "owner": "mariofusco",
+      "repo_name": "droolsGPT"
+    },
+    {
+      "name": "datastaxdevs/conference-2024-devoxx",
+      "stars": 34,
+      "img": "https://avatars.githubusercontent.com/u/72034153?s=40&v=4",
+      "owner": "datastaxdevs",
+      "repo_name": "conference-2024-devoxx"
+    },
+    {
+      "name": "telekom/advanced-coding-assistant-backend",
+      "stars": 32,
+      "img": "https://avatars.githubusercontent.com/u/27354058?s=40&v=4",
+      "owner": "telekom",
+      "repo_name": "advanced-coding-assistant-backend"
+    },
+    {
+      "name": "howardliu-cn/effective-spring",
+      "stars": 29,
+      "img": "https://avatars.githubusercontent.com/u/5778900?s=40&v=4",
+      "owner": "howardliu-cn",
+      "repo_name": "effective-spring"
+    },
+    {
+      "name": "SaiUpadhyayula/langchain4j-pdf-assistant",
+      "stars": 28,
+      "img": "https://avatars.githubusercontent.com/u/4116717?s=40&v=4",
+      "owner": "SaiUpadhyayula",
+      "repo_name": "langchain4j-pdf-assistant"
+    },
+    {
+      "name": "langchain4j/langchain4j-community",
+      "stars": 27,
+      "img": "https://avatars.githubusercontent.com/u/132277850?s=40&v=4",
+      "owner": "langchain4j",
+      "repo_name": "langchain4j-community"
+    },
+    {
+      "name": "quarkiverse/quarkus-mcp-servers",
+      "stars": 26,
+      "img": "https://avatars.githubusercontent.com/u/69191779?s=40&v=4",
+      "owner": "quarkiverse",
+      "repo_name": "quarkus-mcp-servers"
+    },
+    {
+      "name": "GoogleCloudPlatform/serverless-production-readiness-java-gcp",
+      "stars": 25,
+      "img": "https://avatars.githubusercontent.com/u/2810941?s=40&v=4",
+      "owner": "GoogleCloudPlatform",
+      "repo_name": "serverless-production-readiness-java-gcp"
+    },
+    {
+      "name": "leecho/flychat",
+      "stars": 25,
+      "img": "https://avatars.githubusercontent.com/u/5163773?s=40&v=4",
+      "owner": "leecho",
+      "repo_name": "flychat"
+    },
+    {
+      "name": "xiexiaojing/yuna",
+      "stars": 24,
+      "img": "https://avatars.githubusercontent.com/u/28048077?s=40&v=4",
+      "owner": "xiexiaojing",
+      "repo_name": "yuna"
+    },
+    {
+      "name": "marcushellberg/spring-boot-react-langchain-chatgpt",
+      "stars": 24,
+      "img": "https://avatars.githubusercontent.com/u/883698?s=40&v=4",
+      "owner": "marcushellberg",
+      "repo_name": "spring-boot-react-langchain-chatgpt"
+    },
+    {
+      "name": "Yiuman/autoflow",
+      "stars": 22,
+      "img": "https://avatars.githubusercontent.com/u/23078024?s=40&v=4",
+      "owner": "Yiuman",
+      "repo_name": "autoflow"
+    },
+    {
+      "name": "AbiramiSukumaran/toysearch",
+      "stars": 22,
+      "img": "https://avatars.githubusercontent.com/u/13735898?s=40&v=4",
+      "owner": "AbiramiSukumaran",
+      "repo_name": "toysearch"
+    },
+    {
+      "name": "mwinteringham/generative-ai-and-testing",
+      "stars": 21,
+      "img": "https://avatars.githubusercontent.com/u/1057998?s=40&v=4",
+      "owner": "mwinteringham",
+      "repo_name": "generative-ai-and-testing"
+    },
+    {
+      "name": "miliariadnane/spring-boot-doc-rag-bot",
+      "stars": 21,
+      "img": "https://avatars.githubusercontent.com/u/52249758?s=40&v=4",
+      "owner": "miliariadnane",
+      "repo_name": "spring-boot-doc-rag-bot"
+    },
+    {
+      "name": "ethauvin/mobibot",
+      "stars": 19,
+      "img": "https://avatars.githubusercontent.com/u/705618?s=40&v=4",
+      "owner": "ethauvin",
+      "repo_name": "mobibot"
+    },
+    {
+      "name": "alina-yur/native-langchain4j",
+      "stars": 19,
+      "img": "https://avatars.githubusercontent.com/u/10358408?s=40&v=4",
+      "owner": "alina-yur",
+      "repo_name": "native-langchain4j"
+    },
+    {
+      "name": "it-at-m/digiwf-core",
+      "stars": 19,
+      "img": "https://avatars.githubusercontent.com/u/58515289?s=40&v=4",
+      "owner": "it-at-m",
+      "repo_name": "digiwf-core"
+    },
+    {
+      "name": "MuleSoft-AI-Chain-Project/mule-ai-chain-connector",
+      "stars": 18,
+      "img": "https://avatars.githubusercontent.com/u/171661760?s=40&v=4",
+      "owner": "MuleSoft-AI-Chain-Project",
+      "repo_name": "mule-ai-chain-connector"
+    },
+    {
+      "name": "arafkarsh/ms-springboot-ai",
+      "stars": 18,
+      "img": "https://avatars.githubusercontent.com/u/11264297?s=40&v=4",
+      "owner": "arafkarsh",
+      "repo_name": "ms-springboot-ai"
+    },
+    {
+      "name": "open4good/open4goods",
+      "stars": 18,
+      "img": "https://avatars.githubusercontent.com/u/81940135?s=40&v=4",
+      "owner": "open4good",
+      "repo_name": "open4goods"
+    },
+    {
+      "name": "quarkiverse/quarkus-mcp-server",
+      "stars": 18,
+      "img": "https://avatars.githubusercontent.com/u/69191779?s=40&v=4",
+      "owner": "quarkiverse",
+      "repo_name": "quarkus-mcp-server"
+    },
+    {
+      "name": "Fernanda-Kipper/ai-assistant-java",
+      "stars": 18,
+      "img": "https://avatars.githubusercontent.com/u/61896274?s=40&v=4",
+      "owner": "Fernanda-Kipper",
+      "repo_name": "ai-assistant-java"
+    },
+    {
+      "name": "litongjava/java-maxkb",
+      "stars": 17,
+      "img": "https://avatars.githubusercontent.com/u/31761981?s=40&v=4",
+      "owner": "litongjava",
+      "repo_name": "java-maxkb"
+    },
+    {
+      "name": "cescoffier/langchain4j-deep-dive",
+      "stars": 17,
+      "img": "https://avatars.githubusercontent.com/u/402301?s=40&v=4",
+      "owner": "cescoffier",
+      "repo_name": "langchain4j-deep-dive"
+    },
+    {
+      "name": "LizeRaes/feedback-analyzer",
+      "stars": 17,
+      "img": "https://avatars.githubusercontent.com/u/49833622?s=40&v=4",
+      "owner": "LizeRaes",
+      "repo_name": "feedback-analyzer"
+    },
+    {
+      "name": "Ganeshsivakumar/langchain-beam",
+      "stars": 16,
+      "img": "https://avatars.githubusercontent.com/u/29056926?s=40&v=4",
+      "owner": "Ganeshsivakumar",
+      "repo_name": "langchain-beam"
+    },
+    {
+      "name": "agoncal/agoncal-fascicle-langchain4j",
+      "stars": 16,
+      "img": "https://avatars.githubusercontent.com/u/729277?s=40&v=4",
+      "owner": "agoncal",
+      "repo_name": "agoncal-fascicle-langchain4j"
+    },
+    {
+      "name": "Talend/apache-camel",
+      "stars": 16,
+      "img": "https://avatars.githubusercontent.com/u/459687?s=40&v=4",
+      "owner": "Talend",
+      "repo_name": "apache-camel"
+    },
+    {
+      "name": "backpaper0/sandbox",
+      "stars": 15,
+      "img": "https://avatars.githubusercontent.com/u/209262?s=40&v=4",
+      "owner": "backpaper0",
+      "repo_name": "sandbox"
+    },
+    {
+      "name": "kmwtechnology/lucille",
+      "stars": 15,
+      "img": "https://avatars.githubusercontent.com/u/119958524?s=40&v=4",
+      "owner": "kmwtechnology",
+      "repo_name": "lucille"
+    },
+    {
+      "name": "smallrye/smallrye-llm",
+      "stars": 14,
+      "img": "https://avatars.githubusercontent.com/u/38892730?s=40&v=4",
+      "owner": "smallrye",
+      "repo_name": "smallrye-llm"
+    },
+    {
+      "name": "mohamedYoussfi/agentic-rag-ai-agents-spring-langchain4j",
+      "stars": 14,
+      "img": "https://avatars.githubusercontent.com/u/7803765?s=40&v=4",
+      "owner": "mohamedYoussfi",
+      "repo_name": "agentic-rag-ai-agents-spring-langchain4j"
+    },
+    {
+      "name": "hanqunfeng/springbootchapter",
+      "stars": 13,
+      "img": "https://avatars.githubusercontent.com/u/10433226?s=40&v=4",
+      "owner": "hanqunfeng",
+      "repo_name": "springbootchapter"
+    },
+    {
+      "name": "SoftwareObservatorium/lasso",
+      "stars": 12,
+      "img": "https://avatars.githubusercontent.com/u/125974512?s=40&v=4",
+      "owner": "SoftwareObservatorium",
+      "repo_name": "lasso"
+    },
+    {
+      "name": "datastaxdevs/conference-2024-devoxx-france",
+      "stars": 12,
+      "img": "https://avatars.githubusercontent.com/u/72034153?s=40&v=4",
+      "owner": "datastaxdevs",
+      "repo_name": "conference-2024-devoxx-france"
+    },
+    {
+      "name": "jbellis/brokk",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/42158?s=40&v=4",
+      "owner": "jbellis",
+      "repo_name": "brokk"
+    },
+    {
+      "name": "datastax/astra-db-java",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/573369?s=40&v=4",
+      "owner": "datastax",
+      "repo_name": "astra-db-java"
+    },
+    {
+      "name": "walimorris/opensquare",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/48896622?s=40&v=4",
+      "owner": "walimorris",
+      "repo_name": "opensquare"
+    },
+    {
+      "name": "ENATION-UK/page-builder",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/144975231?s=40&v=4",
+      "owner": "ENATION-UK",
+      "repo_name": "page-builder"
+    },
+    {
+      "name": "kpavlov/langchain4j-kotlin",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/1517853?s=40&v=4",
+      "owner": "kpavlov",
+      "repo_name": "langchain4j-kotlin"
+    },
+    {
+      "name": "showpune/spring-petclinic-langchain4j",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/1787505?s=40&v=4",
+      "owner": "showpune",
+      "repo_name": "spring-petclinic-langchain4j"
+    },
+    {
+      "name": "LizeRaes/lc4j-lab-intro-assignments",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/49833622?s=40&v=4",
+      "owner": "LizeRaes",
+      "repo_name": "lc4j-lab-intro-assignments"
+    },
+    {
+      "name": "matteo4diani/java-retrieval-augmented-generation",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/71652886?s=40&v=4",
+      "owner": "matteo4diani",
+      "repo_name": "java-retrieval-augmented-generation"
+    },
+    {
+      "name": "jmartisk/mock-artifacts",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/937315?s=40&v=4",
+      "owner": "jmartisk",
+      "repo_name": "mock-artifacts"
+    },
+    {
+      "name": "dylibso/mcpx4j",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/109687654?s=40&v=4",
+      "owner": "dylibso",
+      "repo_name": "mcpx4j"
+    },
+    {
+      "name": "dfuchss/MensaBot",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/22198798?s=40&v=4",
+      "owner": "dfuchss",
+      "repo_name": "MensaBot"
+    },
+    {
+      "name": "MuleSoft-AI-Chain-Project/mule-vectors-connector",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/171661760?s=40&v=4",
+      "owner": "MuleSoft-AI-Chain-Project",
+      "repo_name": "mule-vectors-connector"
+    },
+    {
+      "name": "miliariadnane/onboardease-rag-training-assistant",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/52249758?s=40&v=4",
+      "owner": "miliariadnane",
+      "repo_name": "onboardease-rag-training-assistant"
+    },
+    {
+      "name": "awslabs/real-time-vectorization-of-streaming-data",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/3299148?s=40&v=4",
+      "owner": "awslabs",
+      "repo_name": "real-time-vectorization-of-streaming-data"
+    },
+    {
+      "name": "stephen37/talks",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/6506810?s=40&v=4",
+      "owner": "stephen37",
+      "repo_name": "talks"
+    },
+    {
+      "name": "roy501-luo/LangChain-JavaChat",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/11643302?s=40&v=4",
+      "owner": "roy501-luo",
+      "repo_name": "LangChain-JavaChat"
+    },
+    {
+      "name": "ajavageek/langchain4j-musings",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/40125691?s=40&v=4",
+      "owner": "ajavageek",
+      "repo_name": "langchain4j-musings"
+    },
+    {
+      "name": "LizeRaes/lc4j-lab-intro-solution",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/49833622?s=40&v=4",
+      "owner": "LizeRaes",
+      "repo_name": "lc4j-lab-intro-solution"
+    },
+    {
+      "name": "ELMOUADDIBE/School-Chatbot",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/131310994?s=40&v=4",
+      "owner": "ELMOUADDIBE",
+      "repo_name": "School-Chatbot"
+    },
+    {
+      "name": "jacksonhu/wenxin-java-sdk",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/712726?s=40&v=4",
+      "owner": "jacksonhu",
+      "repo_name": "wenxin-java-sdk"
+    },
+    {
+      "name": "decodableco/oss-streaming-lab",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/73913813?s=40&v=4",
+      "owner": "decodableco",
+      "repo_name": "oss-streaming-lab"
+    },
+    {
+      "name": "explore-de/rage4j",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/159431356?s=40&v=4",
+      "owner": "explore-de",
+      "repo_name": "rage4j"
+    },
+    {
+      "name": "Palpatine0/Zillow",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/139954895?s=40&v=4",
+      "owner": "Palpatine0",
+      "repo_name": "Zillow"
+    },
+    {
+      "name": "ivargrimstad/duke-ai",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/149188?s=40&v=4",
+      "owner": "ivargrimstad",
+      "repo_name": "duke-ai"
+    },
+    {
+      "name": "quarkiverse/quarkus-chappie",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/69191779?s=40&v=4",
+      "owner": "quarkiverse",
+      "repo_name": "quarkus-chappie"
+    },
+    {
+      "name": "Ateto1204/Final4j",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/90423964?s=40&v=4",
+      "owner": "Ateto1204",
+      "repo_name": "Final4j"
+    },
+    {
+      "name": "FDelporte/langchain4j-javafx-docs-chat",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/1415873?s=40&v=4",
+      "owner": "FDelporte",
+      "repo_name": "langchain4j-javafx-docs-chat"
+    },
+    {
+      "name": "gdmatrix/gdmatrix",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/44194997?s=40&v=4",
+      "owner": "gdmatrix",
+      "repo_name": "gdmatrix"
+    },
+    {
+      "name": "DiverOfDark/TelegramSummarizer",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/1773279?s=40&v=4",
+      "owner": "DiverOfDark",
+      "repo_name": "TelegramSummarizer"
+    },
+    {
+      "name": "glaforge/short-genai-stories",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/47907?s=40&v=4",
+      "owner": "glaforge",
+      "repo_name": "short-genai-stories"
+    },
+    {
+      "name": "sergiolopessp/FortuneCookieAPI",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/54872984?s=40&v=4",
+      "owner": "sergiolopessp",
+      "repo_name": "FortuneCookieAPI"
+    },
+    {
+      "name": "professorisidro/criciumadevs",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/6184696?s=40&v=4",
+      "owner": "professorisidro",
+      "repo_name": "criciumadevs"
+    },
+    {
+      "name": "jeddict/jeddict-ai",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/26031127?s=40&v=4",
+      "owner": "jeddict",
+      "repo_name": "jeddict-ai"
+    },
+    {
+      "name": "jesuino/code-converter",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/359820?s=40&v=4",
+      "owner": "jesuino",
+      "repo_name": "code-converter"
+    },
+    {
+      "name": "achalise/langchainapp",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/332547?s=40&v=4",
+      "owner": "achalise",
+      "repo_name": "langchainapp"
+    },
+    {
+      "name": "ascheman/maven-gpt",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/456000?s=40&v=4",
+      "owner": "ascheman",
+      "repo_name": "maven-gpt"
+    },
+    {
+      "name": "wildfly-extras/wildfly-ai-feature-pack",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/7937746?s=40&v=4",
+      "owner": "wildfly-extras",
+      "repo_name": "wildfly-ai-feature-pack"
+    },
+    {
+      "name": "bdauvissat/ragtime",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/2834352?s=40&v=4",
+      "owner": "bdauvissat",
+      "repo_name": "ragtime"
+    },
+    {
+      "name": "genai-for-all/java-docker-genai-stack",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/165454692?s=40&v=4",
+      "owner": "genai-for-all",
+      "repo_name": "java-docker-genai-stack"
+    },
+    {
+      "name": "peltiern/robot",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/9947567?s=40&v=4",
+      "owner": "peltiern",
+      "repo_name": "robot"
+    },
+    {
+      "name": "aboullaite/java-serverless",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/2836850?s=40&v=4",
+      "owner": "aboullaite",
+      "repo_name": "java-serverless"
+    },
+    {
+      "name": "ritobrotos/java-langchain-rag-chatbot",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/9121431?s=40&v=4",
+      "owner": "ritobrotos",
+      "repo_name": "java-langchain-rag-chatbot"
+    },
+    {
+      "name": "czelabueno/springboot-langchain4j-graal",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/1715122?s=40&v=4",
+      "owner": "czelabueno",
+      "repo_name": "springboot-langchain4j-graal"
+    },
+    {
+      "name": "yugoccp/hello-langchain4j",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/1724114?s=40&v=4",
+      "owner": "yugoccp",
+      "repo_name": "hello-langchain4j"
+    },
+    {
+      "name": "PKU-LowCodeKG/LowCodeKG",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/188724191?s=40&v=4",
+      "owner": "PKU-LowCodeKG",
+      "repo_name": "LowCodeKG"
+    },
+    {
+      "name": "LizeRaes/shopping-assistant",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/49833622?s=40&v=4",
+      "owner": "LizeRaes",
+      "repo_name": "shopping-assistant"
+    },
+    {
+      "name": "PacktPublishing/Gen-AI-with-Neo4j-Knowledge-Graphs-Vector-Search",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/10974906?s=40&v=4",
+      "owner": "PacktPublishing",
+      "repo_name": "Gen-AI-with-Neo4j-Knowledge-Graphs-Vector-Search"
+    },
+    {
+      "name": "TuringCrafters/EquityAI",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/155525592?s=40&v=4",
+      "owner": "TuringCrafters",
+      "repo_name": "EquityAI"
+    },
+    {
+      "name": "Informasjonsforvaltning/fdk-llm-search-service",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/33871228?s=40&v=4",
+      "owner": "Informasjonsforvaltning",
+      "repo_name": "fdk-llm-search-service"
+    },
+    {
+      "name": "raphaeldelio/rediscovering-apollo-11-with-redis-om-spring-and-vector-search",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/25641721?s=40&v=4",
+      "owner": "raphaeldelio",
+      "repo_name": "rediscovering-apollo-11-with-redis-om-spring-and-vector-search"
+    },
+    {
+      "name": "ArDoCo/LiSSA-RATLR",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/66466193?s=40&v=4",
+      "owner": "ArDoCo",
+      "repo_name": "LiSSA-RATLR"
+    },
+    {
+      "name": "llzc03hll/RAG-Math-QA",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/151511560?s=40&v=4",
+      "owner": "llzc03hll",
+      "repo_name": "RAG-Math-QA"
+    },
+    {
+      "name": "rgupta95/GenAITesting",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/11897117?s=40&v=4",
+      "owner": "rgupta95",
+      "repo_name": "GenAITesting"
+    },
+    {
+      "name": "ugwun/lanchain4j-contentretriever",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/2720872?s=40&v=4",
+      "owner": "ugwun",
+      "repo_name": "lanchain4j-contentretriever"
+    },
+    {
+      "name": "JLVWJ/halo",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/25194557?s=40&v=4",
+      "owner": "JLVWJ",
+      "repo_name": "halo"
+    },
+    {
+      "name": "deigmata-paideias/deigmata-paideias",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/194113432?s=40&v=4",
+      "owner": "deigmata-paideias",
+      "repo_name": "deigmata-paideias"
+    },
+    {
+      "name": "theawesomenayak/project-phoenix",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/10061146?s=40&v=4",
+      "owner": "theawesomenayak",
+      "repo_name": "project-phoenix"
+    },
+    {
+      "name": "hiprav/AI-Pdf-Chat",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/137514388?s=40&v=4",
+      "owner": "hiprav",
+      "repo_name": "AI-Pdf-Chat"
+    },
+    {
+      "name": "savantly-net/nexus-command",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/16769019?s=40&v=4",
+      "owner": "savantly-net",
+      "repo_name": "nexus-command"
+    },
+    {
+      "name": "BruceZhang54110/free-llm",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/16359903?s=40&v=4",
+      "owner": "BruceZhang54110",
+      "repo_name": "free-llm"
+    },
+    {
+      "name": "kantega/llm-starter-and-workbench",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/1190827?s=40&v=4",
+      "owner": "kantega",
+      "repo_name": "llm-starter-and-workbench"
+    },
+    {
+      "name": "yesbhautik/JavaGPT",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/63995315?s=40&v=4",
+      "owner": "yesbhautik",
+      "repo_name": "JavaGPT"
+    },
+    {
+      "name": "Zenika/genai-codelab",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/630230?s=40&v=4",
+      "owner": "Zenika",
+      "repo_name": "genai-codelab"
+    },
+    {
+      "name": "ashenwgt/ai-book-chat-springboot-langchain4j-astradb",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/14919989?s=40&v=4",
+      "owner": "ashenwgt",
+      "repo_name": "ai-book-chat-springboot-langchain4j-astradb"
+    },
+    {
+      "name": "TyCoding/langspring",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/36946717?s=40&v=4",
+      "owner": "TyCoding",
+      "repo_name": "langspring"
+    },
+    {
+      "name": "mgorav/ConversationalAIAssistant",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/7557434?s=40&v=4",
+      "owner": "mgorav",
+      "repo_name": "ConversationalAIAssistant"
+    },
+    {
+      "name": "gabrielpadilh4/ssl-handshake-debugger",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/28605810?s=40&v=4",
+      "owner": "gabrielpadilh4",
+      "repo_name": "ssl-handshake-debugger"
+    },
+    {
+      "name": "zacchaeuschok/InterLang",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/55981443?s=40&v=4",
+      "owner": "zacchaeuschok",
+      "repo_name": "InterLang"
+    },
+    {
+      "name": "vitalyzotov/langchain4j-gigachat",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/6543845?s=40&v=4",
+      "owner": "vitalyzotov",
+      "repo_name": "langchain4j-gigachat"
+    },
+    {
+      "name": "Andu7zu/Ideas-Generator",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/95579912?s=40&v=4",
+      "owner": "Andu7zu",
+      "repo_name": "Ideas-Generator"
+    },
+    {
+      "name": "giova333/semantic-cache",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/11366452?s=40&v=4",
+      "owner": "giova333",
+      "repo_name": "semantic-cache"
+    },
+    {
+      "name": "nzuguem/rag-something-story",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/32323481?s=40&v=4",
+      "owner": "nzuguem",
+      "repo_name": "rag-something-story"
+    },
+    {
+      "name": "redhat-composer-ai/quarkus-llm-router",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/183846251?s=40&v=4",
+      "owner": "redhat-composer-ai",
+      "repo_name": "quarkus-llm-router"
+    },
+    {
+      "name": "payara/ecosystem-starter",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/7817189?s=40&v=4",
+      "owner": "payara",
+      "repo_name": "ecosystem-starter"
+    },
+    {
+      "name": "giova333/web-voyager",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/11366452?s=40&v=4",
+      "owner": "giova333",
+      "repo_name": "web-voyager"
+    },
+    {
+      "name": "modeldriven-hu/astah-llm",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/107785399?s=40&v=4",
+      "owner": "modeldriven-hu",
+      "repo_name": "astah-llm"
+    },
+    {
+      "name": "alanta335/llm_web_search_agent_java",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/55522447?s=40&v=4",
+      "owner": "alanta335",
+      "repo_name": "llm_web_search_agent_java"
+    },
+    {
+      "name": "CoderLiuyang/coderliu-parent",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/26428473?s=40&v=4",
+      "owner": "CoderLiuyang",
+      "repo_name": "coderliu-parent"
+    },
+    {
+      "name": "syampillai/SODevelopment",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/4854045?s=40&v=4",
+      "owner": "syampillai",
+      "repo_name": "SODevelopment"
+    },
+    {
+      "name": "mlxiong518/SQLBrigerAI",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/22298308?s=40&v=4",
+      "owner": "mlxiong518",
+      "repo_name": "SQLBrigerAI"
+    },
+    {
+      "name": "MarcoNapoleone/ALTAIR",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/58686646?s=40&v=4",
+      "owner": "MarcoNapoleone",
+      "repo_name": "ALTAIR"
+    },
+    {
+      "name": "extrawest/ai-video-chat-app",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/39154663?s=40&v=4",
+      "owner": "extrawest",
+      "repo_name": "ai-video-chat-app"
+    },
+    {
+      "name": "loiclefevre/ai_vector_search",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/21245376?s=40&v=4",
+      "owner": "loiclefevre",
+      "repo_name": "ai_vector_search"
+    },
+    {
+      "name": "422haha/Moya",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/157022422?s=40&v=4",
+      "owner": "422haha",
+      "repo_name": "Moya"
+    },
+    {
+      "name": "ztao-8/ResumeAnalyzer_Backend",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/143745233?s=40&v=4",
+      "owner": "ztao-8",
+      "repo_name": "ResumeAnalyzer_Backend"
+    },
+    {
+      "name": "boaglio/spring-ollama",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/6140?s=40&v=4",
+      "owner": "boaglio",
+      "repo_name": "spring-ollama"
+    },
+    {
+      "name": "guyycodes/Mange",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/118089714?s=40&v=4",
+      "owner": "guyycodes",
+      "repo_name": "Mange"
+    },
+    {
+      "name": "tspannhw/AIM-Aircraft-J",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/18673814?s=40&v=4",
+      "owner": "tspannhw",
+      "repo_name": "AIM-Aircraft-J"
+    },
+    {
+      "name": "LizeRaes/ai-drug-discovery",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/49833622?s=40&v=4",
+      "owner": "LizeRaes",
+      "repo_name": "ai-drug-discovery"
+    },
+    {
+      "name": "mortensi/jpilot",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/4369416?s=40&v=4",
+      "owner": "mortensi",
+      "repo_name": "jpilot"
+    },
+    {
+      "name": "aldettinger/data-extraction-experiments",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/22151349?s=40&v=4",
+      "owner": "aldettinger",
+      "repo_name": "data-extraction-experiments"
+    },
+    {
+      "name": "Arvato-Systems/t9t",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/35844139?s=40&v=4",
+      "owner": "Arvato-Systems",
+      "repo_name": "t9t"
+    },
+    {
+      "name": "jmgang/SmartHomeAssistant",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/41965778?s=40&v=4",
+      "owner": "jmgang",
+      "repo_name": "SmartHomeAssistant"
+    },
+    {
+      "name": "junjiem/werewolf-agent",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/6293598?s=40&v=4",
+      "owner": "junjiem",
+      "repo_name": "werewolf-agent"
+    },
+    {
+      "name": "alexcheng1982/spring-ai-naive-rag",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/1171472?s=40&v=4",
+      "owner": "alexcheng1982",
+      "repo_name": "spring-ai-naive-rag"
+    },
+    {
+      "name": "marttp/20240325-java-langchain4j-explore",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/34801905?s=40&v=4",
+      "owner": "marttp",
+      "repo_name": "20240325-java-langchain4j-explore"
+    },
+    {
+      "name": "vishalmysore/langchain4j",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/25938717?s=40&v=4",
+      "owner": "vishalmysore",
+      "repo_name": "langchain4j"
+    },
+    {
+      "name": "Croway/camel-whatsapp-chatbot",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/34543311?s=40&v=4",
+      "owner": "Croway",
+      "repo_name": "camel-whatsapp-chatbot"
+    },
+    {
+      "name": "chaimaebouyarmane/Chatbot-Spring",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/80436572?s=40&v=4",
+      "owner": "chaimaebouyarmane",
+      "repo_name": "Chatbot-Spring"
+    },
+    {
+      "name": "ymmihw/libraries",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/12890433?s=40&v=4",
+      "owner": "ymmihw",
+      "repo_name": "libraries"
+    },
+    {
+      "name": "feuyeux/hello-langchain",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/769711?s=40&v=4",
+      "owner": "feuyeux",
+      "repo_name": "hello-langchain"
+    },
+    {
+      "name": "mgorav/APIAide",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/7557434?s=40&v=4",
+      "owner": "mgorav",
+      "repo_name": "APIAide"
+    },
+    {
+      "name": "Thanh25102/chat-rocket",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/86610848?s=40&v=4",
+      "owner": "Thanh25102",
+      "repo_name": "chat-rocket"
+    },
+    {
+      "name": "nickdala/piggy-bank-langchain4j",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/4593597?s=40&v=4",
+      "owner": "nickdala",
+      "repo_name": "piggy-bank-langchain4j"
+    },
+    {
+      "name": "shravan-motipally/CS673_Team5",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/20136387?s=40&v=4",
+      "owner": "shravan-motipally",
+      "repo_name": "CS673_Team5"
+    },
+    {
+      "name": "Daantie/question-answering-langchain4j",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/2283281?s=40&v=4",
+      "owner": "Daantie",
+      "repo_name": "question-answering-langchain4j"
+    },
+    {
+      "name": "ai-versum/ai-versum",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/170360875?s=40&v=4",
+      "owner": "ai-versum",
+      "repo_name": "ai-versum"
+    },
+    {
+      "name": "platonai/platon",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/37785921?s=40&v=4",
+      "owner": "platonai",
+      "repo_name": "platon"
+    },
+    {
+      "name": "SaschaKiebler/thesis-chatbot",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/73725309?s=40&v=4",
+      "owner": "SaschaKiebler",
+      "repo_name": "thesis-chatbot"
+    },
+    {
+      "name": "dijavaji/tec-document-loader-ws",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/13773102?s=40&v=4",
+      "owner": "dijavaji",
+      "repo_name": "tec-document-loader-ws"
+    },
+    {
+      "name": "uca-virtud/cursoAppsIA",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/181345518?s=40&v=4",
+      "owner": "uca-virtud",
+      "repo_name": "cursoAppsIA"
+    },
+    {
+      "name": "dijavaji/tec-ai-ws",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/13773102?s=40&v=4",
+      "owner": "dijavaji",
+      "repo_name": "tec-ai-ws"
+    },
+    {
+      "name": "begcode/begcode-bom",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/108751831?s=40&v=4",
+      "owner": "begcode",
+      "repo_name": "begcode-bom"
+    },
+    {
+      "name": "xxd11111/sugarweb",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/48880124?s=40&v=4",
+      "owner": "xxd11111",
+      "repo_name": "sugarweb"
+    },
+    {
+      "name": "wojiuwomudejiu/holiday-cn",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/65151630?s=40&v=4",
+      "owner": "wojiuwomudejiu",
+      "repo_name": "holiday-cn"
+    },
+    {
+      "name": "zhqnb6666/AIbotplatform",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/118148408?s=40&v=4",
+      "owner": "zhqnb6666",
+      "repo_name": "AIbotplatform"
+    },
+    {
+      "name": "Ding-Lifeng/TripEasy",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/122022950?s=40&v=4",
+      "owner": "Ding-Lifeng",
+      "repo_name": "TripEasy"
+    },
+    {
+      "name": "nice-pippi/think-tank-backend",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/109082563?s=40&v=4",
+      "owner": "nice-pippi",
+      "repo_name": "think-tank-backend"
+    },
+    {
+      "name": "madhusudhanrao-ppm/code-assets",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/70625227?s=40&v=4",
+      "owner": "madhusudhanrao-ppm",
+      "repo_name": "code-assets"
+    },
+    {
+      "name": "vishalmysore/javaai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/25938717?s=40&v=4",
+      "owner": "vishalmysore",
+      "repo_name": "javaai"
+    },
+    {
+      "name": "liweinan/java-snippets",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/201907?s=40&v=4",
+      "owner": "liweinan",
+      "repo_name": "java-snippets"
+    },
+    {
+      "name": "showkawa/springb",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/18094436?s=40&v=4",
+      "owner": "showkawa",
+      "repo_name": "springb"
+    },
+    {
+      "name": "alinesno-infrastructure/alinesno-infra-smart-brain",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/140813960?s=40&v=4",
+      "owner": "alinesno-infrastructure",
+      "repo_name": "alinesno-infra-smart-brain"
+    },
+    {
+      "name": "edsonmartins/archflow",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1051879?s=40&v=4",
+      "owner": "edsonmartins",
+      "repo_name": "archflow"
+    },
+    {
+      "name": "ArDoCo/ReplicationPackage-ICSE25_LiSSA-Toward-Generic-Traceability-Link-Recovery-through-RAG",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/66466193?s=40&v=4",
+      "owner": "ArDoCo",
+      "repo_name": "ReplicationPackage-ICSE25_LiSSA-Toward-Generic-Traceability-Link-Recovery-through-RAG"
+    },
+    {
+      "name": "xiaoxuuu/cloud",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/22138287?s=40&v=4",
+      "owner": "xiaoxuuu",
+      "repo_name": "cloud"
+    },
+    {
+      "name": "litongjava/java-openai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/31761981?s=40&v=4",
+      "owner": "litongjava",
+      "repo_name": "java-openai"
+    },
+    {
+      "name": "GOODBOY008/flink-cdc",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/13617900?s=40&v=4",
+      "owner": "GOODBOY008",
+      "repo_name": "flink-cdc"
+    },
+    {
+      "name": "dream-stein/llmops",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/48344658?s=40&v=4",
+      "owner": "dream-stein",
+      "repo_name": "llmops"
+    },
+    {
+      "name": "m0mus/ai-converter-inc",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/9343261?s=40&v=4",
+      "owner": "m0mus",
+      "repo_name": "ai-converter-inc"
+    },
+    {
+      "name": "m0mus/ai-converter-ctx",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/9343261?s=40&v=4",
+      "owner": "m0mus",
+      "repo_name": "ai-converter-ctx"
+    },
+    {
+      "name": "alitinart/fol-me-liber",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/76398544?s=40&v=4",
+      "owner": "alitinart",
+      "repo_name": "fol-me-liber"
+    },
+    {
+      "name": "samar555/Telegram-bot-for-marketing",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/81468859?s=40&v=4",
+      "owner": "samar555",
+      "repo_name": "Telegram-bot-for-marketing"
+    },
+    {
+      "name": "huzejun1990/langchain4j",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/35895938?s=40&v=4",
+      "owner": "huzejun1990",
+      "repo_name": "langchain4j"
+    },
+    {
+      "name": "gabrulele/DataDiscoveryProject",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/93031552?s=40&v=4",
+      "owner": "gabrulele",
+      "repo_name": "DataDiscoveryProject"
+    },
+    {
+      "name": "sbasegmez/langchain4j-domino",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/2338355?s=40&v=4",
+      "owner": "sbasegmez",
+      "repo_name": "langchain4j-domino"
+    },
+    {
+      "name": "EnzoLFranco/OrdoBot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/104728943?s=40&v=4",
+      "owner": "EnzoLFranco",
+      "repo_name": "OrdoBot"
+    },
+    {
+      "name": "extrawest/ai-museum-app",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/39154663?s=40&v=4",
+      "owner": "extrawest",
+      "repo_name": "ai-museum-app"
+    },
+    {
+      "name": "aboullaite/k8s-ray-java",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/2836850?s=40&v=4",
+      "owner": "aboullaite",
+      "repo_name": "k8s-ray-java"
+    },
+    {
+      "name": "extrawest/ai-diagram-service",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/39154663?s=40&v=4",
+      "owner": "extrawest",
+      "repo_name": "ai-diagram-service"
+    },
+    {
+      "name": "Yumejichi/JobFitChecker",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/143553417?s=40&v=4",
+      "owner": "Yumejichi",
+      "repo_name": "JobFitChecker"
+    },
+    {
+      "name": "tmorin/togaf-expairt",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1984597?s=40&v=4",
+      "owner": "tmorin",
+      "repo_name": "togaf-expairt"
+    },
+    {
+      "name": "wangzihaogithub/dts",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/18204507?s=40&v=4",
+      "owner": "wangzihaogithub",
+      "repo_name": "dts"
+    },
+    {
+      "name": "StephenCote/AccountManager7",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/5523146?s=40&v=4",
+      "owner": "StephenCote",
+      "repo_name": "AccountManager7"
+    },
+    {
+      "name": "savoirtech/soa-rag-reference-architecture",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/2746096?s=40&v=4",
+      "owner": "savoirtech",
+      "repo_name": "soa-rag-reference-architecture"
+    },
+    {
+      "name": "extrawest/podcast-to-blog-ai-service",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/39154663?s=40&v=4",
+      "owner": "extrawest",
+      "repo_name": "podcast-to-blog-ai-service"
+    },
+    {
+      "name": "piyusht823/codegenerate",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/61402403?s=40&v=4",
+      "owner": "piyusht823",
+      "repo_name": "codegenerate"
+    },
+    {
+      "name": "ThothTech-Fatec/IA-DataBank",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/179722888?s=40&v=4",
+      "owner": "ThothTech-Fatec",
+      "repo_name": "IA-DataBank"
+    },
+    {
+      "name": "denis-arruda/turista",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/6925128?s=40&v=4",
+      "owner": "denis-arruda",
+      "repo_name": "turista"
+    },
+    {
+      "name": "trungdo2611/booking_hotel",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/93639053?s=40&v=4",
+      "owner": "trungdo2611",
+      "repo_name": "booking_hotel"
+    },
+    {
+      "name": "compscikaran/agentic4j",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/15171039?s=40&v=4",
+      "owner": "compscikaran",
+      "repo_name": "agentic4j"
+    },
+    {
+      "name": "FeltrinEmanuele/Multimodal-Chatbot-in-Java",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/46527197?s=40&v=4",
+      "owner": "FeltrinEmanuele",
+      "repo_name": "Multimodal-Chatbot-in-Java"
+    },
+    {
+      "name": "auzpatwary37/matsim_llm_plugins",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/42443910?s=40&v=4",
+      "owner": "auzpatwary37",
+      "repo_name": "matsim_llm_plugins"
+    },
+    {
+      "name": "xtsekes/langchain4j-spring",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/168532871?s=40&v=4",
+      "owner": "xtsekes",
+      "repo_name": "langchain4j-spring"
+    },
+    {
+      "name": "lordofthejars-ai/recommendation-with-vectors",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/169883100?s=40&v=4",
+      "owner": "lordofthejars-ai",
+      "repo_name": "recommendation-with-vectors"
+    },
+    {
+      "name": "UniGPT-SJTU/UniGPT-backend",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/178295232?s=40&v=4",
+      "owner": "UniGPT-SJTU",
+      "repo_name": "UniGPT-backend"
+    },
+    {
+      "name": "k33g/small-models-at-rivieradev-2024",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/491848?s=40&v=4",
+      "owner": "k33g",
+      "repo_name": "small-models-at-rivieradev-2024"
+    },
+    {
+      "name": "SamuelTegsten/RealTimeEmbedding",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/92243583?s=40&v=4",
+      "owner": "SamuelTegsten",
+      "repo_name": "RealTimeEmbedding"
+    },
+    {
+      "name": "GakhalSingh/Project-Halberd",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/70706370?s=40&v=4",
+      "owner": "GakhalSingh",
+      "repo_name": "Project-Halberd"
+    },
+    {
+      "name": "georgeniculae/swift-wheels-hub-reactive",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/65111386?s=40&v=4",
+      "owner": "georgeniculae",
+      "repo_name": "swift-wheels-hub-reactive"
+    },
+    {
+      "name": "nzuguem/sakila-db-llm-rag",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/32323481?s=40&v=4",
+      "owner": "nzuguem",
+      "repo_name": "sakila-db-llm-rag"
+    },
+    {
+      "name": "baloise-incubator/cc2024_langchain4j",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/56982886?s=40&v=4",
+      "owner": "baloise-incubator",
+      "repo_name": "cc2024_langchain4j"
+    },
+    {
+      "name": "benomads/ZholSerik_AI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/126082113?s=40&v=4",
+      "owner": "benomads",
+      "repo_name": "ZholSerik_AI"
+    },
+    {
+      "name": "zbyszkop/rag-talk",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1493692?s=40&v=4",
+      "owner": "zbyszkop",
+      "repo_name": "rag-talk"
+    },
+    {
+      "name": "zyw/v5cn-langchain4j",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/661159?s=40&v=4",
+      "owner": "zyw",
+      "repo_name": "v5cn-langchain4j"
+    },
+    {
+      "name": "Shikha23mishra/java_langchain_rag_chatbot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/132550440?s=40&v=4",
+      "owner": "Shikha23mishra",
+      "repo_name": "java_langchain_rag_chatbot"
+    },
+    {
+      "name": "nelvadas/MulticloudAppWithGDK",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1246830?s=40&v=4",
+      "owner": "nelvadas",
+      "repo_name": "MulticloudAppWithGDK"
+    },
+    {
+      "name": "alina-yur/native-mistral-ai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/10358408?s=40&v=4",
+      "owner": "alina-yur",
+      "repo_name": "native-mistral-ai"
+    },
+    {
+      "name": "nubiaqs/API-Spring-AI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/91753312?s=40&v=4",
+      "owner": "nubiaqs",
+      "repo_name": "API-Spring-AI"
+    },
+    {
+      "name": "bantunes82/langchain-springboot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/5411577?s=40&v=4",
+      "owner": "bantunes82",
+      "repo_name": "langchain-springboot"
+    },
+    {
+      "name": "LiangshouX/llms-refactor",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/93421804?s=40&v=4",
+      "owner": "LiangshouX",
+      "repo_name": "llms-refactor"
+    },
+    {
+      "name": "FirasNjeh/PIFinal",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/115463735?s=40&v=4",
+      "owner": "FirasNjeh",
+      "repo_name": "PIFinal"
+    },
+    {
+      "name": "i-am-manish/Payment-fraud-detection-Java-LLM-",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/30951565?s=40&v=4",
+      "owner": "i-am-manish",
+      "repo_name": "Payment-fraud-detection-Java-LLM-"
+    },
+    {
+      "name": "mhus/kt2l",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/2484924?s=40&v=4",
+      "owner": "mhus",
+      "repo_name": "kt2l"
+    },
+    {
+      "name": "sehgal-sameep/AI-Powered-AskMe-PDF",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/98826161?s=40&v=4",
+      "owner": "sehgal-sameep",
+      "repo_name": "AI-Powered-AskMe-PDF"
+    },
+    {
+      "name": "ssunduko/se498-final",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/3410749?s=40&v=4",
+      "owner": "ssunduko",
+      "repo_name": "se498-final"
+    },
+    {
+      "name": "krushnna/json-validation-using-springboot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/34645948?s=40&v=4",
+      "owner": "krushnna",
+      "repo_name": "json-validation-using-springboot"
+    },
+    {
+      "name": "vijayredkar/GenAi-Local-LLM-Payment-Fraud-Detect",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/25388646?s=40&v=4",
+      "owner": "vijayredkar",
+      "repo_name": "GenAi-Local-LLM-Payment-Fraud-Detect"
+    },
+    {
+      "name": "ENATION-UK/autodev",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/144975231?s=40&v=4",
+      "owner": "ENATION-UK",
+      "repo_name": "autodev"
+    },
+    {
+      "name": "bots-garden/jcode-teacher",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/29354754?s=40&v=4",
+      "owner": "bots-garden",
+      "repo_name": "jcode-teacher"
+    },
+    {
+      "name": "sanchezjm/workaholics-ai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/31390547?s=40&v=4",
+      "owner": "sanchezjm",
+      "repo_name": "workaholics-ai"
+    },
+    {
+      "name": "K12f/ai-interviewer",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/12138140?s=40&v=4",
+      "owner": "K12f",
+      "repo_name": "ai-interviewer"
+    },
+    {
+      "name": "geleouet/xpchat",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/11736832?s=40&v=4",
+      "owner": "geleouet",
+      "repo_name": "xpchat"
+    },
+    {
+      "name": "Langchain-Chatbot-KTH/LangBotChain",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/157288448?s=40&v=4",
+      "owner": "Langchain-Chatbot-KTH",
+      "repo_name": "LangBotChain"
+    },
+    {
+      "name": "ehsavoie/webchat",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/73053?s=40&v=4",
+      "owner": "ehsavoie",
+      "repo_name": "webchat"
+    },
+    {
+      "name": "JhonatanIT/cl-generator-ai-service",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/22486938?s=40&v=4",
+      "owner": "JhonatanIT",
+      "repo_name": "cl-generator-ai-service"
+    },
+    {
+      "name": "ApolloTune/Server",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/148964050?s=40&v=4",
+      "owner": "ApolloTune",
+      "repo_name": "Server"
+    },
+    {
+      "name": "showpune/azure-java-migration-copilot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1787505?s=40&v=4",
+      "owner": "showpune",
+      "repo_name": "azure-java-migration-copilot"
+    },
+    {
+      "name": "vitalyzotov/accounting-ai-module",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/6543845?s=40&v=4",
+      "owner": "vitalyzotov",
+      "repo_name": "accounting-ai-module"
+    },
+    {
+      "name": "johnsosoka/self-discover",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/92633120?s=40&v=4",
+      "owner": "johnsosoka",
+      "repo_name": "self-discover"
+    },
+    {
+      "name": "smanasawala52/chatbot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/67199826?s=40&v=4",
+      "owner": "smanasawala52",
+      "repo_name": "chatbot"
+    },
+    {
+      "name": "mydeveloperplanet/myweaviateplanet",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/33178014?s=40&v=4",
+      "owner": "mydeveloperplanet",
+      "repo_name": "myweaviateplanet"
+    },
+    {
+      "name": "resarisyan/binar-final-project",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/48725759?s=40&v=4",
+      "owner": "resarisyan",
+      "repo_name": "binar-final-project"
+    },
+    {
+      "name": "Satyamkumarnavneet/PDFPrompter",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/76639713?s=40&v=4",
+      "owner": "Satyamkumarnavneet",
+      "repo_name": "PDFPrompter"
+    },
+    {
+      "name": "Magic-Repo-Kit/magic-repo-kit",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/148510049?s=40&v=4",
+      "owner": "Magic-Repo-Kit",
+      "repo_name": "magic-repo-kit"
+    },
+    {
+      "name": "mydeveloperplanet/mylangchain4jplanet",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/33178014?s=40&v=4",
+      "owner": "mydeveloperplanet",
+      "repo_name": "mylangchain4jplanet"
+    },
+    {
+      "name": "bottlerocketjonny/langchain-exp",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/110462630?s=40&v=4",
+      "owner": "bottlerocketjonny",
+      "repo_name": "langchain-exp"
+    },
+    {
+      "name": "petar-rusev/cities-service",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/4774007?s=40&v=4",
+      "owner": "petar-rusev",
+      "repo_name": "cities-service"
+    },
+    {
+      "name": "geoand/quarkus-langchain4j",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/4374975?s=40&v=4",
+      "owner": "geoand",
+      "repo_name": "quarkus-langchain4j"
+    },
+    {
+      "name": "sam-wmd/api-helpful-professor",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/74130589?s=40&v=4",
+      "owner": "sam-wmd",
+      "repo_name": "api-helpful-professor"
+    },
+    {
+      "name": "polykhel/langchain4j-chat",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/14292360?s=40&v=4",
+      "owner": "polykhel",
+      "repo_name": "langchain4j-chat"
+    },
+    {
+      "name": "bbonnin/travel-assistant",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1908593?s=40&v=4",
+      "owner": "bbonnin",
+      "repo_name": "travel-assistant"
+    },
+    {
+      "name": "cjcalmeida/ai-assistant",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/24998726?s=40&v=4",
+      "owner": "cjcalmeida",
+      "repo_name": "ai-assistant"
+    },
+    {
+      "name": "nelvadas/ML-AI-4JavaDev",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1246830?s=40&v=4",
+      "owner": "nelvadas",
+      "repo_name": "ML-AI-4JavaDev"
+    },
+    {
+      "name": "Daantie/art-of-questions-java",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/2283281?s=40&v=4",
+      "owner": "Daantie",
+      "repo_name": "art-of-questions-java"
+    },
+    {
+      "name": "COS301-SE-2023/AI-CV-Generator",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/123384705?s=40&v=4",
+      "owner": "COS301-SE-2023",
+      "repo_name": "AI-CV-Generator"
+    },
+    {
+      "name": "felixn95/quarkus-rag",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/109859669?s=40&v=4",
+      "owner": "felixn95",
+      "repo_name": "quarkus-rag"
+    },
+    {
+      "name": "iluoxuan/ai-invest",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/3804436?s=40&v=4",
+      "owner": "iluoxuan",
+      "repo_name": "ai-invest"
+    },
+    {
+      "name": "jd-opensource/vearch",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/75349771?s=40&v=4",
+      "owner": "jd-opensource",
+      "repo_name": "vearch"
+    },
+    {
+      "name": "sualeh/full-text-search",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/36505153?s=40&v=4",
+      "owner": "sualeh",
+      "repo_name": "full-text-search"
+    },
+    {
+      "name": "eduardo-wynne/poc-gemini-spring",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/145214402?s=40&v=4",
+      "owner": "eduardo-wynne",
+      "repo_name": "poc-gemini-spring"
+    },
+    {
+      "name": "raffaeleflorio/oogent",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/25297522?s=40&v=4",
+      "owner": "raffaeleflorio",
+      "repo_name": "oogent"
+    },
+    {
+      "name": "megacamelus/camel-assistant",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/101815729?s=40&v=4",
+      "owner": "megacamelus",
+      "repo_name": "camel-assistant"
+    },
+    {
+      "name": "stephanj/langchain4j-cohere",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/179457?s=40&v=4",
+      "owner": "stephanj",
+      "repo_name": "langchain4j-cohere"
+    },
+    {
+      "name": "Siyamuddin/AiBuddy",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/73014136?s=40&v=4",
+      "owner": "Siyamuddin",
+      "repo_name": "AiBuddy"
+    },
+    {
+      "name": "ibrahimelothmani/Multi-Modal-AI-Agent-Platform-with-RAG-Integration",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/141041774?s=40&v=4",
+      "owner": "ibrahimelothmani",
+      "repo_name": "Multi-Modal-AI-Agent-Platform-with-RAG-Integration"
+    },
+    {
+      "name": "llamara-ai/llamara-backend",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/191321587?s=40&v=4",
+      "owner": "llamara-ai",
+      "repo_name": "llamara-backend"
+    },
+    {
+      "name": "lokaimoma/studai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/46226886?s=40&v=4",
+      "owner": "lokaimoma",
+      "repo_name": "studai"
+    },
+    {
+      "name": "hsolucas/senac-test-rag",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/5081298?s=40&v=4",
+      "owner": "hsolucas",
+      "repo_name": "senac-test-rag"
+    },
+    {
+      "name": "RutujChheda/Java---RAG-with-Spring-AI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/119713778?s=40&v=4",
+      "owner": "RutujChheda",
+      "repo_name": "Java---RAG-with-Spring-AI"
+    },
+    {
+      "name": "LizeRaes/shopping-assistant-light",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/49833622?s=40&v=4",
+      "owner": "LizeRaes",
+      "repo_name": "shopping-assistant-light"
+    },
+    {
+      "name": "Ouss3/WhatsApp-LLM-Integration",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/109000854?s=40&v=4",
+      "owner": "Ouss3",
+      "repo_name": "WhatsApp-LLM-Integration"
+    },
+    {
+      "name": "CaioAmaro/artistas-musicas-bd",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/54718957?s=40&v=4",
+      "owner": "CaioAmaro",
+      "repo_name": "artistas-musicas-bd"
+    },
+    {
+      "name": "jvrcruzGAMES/BlockGPT",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/69850408?s=40&v=4",
+      "owner": "jvrcruzGAMES",
+      "repo_name": "BlockGPT"
+    },
+    {
+      "name": "raphaelvilela/chatbot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1414707?s=40&v=4",
+      "owner": "raphaelvilela",
+      "repo_name": "chatbot"
+    },
+    {
+      "name": "lucarauj/IA-com-Java-e-Spring",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/99111027?s=40&v=4",
+      "owner": "lucarauj",
+      "repo_name": "IA-com-Java-e-Spring"
+    },
+    {
+      "name": "brenoepics/BuildCLI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/59066707?s=40&v=4",
+      "owner": "brenoepics",
+      "repo_name": "BuildCLI"
+    },
+    {
+      "name": "DumiJDev/prof.ia",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/72232653?s=40&v=4",
+      "owner": "DumiJDev",
+      "repo_name": "prof.ia"
+    },
+    {
+      "name": "ItsRainingHP/YamlTranslator",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/79205731?s=40&v=4",
+      "owner": "ItsRainingHP",
+      "repo_name": "YamlTranslator"
+    },
+    {
+      "name": "Butterfly-Fatec/api-2",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/162573916?s=40&v=4",
+      "owner": "Butterfly-Fatec",
+      "repo_name": "api-2"
+    },
+    {
+      "name": "jxch-capital/capital-features",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/107295168?s=40&v=4",
+      "owner": "jxch-capital",
+      "repo_name": "capital-features"
+    },
+    {
+      "name": "Dkafetzis/langchainCKGTest",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/39215021?s=40&v=4",
+      "owner": "Dkafetzis",
+      "repo_name": "langchainCKGTest"
+    },
+    {
+      "name": "RicardoTheiss/IA-Chat",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/89108308?s=40&v=4",
+      "owner": "RicardoTheiss",
+      "repo_name": "IA-Chat"
+    },
+    {
+      "name": "Matik96/RagJava",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/46969145?s=40&v=4",
+      "owner": "Matik96",
+      "repo_name": "RagJava"
+    },
+    {
+      "name": "Titus-System/2semestre-ADS",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/165215997?s=40&v=4",
+      "owner": "Titus-System",
+      "repo_name": "2semestre-ADS"
+    },
+    {
+      "name": "brunosantoslab/poc-lab",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/39655666?s=40&v=4",
+      "owner": "brunosantoslab",
+      "repo_name": "poc-lab"
+    },
+    {
+      "name": "megacamelus/camel-jbang-plugin-explain",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/101815729?s=40&v=4",
+      "owner": "megacamelus",
+      "repo_name": "camel-jbang-plugin-explain"
+    },
+    {
+      "name": "BornToGeek1/youtube",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/157848645?s=40&v=4",
+      "owner": "BornToGeek1",
+      "repo_name": "youtube"
+    },
+    {
+      "name": "BykaWF/PageFlow",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/119706327?s=40&v=4",
+      "owner": "BykaWF",
+      "repo_name": "PageFlow"
+    },
+    {
+      "name": "hemantDwivedi/chatbot-junior",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/96649329?s=40&v=4",
+      "owner": "hemantDwivedi",
+      "repo_name": "chatbot-junior"
+    },
+    {
+      "name": "typedefuser/resumeai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/92154879?s=40&v=4",
+      "owner": "typedefuser",
+      "repo_name": "resumeai"
+    },
+    {
+      "name": "georgeniculae/swift-wheels-hub",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/65111386?s=40&v=4",
+      "owner": "georgeniculae",
+      "repo_name": "swift-wheels-hub"
+    }
+  ],
+  "total_dependents_number": 314,
+  "public_dependents_number": 314,
+  "private_dependents_number": -1300,
+  "public_dependents_stars": 39642,
+  "badges": {
+    "total_doc_url": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=1300&color=informational&logo=slickpic)](https://github.com/nvuillam/github-dependents-info)",
+    "total": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=314&color=informational&logo=slickpic)](https://github.com/langchain4j/langchain4j/network/dependents)",
+    "public": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=314&color=informational&logo=slickpic)](https://github.com/langchain4j/langchain4j/network/dependents)",
+    "private": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-1300&color=informational&logo=slickpic)](https://github.com/langchain4j/langchain4j/network/dependents)",
+    "stars": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=39642&color=informational&logo=slickpic)](https://github.com/langchain4j/langchain4j/network/dependents)"
+  }
+}

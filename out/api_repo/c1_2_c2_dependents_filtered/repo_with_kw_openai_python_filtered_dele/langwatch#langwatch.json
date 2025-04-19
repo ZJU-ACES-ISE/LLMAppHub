@@ -1,0 +1,267 @@
+{
+  "all_public_dependent_repos": [
+    {
+      "name": "langflow-ai/langflow",
+      "stars": 49128,
+      "img": "https://avatars.githubusercontent.com/u/85702467?s=40&v=4",
+      "owner": "langflow-ai",
+      "repo_name": "langflow"
+    },
+    {
+      "name": "FlowiseAI/Flowise",
+      "stars": 35454,
+      "img": "https://avatars.githubusercontent.com/u/128289781?s=40&v=4",
+      "owner": "FlowiseAI",
+      "repo_name": "Flowise"
+    },
+    {
+      "name": "bRAGAI/bRAG-langchain",
+      "stars": 1705,
+      "img": "https://avatars.githubusercontent.com/u/188657705?s=40&v=4",
+      "owner": "bRAGAI",
+      "repo_name": "bRAG-langchain"
+    },
+    {
+      "name": "langwatch/langwatch",
+      "stars": 1150,
+      "img": "https://avatars.githubusercontent.com/u/146763322?s=40&v=4",
+      "owner": "langwatch",
+      "repo_name": "langwatch"
+    },
+    {
+      "name": "zbambergerNLP/strategic-debate-tot",
+      "stars": 71,
+      "img": "https://avatars.githubusercontent.com/u/94684184?s=40&v=4",
+      "owner": "zbambergerNLP",
+      "repo_name": "strategic-debate-tot"
+    },
+    {
+      "name": "yaitec/langflow-streamlit",
+      "stars": 24,
+      "img": "https://avatars.githubusercontent.com/u/137899388?s=40&v=4",
+      "owner": "yaitec",
+      "repo_name": "langflow-streamlit"
+    },
+    {
+      "name": "ojusave/zoom-astra-meeting-bot",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/18503333?s=40&v=4",
+      "owner": "ojusave",
+      "repo_name": "zoom-astra-meeting-bot"
+    },
+    {
+      "name": "SonicDMG/babbelfish.ai",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/23346205?s=40&v=4",
+      "owner": "SonicDMG",
+      "repo_name": "babbelfish.ai"
+    },
+    {
+      "name": "yaitec/Langflow-Streamlit-integration",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/137899388?s=40&v=4",
+      "owner": "yaitec",
+      "repo_name": "Langflow-Streamlit-integration"
+    },
+    {
+      "name": "omdeshpande/mageops-squad",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/6016848?s=40&v=4",
+      "owner": "omdeshpande",
+      "repo_name": "mageops-squad"
+    },
+    {
+      "name": "Fareed95/Social-Media-insight",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/143815597?s=40&v=4",
+      "owner": "Fareed95",
+      "repo_name": "Social-Media-insight"
+    },
+    {
+      "name": "alphavector/all",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/11805788?s=40&v=4",
+      "owner": "alphavector",
+      "repo_name": "all"
+    },
+    {
+      "name": "konradbjk/hackyeah-2024-building-genai-apps",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/31480935?s=40&v=4",
+      "owner": "konradbjk",
+      "repo_name": "hackyeah-2024-building-genai-apps"
+    },
+    {
+      "name": "Lyn4ever29/pipy_server",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/25952589?s=40&v=4",
+      "owner": "Lyn4ever29",
+      "repo_name": "pipy_server"
+    },
+    {
+      "name": "TGusciora/DemystifAI_Agents",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/47835700?s=40&v=4",
+      "owner": "TGusciora",
+      "repo_name": "DemystifAI_Agents"
+    },
+    {
+      "name": "robertoamoreno/macos-security-report",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/16195292?s=40&v=4",
+      "owner": "robertoamoreno",
+      "repo_name": "macos-security-report"
+    },
+    {
+      "name": "Cleansea10/16aiflow",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/78107833?s=40&v=4",
+      "owner": "Cleansea10",
+      "repo_name": "16aiflow"
+    },
+    {
+      "name": "agentforgeai/forge",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/192903351?s=40&v=4",
+      "owner": "agentforgeai",
+      "repo_name": "forge"
+    },
+    {
+      "name": "Huntemall/Flowise-AI",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/118643251?s=40&v=4",
+      "owner": "Huntemall",
+      "repo_name": "Flowise-AI"
+    },
+    {
+      "name": "botbusiness-org/builder",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/196480243?s=40&v=4",
+      "owner": "botbusiness-org",
+      "repo_name": "builder"
+    },
+    {
+      "name": "Nishchaypat/Athlyze",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/100232114?s=40&v=4",
+      "owner": "Nishchaypat",
+      "repo_name": "Athlyze"
+    },
+    {
+      "name": "abhimvp/Multi_Agent",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/128408809?s=40&v=4",
+      "owner": "abhimvp",
+      "repo_name": "Multi_Agent"
+    },
+    {
+      "name": "JohnNixon6972/Python-Multi-Agent",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/69578073?s=40&v=4",
+      "owner": "JohnNixon6972",
+      "repo_name": "Python-Multi-Agent"
+    },
+    {
+      "name": "SeniorDev222/langflow",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/171833607?s=40&v=4",
+      "owner": "SeniorDev222",
+      "repo_name": "langflow"
+    },
+    {
+      "name": "mennafateen/modular-asas-f-rag",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/11869772?s=40&v=4",
+      "owner": "mennafateen",
+      "repo_name": "modular-asas-f-rag"
+    },
+    {
+      "name": "zhiyu/nextflow",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/289478?s=40&v=4",
+      "owner": "zhiyu",
+      "repo_name": "nextflow"
+    },
+    {
+      "name": "dinhanhqd/DATN",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/36772104?s=40&v=4",
+      "owner": "dinhanhqd",
+      "repo_name": "DATN"
+    },
+    {
+      "name": "chenshi2024/Flowise",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/187235578?s=40&v=4",
+      "owner": "chenshi2024",
+      "repo_name": "Flowise"
+    },
+    {
+      "name": "IgorKoppen/ProjetoEurofarma",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/72951026?s=40&v=4",
+      "owner": "IgorKoppen",
+      "repo_name": "ProjetoEurofarma"
+    },
+    {
+      "name": "dinhanhqd/chatbotAI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/36772104?s=40&v=4",
+      "owner": "dinhanhqd",
+      "repo_name": "chatbotAI"
+    },
+    {
+      "name": "viola622/Flowise",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/49120480?s=40&v=4",
+      "owner": "viola622",
+      "repo_name": "Flowise"
+    },
+    {
+      "name": "vinishd/ginder",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/63834401?s=40&v=4",
+      "owner": "vinishd",
+      "repo_name": "ginder"
+    },
+    {
+      "name": "Tonic-AI/Flowise",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/146480756?s=40&v=4",
+      "owner": "Tonic-AI",
+      "repo_name": "Flowise"
+    },
+    {
+      "name": "hanzoai/gui",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/16248274?s=40&v=4",
+      "owner": "hanzoai",
+      "repo_name": "gui"
+    },
+    {
+      "name": "mkc909/Flowise",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/129240065?s=40&v=4",
+      "owner": "mkc909",
+      "repo_name": "Flowise"
+    },
+    {
+      "name": "Arshmit/make-ai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/93031586?s=40&v=4",
+      "owner": "Arshmit",
+      "repo_name": "make-ai"
+    }
+  ],
+  "total_dependents_number": 36,
+  "public_dependents_number": 36,
+  "private_dependents_number": -38,
+  "public_dependents_stars": 87591,
+  "badges": {
+    "total_doc_url": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=38&color=informational&logo=slickpic)](https://github.com/nvuillam/github-dependents-info)",
+    "total": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=36&color=informational&logo=slickpic)](https://github.com/langwatch/langwatch/network/dependents)",
+    "public": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=36&color=informational&logo=slickpic)](https://github.com/langwatch/langwatch/network/dependents)",
+    "private": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-38&color=informational&logo=slickpic)](https://github.com/langwatch/langwatch/network/dependents)",
+    "stars": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=87591&color=informational&logo=slickpic)](https://github.com/langwatch/langwatch/network/dependents)"
+  }
+}

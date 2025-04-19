@@ -1,0 +1,3882 @@
+[
+  {
+    "full_name": "zmlix/chatgpt-web",
+    "name": "chatgpt-web",
+    "description": "基于官方API的ChatGPT前端web"
+  },
+  {
+    "full_name": "PacktPublishing/Exploring-GPT-3",
+    "name": "Exploring-GPT-3",
+    "description": "Exploring GPT-3"
+  },
+  {
+    "full_name": "suvansh/CeLLM",
+    "name": "CeLLM",
+    "description": "applying LLM prompting to spreadsheets"
+  },
+  {
+    "full_name": "adriandgzg/whatsap-LLM-CustomerSupport",
+    "name": "whatsap-LLM-CustomerSupport",
+    "description": "CustomerSupport atención whit IA"
+  },
+  {
+    "full_name": "fredyzz/ai-keyword-extractor",
+    "name": "ai-keyword-extractor",
+    "description": "Keyword extractor using openAi and react"
+  },
+  {
+    "full_name": "Wabisabi591/sensei",
+    "name": "sensei",
+    "description": "After effects ai chat bot with RAG DAWG"
+  },
+  {
+    "full_name": "pvs-hd-tea/23ws-LLMcoder",
+    "name": "23ws-LLMcoder",
+    "description": "LLMcoder - Practical in winter semester 2023/2024"
+  },
+  {
+    "full_name": "TailinZhou/openai_proxy_llalal",
+    "name": "openai_proxy_llalal",
+    "description": null
+  },
+  {
+    "full_name": "ShareFY/openai_transfer",
+    "name": "openai_transfer",
+    "description": null
+  },
+  {
+    "full_name": "bjcodereview3/openaiAgent",
+    "name": "openaiAgent",
+    "description": null
+  },
+  {
+    "full_name": "nuass/llm4openai",
+    "name": "llm4openai",
+    "description": null
+  },
+  {
+    "full_name": "imyuanx/chatgpt-proxy",
+    "name": "chatgpt-proxy",
+    "description": "One-click deployment of the ChatGPT private proxy, power by Next.js"
+  },
+  {
+    "full_name": "yuexiaoliang/openai-demo",
+    "name": "openai-demo",
+    "description": "大陆请求 openai(chatgpt) api 的简单 demo"
+  },
+  {
+    "full_name": "lhemerly/shoggoth",
+    "name": "shoggoth",
+    "description": "A package to manage AI powered backends with a multitude of masks, tools and models"
+  },
+  {
+    "full_name": "JVictor-CC/My-Chat-GPT",
+    "name": "My-Chat-GPT",
+    "description": "My Chat GPT is a web chat application designed for single-user interactions, leveraging the OpenAI API for natural language processing. The application is built with ReactJS and styled-components on the frontend, while the backend is powered by Node.js, Express.js, CORS, and MongoDB."
+  },
+  {
+    "full_name": "dabblelab/calling-the-openai-api-node",
+    "name": "calling-the-openai-api-node",
+    "description": "Calling the OpenAI API using NodeJS"
+  },
+  {
+    "full_name": "EmilyThaHuman/openai-testing-app",
+    "name": "openai-testing-app",
+    "description": "A comprehensive React-based testing platform for OpenAI's APIs featuring a modern UI, built with Shadcn UI components and offering extensive testing capabilities for various OpenAI services."
+  },
+  {
+    "full_name": "wu-yifan/cgpt-p-v2",
+    "name": "cgpt-p-v2",
+    "description": null
+  },
+  {
+    "full_name": "memochou1993/gpt-prompt-trainer",
+    "name": "gpt-prompt-trainer",
+    "description": "GPT Prompt Trainer for gpt-3.5-turbo language model"
+  },
+  {
+    "full_name": "jtams/openai-node",
+    "name": "openai-node",
+    "description": "A library for using the OpenAI GPT-3 API with Node."
+  },
+  {
+    "full_name": "habuma/openai-speech",
+    "name": "openai-speech",
+    "description": "Examples of OpenAI's Whisper and Text-to-Speech APIs"
+  },
+  {
+    "full_name": "wuhuawei1996/TranslatorGPT",
+    "name": "TranslatorGPT",
+    "description": "A ChatGPT-based translation application developed using Tauri, with main features including translation by selecting, translation by screenshot and paper proofreading."
+  },
+  {
+    "full_name": "Pep3M/OpenAI-API---4All",
+    "name": "OpenAI-API---4All",
+    "description": null
+  },
+  {
+    "full_name": "Robeeen/Chat-GPT-React",
+    "name": "Chat-GPT-React",
+    "description": "A Chat GPT Integration Project with React js/Node Js"
+  },
+  {
+    "full_name": "iovdin/tune",
+    "name": "tune",
+    "description": "llm chat in text file"
+  },
+  {
+    "full_name": "maniutin/fun-with-ai",
+    "name": "fun-with-ai",
+    "description": "App interface for interacting with OpenAI"
+  },
+  {
+    "full_name": "muhammad-salman-saleem/embading-text-with-langchain-and-singlestore-db",
+    "name": "embading-text-with-langchain-and-singlestore-db",
+    "description": "embadind text with lang chain and node with embaded youtube comments and search most related comment"
+  },
+  {
+    "full_name": "Kavirubc/openai-realtime-voice",
+    "name": "openai-realtime-voice",
+    "description": null
+  },
+  {
+    "full_name": "mstfbysl/audio-scripter",
+    "name": "audio-scripter",
+    "description": "AudioScripter is a simple tool that uses OpenAI's Whisper API to transcribe voice recordings into text. Users can easily record or upload audio and use their own OpenAI API key for transcription, making it straightforward and user-friendly."
+  },
+  {
+    "full_name": "witfog/fakegpt",
+    "name": "fakegpt",
+    "description": "Simple ChatGPT web client to chat to OpenAI API."
+  },
+  {
+    "full_name": "Narender-Kheder/debugasaurus",
+    "name": "debugasaurus",
+    "description": "Debugasaurus is your prehistoric pal for modern coding! Powered by a cutting-edge LLM, it helps you debug, refactor, and write code with ease—because even dinosaurs deserve clean syntax."
+  },
+  {
+    "full_name": "Zuha-SB/ChatGPT-FCC",
+    "name": "ChatGPT-FCC",
+    "description": "ChatGPT course from freeCodeCamp.org"
+  },
+  {
+    "full_name": "yhdgms1/kakashi-hatake-ai-bot",
+    "name": "kakashi-hatake-ai-bot",
+    "description": "OpenAI based Kakashi Katake telegram chat bot"
+  },
+  {
+    "full_name": "usagepanda/proxy",
+    "name": "proxy",
+    "description": "Security and compliance proxy for LLM APIs"
+  },
+  {
+    "full_name": "dabblelab/gptanswers-node",
+    "name": "gptanswers-node",
+    "description": "Building a GPT-3 Knowledge Base App (NodeJS)"
+  },
+  {
+    "full_name": "abarthdew/highcharts-gpt-chatbot",
+    "name": "highcharts-gpt-chatbot",
+    "description": "👽Highcharts using gpt chatbot📈📊"
+  },
+  {
+    "full_name": "jtwirly/encouragebot",
+    "name": "encouragebot",
+    "description": "AI-Powered Encouragement Project"
+  },
+  {
+    "full_name": "saravadeo/open-ai-api",
+    "name": "open-ai-api",
+    "description": "Unlock the potential of OpenAI's GPT-3 model for NLP tasks—summarization, classification, text completion, and more. This repo guides you through OpenAI API setup, offering hands-on exercises with the Completions endpoint. Gain experience integrating OpenAI API into React apps."
+  },
+  {
+    "full_name": "jedwill/a11y-gpt-linter",
+    "name": "a11y-gpt-linter",
+    "description": "VSCode accessibility linting tool using Axe-Core for ruleset and GPT for user-friendly suggestions"
+  },
+  {
+    "full_name": "Shubhiidixit/RateMy_Professor-AI",
+    "name": "RateMy_Professor-AI",
+    "description": "A simple AI-based \"Rate My Professor\" using Next.js, OpenAI, and Pinecone for easy professor reviews and ratings."
+  },
+  {
+    "full_name": "souritrakar/prompto",
+    "name": "prompto",
+    "description": "A fun app to generate results on the basis of user prompts using OpenAI's GPT-3 API."
+  },
+  {
+    "full_name": "hasanshahriar32/gpt-fine-tuning-with-nodejs",
+    "name": "gpt-fine-tuning-with-nodejs",
+    "description": null
+  },
+  {
+    "full_name": "absolutetsonga/lecturit.ai",
+    "name": "lecturit.ai",
+    "description": "lecturit.ai - chatgpt-powered note-taking ai app "
+  },
+  {
+    "full_name": "samsslee/TheDonna",
+    "name": "TheDonna",
+    "description": "SvelteKit,Firebase,OpenAI Tech Challenge for SalesKick"
+  },
+  {
+    "full_name": "kovalenkoandri/GPT-mobile",
+    "name": "GPT-mobile",
+    "description": "Text Image Creator"
+  },
+  {
+    "full_name": "robinvriens/openai-whisper",
+    "name": "openai-whisper",
+    "description": "Transcribe Audio to Text with node.js using the Whisper model from OpenAI."
+  },
+  {
+    "full_name": "dabblelab/openai-api-crash-course-node",
+    "name": "openai-api-crash-course-node",
+    "description": null
+  },
+  {
+    "full_name": "Rajshah1302/classifymail",
+    "name": "classifymail",
+    "description": "Classify Emails is a cutting-edge application that automates the organization of Gmail inboxes using advanced AI. By leveraging secure Google OAuth authentication, it fetches raw email data via the Gmail API and utilizes the SambaNova Fast API to classify emails into categories like Promotions, Social, Updates, and Forums."
+  },
+  {
+    "full_name": "kaskrish/eternalmind",
+    "name": "eternalmind",
+    "description": "language model sample"
+  },
+  {
+    "full_name": "riteshk-007/Chat-GPT-Clone",
+    "name": "Chat-GPT-Clone",
+    "description": "ChatGPT Clone | React Js"
+  },
+  {
+    "full_name": "yztracker/ChatGPT-finetuning-webui-nextjs",
+    "name": "ChatGPT-finetuning-webui-nextjs",
+    "description": "A user-friendly platform designed for effortless fine-tuning and testing of models"
+  },
+  {
+    "full_name": "sergiogragera/whatsapp-calendar-gpt-bot",
+    "name": "whatsapp-calendar-gpt-bot",
+    "description": "A bot to send WhatsApp message generated from Google Calendar event by GPT AI"
+  },
+  {
+    "full_name": "Lane-G-Smith/ChatGPT-Google-Sheets-Apps-Script",
+    "name": "ChatGPT-Google-Sheets-Apps-Script",
+    "description": "A simple no-code solution for integrating OpenAI's GPT language models into your google sheets documents using Apps Scripts"
+  },
+  {
+    "full_name": "abdibrokhim/Chat-With-PDF-NextJS-Langchain-Pinecone-OpenAI",
+    "name": "Chat-With-PDF-NextJS-Langchain-Pinecone-OpenAI",
+    "description": null
+  },
+  {
+    "full_name": "lwatz16/ama_ai",
+    "name": "ama_ai",
+    "description": "React application that consumes the OpenAI API to mimic assisted devices like Siri or Alexa."
+  },
+  {
+    "full_name": "gioruu/openAI-Workout-Generator",
+    "name": "openAI-Workout-Generator",
+    "description": null
+  },
+  {
+    "full_name": "km1220/react_ai_content_generator",
+    "name": "react_ai_content_generator",
+    "description": "Next.js, Material UI 5, Tailwind CSS, Vite, OpenAI, GPT-4, blog content generator"
+  },
+  {
+    "full_name": "PouriaRouzrokh/AI-Macros",
+    "name": "AI-Macros",
+    "description": "A chrome extension app for creating macros on top of LLMs and VLMs!"
+  },
+  {
+    "full_name": "JinchaoLove/ChatGPT-Next-Web-Azure",
+    "name": "ChatGPT-Next-Web-Azure",
+    "description": "ChatGPT Next Web + Azure OpenAI"
+  },
+  {
+    "full_name": "jochy/gpt-professor",
+    "name": "gpt-professor",
+    "description": "Tool used to create a simple CLI around ChatGPT, in order to help any kind of teaching activity"
+  },
+  {
+    "full_name": "ShayaanQ/SynthSpeak",
+    "name": "SynthSpeak",
+    "description": "an interactive chat bot clone utilizing the OpenAI API for real-time conversations. Built with JavaScript, TypeScript, TailwindCSS, and Next.js, it offers a responsive and engaging user experience."
+  },
+  {
+    "full_name": "samyukthapeeyems/chatgpt-clone",
+    "name": "chatgpt-clone",
+    "description": "ChatGPT clone using Next.js and Openai API"
+  },
+  {
+    "full_name": "yachaycode/rimayappwsp",
+    "name": "rimayappwsp",
+    "description": "App basada en contenedores para gestionar asistentes de IA con múltiples LLMs y servicios de WhatsApp como whatsapp-web.js, Venom, Baileys, Twilio y Meta. Fácil de usar y desplegable en tu infraestructura."
+  },
+  {
+    "full_name": "lucassmonn/movies-chatgpt-twitter",
+    "name": "movies-chatgpt-twitter",
+    "description": "This project get movies from TheMovieDB, summary it on ChatGPT than post it on Twitter."
+  },
+  {
+    "full_name": "qaz3440798292/chatgpt-demo",
+    "name": "chatgpt-demo",
+    "description": "This is a ChatGPT demo project, you can get the demo to learn"
+  },
+  {
+    "full_name": "melikeercan/chatgpt-try",
+    "name": "chatgpt-try",
+    "description": "Trying chatgpt library"
+  },
+  {
+    "full_name": "zccbbg/chatgpt-vue",
+    "name": "chatgpt-vue",
+    "description": "是一个前端服务，以websocket的方式实时接收chatGPT-service返回的消息"
+  },
+  {
+    "full_name": "kintone-workshops/ai-kintone-gallery",
+    "name": "ai-kintone-gallery",
+    "description": "Build an OpenAI Art Generator & Gallery - JavaScript Workshop"
+  },
+  {
+    "full_name": "diatomicC/visuAIearner",
+    "name": "visuAIearner",
+    "description": "An AI-generated educational video system for personalized and interactive learning using GPT-4, custom image search engines, and automated video generation."
+  },
+  {
+    "full_name": "bijx/csv-analyzer-GPT",
+    "name": "csv-analyzer-GPT",
+    "description": "A simple implementation of a CSV analyzer using GPT-4 (or optionally 3.5-turbo) to answer questions about uploaded spreadsheets."
+  },
+  {
+    "full_name": "shivakrishnak13/EduSphere",
+    "name": "EduSphere",
+    "description": "\"EduHub: Streamlined enrollment, diverse courses, and advanced tools. Instructors use an intuitive dashboard for easy assignment creation, aided by AI. Timely announcements keep students informed.\""
+  },
+  {
+    "full_name": "prashastikarlekar/ChatGPT_clone",
+    "name": "ChatGPT_clone",
+    "description": "ChatGPT Clone is a ReactJS and NodeJS web application replicating OpenAI's GPT-powered chatbot experience, enabling dynamic conversations through intuitive UI. Seamlessly integrated with OpenAI API, it offers a versatile platform for interactive AI interactions."
+  },
+  {
+    "full_name": "souzera/deca_bot",
+    "name": "deca_bot",
+    "description": "Whatsapp Chatbot + API OpenAI (ChatGPT)"
+  },
+  {
+    "full_name": "Harsh-141cmd/Dream-Scape",
+    "name": "Dream-Scape",
+    "description": "Developed an AI-powered image generation application called \"Dream Scape\" inspired by DALL-E, a state-of-the-art language model which is based on React and Vite. The project generates images based on text prompts given by the user, converting textual descriptions into visual content."
+  },
+  {
+    "full_name": "zeeshanrafiqrana/node-llm-private-knowledgebase",
+    "name": "node-llm-private-knowledgebase",
+    "description": null
+  },
+  {
+    "full_name": "Lakshit-Chiranjiv/mini-gpt",
+    "name": "mini-gpt",
+    "description": "Mini-GPT is a small chatbot that uses the GPT-3 API to generate responses to user input. It is a single input based interactive chatbot that uses the Davinci engine of the OpenAI API to answer questions on a mac like sleek minimal UI with animations."
+  },
+  {
+    "full_name": "yashexe/ChatGPT-Clone",
+    "name": "ChatGPT-Clone",
+    "description": "A working clone of OpenAI's GPT3.5-Turbo Model"
+  },
+  {
+    "full_name": "RSalaam/CreateLabs-OpenAI",
+    "name": "CreateLabs-OpenAI",
+    "description": null
+  },
+  {
+    "full_name": "DanielAssuncaoDeveloper/LuzyIA",
+    "name": "LuzyIA",
+    "description": "Uma integração do WhatsApp com o ChatGPT-3.5 da OpenAI."
+  },
+  {
+    "full_name": "openai/openai-realtime-console",
+    "name": "openai-realtime-console",
+    "description": "React app for inspecting, building and debugging with the Realtime API"
+  },
+  {
+    "full_name": "shorwood/gptsh",
+    "name": "gptsh",
+    "description": "GPT.sh is a CLI tool built with NodeJs and powered by Open AI's GPT-3. It's main purpose is to translate natural language questions and requests into shell commands."
+  },
+  {
+    "full_name": "elisaflemer/german-coach",
+    "name": "german-coach",
+    "description": "A GPT-powered language learning app focused on improving your conversation skills"
+  },
+  {
+    "full_name": "jorgenlt/smartbot",
+    "name": "smartbot",
+    "description": "A native Android app created with React Native on the Expo framework. Chat with assistants from OpenAI, Anthropic and Mistral."
+  },
+  {
+    "full_name": "roman-sachenko/easy-clip-gpt.popclipext",
+    "name": "easy-clip-gpt.popclipext",
+    "description": "Easy-Clip-GTP is a PopClip extension that enhances text processing using OpenAI's GPT models."
+  },
+  {
+    "full_name": "seed-arf/Google-Sheets-based-ChatGPT-Conversation-Manager",
+    "name": "Google-Sheets-based-ChatGPT-Conversation-Manager",
+    "description": "This script manages conversations with the ChatGPT AI model through Google Sheets. It includes memory management for improved consistency and is ideal for chatbot development. The code is written in JavaScript and requires an OpenAI API key. It is licensed under the MIT License."
+  },
+  {
+    "full_name": "TraXIcoN/github-rag",
+    "name": "github-rag",
+    "description": "This repository is for building custom RAGs for github repos for new contributors to get familiar with the repo nice and smooth!"
+  },
+  {
+    "full_name": "johnnyip/TG-OpenAI-API-bot",
+    "name": "TG-OpenAI-API-bot",
+    "description": "A simple Telegram Chatbot using the OpenAI API"
+  },
+  {
+    "full_name": "FiestaTheNewbieDev/discord-ai-helper-old",
+    "name": "discord-ai-helper-old",
+    "description": "AI assistant Discord bot based on OpenAI's GPT-4 and DALL-E models. "
+  },
+  {
+    "full_name": "geraldyywang/ARIA",
+    "name": "ARIA",
+    "description": "Accessible Refugee Information Assistant. Helping refugees understand the claimant process in Canada, with the help of a multilingual voice assistant, and fine tuned large language model."
+  },
+  {
+    "full_name": "Muskan1842/LLM-studio",
+    "name": "LLM-studio",
+    "description": "LLM Studio is an AI-powered platform for creating and deploying LLM workflows. With React and React Flow, it offers an intuitive canvas for building custom LLM pipelines using drag-and-drop functionality."
+  },
+  {
+    "full_name": "ekogeda/openai-transcribe",
+    "name": "openai-transcribe",
+    "description": null
+  },
+  {
+    "full_name": "paytonshafer/ChatGPT-Clone",
+    "name": "ChatGPT-Clone",
+    "description": "This is my ChatGPT clone done in react using the openai API."
+  },
+  {
+    "full_name": "liorkasti/kst-chatgpt-clone",
+    "name": "kst-chatgpt-clone",
+    "description": "🤖 ChatGPT Clone"
+  },
+  {
+    "full_name": "Abd-Elhadi/Chat-GPT-Clone",
+    "name": "Chat-GPT-Clone",
+    "description": "This app is a ChatGPT Clone using OpenAIs gpt-3.5-turbo Model."
+  },
+  {
+    "full_name": "TyrWinDev/ai-youtube-idea-generator",
+    "name": "ai-youtube-idea-generator",
+    "description": "Need ideas for your videos ? This app uses the power of OpenAi's GPT 3.5 to take your prompt about your idea content, and gives you several titles to choose from! After selecting an option, a list of tags are generated are the bottom so you have the best chance to make your video viral. Made with React (Vite) and Css.  "
+  },
+  {
+    "full_name": "shabeebtk/quiz-app",
+    "name": "quiz-app",
+    "description": "created a programming language quiz app that questions generates from openAi  "
+  },
+  {
+    "full_name": "VarmaDev390/projectCartoon",
+    "name": "projectCartoon",
+    "description": "A fun and interactive chat application featuring a ChatGPT-powered user interface where users can engage in conversations, manage multiple chat sessions, and explore unique insights on various cartoon characters. The app’s backend integrates seamlessly with the ChatGPT API, allowing users to learn about beloved characters through tailored prompts"
+  },
+  {
+    "full_name": "Ivanoshka/api_OPENAI",
+    "name": "api_OPENAI",
+    "description": "es un ejemplo de como usar la api, de openai, especificamente el area de completions"
+  },
+  {
+    "full_name": "mahendraDew/react-chatGPT-clone",
+    "name": "react-chatGPT-clone",
+    "description": "A ChatGPT clone using react"
+  },
+  {
+    "full_name": "wizzy-design/chatgpt-clone--MightyGPT-",
+    "name": "chatgpt-clone--MightyGPT-",
+    "description": "Just doing this to know how to work with OpenAI's API"
+  },
+  {
+    "full_name": "anyajegorova/another_chatgpt",
+    "name": "another_chatgpt",
+    "description": "Interface for ChatGPT using ReactJS, CSS3, fetching chat completions from OpenAI API GPT-3.5-turbo"
+  },
+  {
+    "full_name": "mendozalz/chat-gpt-react",
+    "name": "chat-gpt-react",
+    "description": "Clon de chat gpt con react"
+  },
+  {
+    "full_name": "laramohan/wikillm",
+    "name": "wikillm",
+    "description": "LLMs as Collaboratively Edited Knowledge Bases"
+  },
+  {
+    "full_name": "MM120-i/ChatGPT-Clone",
+    "name": "ChatGPT-Clone",
+    "description": "ChitChatGPT - Chatbot Interface"
+  },
+  {
+    "full_name": "ProgrammerAditya36/chatGpt_clone",
+    "name": "chatGpt_clone",
+    "description": "Working Clone of chatgpt created using React Node Express and OpenAI Api"
+  },
+  {
+    "full_name": "Rango52/gpt-clone",
+    "name": "gpt-clone",
+    "description": null
+  },
+  {
+    "full_name": "gyopak/sidellama",
+    "name": "sidellama",
+    "description": null
+  },
+  {
+    "full_name": "maphim/chatgpt-backend",
+    "name": "chatgpt-backend",
+    "description": "Build the chat backend to communicate with the GPT-3 API and store conversation infomation on the server."
+  },
+  {
+    "full_name": "lapreamarcelo/cloudfare-worker-openai",
+    "name": "cloudfare-worker-openai",
+    "description": null
+  },
+  {
+    "full_name": "galalkoro98/Api-open-AI",
+    "name": "Api-open-AI",
+    "description": "OpenAI's API provides access to GPT-3, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code. "
+  },
+  {
+    "full_name": "libaxuan/openai-billing",
+    "name": "openai-billing",
+    "description": "一个安全的不收集key的openai key查询"
+  },
+  {
+    "full_name": "zhourunlong/Light-GPT-Plus",
+    "name": "Light-GPT-Plus",
+    "description": "Extension and bug-fix for Light-GPT (https://github.com/riwigefi/light-gpt)"
+  },
+  {
+    "full_name": "kalanix/kalanix.github.io",
+    "name": "kalanix.github.io",
+    "description": "This is a chatbot uses the open ai gpt-4 version."
+  },
+  {
+    "full_name": "vipin10100001/Openai-chatbot-javascript",
+    "name": "Openai-chatbot-javascript",
+    "description": "A simple chatbot which is built using Javascript and OpenAi API."
+  },
+  {
+    "full_name": "mayurpatil77/OpenAI-Projects",
+    "name": "OpenAI-Projects",
+    "description": "Vanilla Javascript Projects Made Using OpenAI API "
+  },
+  {
+    "full_name": "cxu-demo/try-gpt3",
+    "name": "try-gpt3",
+    "description": "a web app to try gpt-3"
+  },
+  {
+    "full_name": "NinjaTyper/ReactOpenAI",
+    "name": "ReactOpenAI",
+    "description": null
+  },
+  {
+    "full_name": "pgrach/js_openAI_beginner",
+    "name": "js_openAI_beginner",
+    "description": "js+node.js+vercel. Learning to deploy application with my API key saved using Vercel platform."
+  },
+  {
+    "full_name": "oGabrielFreitas/React-Chat-GPT-Bot",
+    "name": "React-Chat-GPT-Bot",
+    "description": "A simple example of a chat bot in ReactJS/NodeJS using Chat GPT API"
+  },
+  {
+    "full_name": "wuoti/eleos",
+    "name": "eleos",
+    "description": "A Jira plugin to generate acceptance criteria for a Jira ticket using a LLM."
+  },
+  {
+    "full_name": "yadahampofo/navigaid",
+    "name": "navigaid",
+    "description": "This project uses React.js Front end Frame work to create a fully functional web application which aims to help people with the medicaid re-enrollment/redetermination process."
+  },
+  {
+    "full_name": "BuraYu/ChatGPT-CLI",
+    "name": "ChatGPT-CLI",
+    "description": "A browser CLI with ChatGPT prompts"
+  },
+  {
+    "full_name": "frozzel/uni-server",
+    "name": "uni-server",
+    "description": "Uni-Server is a Node.js application that leverages OpenAI's ChatGPT and DALL-E 3 for content creation. The server can publish this content to various social media platforms (LinkedIn, Facebook, Instagram, and Twitter) and create blog posts for HubSpot using ChatGPT. It also utilizes the News API to generate posts with content curated by ChatGPT."
+  },
+  {
+    "full_name": "mukhamadazistholib/OllaMate",
+    "name": "OllaMate",
+    "description": "OllaMate: Private AI chatbot Chrome extension."
+  },
+  {
+    "full_name": "danisanguino/Ai-title-generator",
+    "name": "Ai-title-generator",
+    "description": "Title generator from a text, using AI with openAI"
+  },
+  {
+    "full_name": "cheatsoft/AnswerWriteGPT",
+    "name": "AnswerWriteGPT",
+    "description": "GPT-Assisted AnswerWrite"
+  },
+  {
+    "full_name": "regan-tan/itinerary-generator-using-OpenAI-API",
+    "name": "itinerary-generator-using-OpenAI-API",
+    "description": null
+  },
+  {
+    "full_name": "Spark-love/chatgpt-for-google-workspace",
+    "name": "chatgpt-for-google-workspace",
+    "description": "Chat GPT extension for Google Workspace"
+  },
+  {
+    "full_name": "gtiso/GPT-Wrapper-Text-to-Summary",
+    "name": "GPT-Wrapper-Text-to-Summary",
+    "description": "Python GPT Wrapper Text to Summary (+ Extensions)"
+  },
+  {
+    "full_name": "erlapso/openai-api-node",
+    "name": "openai-api-node",
+    "description": "A simple node wrapper for the OpenAI API"
+  },
+  {
+    "full_name": "SylenthMen/chat-bot-html-basico",
+    "name": "chat-bot-html-basico",
+    "description": "chatea con el bot que tiene la api de gpt"
+  },
+  {
+    "full_name": "alerougon/ObjectStorage",
+    "name": "ObjectStorage",
+    "description": "This is a personal Object Storage Repo"
+  },
+  {
+    "full_name": "MishynMykhailo/parser-google-form",
+    "name": "parser-google-form",
+    "description": "This is a Google Forms parser that collects questions and answer choices and uses the OpenAI API to get more detailed and accurate answers."
+  },
+  {
+    "full_name": "harshdev2909/AI-Image_Generator",
+    "name": "AI-Image_Generator",
+    "description": "A React-based AI image generator that leverages the OpenAI API to create unique images from text prompts."
+  },
+  {
+    "full_name": "devanmolsharma/Flutter_UI_builder",
+    "name": "Flutter_UI_builder",
+    "description": "A drag and drop app builder for flutter"
+  },
+  {
+    "full_name": "YuNaga224/chatgpt-chrome",
+    "name": "chatgpt-chrome",
+    "description": "ChatGPTをChrome拡張で使えるようにしたやつです"
+  },
+  {
+    "full_name": "ColgateSmile/Generative_Online_Waiter",
+    "name": "Generative_Online_Waiter",
+    "description": "An interactive online waiter chatbot built with React and integrated with the OpenAI API, enabling users to order food and drinks from a predefined menu. The chatbot confirms orders, suggests drinks, and summarizes the total."
+  },
+  {
+    "full_name": "Ameth/chatgpt-clone",
+    "name": "chatgpt-clone",
+    "description": "Clone ChatGPT using API"
+  },
+  {
+    "full_name": "promptfoo/promptfoo",
+    "name": "promptfoo",
+    "description": "Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration."
+  },
+  {
+    "full_name": "sujjeee/tweetGPT",
+    "name": "tweetGPT",
+    "description": "TweetsGPT: A web app that uses GPT-3 to generate tweets from your thoughts. Choose the tone and the type of tweet, and get ready to twee."
+  },
+  {
+    "full_name": "BlakeIzaguirre/GlyphToExcal",
+    "name": "GlyphToExcal",
+    "description": "Glyph to Excal (GTE) is a project for taking handwritten or LLM-generated process descriptions and quickly modeling them in Excalidraw. "
+  },
+  {
+    "full_name": "aleemrehmtulla/gpt3-google-extension",
+    "name": "gpt3-google-extension",
+    "description": "get direct answers in google using LLMs"
+  },
+  {
+    "full_name": "DilyanaSU/AI-Assistent",
+    "name": "AI-Assistent",
+    "description": "based on ChatGPT"
+  },
+  {
+    "full_name": "sohumdalal/RAGFollowAlong.JSonly",
+    "name": "RAGFollowAlong.JSonly",
+    "description": "Refactored RAG Follow Along using only JS + JS frameworks"
+  },
+  {
+    "full_name": "vermavarun/langchain",
+    "name": "langchain",
+    "description": null
+  },
+  {
+    "full_name": "hugomd/chatterbox",
+    "name": "chatterbox",
+    "description": "Simple Discord bot to interact with OpenAI"
+  },
+  {
+    "full_name": "ankurtehlan/OpenAi_Image_Generator",
+    "name": "OpenAi_Image_Generator",
+    "description": null
+  },
+  {
+    "full_name": "shubhankar-shandilya-india/Insights-AI-An-OpenAI-chrome-extension",
+    "name": "Insights-AI-An-OpenAI-chrome-extension",
+    "description": "Your go-to companion for unlocking knowledge and gaining valuable insights instantly."
+  },
+  {
+    "full_name": "vishalraghav0289/Taskmate-AI",
+    "name": "Taskmate-AI",
+    "description": "Project"
+  },
+  {
+    "full_name": "kixlab/gpt-editor",
+    "name": "gpt-editor",
+    "description": "Text editor powered with GPT-3 for investigating common user revision techniques."
+  },
+  {
+    "full_name": "tdj28/vscode-extension-openai-code-review",
+    "name": "vscode-extension-openai-code-review",
+    "description": "A simple vscode extension that takes the currently open/focused file and submits it to GPT-4 for review and Q&A"
+  },
+  {
+    "full_name": "KanikeSaidatta/Chat-GPT-Bot",
+    "name": "Chat-GPT-Bot",
+    "description": "chat gpt bot using openchat api"
+  },
+  {
+    "full_name": "amxsupport/Fitness_Sphere",
+    "name": "Fitness_Sphere",
+    "description": "Fitness Sphere is an estimation system leveraging Computer Vision and Machine Learning to enhance the field of sports and fitness."
+  },
+  {
+    "full_name": "kannansuresh/chatgpt-playground",
+    "name": "chatgpt-playground",
+    "description": "ChatGPT API Playground. Our latest tool, a web app, allowing you to interact with the ChatGPT API by inputting prompts as System, User, or Assistant."
+  },
+  {
+    "full_name": "yosgo-opensource/swapgo",
+    "name": "swapgo",
+    "description": "AI Go Battle: An AI-powered Go game simulator leveraging Claude and other AI tools to create strategic match-ups and analyze gameplay."
+  },
+  {
+    "full_name": "edn0/gpt_bot",
+    "name": "gpt_bot",
+    "description": "Discord bot ed_bot, fetching data from OpenAI and GLife Extinction"
+  },
+  {
+    "full_name": "0m364/text-gpt-tasker-android",
+    "name": "text-gpt-tasker-android",
+    "description": "this is the basic setup of a taster task to use yout chat gpt api to return text messages"
+  },
+  {
+    "full_name": "iceripperss/gpt-is-friend",
+    "name": "gpt-is-friend",
+    "description": "5 years ago not many of us would believe of current gpt fame"
+  },
+  {
+    "full_name": "swinnik/problem-solver",
+    "name": "problem-solver",
+    "description": "OpenAI integrated problem solving app"
+  },
+  {
+    "full_name": "coopercodes/OpenAIAPIReact",
+    "name": "OpenAIAPIReact",
+    "description": "From the video Use OpenAI API With React (Beginner OpenAI API Tutorial)"
+  },
+  {
+    "full_name": "tariqueahmad275/Codilarity-AI",
+    "name": "Codilarity-AI",
+    "description": "Code Assistor Website using LLM and Fine tuning"
+  },
+  {
+    "full_name": "VRuttik/OpenAI_Image_Generator",
+    "name": "OpenAI_Image_Generator",
+    "description": null
+  },
+  {
+    "full_name": "brayanjeshua/chatgpt-to-speech",
+    "name": "chatgpt-to-speech",
+    "description": "CHATGPT Text-to-Speech Application"
+  },
+  {
+    "full_name": "j-abellera/openai-project",
+    "name": "openai-project",
+    "description": "Mobile app built on React that utilizes OpenAi's GPT and DALL-E APIs to access AIs freely and without limitations from overloaded servers. Data persistence with PostgresDB"
+  },
+  {
+    "full_name": "zeddkhan03/ImageGen-OpenAI",
+    "name": "ImageGen-OpenAI",
+    "description": null
+  },
+  {
+    "full_name": "tdj28/tab-chat",
+    "name": "tab-chat",
+    "description": "Chat about your currently open page with openAI api"
+  },
+  {
+    "full_name": "oleksiishevchuk/aws-lambda-openai-whisper",
+    "name": "aws-lambda-openai-whisper",
+    "description": "AWS S3/Lambda integration with Open AI speech to text API (Whisper model)"
+  },
+  {
+    "full_name": "mendozalz/chatGPT-JS-Vanilla",
+    "name": "chatGPT-JS-Vanilla",
+    "description": "Practicas del uso de la API de OPENIA solo con Vanilla JS"
+  },
+  {
+    "full_name": "ebetap/text-more-adab",
+    "name": "text-more-adab",
+    "description": "A utility for sentiment analysis and text generation. Transform your negative comments to positive or encourage other people."
+  },
+  {
+    "full_name": "AwaisKamran/openai-realtime-api",
+    "name": "openai-realtime-api",
+    "description": "This repository explores the voice based realtime api"
+  },
+  {
+    "full_name": "sumit-kumar-jha1709/ATSInsightPro",
+    "name": "ATSInsightPro",
+    "description": "Elevate your resume with our React app, leveraging OpenAI API and Chakra UI to ensure optimal ATS keyword integration for increased visibility and success."
+  },
+  {
+    "full_name": "Veximor/gpt-translator",
+    "name": "gpt-translator",
+    "description": "Translation app powered by OpenAI's GPT-3/4 for real-time translation of text in any language. (#gpt-clone -- #openai -- #google translator)"
+  },
+  {
+    "full_name": "oapicf/openapi-openai",
+    "name": "openapi-openai",
+    "description": "API client libraries for OpenAI service generated using OpenAPI Generator"
+  },
+  {
+    "full_name": "elliotberry/gpt-commit",
+    "name": "gpt-commit",
+    "description": "Runs the diff of current staged change in a git repo, and asks GPT-4 to write a description, then commit with said message"
+  },
+  {
+    "full_name": "21Ner04/GPT-DSS",
+    "name": "GPT-DSS",
+    "description": null
+  },
+  {
+    "full_name": "quantified-uncertainty/gpt-utils",
+    "name": "gpt-utils",
+    "description": "Repository with some utils using gpt-3"
+  },
+  {
+    "full_name": "vlds5r/homestorage",
+    "name": "homestorage",
+    "description": "App for managing inventory of items/food at home"
+  },
+  {
+    "full_name": "HassanKhan123/openai-keyword-extractor",
+    "name": "openai-keyword-extractor",
+    "description": null
+  },
+  {
+    "full_name": "gavinmgrant/listingify",
+    "name": "listingify",
+    "description": "A full-stack app selling tokens that allow real estate agent users generate descriptions for their listings using the OpenAI API."
+  },
+  {
+    "full_name": "llboo/ChatGPT-Next-Web-PRO",
+    "name": "ChatGPT-Next-Web-PRO",
+    "description": "ChatGPT-Next-Web 接入管理后台，包括：key管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等"
+  },
+  {
+    "full_name": "mozilla/langview",
+    "name": "langview",
+    "description": "EXPERIMENTAL – A library for language models to respond with GUI. "
+  },
+  {
+    "full_name": "snakeying/GPT-Telegram-Bot",
+    "name": "GPT-Telegram-Bot",
+    "description": "Your own GPT Telegram Bot on Vercel"
+  },
+  {
+    "full_name": "hijra-engineering/ngoprek-llm",
+    "name": "ngoprek-llm",
+    "description": null
+  },
+  {
+    "full_name": "carandev/image-generator",
+    "name": "image-generator",
+    "description": "Proyecto que genera una imagen a partir de un texto usando la API de OpenAI"
+  },
+  {
+    "full_name": "vitorgabrieldev/Test_request_chat-GPT-3_api",
+    "name": "Test_request_chat-GPT-3_api",
+    "description": "Repositório para arquivos de teste de requisição para api do GPT-3, para prototipação de um projeto pessoal"
+  },
+  {
+    "full_name": "benmcnulty/moderator",
+    "name": "moderator",
+    "description": "OpenAI Content Filter Demo for rating safety of text input"
+  },
+  {
+    "full_name": "frozenparadox99/RAG-Agent",
+    "name": "RAG-Agent",
+    "description": null
+  },
+  {
+    "full_name": "0x11c11e/GPTDigest",
+    "name": "GPTDigest",
+    "description": "GPTDigest: A Chrome extension that uses OpenAI's GPT-3 to instantly summarize webpages. Make reading online faster and more efficient."
+  },
+  {
+    "full_name": "Nelef/chatGPT-web-clone",
+    "name": "chatGPT-web-clone",
+    "description": "chatGPT api를 사용해 web 비슷하게 만들어봄."
+  },
+  {
+    "full_name": "uzumal/webex-bot-gemini-webhook",
+    "name": "webex-bot-gemini-webhook",
+    "description": "It leverages the power of the Gemini AI model to provide intelligent responses and summaries within your conversations."
+  },
+  {
+    "full_name": "EliasBWGarcia/ai-image-gen-openAI-API",
+    "name": "ai-image-gen-openAI-API",
+    "description": null
+  },
+  {
+    "full_name": "Manav958/Course",
+    "name": "Course",
+    "description": "In the fast-evolving world of education, students often struggle to find personalized and interactive ways to learn and assess their understanding of various subjects. Our inspiration was to create a comprehensive platform that leverages AI to facilitate self-learning, provide real-time assistance, and foster a community of learners."
+  },
+  {
+    "full_name": "shrutika19/Ai-image-generator",
+    "name": "Ai-image-generator",
+    "description": " AI Image Generator App In React Using OpenAI"
+  },
+  {
+    "full_name": "spudtrooper/chromevariations",
+    "name": "chromevariations",
+    "description": "A Chrome extension allows users to select text on any webpage and then view multiple variations of the selected text, using the OpenAI GPT model."
+  },
+  {
+    "full_name": "mob61887/MVP_5e_encounter_generator",
+    "name": "MVP_5e_encounter_generator",
+    "description": "An encounter generator for D&D 5th edition utilizing OpenAI's ChatGPT API"
+  },
+  {
+    "full_name": "CaganDerbent/Receipt-Scanner",
+    "name": "Receipt-Scanner",
+    "description": "This receipt scanner application analyzes the receipts uploaded by the user and automatically extracts specific data from the receipt, such as the company name, tax ID, total amount, tax amount, date, and address. It utilizes the OpenAI API and the GPT-4o model for data extraction and processing."
+  },
+  {
+    "full_name": "andref2015/Page-Scout",
+    "name": "Page-Scout",
+    "description": "Page Scout is a Chrome extension that allows you to quickly and easily summarize any selected text on a webpage using GPT-3."
+  },
+  {
+    "full_name": "willgdjones/SlashAI",
+    "name": "SlashAI",
+    "description": "Slash AI: A Chrome extension that seamlessly integrates GPT-powered AI models into your browsing experience. Type '/ai' followed by a prompt in any text field, and receive instant AI-generated responses using the OpenAI API. Manage your API key and preferred AI model with a user-friendly settings popup. Enhance your web interactions with the power"
+  },
+  {
+    "full_name": "JaskaranSingh0/Wizard",
+    "name": "Wizard",
+    "description": "AI chatbot with and avatar integrated with ChatGPT-4 "
+  },
+  {
+    "full_name": "KamilDziuk/assistantChatGPT",
+    "name": "assistantChatGPT",
+    "description": "An assistant that answers questions by taking data from the API in the voxAPI.php file. Through the OpenAI API, the gpt chat model answers questions that are saved in the MySQL database. By setting the role of the model, you can adjust the answers to your needs."
+  },
+  {
+    "full_name": "OmarNassar1127/openai-realtime-console-main",
+    "name": "openai-realtime-console-main",
+    "description": null
+  },
+  {
+    "full_name": "XInTheDark/raycast-g4f",
+    "name": "raycast-g4f",
+    "description": "Raycast extension to use GPT, Claude, Llama, and more... all for FREE. No API Key required!"
+  },
+  {
+    "full_name": "bakkot/simple-dalle-ui",
+    "name": "simple-dalle-ui",
+    "description": "a simple webpage to wrap OpenAI's image-generator API"
+  },
+  {
+    "full_name": "ubyjerome/Chat-GPT3.5-API-Model",
+    "name": "Chat-GPT3.5-API-Model",
+    "description": "Explore a simple illustration of implementing the GPT-3.5 API model in frontend JavaScript."
+  },
+  {
+    "full_name": "fran-aubry/open-ai-realtime-node-demo",
+    "name": "open-ai-realtime-node-demo",
+    "description": "Demo on how to use the OpenAI real-time API with Node.js"
+  },
+  {
+    "full_name": "benllshua/chatGPT-chrome-extension",
+    "name": "chatGPT-chrome-extension",
+    "description": "cool idea so when you are searching google, youll get the chat answer as well as answers"
+  },
+  {
+    "full_name": "IDPArchitect/ollama-code-reviewer",
+    "name": "ollama-code-reviewer",
+    "description": "Ollama Code Reviewer for VScode"
+  },
+  {
+    "full_name": "ryanmio/DecodeMe-",
+    "name": "DecodeMe-",
+    "description": "DecodeMe! is a coding game with integrated language model."
+  },
+  {
+    "full_name": "sujal12344/AI-Image-generator",
+    "name": "AI-Image-generator",
+    "description": "The AI Image Generator is a powerful tool designed to create high-quality images using OpenAI's API. This project leverages advanced AI models to generate images based on user prompts, providing a seamless and intuitive experience."
+  },
+  {
+    "full_name": "dhruvgupta114/22_AI_IMAGE_GENERATOR_OPENAI_USING_REACTJS",
+    "name": "22_AI_IMAGE_GENERATOR_OPENAI_USING_REACTJS",
+    "description": null
+  },
+  {
+    "full_name": "happydave1/ai-image-gen-web-app",
+    "name": "ai-image-gen-web-app",
+    "description": "test react-openaiapi-nodejs stack"
+  },
+  {
+    "full_name": "cajcodes/rugged-functions",
+    "name": "rugged-functions",
+    "description": "OpenAI functions"
+  },
+  {
+    "full_name": "Nanjiren01/AIChatWeb",
+    "name": "AIChatWeb",
+    "description": "在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。提供后台管理系统，可配置标题、欢迎词、额度不足提醒、公告"
+  },
+  {
+    "full_name": "martinshkreli/bookgen",
+    "name": "bookgen",
+    "description": "A Node-based, GPT-powered book generator"
+  },
+  {
+    "full_name": "g023/superez-gpt-builder",
+    "name": "superez-gpt-builder",
+    "description": "SuperEZ-GPT Builder: jQuery/GPT AI Content Building Assistant"
+  },
+  {
+    "full_name": "jeremysilva1098/FP-RAG-Chat",
+    "name": "FP-RAG-Chat",
+    "description": "RAG Client for freeplay content"
+  },
+  {
+    "full_name": "TheRealKiraAI/intro-to-ai",
+    "name": "intro-to-ai",
+    "description": "An introductory to using OpenAI's API for Node.js. A mini app to generate ads. "
+  },
+  {
+    "full_name": "will-balkan/embeddings-demo",
+    "name": "embeddings-demo",
+    "description": null
+  },
+  {
+    "full_name": "JacquelineMG/Funsies",
+    "name": "Funsies",
+    "description": " A smart to-do list, single-page application that uses an OpenAI GPT language model to automatically categorize items. Created in collaboration with @carmshito and @katiestruthers."
+  },
+  {
+    "full_name": "Eazynesta/synthetiSketch",
+    "name": "synthetiSketch",
+    "description": "Ai image generation website. Powered by openAi"
+  },
+  {
+    "full_name": "djosix/Translate",
+    "name": "Translate",
+    "description": "This extension surpasses Google Translate. It offers support for Google, OpenAI, DeepL, and Ollama as its backend options. The user experience is superior and continually improving."
+  },
+  {
+    "full_name": "Snielson222/D-D-NPC-Generator",
+    "name": "D-D-NPC-Generator",
+    "description": "OPENAI API NPC Generator"
+  },
+  {
+    "full_name": "snnaplab/openai-chat-on-issues",
+    "name": "openai-chat-on-issues",
+    "description": "This is a GitHub Actions for running OpenAI's chat on GitHub Issues."
+  },
+  {
+    "full_name": "rudratoshs/ai-content-recommender",
+    "name": "ai-content-recommender",
+    "description": "AI-powered content recommendation system using ChatGPT and Mistral APIs."
+  },
+  {
+    "full_name": "Sanaz-M/openAI-small_project",
+    "name": "openAI-small_project",
+    "description": null
+  },
+  {
+    "full_name": "solstice23/gpt-trans-netease",
+    "name": "gpt-trans-netease",
+    "description": "使用 ChatGPT 翻译歌词 - BetterNCM 插件"
+  },
+  {
+    "full_name": "khaterdev/openai-codex-chrome-extension",
+    "name": "openai-codex-chrome-extension",
+    "description": "AI built chrome Extension that can write code to manipulate web page contents using the same AI API."
+  },
+  {
+    "full_name": "fastarger/chatbot-GPT3-discord.js-v14",
+    "name": "chatbot-GPT3-discord.js-v14",
+    "description": "🤖Um Simples bot em node.js utilizando a API OPENAI."
+  },
+  {
+    "full_name": "grizzlypeaksoftware/contactformapi",
+    "name": "contactformapi",
+    "description": "Contact Form API that uses Open AI LLM to Filter for Spam"
+  },
+  {
+    "full_name": "CNPratt/auto-documentation-project",
+    "name": "auto-documentation-project",
+    "description": "A small Node program that use Babel to parse React JSX components and send them to the OpenAI API for description generation."
+  },
+  {
+    "full_name": "ppicello/MDB-MS0-RAG",
+    "name": "MDB-MS0-RAG",
+    "description": "Retrieval Augmented Generation with MongoDB Atlas, OpenAI and LangChain"
+  },
+  {
+    "full_name": "petherEm/aikeywords",
+    "name": "aikeywords",
+    "description": "OpenAI backed keywords extractor, Next.js 13, TailwindCSS, OpenAI API"
+  },
+  {
+    "full_name": "noahpeden/react-openai-hooks",
+    "name": "react-openai-hooks",
+    "description": "A React Hook based off OpenAI Streaming Hooks that fixes its polyfill problem and enables streaming to React components from OpenAI "
+  },
+  {
+    "full_name": "phil2211/rag-demo",
+    "name": "rag-demo",
+    "description": null
+  },
+  {
+    "full_name": "dustinusey/chatgpt-clone",
+    "name": "chatgpt-clone",
+    "description": "A basic ChatGPT clone built in React and Tailwindcss"
+  },
+  {
+    "full_name": "StevenLeeTW/gpt-t9n",
+    "name": "gpt-t9n",
+    "description": null
+  },
+  {
+    "full_name": "tripathiarpan20/Webpage-Safety-Evaluation",
+    "name": "Webpage-Safety-Evaluation",
+    "description": "Evaluate safety metrics of a webpage with free OpenAI moderation API"
+  },
+  {
+    "full_name": "papersgpt/papersgpt-for-zotero",
+    "name": "papersgpt-for-zotero",
+    "description": "Zotero chat PDF with GPT, ChatGPT, Claude, Gemini"
+  },
+  {
+    "full_name": "LinLin00000000/openai-billing",
+    "name": "openai-billing",
+    "description": "查询 openai 余额  fetch openai billing"
+  },
+  {
+    "full_name": "bnovik0v/chrome-openai-summary-comment",
+    "name": "chrome-openai-summary-comment",
+    "description": "A Chrome extension to generate summaries and comments on selected text using OpenAI API, built with the help of ChatGPT."
+  },
+  {
+    "full_name": "DuanYuFi/GPT-Web",
+    "name": "GPT-Web",
+    "description": null
+  },
+  {
+    "full_name": "zmxv/humorset",
+    "name": "humorset",
+    "description": "HumorSet is a data set to evaluate AI model's sense of humor and ability to explain jokes."
+  },
+  {
+    "full_name": "alexander2323/win-chatgpt-grammar-corrector",
+    "name": "win-chatgpt-grammar-corrector",
+    "description": "Grammar Corrector (ChatGPT) is an Electron-based application that enhances your clipboard content by correcting its grammar using OpenAI's GPT-4 model. The app runs in the system tray and can be activated with a keyboard shortcut. It displays the current clipboard content, corrects its grammar, and updates the clipboard with the corrected text."
+  },
+  {
+    "full_name": "Chauhan-Aman/AIgenius",
+    "name": "AIgenius",
+    "description": "AIgenius - Features three AI models by OpenAI: ChatGPT for generating human-like text responses, DALL-E for creating images from text descriptions, and Smart AI for text-to-speech, speech-to-text, and intelligent responses."
+  },
+  {
+    "full_name": "arc25275/chatGPT-Google",
+    "name": "chatGPT-Google",
+    "description": "An extension that adds a ChatGPT response below each google search. Token must be provided. Response can be customized via prompt."
+  },
+  {
+    "full_name": "khmorad/OpenAI_moderation_experiment",
+    "name": "OpenAI_moderation_experiment",
+    "description": null
+  },
+  {
+    "full_name": "jyotimanglani/ai-image-generator",
+    "name": "ai-image-generator",
+    "description": "An image generator app built with React, featuring OpenAI integration for creative image generation. Users can describe what they want to see, and the app uses OpenAI's powerful model to generate unique images."
+  },
+  {
+    "full_name": "B-Llage/Covered",
+    "name": "Covered",
+    "description": "OpenAI Cover Letter Generator"
+  },
+  {
+    "full_name": "4btin/Discord-ChatGPT-SelfBot",
+    "name": "Discord-ChatGPT-SelfBot",
+    "description": "This project represents a customized chatbot available on Discord servers. This chatbot interacts with text-based chats using the OpenAI GPT-3.5-Turbo model. Users can send messages to the chatbot using a special command, and the chatbot can understand these messages and generate meaningful responses."
+  },
+  {
+    "full_name": "lsongdev/chatgpt-demo",
+    "name": "chatgpt-demo",
+    "description": "🤖 Simple ChatGPT Web Client"
+  },
+  {
+    "full_name": "QuocVietHa08/chatgpt-summuraize-chrome-extension",
+    "name": "chatgpt-summuraize-chrome-extension",
+    "description": "chatgpt-summuraize-chrome-extension"
+  },
+  {
+    "full_name": "jitendra0104/ChatGPT-Integration-",
+    "name": "ChatGPT-Integration-",
+    "description": "ChatGPT Integration "
+  },
+  {
+    "full_name": "wingsum93/Chatgpt-proxy-docker-js",
+    "name": "Chatgpt-proxy-docker-js",
+    "description": "A container that serve OPENAI API, can use to be deployed in docker machine."
+  },
+  {
+    "full_name": "Ygali04/GPT-clone",
+    "name": "GPT-clone",
+    "description": "ChatGPT Clone designed for UCLA students of 5AL/5BL/5CL courses to leverage GPT-4 for free in assistance with their labs"
+  },
+  {
+    "full_name": "Sacha924/LLM_Fine_Tuning_DSA",
+    "name": "LLM_Fine_Tuning_DSA",
+    "description": null
+  },
+  {
+    "full_name": "Johnviitoor/APi-ChatGPT-2.0",
+    "name": "APi-ChatGPT-2.0",
+    "description": "Este é um projeto de chatbot utilizando o modelo de linguagem GPT-3 da OpenAI para fornecer respostas a perguntas inseridas pelo usuário em uma versão melhorada do projeto anterior com melhoras na interface ao usuário."
+  },
+  {
+    "full_name": "studiobloom/gpt-build",
+    "name": "gpt-build",
+    "description": "webflow + node.js + aws ec2 + openai api (to avoid extra CORS annoyances)"
+  },
+  {
+    "full_name": "Tsimbalist/ChatGPT-Extension",
+    "name": "ChatGPT-Extension",
+    "description": "This repository contains a lightweight and elegant browser extension that integrates ChatGPT directly into your browser's toolbar. With instant access, a clean interface, and full markdown support, this extension enhances your browsing experience by providing quick, on-demand AI assistance."
+  },
+  {
+    "full_name": "utkarsh-umang/LLM-Extensions-sheets",
+    "name": "LLM-Extensions-sheets",
+    "description": "Scripts that can be added as Extensions on Google Sheets to make LLM calls"
+  },
+  {
+    "full_name": "ethan-yz-hao/equation-ocr-app",
+    "name": "equation-ocr-app",
+    "description": "OCR application for converting handwritten equations into LaTeX code using OpenAI's GPT-4V API, with LaTeX renderer for editing and checking (Next.js, Typescript, OpenAI GPT-4V, KaTex, Vercel)"
+  },
+  {
+    "full_name": "yu-jeffy/anyquiz.ai",
+    "name": "anyquiz.ai",
+    "description": "LLM based quiz application, written in React.js"
+  },
+  {
+    "full_name": "k5-k/WebGPT",
+    "name": "WebGPT",
+    "description": "Ai chat assistant webpage that utilises OpenAI."
+  },
+  {
+    "full_name": "analyticsinmotion/chatgpt-sentiment-analysis-in-excel",
+    "name": "chatgpt-sentiment-analysis-in-excel",
+    "description": "Discover NLP features powered by ChatGPT you can use in Excel"
+  },
+  {
+    "full_name": "jozi/gpt-translate-ex",
+    "name": "gpt-translate-ex",
+    "description": "GPT Translator Chrome Extension"
+  },
+  {
+    "full_name": "Tintenklecks/Chrome-Plugin-for-ChatGpt-Website-Abstract",
+    "name": "Chrome-Plugin-for-ChatGpt-Website-Abstract",
+    "description": "This is my first Chrome plugin. It does a simple but very useful job. When you use it on an article, it queries the OpenAI API and presents you a 5 bullet list of it´s content with important words highlighted. You have to use your own API key, that you can create at https://platform.openai.com/account/api-keys"
+  },
+  {
+    "full_name": "patlov/image_generatorJS",
+    "name": "image_generatorJS",
+    "description": "Simple Image generator, which takes user input and then uses OpenAI API to generate the images"
+  },
+  {
+    "full_name": "Carson21/chatgpt-sentiment-analysis",
+    "name": "chatgpt-sentiment-analysis",
+    "description": "API that allows user to search for reviews of a particular Google Place and use ChatGPT API to run sentiment analysis on the reviews"
+  },
+  {
+    "full_name": "g023/SuperEZ-AI-SEO-Wordpress-Plugin",
+    "name": "SuperEZ-AI-SEO-Wordpress-Plugin",
+    "description": "A Wordpress OpenAI API GPT-3/GPT-4 SEO and Content Generator for Pages and Posts"
+  },
+  {
+    "full_name": "V9vek/Algorithm-To-Code",
+    "name": "Algorithm-To-Code",
+    "description": "Algorithm to code generator using OpenAI API"
+  },
+  {
+    "full_name": "michael-dixonjr/LLM-Pro-UI",
+    "name": "LLM-Pro-UI",
+    "description": "Advanced User Interface for large language models"
+  },
+  {
+    "full_name": "VladTer06081963/TabacoAI",
+    "name": "TabacoAI",
+    "description": "chat GPT"
+  },
+  {
+    "full_name": "ArtimusMaximus/reactAIshoppinglist",
+    "name": "reactAIshoppinglist",
+    "description": "React shopping list, local storage, chatgpt enhanced"
+  },
+  {
+    "full_name": "chokiproai/ChatGPT-Plugins",
+    "name": "ChatGPT-Plugins",
+    "description": "Chat AI (↓↓Cuộn trang để xem thêm↓↓)"
+  },
+  {
+    "full_name": "gjssss/openai-low-code",
+    "name": "openai-low-code",
+    "description": "使用Vue3和Sortable.js实现的拖拽组件低代码平台"
+  },
+  {
+    "full_name": "wikibonsai/semtree-germ",
+    "name": "semtree-germ",
+    "description": "Have an LLM (ChatGPT) generate a semantic (sub) tree from a given word or concept."
+  },
+  {
+    "full_name": "johame72/chat4_128k",
+    "name": "chat4_128k",
+    "description": "gpt-4-0125-preview"
+  },
+  {
+    "full_name": "vadpiccini/coursera_flashcards",
+    "name": "coursera_flashcards",
+    "description": "Chrome Extension to generate notes and flashcards from Coursera video pages using OpenAI"
+  },
+  {
+    "full_name": "Ashuza11/weatherApp-with-genAI",
+    "name": "weatherApp-with-genAI",
+    "description": "This is repository contains code for a AI powered web app  build with React,  OpenAI API and the open weather API"
+  },
+  {
+    "full_name": "aashraf09/nextjs-chatgpt-clone",
+    "name": "nextjs-chatgpt-clone",
+    "description": "IntellectoBot - An AI model developed using NEXT JS and OpenAI  API Key."
+  },
+  {
+    "full_name": "nicucalcea/sheets-llm",
+    "name": "sheets-llm",
+    "description": "Use Large Language Models (LLM) in Google Sheets"
+  },
+  {
+    "full_name": "Grasseed/ChatGPT-Translator",
+    "name": "ChatGPT-Translator",
+    "description": "使用ChatGPT API的翻譯文字插件"
+  },
+  {
+    "full_name": "maxsagt/lambda-openai-stream",
+    "name": "lambda-openai-stream",
+    "description": "Stream OpenAI responses with AWS Lambda Function URL response streaming. UPDATE: Now officially supported by OpenAI https://github.com/openai/openai-node"
+  },
+  {
+    "full_name": "cdm823/gdrive_folder_chat",
+    "name": "gdrive_folder_chat",
+    "description": "Retrieval Augmented Generation (RAG) Q&A for a Google Drive Folder"
+  },
+  {
+    "full_name": "darrylschaefer/mongodb-triggers-openai",
+    "name": "mongodb-triggers-openai",
+    "description": "MongoDB Atlas Triggers for accessing OpenAI API"
+  },
+  {
+    "full_name": "gunjan1909/ai-job-description",
+    "name": "ai-job-description",
+    "description": "Job Description Generator with NextJS and OpenAI API"
+  },
+  {
+    "full_name": "rahilshah13/fragrantica-scraper",
+    "name": "fragrantica-scraper",
+    "description": "web scraping system on AWS for fragrantica.com"
+  },
+  {
+    "full_name": "andref2015/New-Yorker-Style-Rewriter",
+    "name": "New-Yorker-Style-Rewriter",
+    "description": "An Apps Script that allows you to rewrite selected text in a Google Doc using GPT-3."
+  },
+  {
+    "full_name": "paulkogan/george_LLM",
+    "name": "george_LLM",
+    "description": "App translating free-text queries on a dataset to SQL searches via ChatGPT API"
+  },
+  {
+    "full_name": "sunsky89757/FreeNextChat",
+    "name": "FreeNextChat",
+    "description": "免费使用gpt-4o-mini、llama-3.1-70b、deepseek-chat、claude-sonnet"
+  },
+  {
+    "full_name": "Moodbot11/openai-assistant",
+    "name": "openai-assistant",
+    "description": "Open AI script no api to a voice interaction chat but GTP 40"
+  },
+  {
+    "full_name": "Raghu23-dev/AI-Image-Generator",
+    "name": "AI-Image-Generator",
+    "description": "Created a Image Generator Website "
+  },
+  {
+    "full_name": "CBeckers/ChatGPT-Chat-Bot",
+    "name": "ChatGPT-Chat-Bot",
+    "description": "An HTML/CSS/JavaScript website that creates a chat environment where the user can message the ChatGPT AI."
+  },
+  {
+    "full_name": "carsond135/ChatGPT-Next-Web",
+    "name": "ChatGPT-Next-Web",
+    "description": "A cross-platform ChatGPT/Gemini UI."
+  },
+  {
+    "full_name": "msoedov/agentic_security",
+    "name": "agentic_security",
+    "description": "Agentic LLM Vulnerability Scanner / AI red teaming kit"
+  },
+  {
+    "full_name": "janlay/openai-cloudflare",
+    "name": "openai-cloudflare",
+    "description": "An OpenAI API proxy running with Cloudflare worker."
+  },
+  {
+    "full_name": "metix/gnome-shell-extension-openai",
+    "name": "gnome-shell-extension-openai",
+    "description": "Display a ChatGPT overlay in the GNOME Shell. (GNOME Extension)"
+  },
+  {
+    "full_name": "locmaymo/SillyTavern-huggingface",
+    "name": "SillyTavern-huggingface",
+    "description": null
+  },
+  {
+    "full_name": "evarga/comments-aggregator",
+    "name": "comments-aggregator",
+    "description": "This is a teaching material aimed to demonstrate text analysis and generation capabilities of OpenAI."
+  },
+  {
+    "full_name": "amjrotich/CoinBuddy",
+    "name": "CoinBuddy",
+    "description": "AI-powered Telegram chatbot that provides and analyzes market prices similar to CoinMarketCap, you can use free and open-source APIs like CoinGecko API for fetching cryptocurrency data and OpenAI's GPT-3 for analyzing and responding to user queries. "
+  },
+  {
+    "full_name": "kaiban-ai/kaiban-llm-proxy",
+    "name": "kaiban-llm-proxy",
+    "description": "Kaiban LLM Proxy provides a proxy implementation for multiple Large Language Model (LLM) providers, including OpenAI, Anthropic, Google Gemini, and Mistral. This proxy allows developers to securely route API requests from the frontend while keeping API keys hidden from client-side code."
+  },
+  {
+    "full_name": "LLawliet418/AI-Image-Generator",
+    "name": "AI-Image-Generator",
+    "description": "An image generator that uses OpenAI API and React. "
+  },
+  {
+    "full_name": "hannutt/JS-ChatBot",
+    "name": "JS-ChatBot",
+    "description": "JavaScript chatbot and news feed app with OpenAI GPT 3.5 API, Google Translate API and NewsAPI integrations."
+  },
+  {
+    "full_name": "obahamonde/chatgpt-clone-vue-express-fauna",
+    "name": "chatgpt-clone-vue-express-fauna",
+    "description": "A chat GPT clone using VueJS, ExpressJS and FaunaDB"
+  },
+  {
+    "full_name": "fatimamahsud1/Serverless-ChatGpt-Extension",
+    "name": "Serverless-ChatGpt-Extension",
+    "description": "This project involves setting up a serverless backend on Vercel or Netlify to handle requests from a Chrome Extension, sending them to the ChatGPT API, and returning the responses. It features strict rate limiting per device, robust security measures including API key protection and input sanitization, and mandatory HTTPS communication."
+  },
+  {
+    "full_name": "memochou1993/gpt-ai-assistant",
+    "name": "gpt-ai-assistant",
+    "description": "OpenAI + LINE + Vercel = GPT AI Assistant"
+  },
+  {
+    "full_name": "bakaburg1/AiQuickFill",
+    "name": "AiQuickFill",
+    "description": "AI Quick Fill is a Chrome extension that provides AI-powered autocompletions for text fields on web pages. It uses GPT-4-turbo to suggest relevant completions as you type."
+  },
+  {
+    "full_name": "sdrahmath/Intellibot",
+    "name": "Intellibot",
+    "description": "This project combines the power of OpenAI's GPT-3.5 Turbo and DALL·E models to enable chat-based conversations and image generation. It also incorporates additional features such as voice listening, speech synthesis, themes, and an interactive user interface."
+  },
+  {
+    "full_name": "matt9527-marist/aimjourney",
+    "name": "aimjourney",
+    "description": "Project embedding ChatGPT into a standalone application, which will be used as a third-party tool to inform professional gamers in their mechanics training,"
+  },
+  {
+    "full_name": "T-Macgrady/tgpt-dev",
+    "name": "tgpt-dev",
+    "description": "类 gpt-engineer 的编程助手，JS 定制化版本，提效利器，内置 api key"
+  },
+  {
+    "full_name": "Garusxx/chatGPT-app",
+    "name": "chatGPT-app",
+    "description": "Chatbot With The ChatGPT API"
+  },
+  {
+    "full_name": "Aschen/coding-challenge-ia-solver",
+    "name": "coding-challenge-ia-solver",
+    "description": "A Chrome extension using LLM and DevTools to automatically solve coding challenge by manipulating directly the browser"
+  },
+  {
+    "full_name": "johame72/chatstream",
+    "name": "chatstream",
+    "description": "Real-Time Streaming App Connected to ChatGPT-4 using SSE"
+  },
+  {
+    "full_name": "Pradyumna369/AI-Blogs",
+    "name": "AI-Blogs",
+    "description": "Application to create blog based on prompt using LLM"
+  },
+  {
+    "full_name": "whitekw/discord-gpt-bot",
+    "name": "discord-gpt-bot",
+    "description": "Discord ChatGPT bot"
+  },
+  {
+    "full_name": "Nickodhiambo/AI-Image-Generator",
+    "name": "AI-Image-Generator",
+    "description": "This is a vanilla JS project that makes an API call to OpenAI's chat generator image generation endpoint"
+  },
+  {
+    "full_name": "RohanVSuri/GPT_Summarizer",
+    "name": "GPT_Summarizer",
+    "description": "Chrome Extension to summarize highlighted text using OpenAI's GPT Model"
+  },
+  {
+    "full_name": "ncesar/puppeteer-recaptcha-whisper",
+    "name": "puppeteer-recaptcha-whisper",
+    "description": "Solving recaptcha using Puppeteer and OpenAI Whisper Model"
+  },
+  {
+    "full_name": "oli06/db-llm-to-form",
+    "name": "db-llm-to-form",
+    "description": "Chrome Extension: Search for a Deutsche Bahn train connection using only text"
+  },
+  {
+    "full_name": "GHaas/recipe-generator",
+    "name": "recipe-generator",
+    "description": "A simple website that uses OpenAI API to generate a new recipe based on the users input."
+  },
+  {
+    "full_name": "0xR3TRO/ChatBot",
+    "name": "ChatBot",
+    "description": "A language model built on OpenAI's API, designed to facilitate engaging and contextually relevant conversations with users. This advanced model leverages machine learning to comprehend and respond to diverse queries, fostering interactive and meaningful interactions."
+  },
+  {
+    "full_name": "Hustada/Q-AI-X-Bot",
+    "name": "Q-AI-X-Bot",
+    "description": "An automated bot that generates and posts Star Trek's Q character-themed content on the X platform using OpenAI's GPT technology. Designed to entertain and engage followers with creative, Q-style updates."
+  },
+  {
+    "full_name": "antriksh-9/Chatbot",
+    "name": "Chatbot",
+    "description": "I developed this fully functional chatbot using HTML, CSS and JS. I have also used OpenAI API's."
+  },
+  {
+    "full_name": "appatalks/chatgpt-html",
+    "name": "chatgpt-html",
+    "description": "OpenAI & Google Generative Language Chat"
+  },
+  {
+    "full_name": "rocket-pig/GPT3-Android",
+    "name": "GPT3-Android",
+    "description": "Android app to interact with OpenAI's collection of AI APIs. "
+  },
+  {
+    "full_name": "orlando70/cover-letter-generator",
+    "name": "cover-letter-generator",
+    "description": "Introducing the Cover Letter Generator powered by GPT-3! Say goodbye to generic and boring cover letters and hello to personalized, professional letters that get noticed. Our state-of-the-art AI technology leverages OpenAI's GPT-3 language model to create customized cover letters tailored to your specific job application."
+  },
+  {
+    "full_name": "Cosaslearning/AI-Image-Generator",
+    "name": "AI-Image-Generator",
+    "description": "This web application provides a user-friendly interface for generating AI images based on user prompts. It leverages the OpenAI API and allows users to select the number and size of images to generate. The generated images are displayed with the option to download them. The code has been optimized and well-commented for clarity and functionality."
+  },
+  {
+    "full_name": "opsJson/ChatGPT-Discord-Bot",
+    "name": "ChatGPT-Discord-Bot",
+    "description": "Simple ChatGPT bot for Discord"
+  },
+  {
+    "full_name": "araobp/node-red-genai",
+    "name": "node-red-genai",
+    "description": "Node-RED as an LLM-chain framework with IoT"
+  },
+  {
+    "full_name": "RobertSloan22/AutomotiveShopAI",
+    "name": "AutomotiveShopAI",
+    "description": "Automotive Repair Shop Managment and Diagnosis assist platform with AI tools with openai api and langchain. "
+  },
+  {
+    "full_name": "sunnydsouza/node-red-contrib-openai-gpt",
+    "name": "node-red-contrib-openai-gpt",
+    "description": "A NodeRed node to interact with OpenAI api through different models"
+  },
+  {
+    "full_name": "Bostads-AB-Mimer/openAIchatbot",
+    "name": "openAIchatbot",
+    "description": "Simple back end api built with node.js communication with the OpenAI language model. "
+  },
+  {
+    "full_name": "rogasper/nexquiz",
+    "name": "nexquiz",
+    "description": "generate multiple choice quiz from the text with Openai API"
+  },
+  {
+    "full_name": "magharkar/Shopify-GPT-3",
+    "name": "Shopify-GPT-3",
+    "description": "Shopify Front End Developer Intern Challenge"
+  },
+  {
+    "full_name": "coffeefuelbump/openai-real-time-api-example-corbinbrown",
+    "name": "openai-real-time-api-example-corbinbrown",
+    "description": "OpenAI Realtime API Example"
+  },
+  {
+    "full_name": "youssefboulmalf/React-OpenAi-Voice-Chat",
+    "name": "React-OpenAi-Voice-Chat",
+    "description": "🤖 💬 This is a simple website build with React that takes a users voice input and generates a respond from one of the current active Open Ai models."
+  },
+  {
+    "full_name": "Adit0507/chatbot-openai",
+    "name": "chatbot-openai",
+    "description": "Simple implementation of a chatbot using Open AI :)"
+  },
+  {
+    "full_name": "ArtyLLaMa/ArtyLLaMA",
+    "name": "ArtyLLaMA",
+    "description": "ArtyLLama is an experimental AI-powered platform for interactive content creation. It integrates with various AI models (Ollama, OpenAI, Anthropic) to explore natural language-driven development of web experiences, 3D visualizations, and more. Features include real-time AI chat, dynamic model selection, and semantic search across chat history."
+  },
+  {
+    "full_name": "ShwetaTyagi1/AI-ImageGenerator",
+    "name": "AI-ImageGenerator",
+    "description": "A dynamic web application that leverages HTML, CSS, JavaScript, and OpenAI's DALL-E API to generate high-quality images from user prompts. Features include real-time image rendering, direct download functionality, and the ability to generate 1 to 4 images simultaneously, enhancing user experience and efficiency."
+  },
+  {
+    "full_name": "kvinlazy/healthcare-llm-app",
+    "name": "healthcare-llm-app",
+    "description": null
+  },
+  {
+    "full_name": "KeshavChawla/CS492-OpenAI-Alt-Text",
+    "name": "CS492-OpenAI-Alt-Text",
+    "description": "Using OpenAI's GPT4-Vision-Preview to Add Alt-Text to Images Missing Them & Increasing Web Accessibility"
+  },
+  {
+    "full_name": "quangshuynh/baby-names-generator",
+    "name": "baby-names-generator",
+    "description": "(BROKEN) non-functional openai api key"
+  },
+  {
+    "full_name": "SpyrexDE/GPT-Visualizer",
+    "name": "GPT-Visualizer",
+    "description": "A website to visualize how GPT text generation works"
+  },
+  {
+    "full_name": "Khannakunal32/AI-smart-bot",
+    "name": "AI-smart-bot",
+    "description": "Uses Chat GPT"
+  },
+  {
+    "full_name": "HappyHarry1130/Cold-Call-node-twilio-elevenlabs-deepgrame-openai",
+    "name": "Cold-Call-node-twilio-elevenlabs-deepgrame-openai",
+    "description": null
+  },
+  {
+    "full_name": "ekamid/cgpt-web-builder",
+    "name": "cgpt-web-builder",
+    "description": "A basic Ai-powered web builder!"
+  },
+  {
+    "full_name": "ahmedmujtaba1/ChatGPT-Clone",
+    "name": "ChatGPT-Clone",
+    "description": "This is a basic ChatGPT-Clone that uses OpenAI model. Remember the below link is not working because the api key is not integrated. Thanks"
+  },
+  {
+    "full_name": "Maclean-D/title-transformer",
+    "name": "title-transformer",
+    "description": "Dynamic title optimization powered by OpenAI"
+  },
+  {
+    "full_name": "Gitmaster511/React-Native-Chatbot",
+    "name": "React-Native-Chatbot",
+    "description": "Example of a react Native chatbot with the new GPT-3.5 API"
+  },
+  {
+    "full_name": "urotarou/MaidChang",
+    "name": "MaidChang",
+    "description": "GASで動作するOpenAI APIのchatを利用したアプリ"
+  },
+  {
+    "full_name": "LiubovSobolevskaya/openai-api-app",
+    "name": "openai-api-app",
+    "description": "Application that uses opeAI ChatGPT API."
+  },
+  {
+    "full_name": "swimgirlnv/runllm",
+    "name": "runllm",
+    "description": "Final project for LITR 1010H D&XD"
+  },
+  {
+    "full_name": "kaifamiao/anything-llm-chinese",
+    "name": "anything-llm-chinese",
+    "description": "开发喵AI"
+  },
+  {
+    "full_name": "cameron-eth/open-ai",
+    "name": "open-ai",
+    "description": "chat-gpt-clone "
+  },
+  {
+    "full_name": "midudev/midu-chatgpt-clone",
+    "name": "midu-chatgpt-clone",
+    "description": "Un clon de ChatGPT por temas educativos"
+  },
+  {
+    "full_name": "cameronnapoli/llm-translate",
+    "name": "llm-translate",
+    "description": "Translate text using an LLM API."
+  },
+  {
+    "full_name": "itsaizaz/Medical-Chatbot",
+    "name": "Medical-Chatbot",
+    "description": "Explore my GitHub repo for a multilingual medical chatbot using Node.js and OpenAI GPT-3.5 Turbo. It answers health queries, schedules doctor appointments, and detects emergencies in multiple languages."
+  },
+  {
+    "full_name": "S-hub1996/heygen-voice-chatbot",
+    "name": "heygen-voice-chatbot",
+    "description": "Voice-interactive chatbot with an avatar using Heygen and GPT-3.5-turbo in a React.js"
+  },
+  {
+    "full_name": "CKawara/AI-image-generator",
+    "name": "AI-image-generator",
+    "description": "React web app that uses AI to create an image based on a user’s input. The app uses OpenAI's GPT-3 text and DALL-E image APIs."
+  },
+  {
+    "full_name": "SanHacks/OpenAI-Dalle-2-Implementation",
+    "name": "OpenAI-Dalle-2-Implementation",
+    "description": "An implementation of OpenAI's Image Generation AI Dall-E-2 for Online T-Shirt Store ( User Prompt to T-Shirt Designs."
+  },
+  {
+    "full_name": "stoerr/chatGPTtools",
+    "name": "chatGPTtools",
+    "description": "Many command line tools, bookmarklets and apps for productivity using the OpenAI chat completion API that models ChatGPT"
+  },
+  {
+    "full_name": "Adam-Thometz/OpenAI-Stream-Experiment",
+    "name": "OpenAI-Stream-Experiment",
+    "description": null
+  },
+  {
+    "full_name": "dew-automatisation/ChatGPT-interface",
+    "name": "ChatGPT-interface",
+    "description": "ChatGPT interface, GPT3.5 et GPT4"
+  },
+  {
+    "full_name": "rijieli/GrammarGPT.popclipext",
+    "name": "GrammarGPT.popclipext",
+    "description": "PopClip extension to correct grammar using OpenAI's GPT API."
+  },
+  {
+    "full_name": "garland3/my_rag_demo",
+    "name": "my_rag_demo",
+    "description": null
+  },
+  {
+    "full_name": "fitri-hy/react-chatgpt-openai",
+    "name": "react-chatgpt-openai",
+    "description": "This simple ReactJS project that I created is an AI Chatbot that uses apiKey from OpenAI. "
+  },
+  {
+    "full_name": "AmolBhere/ChatGPT-API-Based-Project",
+    "name": "ChatGPT-API-Based-Project",
+    "description": "Created a ChatGPT clone using React Js. and OpenAI API."
+  },
+  {
+    "full_name": "LindaMarko/chat-with-ada",
+    "name": "chat-with-ada",
+    "description": " ChatGPT clone that uses Next.js v13, OpenAI's GPT API, MongoDB, Auth0 and Tailwind CSS."
+  },
+  {
+    "full_name": "vysuvysavya/VisionaryVerse_AI",
+    "name": "VisionaryVerse_AI",
+    "description": "✨ VisionaryVerse: An AI-powered image generator using React.js and OpenAI🎨🤖. Enter text and generate stunning visuals in seconds! 🚀"
+  },
+  {
+    "full_name": "mayfer/philosopherai_demo",
+    "name": "philosopherai_demo",
+    "description": "Open source demo showcasing the core functionality behind https://philosopherai.com that you can try out using your own OpenAI credentials."
+  },
+  {
+    "full_name": "kevinamiri/chatgpt-spreadsheet-example",
+    "name": "chatgpt-spreadsheet-example",
+    "description": "Add GhatGPT to your Google spreadsheet"
+  },
+  {
+    "full_name": "kausthub-kannan/farmsense.ai",
+    "name": "farmsense.ai",
+    "description": "farmsense.ai is an AI assistant for exponentially growing Hybrid farming. To enhance farmers' yield, this application assists them by detecting diseases of plants and poultries and providing crop and egg incubation analysis. CNN, YOLO, and XGBoost are used for the models.  "
+  },
+  {
+    "full_name": "Ssbullock/my-art-transformer",
+    "name": "my-art-transformer",
+    "description": "Ai filters from user images"
+  },
+  {
+    "full_name": "DanaStok/AIEverywhere",
+    "name": "AIEverywhere",
+    "description": "This Chrome extension enhances your digital reading and coding experience by using the OpenAI API to summarize text, generate quizzes, and automatically comment on code."
+  },
+  {
+    "full_name": "sunilband/spiritual-gpt",
+    "name": "spiritual-gpt",
+    "description": "*OLD VERSION* The combined knowledge of the scriptures at one place thanks to the power of AI . Powered by Chat-GPT-Turbo-3.5"
+  },
+  {
+    "full_name": "un4ckn0wl3z/nextjs-chatgpt-clone",
+    "name": "nextjs-chatgpt-clone",
+    "description": "nextjs-chatgpt-clone"
+  },
+  {
+    "full_name": "issacsamalex/netflix-GPT",
+    "name": "netflix-GPT",
+    "description": "Netflix clone built with React.js, featuring Firebase authentication and GPT-powered movie search. Fully responsive and deployed on Vercel."
+  },
+  {
+    "full_name": "Bbingil/ChatGPTAPIFree",
+    "name": "ChatGPTAPIFree",
+    "description": "A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!"
+  },
+  {
+    "full_name": "LeafarCoder/llm-experiments",
+    "name": "llm-experiments",
+    "description": null
+  },
+  {
+    "full_name": "mahfuzurrahman98/Codeglimpse-Code-Review",
+    "name": "Codeglimpse-Code-Review",
+    "description": "An code review tool using express server and openai gpt-3.5-turbo model"
+  },
+  {
+    "full_name": "AarinGuleria/Chatbot",
+    "name": "Chatbot",
+    "description": "A basic chat bot made using HTML, CSS, JS and calling api of openai."
+  },
+  {
+    "full_name": "eaglesdgreat/code-translator",
+    "name": "code-translator",
+    "description": "AI bot that translate one code base to another useing OpenAI and chat GPT-3.5"
+  },
+  {
+    "full_name": "salah9003/OpenAI-Text-to-Speech-Bookmarklet",
+    "name": "OpenAI-Text-to-Speech-Bookmarklet",
+    "description": "This bookmarklet allows you to convert selected text on a webpage to speech using the OpenAI API. It provides a convenient way to listen to text without leaving the current page."
+  },
+  {
+    "full_name": "fareeha1125/Code-translator-using-OpenAI-API",
+    "name": "Code-translator-using-OpenAI-API",
+    "description": null
+  },
+  {
+    "full_name": "ColinEberhardt/langchain-mini",
+    "name": "langchain-mini",
+    "description": "🦜️🔗 This is a very simple re-implementation of LangChain, in ~100 lines of code"
+  },
+  {
+    "full_name": "micz/ThunderAI",
+    "name": "ThunderAI",
+    "description": "ThunderAI is a Thunderbird Addon that uses the capabilities of ChatGPT or Ollama to enhance email management."
+  },
+  {
+    "full_name": "coopercodes/ReactChatGPTChatbot",
+    "name": "ReactChatGPTChatbot",
+    "description": "The project from the video Build A Chatbot With The ChatGPT API In React (gpt-3.5-turbo Tutorial)"
+  },
+  {
+    "full_name": "imtiyazakiwat/website-builder",
+    "name": "website-builder",
+    "description": "This is a tool for building websites. It takes user input for the website's description and utilizes OpenAI GPT-3.5 to generate HTML, CSS, and Bootstrap code to create a template for the website."
+  },
+  {
+    "full_name": "viniciusmbpro/Dobby",
+    "name": "Dobby",
+    "description": "Um chatbot que usa api da openai, com funcionalidades de texto para voz e voz para texto."
+  },
+  {
+    "full_name": "waylon620/GPT-tutor",
+    "name": "GPT-tutor",
+    "description": null
+  },
+  {
+    "full_name": "YAV-AI/NodeJS-OpenAI-Function-Calling-Example",
+    "name": "NodeJS-OpenAI-Function-Calling-Example",
+    "description": "This repository contains a basic Node.js example demonstrating how to call functions using the OpenAI API. The example showcases a conversation with the OpenAI GPT-3.5 Turbo model, including making function calls and processing their responses."
+  },
+  {
+    "full_name": "DanfordGidraph/chat-gpt-video-maker",
+    "name": "chat-gpt-video-maker",
+    "description": "An AI (LLM) based generative tool for creating TikTok/Shorts/Reels and YouTube videos automatically using OpenAI tools like gpt-4o and Dall-E 3"
+  },
+  {
+    "full_name": "rajeshpillai/aigenie-contentgpt-reference",
+    "name": "aigenie-contentgpt-reference",
+    "description": "Chrome extension"
+  },
+  {
+    "full_name": "vincentinttsh/chatgpt-telegram-bot",
+    "name": "chatgpt-telegram-bot",
+    "description": "ChatGPT telegram bot run on Cloudflare Workers®"
+  },
+  {
+    "full_name": "hollaugo/customer-satisfaction-llm-analysis",
+    "name": "customer-satisfaction-llm-analysis",
+    "description": "This repo contains an appscript function for analyzing Google form responese after each submission. This function will look for key insights from freeform text"
+  },
+  {
+    "full_name": "felixbade/transcribe",
+    "name": "transcribe",
+    "description": "Web UI for OpenAI Whisper API"
+  },
+  {
+    "full_name": "built-by-as/FastDigest",
+    "name": "FastDigest",
+    "description": "summarize HackerNews comments using AI and LLMs"
+  },
+  {
+    "full_name": "MasumaJaffery/ChatBot",
+    "name": "ChatBot",
+    "description": "This Repo is the exercise of icodethis.com but it contains chatbot functionality with React and OpenAI Chatgpt API."
+  },
+  {
+    "full_name": "PNatarajan123/DocuGPT",
+    "name": "DocuGPT",
+    "description": "GPT-4 based autocomplete for Google Docs"
+  },
+  {
+    "full_name": "jayozer/llm_moderation_guardrail",
+    "name": "llm_moderation_guardrail",
+    "description": "An output guardrail designed for Voiceflow that can assess any LLM's response and block anything scoring a 3 or higher"
+  },
+  {
+    "full_name": "aipoool/aipoool-socialscribe-v1-backend",
+    "name": "aipoool-socialscribe-v1-backend",
+    "description": "This is the backend code for the SocialScribe buttons version. This is the first version where we are just focusing on efficiently replying the LinkedIn and Twitter using the GPT-3.5 Turbo"
+  },
+  {
+    "full_name": "jayozer/vf_functions",
+    "name": "vf_functions",
+    "description": "Functions for LLMs, input output topical guardrails"
+  },
+  {
+    "full_name": "ryanhood10/AIContentCreator",
+    "name": "AIContentCreator",
+    "description": "This application uses a combination of OpenAI's api of DALLE-3 and ChatGPT3.5 and Google's Gemini API to create and optimize social media posts for a specified network."
+  },
+  {
+    "full_name": "GDHadeel/STT-ChatGPT-and-TTS",
+    "name": "STT-ChatGPT-and-TTS",
+    "description": "Integrates speech-to-text, ChatGPT, and text-to-speech in one app."
+  },
+  {
+    "full_name": "restieauxbro/gpt-sheets",
+    "name": "gpt-sheets",
+    "description": "Scripts for Google sheets that add an extension for GPT-3"
+  },
+  {
+    "full_name": "BarryYin/openai-Realtime-API-with-WebRTC",
+    "name": "openai-Realtime-API-with-WebRTC",
+    "description": "openai-Realtime-API-with-WebRTC"
+  },
+  {
+    "full_name": "vimfn/react-sse-openai-example",
+    "name": "react-sse-openai-example",
+    "description": "really lazy project to try out the react, sse with openai"
+  },
+  {
+    "full_name": "SantoshNtrjn/Memori",
+    "name": "Memori",
+    "description": "An AI-Powered Note-Taking Web App developed using OpenAI's ChatGPT-3.5 Turbo & ElevenLabs Prime Voice API."
+  },
+  {
+    "full_name": "andrewbloese-00/rag-query",
+    "name": "rag-query",
+    "description": "A query engine for retrieval augmented generation and semantic search built with NodeJS and MongoDB"
+  },
+  {
+    "full_name": "ritikrikm/GPT-AI",
+    "name": "GPT-AI",
+    "description": null
+  },
+  {
+    "full_name": "hamzafarooq009/react-openai-chatbot",
+    "name": "react-openai-chatbot",
+    "description": "Utilizing React for developing the front end of the chatbot, ensuring a seamless and dynamic user interface. Simultaneously, we will integrate OpenAI’s GPT model to power the back end, enabling our chatbot to engage in intelligent and responsive conversations."
+  },
+  {
+    "full_name": "PremierDesign/firebase-function-openai-api-call",
+    "name": "firebase-function-openai-api-call",
+    "description": "This is a firebase function that will be triggered from a react app conponent \"AnalyzePhoto\". This function will receive the photo from the client (from an upload and onClick)  and send the photo to the OpenAI API for analyses (sent with responce examples). The response will be returned to the client where the response will be displayed. "
+  },
+  {
+    "full_name": "OsandaLelum/GPT-Clone",
+    "name": "GPT-Clone",
+    "description": null
+  },
+  {
+    "full_name": "KevinRomero3100/Fine-Tuning",
+    "name": "Fine-Tuning",
+    "description": null
+  },
+  {
+    "full_name": "Jsaunders20/summarizer",
+    "name": "summarizer",
+    "description": "This script efficiently processes and summarizes the content of various file types within a specified Google Drive folder. It supports both PDFs and certain audio file formats (e.g., MP3, MP4, MPEG). Summaries and follow-up emails are generated based on the extracted content using the GPT-4 model."
+  },
+  {
+    "full_name": "tish978/rizzotto-2",
+    "name": "rizzotto-2",
+    "description": "This project was created leveraging OpenAI API to create a dating advice website, to help people with their \"Rizz\"."
+  },
+  {
+    "full_name": "aptheparker/recosk",
+    "name": "recosk",
+    "description": "Openai X SKT Prompt Day Project"
+  },
+  {
+    "full_name": "Samanthkumarsg/portfolio-analytics-bot",
+    "name": "portfolio-analytics-bot",
+    "description": "The Financial Portfolio Analytics Bot is a cutting-edge web application designed to provide users with intelligent insights into their investment portfolios. By leveraging the power of OpenAI's GPT-3.5 model, this bot engages in intelligent conversations, offering expert-level financial analysis and more."
+  },
+  {
+    "full_name": "thereal-atom/openai.js",
+    "name": "openai.js",
+    "description": "Tiny openAI API wrapper for JavaScript"
+  },
+  {
+    "full_name": "markusJsU21/openai-function-calling-react",
+    "name": "openai-function-calling-react",
+    "description": null
+  },
+  {
+    "full_name": "emilamaj/translate",
+    "name": "translate",
+    "description": "Simple and powerful AI-powered chrome translation extension, delivering better performance than established competitors like Google Translate by leveraging LLMs, Large Language Models."
+  },
+  {
+    "full_name": "developersdigest/function-chain",
+    "name": "function-chain",
+    "description": "The FunctionChain is a tool that simplifies and organizes the process of invoking OpenAI functions in your Node.js applications. With this toolkit, you can easily scaffold out and isolate all the OpenAI function calls you need, making your code more modular, maintainable, and scalable."
+  },
+  {
+    "full_name": "hschickdevs/simple-openai-playground",
+    "name": "simple-openai-playground",
+    "description": "This repository contains the code for a simple website that demonstrates the use of OpenAI's ChatGPT and DALLE APIs. The website is built using HTML, JavaScript, and CSS, with styling based on the Bootstrap framework."
+  },
+  {
+    "full_name": "jambonz/jambonz-voicebot-gpt-3",
+    "name": "jambonz-voicebot-gpt-3",
+    "description": "Sample jambonz app that uses the websocket interface and provides a conversational interface to openai"
+  },
+  {
+    "full_name": "nazlicanto/gmail_roast_or_toast",
+    "name": "gmail_roast_or_toast",
+    "description": "OpenAI AutoReply Chrome Extension "
+  },
+  {
+    "full_name": "tomsoust/Alfie",
+    "name": "Alfie",
+    "description": "A GenAI model to produce gift ideas based off several questions asked to the user. Click below to try it out!"
+  },
+  {
+    "full_name": "ferluchin/city-data-project",
+    "name": "city-data-project",
+    "description": "Programming project React City data Summarization using openai api key and geoCities API"
+  },
+  {
+    "full_name": "africanmx/dallebash",
+    "name": "dallebash",
+    "description": "A command-line interface (CLI) tool for interacting with OpenAI's DALL-E, allowing users to generate images based on prompts. Includes configuration options via wizard or command-line arguments, and supports interactive mode for continuous prompt input."
+  },
+  {
+    "full_name": "Park9eon/ninebot-gpt",
+    "name": "ninebot-gpt",
+    "description": "OpenAI + Slack Slash Comman"
+  },
+  {
+    "full_name": "rainx0r/conference-poster-search",
+    "name": "conference-poster-search",
+    "description": "Search through NeurIPS / ICML / ICLR poster session pages with an LLM"
+  },
+  {
+    "full_name": "Slamsneider/SimpleHtmlChatAgents",
+    "name": "SimpleHtmlChatAgents",
+    "description": "Very simple chat interface with memory. Introduction to using openai API"
+  },
+  {
+    "full_name": "MaxHorstmann/gpt-nocode",
+    "name": "gpt-nocode",
+    "description": "Experimental: no code platform which uses chatGPT to generate data model, workflow definitions, and UI"
+  },
+  {
+    "full_name": "JeanSantosReyes/openai-thread-manager",
+    "name": "openai-thread-manager",
+    "description": "App to manage OpenAI Threads using API"
+  },
+  {
+    "full_name": "Sukuna32/Gragoiii",
+    "name": "Gragoiii",
+    "description": "Fuck off 🖕"
+  },
+  {
+    "full_name": "adityaS011/LLM-Flow",
+    "name": "LLM-Flow",
+    "description": "https://llm-flow.netlify.app/"
+  },
+  {
+    "full_name": "TzufKishon/Trip_Generator_Using_OpenAI-Web",
+    "name": "Trip_Generator_Using_OpenAI-Web",
+    "description": null
+  },
+  {
+    "full_name": "BunnyCode/truth-llm-bot",
+    "name": "truth-llm-bot",
+    "description": "Open sourced Discord bot for testing LLMs, specifically on fake new detection"
+  },
+  {
+    "full_name": "johame72/Fat-Cat-Chat-128k",
+    "name": "Fat-Cat-Chat-128k",
+    "description": "OpenAI ChatGPT-4 128k Token Interface"
+  },
+  {
+    "full_name": "meain/yaq",
+    "name": "yaq",
+    "description": "Your Assistant for Querying (the web using LLMs)"
+  },
+  {
+    "full_name": "etrobot/next-langchain-tauri",
+    "name": "next-langchain-tauri",
+    "description": "Langchain desktop app @multi-Agent"
+  },
+  {
+    "full_name": "riceball-tw/gpt-markdown-translator",
+    "name": "gpt-markdown-translator",
+    "description": "CLI to translate .md / .mdx to other languages using ChatGPT"
+  },
+  {
+    "full_name": "nnanwang/AItist",
+    "name": "AItist",
+    "description": "A React Native mobile application, leveraging OpenAI's DALL-E 3 API to enhance social media content with image and meme editing features."
+  },
+  {
+    "full_name": "IlIIIIIIlI/chess-ai-ReactJS",
+    "name": "chess-ai-ReactJS",
+    "description": "react project. play chess with chatgpt or claude"
+  },
+  {
+    "full_name": "eimenhmdt/explain-code-vs-extension",
+    "name": "explain-code-vs-extension",
+    "description": "This minimalistic VS Code extension allows you to use the power of OpenAI's GPT-3 to explain and understand code. By providing your OpenAI API key, you can use the extension to explain code snippets and receive clear and concise explanations in natural language without having to leave your IDE."
+  },
+  {
+    "full_name": "SarathAdhi/chatgpt-x-google-chrome-extension",
+    "name": "chatgpt-x-google-chrome-extension",
+    "description": "A browser extension to display OpenAI and ChatGPT response alongside Google search engine results. Search for anything in google and get answers related to your search."
+  },
+  {
+    "full_name": "AustinBarrett1/TextFix-Extention",
+    "name": "TextFix-Extention",
+    "description": "A Firefox extension that leverages the ChatGPT API to assist users in processing text for grammar correction, elaboration, summarization, and drafting emails. This tool is designed to enhance writing efficiency and quality directly within the browser."
+  },
+  {
+    "full_name": "dsvillalobos/ds-cloudswift",
+    "name": "ds-cloudswift",
+    "description": "DS CloudSwift is your ultimate companion for easy, fast, and reliable cloud storage. With DS CloudSwift you can seamlessly save, organize, and access your files, links, and notes from any device at any time. Additionally, DS CloudSwift features “CloudSwift AI”, your personal assistant, ready to help with any task or conversation."
+  },
+  {
+    "full_name": "Kuanchiliao1/quizzical_react",
+    "name": "quizzical_react",
+    "description": "My first larger React app complete with A.I. generated quiz questions/explanations and localstorage to save questions"
+  },
+  {
+    "full_name": "lucasjohnston/transcribe-voice-memo",
+    "name": "transcribe-voice-memo",
+    "description": "A Node.js application to transcribe and summarize voice memos using OpenAI's Whisper API."
+  },
+  {
+    "full_name": "erikroche/gpt-4-less",
+    "name": "gpt-4-less",
+    "description": "Use an Open AI API key to access gpt-3.5-turbo and gpt-4 for a few cents a month!"
+  },
+  {
+    "full_name": "sajithamma/openai-realtime-nodejs",
+    "name": "openai-realtime-nodejs",
+    "description": "OpenAI realtime API using NodeJS"
+  },
+  {
+    "full_name": "yanchummar/querie-frontend",
+    "name": "querie-frontend",
+    "description": "Next.js frontend for Querie: a Google like interface for ChatGPT"
+  },
+  {
+    "full_name": "JewelsHovan/Coursera-Transcript-Extractor",
+    "name": "Coursera-Transcript-Extractor",
+    "description": "Chrome Extension to quickly extract the transcript text in Coursera videos. Will be able to summarize using openai api key and insert into vector database for RAG applications"
+  },
+  {
+    "full_name": "ariesyous/writemyuserstory",
+    "name": "writemyuserstory",
+    "description": "A user story generator powered by GPT-3"
+  },
+  {
+    "full_name": "arthuracs/openai-chat",
+    "name": "openai-chat",
+    "description": "Simple chat app using the OpenAI GPT-3 API"
+  },
+  {
+    "full_name": "NeoKms/chat-gpt-tg-bot",
+    "name": "chat-gpt-tg-bot",
+    "description": "Application for launching a chat bot for Telegram based on ChatGPT"
+  },
+  {
+    "full_name": "herebefrogs/ai-telestrations",
+    "name": "ai-telestrations",
+    "description": "Text-to-image and image-to-text models setup into an infinite loop, playing a game of Telestrations between AIs."
+  },
+  {
+    "full_name": "GiIrendra/Jarvis_The_Voice_Assistant",
+    "name": "Jarvis_The_Voice_Assistant",
+    "description": "Jarvis: Your personal voice assistant on Android! Built with React Native, powered by Gemini AI API. Ask questions, get assistance effortlessly. Experience the future of AI in just one app!"
+  },
+  {
+    "full_name": "mrx6SO/DetectFeelings",
+    "name": "DetectFeelings",
+    "description": "React Native App integrated with the OpenAI API, to detect sentiments of sentences sent by the user."
+  },
+  {
+    "full_name": "CompendiumLabs/oneping",
+    "name": "oneping",
+    "description": "Library for querying and chatting with LLMs. Supports major providers."
+  },
+  {
+    "full_name": "pj-mill/chatgpt-chatbot",
+    "name": "chatgpt-chatbot",
+    "description": "A ChatGPT chatbot built with html, css & javascript"
+  },
+  {
+    "full_name": "pranay01/signoz-openfeature-llm",
+    "name": "signoz-openfeature-llm",
+    "description": null
+  },
+  {
+    "full_name": "weberi/node-red-contrib-chatgpt-api",
+    "name": "node-red-contrib-chatgpt-api",
+    "description": "Enhance your Node-RED flows with AI! Integrate ChatGPT models to enable AI-powered chat, user-friendly speech interfaces, and intelligent automations, with built-in support for prompt engineering."
+  },
+  {
+    "full_name": "sahilsuman933/CritiqueCheck",
+    "name": "CritiqueCheck",
+    "description": "It is a web application that leverages OpenAI's natural language processing capabilities to automate code reviews. "
+  },
+  {
+    "full_name": "ole-jsn/API-Project",
+    "name": "API-Project",
+    "description": "API Projekt mit AWS, OpenAI und LindyAI Integrierung (geschrieben mit JavaScript, HTML, CSS, Python)"
+  },
+  {
+    "full_name": "EduardoAquinta/ApprenteeHelperBot",
+    "name": "ApprenteeHelperBot",
+    "description": "A bot to help Apprentee's integrated with Chat GPT"
+  },
+  {
+    "full_name": "Laskiri/EHR-Rephraser-2semProject",
+    "name": "EHR-Rephraser-2semProject",
+    "description": "2nd semester software project. A web-application that connects to the OpenAI GPT3.5 LLM with the purpose of explaining Electronic Medical Records through the use of simple language and terminology. "
+  },
+  {
+    "full_name": "acui51/monocle-rizz",
+    "name": "monocle-rizz",
+    "description": "rizzGPT"
+  },
+  {
+    "full_name": "hihumanzone/Gemini-Discord-Bot",
+    "name": "Gemini-Discord-Bot",
+    "description": "A Discord bot leveraging Google Gemini. Has image recognition, conversation engagement, and content understanding."
+  },
+  {
+    "full_name": "Jimmy-Vela06/rag-zeal-internship",
+    "name": "rag-zeal-internship",
+    "description": null
+  },
+  {
+    "full_name": "mastashake08/gpt-audiobook",
+    "name": "gpt-audiobook",
+    "description": "Create short stories using ChatGPT"
+  },
+  {
+    "full_name": "shiyuanyuanyuan/LLM-data-search",
+    "name": "LLM-data-search",
+    "description": null
+  },
+  {
+    "full_name": "michael-norman7/Netflix_LLM_Recommeder",
+    "name": "Netflix_LLM_Recommeder",
+    "description": null
+  },
+  {
+    "full_name": "ahmed-al-balochi/ChatGPT-Notes-App",
+    "name": "ChatGPT-Notes-App",
+    "description": "A simple note taking application powered by ChatGPT with Django as the back-end and React as the front-end."
+  },
+  {
+    "full_name": "benjaminbreen/HistoryLens",
+    "name": "HistoryLens",
+    "description": "Educational simulation game platform utilizing LLM agents and historical sources. "
+  },
+  {
+    "full_name": "VictorEZCodes/Voice-Controlled-Web-App",
+    "name": "Voice-Controlled-Web-App",
+    "description": "Web app using voice recognition and OpenAI's GPT-3.5-turbo to provide hands-free, interactive functionality with voice commands."
+  },
+  {
+    "full_name": "quang08/Convo-AI",
+    "name": "Convo-AI",
+    "description": "An implementation of OpenAI's newly-released gpt-3.5-turbo API"
+  },
+  {
+    "full_name": "danny-avila/LibreChat",
+    "name": "LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project."
+  },
+  {
+    "full_name": "quentin-mckay/AI-Quiz-Generator",
+    "name": "AI-Quiz-Generator",
+    "description": "GPT-powered multiple choice quiz generator built with Next.js"
+  },
+  {
+    "full_name": "yyassif/ragmind",
+    "name": "ragmind",
+    "description": "RAGMind API + Core RAG, Frontend, Docs"
+  },
+  {
+    "full_name": "varshini-sundaresan/my-own-todo",
+    "name": "my-own-todo",
+    "description": "mcc-todo app integrated with chatgpt"
+  },
+  {
+    "full_name": "A1THARV/GPT-AGENT",
+    "name": "GPT-AGENT",
+    "description": null
+  },
+  {
+    "full_name": "ssebowa/ssebowa-UI",
+    "name": "ssebowa-UI",
+    "description": "Ssebowa is an open-source generative AI platform offering free access to powerful AI models for everyone. Use 100% of revenue got from ads and apis to plant trees and give meals to children in need. Think of us as the ChatGPT4 that serves humanity!"
+  },
+  {
+    "full_name": "ishanaggarwal/Librechat",
+    "name": "Librechat",
+    "description": "About Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development"
+  },
+  {
+    "full_name": "tanguangyun/ChatHub",
+    "name": "ChatHub",
+    "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development......"
+  },
+  {
+    "full_name": "aplisay/llm-agent",
+    "name": "llm-agent",
+    "description": "LLM based Agent"
+  },
+  {
+    "full_name": "Keya-Moradi/Omni-AI",
+    "name": "Omni-AI",
+    "description": "An AI Integration Platform where users can interact with multiple AI systems, such as ChatGPT and Gemini, which will collaborate to answer questions or offer solutions."
+  },
+  {
+    "full_name": "rb81/openai-js-chat",
+    "name": "openai-js-chat",
+    "description": "A simple JavaScript chat application for OpenAI models with basic memory management and local (encrypted) chat history."
+  },
+  {
+    "full_name": "c-mimms/post-service",
+    "name": "post-service",
+    "description": "Node project to play with RESTful APIs, D3.js, and LLMs"
+  },
+  {
+    "full_name": "ToGe3688/ioBroker.ai-toolbox",
+    "name": "ioBroker.ai-toolbox",
+    "description": "The ioBroker AI Toolbox Adapter is a powerful integration that enables users to create and manage custom AI tools based on LLMs within their ioBroker smart home environment. This adapter supports multiple providers of Large Language Models (LLMs) and a flexible framework for AI-based automation and interaction."
+  },
+  {
+    "full_name": "WangKaifei/cf-openai-proxy",
+    "name": "cf-openai-proxy",
+    "description": "A Cloudflare worker script to proxy OpenAI‘s Service"
+  },
+  {
+    "full_name": "llegomark/llegomark-api",
+    "name": "llegomark-api",
+    "description": "This is a Cloudflare worker that acts as a proxy to the OpenAI API that can be used to generate text. It ensures that the client's IP address is hashed and used for rate-limiting purposes, securing the client's privacy."
+  },
+  {
+    "full_name": "razertory/llm-cf-workers",
+    "name": "llm-cf-workers",
+    "description": "CloudFlare workers reverse proxy for LLM(Large Language Model)s"
+  },
+  {
+    "full_name": "jfkproductions/c4DiagramRag",
+    "name": "c4DiagramRag",
+    "description": "C4 Diagram builder RAG with Chat gpt"
+  },
+  {
+    "full_name": "beattaher/React-GPT-Convenient-website",
+    "name": "React-GPT-Convenient-website",
+    "description": "The website provides notes collation, legal advice and other services based on OpenAI API （The project has already been sold, and this version is only a simple preview. Thank you so much for your support）"
+  },
+  {
+    "full_name": "Raygud/LinkedIn-Post-Automation-with-Puppeteer-and-ChatGPT-AI",
+    "name": "LinkedIn-Post-Automation-with-Puppeteer-and-ChatGPT-AI",
+    "description": "Automate your LinkedIn posts effortlessly with Puppeteer and ChatGPT AI. This project provides a script to log in to your LinkedIn account, create engaging and informative posts, and share them with your network—all powered by the capabilities of ChatGPT. Enhance your LinkedIn presence and showcase your expertise in the world of IT and coding."
+  },
+  {
+    "full_name": "milyazkamil/Jarvis-AI-Assistant",
+    "name": "Jarvis-AI-Assistant",
+    "description": "Your go-to virtual companion for smooth voice interactions. Speak, listen, and command effortlessly. Fueled by OpenAI for clever responses. Personalize voices and toggle modes seamlessly. Elevate your communication with Jarvis AI Assistant. Your intelligent future begins here."
+  },
+  {
+    "full_name": "Himansu17/codeAlphaTask3",
+    "name": "codeAlphaTask3",
+    "description": "chatGPT"
+  },
+  {
+    "full_name": "monami44/Realtime-AI-Voice-Pokemon-Trainer",
+    "name": "Realtime-AI-Voice-Pokemon-Trainer",
+    "description": "AI voice Pokémon master, built with Openai Realtime API and Twilio. Can: answer questions from a vector database, retain short/long term memory, book training sessions using Google Calendar API as well as perform redirections when asked for investments. Uses advanced state management for multi-step processing."
+  },
+  {
+    "full_name": "Thanusiyan1007/color-sugesstion",
+    "name": "color-sugesstion",
+    "description": "This project offers a web service to help UI/UX designers select color palettes for their designs. By using OpenAI’s GPT API, it generates color suggestions based on color psychology and theory. Users can log in via Google or manually and receive both color recommendations and a visual color palette image for their projects."
+  },
+  {
+    "full_name": "edubois22/chatgpt-chrome-extension",
+    "name": "chatgpt-chrome-extension",
+    "description": "An extension that allows you to call ChatGPT from anywhere and replace the text highlighted by the answer."
+  },
+  {
+    "full_name": "Mintplex-Labs/anything-llm",
+    "name": "anything-llm",
+    "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more."
+  },
+  {
+    "full_name": "pale2hall/SearchBot9k",
+    "name": "SearchBot9k",
+    "description": "Kick back watch as GPT-4 autonomously browses the web and answers your questions!"
+  },
+  {
+    "full_name": "ltscm/OpenAiChatGPT",
+    "name": "OpenAiChatGPT",
+    "description": null
+  },
+  {
+    "full_name": "DevImran1234/QuestionsAI",
+    "name": "QuestionsAI",
+    "description": "Chrome extension that solve questions from word file through openai"
+  },
+  {
+    "full_name": "saharmor/hume-gpt",
+    "name": "hume-gpt",
+    "description": "An emotionally intelligent AI powered by GPT-4o"
+  },
+  {
+    "full_name": "qiuxchao/yapi-ai-mock",
+    "name": "yapi-ai-mock",
+    "description": "使用 LLM，将 YAPI 接口文档生成为本地的 Mock 文件。"
+  },
+  {
+    "full_name": "PeterBlenessy/TeamAI",
+    "name": "TeamAI",
+    "description": "The TeamAI application allows the user to create a team of OpenAI powered bots with individual capabilities, personas. The bots will solve the task requested by the user as a team effort, each bot contributing with its respective capabilities."
+  },
+  {
+    "full_name": "RaheesAhmed/openai-assistant-sdk",
+    "name": "openai-assistant-sdk",
+    "description": "This package provides an easy-to-use interface for interacting with OpenAI's API to manage assistants, threads, messages, and runs."
+  },
+  {
+    "full_name": "Eh-Mr-SK/Custom-ChatGPT",
+    "name": "Custom-ChatGPT",
+    "description": "The Repository contains code for a Custom ChatGPT built using React, Express, and Node.js. The chatbot is powered by OpenAI's text-davinci-003 language model  and Custom dataset. "
+  },
+  {
+    "full_name": "hanleymark/gpt-clone",
+    "name": "gpt-clone",
+    "description": "A simple ChatGPT front end for FAC29b Unschool"
+  },
+  {
+    "full_name": "chigreene/SynthWave-JokePage",
+    "name": "SynthWave-JokePage",
+    "description": "Make use of a joke API and local storage to generate fun jokes to share with your friends. The page is styled using Tailwind. Currently one of the pages using a Chat GPT API to allow user inputs is down the API key for Chat GPT can not be posted to GitHub. "
+  },
+  {
+    "full_name": "adamlove86/chrome-gpt-summary",
+    "name": "chrome-gpt-summary",
+    "description": "A simple Chrome extension that provides quick and detailed summaries of text on web pages or YouTube video transcripts. Requires OpenAI API Key."
+  },
+  {
+    "full_name": "yadvendersingh/LLM_Conversator",
+    "name": "LLM_Conversator",
+    "description": null
+  },
+  {
+    "full_name": "rajpootmohit782/openai-bot-updated-old-",
+    "name": "openai-bot-updated-old-",
+    "description": "Created with CodeSandbox"
+  },
+  {
+    "full_name": "jexp/chagpt-coding",
+    "name": "chagpt-coding",
+    "description": "Coding with ChatGPT 4"
+  },
+  {
+    "full_name": "XINEXPORT/chatgpt-ai-healthapp",
+    "name": "chatgpt-ai-healthapp",
+    "description": "CareBuddy, an AI Healthcare Chat Companion"
+  },
+  {
+    "full_name": "macaylak/SENG401Project",
+    "name": "SENG401Project",
+    "description": "This repository contains a web-based solution that uses AI to generate personalized recipes, aiming to reduce food waste and simplify meal planning. It emphasizes modularity and consistency in software architecture, leveraging cloud-based storage and AI-driven text generation for an improved user experience."
+  },
+  {
+    "full_name": "timgoalen/transcriber-frontend",
+    "name": "transcriber-frontend",
+    "description": "A note-taking app built with React, featuring speech recognition, AI-powered auto-formatting and user-generated custom prompts. • React • Django • REST API • OpenAI API"
+  },
+  {
+    "full_name": "bit2world/chat-gpt-google-extension-customize",
+    "name": "chat-gpt-google-extension-customize",
+    "description": "Chat-GPT is a Google Chrome extension that allows users to customize their online chatting experience. The extension utilizes GPT (Generative Pre-trained Transformer) technology, an advanced natural language processing algorithm developed by OpenAI, to generate human-like responses to common chat messages. The extension offers several key features,"
+  },
+  {
+    "full_name": "giosilvi/GPT-Prompter",
+    "name": "GPT-Prompter",
+    "description": "Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons"
+  },
+  {
+    "full_name": "simwai/finance-news-crawler",
+    "name": "finance-news-crawler",
+    "description": "Finance News Crawler uses News API to fetch some latest articles and generates a sentiment report with the OpenAI API or VADER"
+  },
+  {
+    "full_name": "guananya/aidebugs",
+    "name": "aidebugs",
+    "description": "A CLI that debugs error messages produced in your command line calling an LLM!"
+  },
+  {
+    "full_name": "Cillian-Collins/Push-To-Talk-LLM",
+    "name": "Push-To-Talk-LLM",
+    "description": "Research into OpenAI LLM use cases."
+  },
+  {
+    "full_name": "theshanergy/whatbot",
+    "name": "whatbot",
+    "description": "GPT based chat bot for WhatsApp which uses the OpenAI API"
+  },
+  {
+    "full_name": "AcuChat/ez-chatgpt-finetuner-server",
+    "name": "ez-chatgpt-finetuner-server",
+    "description": "EZ ChatGPT FineTuner Nodejs server for easy, rapid finetuning OpenAI LLMs"
+  },
+  {
+    "full_name": "dharllc/speech-to-code",
+    "name": "speech-to-code",
+    "description": "llm assisted development tools"
+  },
+  {
+    "full_name": "rohith00016/RAG-app",
+    "name": "RAG-app",
+    "description": null
+  },
+  {
+    "full_name": "vbookshelf/RAG-Experiments",
+    "name": "RAG-Experiments",
+    "description": "My experiments while learning how to build a RAG (Retrieval Augmented Generation) system."
+  },
+  {
+    "full_name": "nikhithas243/Cardiac-Care-Simplified",
+    "name": "Cardiac-Care-Simplified",
+    "description": "Cardiac Care-Simplified is an innovative solution designed to bridge the gap in medical communication by simplifying complex medical jargon in real time saving time for doctors and patients. Leveraging the power of GPT-3.5 APIs, this project aims to enhance healthcare accessibility and understanding for diverse populations."
+  },
+  {
+    "full_name": "adshao/chatgpt-code-review-action",
+    "name": "chatgpt-code-review-action",
+    "description": "A GitHub Action that uses OpenAI ChatGPT to do code review"
+  },
+  {
+    "full_name": "sysread/page-summarizer",
+    "name": "page-summarizer",
+    "description": "Browser extension to summarize a page using OpenAI"
+  },
+  {
+    "full_name": "sysread/scratch",
+    "name": "scratch",
+    "description": "A minimal HTML5 PWA/SPA that implements a dynamic notes space with an OpenAI-powered conversational interface."
+  },
+  {
+    "full_name": "JayRichh/chat",
+    "name": "chat",
+    "description": "Testing OpenAI GPT4 API's"
+  },
+  {
+    "full_name": "snwfdhmp/gpt-chrome-extension",
+    "name": "gpt-chrome-extension",
+    "description": "Chat with GPT about current webpage content. (Summarize & Ask)"
+  },
+  {
+    "full_name": "DirkSchlossmacher/OpenAI-function_calling",
+    "name": "OpenAI-function_calling",
+    "description": null
+  },
+  {
+    "full_name": "RonaldForte/Spotify-Mood-Playlist-Generator",
+    "name": "Spotify-Mood-Playlist-Generator",
+    "description": "Genify is a [INPROGRESS] collaborative project by Ronald Forte, Kevin Weng, and Jason Weng. User talks about their day and OpenAI API picks the best genres that would fit for your day. OpenAI API passes these genres to the Spotify API that creates a customized playlist."
+  },
+  {
+    "full_name": "leylamemiguven/easy-edit",
+    "name": "easy-edit",
+    "description": "A book editing application that utilizes openAI GPT-3 API to edit your book and give explanations for the edits.  "
+  },
+  {
+    "full_name": "Haiyue-Tian/GPT-Powered-Translator",
+    "name": "GPT-Powered-Translator",
+    "description": "GPT-Powered Translator is a Chrome extension that leverages the power of GPT language models to provide real-time, context-aware translations for selected text or user-inputted phrases, thereby enhancing browsing experience and breaking down language barriers."
+  },
+  {
+    "full_name": "Ihsan-Hepsen/AI-Article-Assistant",
+    "name": "AI-Article-Assistant",
+    "description": "Browser extension to summarize selected text using GPT-4"
+  },
+  {
+    "full_name": "ncctcr/imvu-openai-bot",
+    "name": "imvu-openai-bot",
+    "description": "IMVU OpenAI Bot is a browser extension designed to interact with the popular IMVU virtual chat service using artificial intelligence from OpenAI. This extension allows users to automate their chat processes using OpenAI's advanced language models such as gpt-3.5-turbo and gpt-4."
+  },
+  {
+    "full_name": "builde7b0b/PassportGPT",
+    "name": "PassportGPT",
+    "description": "PassportGPT is an intelligent travel companion designed specifically for men and women seeking to get the best of out their travel experiences and who are interested in exploring global destinations safely and efficiently. It will leverage a unique knowledge base to provide insights on cultural norms, travel tips, visa requirements & More."
+  },
+  {
+    "full_name": "Leaf48/GPT-Translate",
+    "name": "GPT-Translate",
+    "description": "Chrome Extension Using ChatGPT"
+  },
+  {
+    "full_name": "eddykang1074/OpenAI-API-Node-Samples",
+    "name": "OpenAI-API-Node-Samples",
+    "description": "CHATGPT4o-DALL3-Socket.IO 채팅 교육용 샘플코드입니다."
+  },
+  {
+    "full_name": "KiwiGaze/FlowAgenda",
+    "name": "FlowAgenda",
+    "description": "FlowAgenda: Transform natural language into calendar events effortlessly by large language models. Perfect for individuals who want a faster, more intuitive way to manage their schedules."
+  },
+  {
+    "full_name": "ivanyu/hn-tldr-extension",
+    "name": "hn-tldr-extension",
+    "description": "A bring-your-own-key browser extension for summarizing Hacker News articles with LLMs"
+  },
+  {
+    "full_name": "princepspolycap/openai-functions-server",
+    "name": "openai-functions-server",
+    "description": "A server application that integrates with OpenAI's GPT-4 model to provide chat and function capabilities. It includes endpoints for chat completions, function calls, and text completions."
+  },
+  {
+    "full_name": "tombarkley/data-chat",
+    "name": "data-chat",
+    "description": "Explore and demonstrate the ability of the OpenAI gpt api to create a bot that could both chat with the user and also return data queries back."
+  },
+  {
+    "full_name": "wrannaman/rememberall",
+    "name": "rememberall",
+    "description": "solving long term memory storage for llms"
+  },
+  {
+    "full_name": "yael-fleischer/FollowApp",
+    "name": "FollowApp",
+    "description": "FollowApp - a Chrome Extension that automates meeting summaries. Integrates Google Cloud Storage, Google Speech-to-Text, and OpenAI for efficient video call transcription and summarization, enhancing team productivity and communication."
+  },
+  {
+    "full_name": "IamNaeto/chatgpt-clone",
+    "name": "chatgpt-clone",
+    "description": "A replicated version of chatGPT"
+  },
+  {
+    "full_name": "diginomads/genai-email-search-ext",
+    "name": "genai-email-search-ext",
+    "description": "OpenAI GPT powered Gmail search extension"
+  },
+  {
+    "full_name": "vbmelo/chatbot-challenge",
+    "name": "chatbot-challenge",
+    "description": "Full-stack (MERN) chatbot integrated with OpenAI."
+  },
+  {
+    "full_name": "yaminiarumugam/ChatGpt",
+    "name": "ChatGpt",
+    "description": "Creating my own chatbot using HTML, CSS, and JavaScript, while incorporating the OpenAI API key, has been a valuable experience for me as a beginner web developer. This project has allowed me to apply my skills to a real-world application, providing hands-on experience in web development and AI integration."
+  },
+  {
+    "full_name": "jddev273/streamed-chatgpt-api",
+    "name": "streamed-chatgpt-api",
+    "description": "A node module for streaming API responses from the ChatGPT APi."
+  },
+  {
+    "full_name": "weolopez/GPT-WEO",
+    "name": "GPT-WEO",
+    "description": "Weo's GPT experiments"
+  },
+  {
+    "full_name": "soubhikbarari/llms-surveys-aapor-24",
+    "name": "llms-surveys-aapor-24",
+    "description": "Supplementary materials for an AAPOR short course on LLMs, NLP, and surveys."
+  },
+  {
+    "full_name": "rajat-03/Article-Summarizer",
+    "name": "Article-Summarizer",
+    "description": "The Article Summarizer web application leverages RapidAPI to extract news or article content from URLs, employing GPT for summarization."
+  },
+  {
+    "full_name": "arnobt78/AI-Chat-Bot-ReactVite-Webpage",
+    "name": "AI-Chat-Bot-ReactVite-Webpage",
+    "description": "AI-Chat-Bot is a complete project example with OpenAI ChatGPT and React-Vite, using OpenAI API, Emoji-Mart, Uuid, and have a Chat History, New Chat Creation features, and deploy on Vercel."
+  },
+  {
+    "full_name": "zaki-mian/chatGPT-clone",
+    "name": "chatGPT-clone",
+    "description": "ChatGPT has gained significant popularity in recent months or years, completely changing how we interact with automated chatbots. As a beginner web developer, you might be curious about creating your own ChatGPT. The good news is that it is possible to create a ChatGPT clone using HTML, CSS, and vanilla JavaScript."
+  },
+  {
+    "full_name": "Zhangyanbo/ReadAnything",
+    "name": "ReadAnything",
+    "description": "Read any hard content with the help of GPT"
+  },
+  {
+    "full_name": "TomLBZ/koishi-plugin-openai",
+    "name": "koishi-plugin-openai",
+    "description": "Calls OpenAI API for Koishi.js"
+  },
+  {
+    "full_name": "chaudhary-99/Idea2marketAI",
+    "name": "Idea2marketAI",
+    "description": "Idea2Market-AI is a web application that takes product idea input, generates logos, and finds similar products in the market using the OpenAI API. It's built with React.js and leverages the power of artificial intelligence to enhance the product ideation process."
+  },
+  {
+    "full_name": "sunflowerhye/llm-frontend",
+    "name": "llm-frontend",
+    "description": null
+  },
+  {
+    "full_name": "awoyemipatrick/Chatgpt-project-clone-main",
+    "name": "Chatgpt-project-clone-main",
+    "description": "This is a ChatGPT clone that simulates a chat interface with AI-generated responses. Users can send messages, toggle between light and dark themes, and save their chat history locally. The app fetches AI responses from the OpenAI API using the GPT-4o-mini model. it provides a smooth typing animation and functionality to copy responses."
+  },
+  {
+    "full_name": "0LuaSky/Script_Forge",
+    "name": "Script_Forge",
+    "description": "Projeto semestral da matéria programação orientada a objeto, sob orientação do professor Ricardo Pupo Larguesa"
+  },
+  {
+    "full_name": "igorcacerez/senai-gpt",
+    "name": "senai-gpt",
+    "description": "Integração entre a API da OpenAI, treinada com o banco de duvidas do senai. "
+  },
+  {
+    "full_name": "rajput999/Idea2Market-AI",
+    "name": "Idea2Market-AI",
+    "description": "Idea2Market-AI is a web application that takes product idea input, generates logos, and finds similar products in the market using the OpenAI API. It's built with React.js and leverages the power of artificial intelligence to enhance the product ideation process."
+  },
+  {
+    "full_name": "songquanpeng/one-api",
+    "name": "one-api",
+    "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI."
+  },
+  {
+    "full_name": "lucataco/tool-bot",
+    "name": "tool-bot",
+    "description": "OpenAI app that uses GPT-3 API to make custom GPT3 apps"
+  },
+  {
+    "full_name": "cxumol/LLM-Toolbox-Telegram-Workers",
+    "name": "LLM-Toolbox-Telegram-Workers",
+    "description": null
+  },
+  {
+    "full_name": "Nergal-code/chat-gpt-clone",
+    "name": "chat-gpt-clone",
+    "description": "project in progress of gpt clone"
+  },
+  {
+    "full_name": "padolsey/xmllm",
+    "name": "xmllm",
+    "description": "Simple structured data from any LLM"
+  },
+  {
+    "full_name": "mustafaneto/code-analyzer",
+    "name": "code-analyzer",
+    "description": "Extension for Visual Studio Code that allows the analysis of selected code snippets for vulnerabilities using the OpenAI GPT-3.5-turbo model."
+  },
+  {
+    "full_name": "zarurc/website-summarizer",
+    "name": "website-summarizer",
+    "description": "Website Summarizer is a minimalist Chrome extension that allows users to summarize web pages or selected text on a web page. This extension leverages OpenAI's GPT-4o-mini model to provide quick and accurate summaries, making it easier to digest large amounts of information."
+  },
+  {
+    "full_name": "Hormold/shitchat",
+    "name": "shitchat",
+    "description": "Simple React Native App to Talk with GPT-3 like ChatGPT"
+  },
+  {
+    "full_name": "eyeoverthink/eph-less-ness",
+    "name": "eph-less-ness",
+    "description": "this is only because i am using claude, and he forgets. so, it ends up saving new versions with no correlation. "
+  },
+  {
+    "full_name": "ezzcodeezzlife/llm-plugin-tester",
+    "name": "llm-plugin-tester",
+    "description": "Test ChatGPT Plugins without waitlist access & use other models like Claude, Alpaca. WIP"
+  },
+  {
+    "full_name": "iskandarreza/loopgpt-js",
+    "name": "loopgpt-js",
+    "description": "A Javascript implementation of LoopGPT"
+  },
+  {
+    "full_name": "withSu/Road-To-LLMservice",
+    "name": "Road-To-LLMservice",
+    "description": "Making LLMchat and managing website. While studying Node.js, React.js, Langchain.js"
+  },
+  {
+    "full_name": "DominikkMaximus/QUIZ_AUTOMATOR",
+    "name": "QUIZ_AUTOMATOR",
+    "description": "Script with simple Vector DB implementation to solve quizes on specific knowledge using OpenAI API"
+  },
+  {
+    "full_name": "Masterbrown/gcse-revision-app",
+    "name": "gcse-revision-app",
+    "description": "trying to get an openai api to run on a Netlify app"
+  },
+  {
+    "full_name": "fabiconcept/locogpt",
+    "name": "locogpt",
+    "description": "A lightweight AI Assistant powered by OpenAI's GPT Turbo 3.5 APIs for effortless integration and intelligent conversational responses."
+  },
+  {
+    "full_name": "DemGrg/Chrome_GPT_extension",
+    "name": "Chrome_GPT_extension",
+    "description": "OpenAI GPT-4o / 3.5 extension to talk with OpenAI GPT about web page you are looking at. Useful to summarize long page context or extract information."
+  },
+  {
+    "full_name": "martinkimu/GPT-Clone",
+    "name": "GPT-Clone",
+    "description": null
+  },
+  {
+    "full_name": "imtanusingh/proBot",
+    "name": "proBot",
+    "description": "A web-based chatbot application that allows users to communicate with an AI model using natural language. Built with a responsive frontend and integrated with OpenAI's API for intelligent responses, the chatbot provides a user-friendly experience for various interactions, from casual questions to information retrieval."
+  },
+  {
+    "full_name": "richardhyy/ice-vscode",
+    "name": "ice-vscode",
+    "description": "ICE (Integrated Conversational Environment) is a VSCode extension that allows users to chat with and customize language models (LLMs) within their coding environment, manage chat histories, fork conversations, and create custom LLM integrations using JavaScript. Docs: https://ice.leaforest.cc/"
+  },
+  {
+    "full_name": "lim-siwoo/LogSummarizer",
+    "name": "LogSummarizer",
+    "description": "Store logs in Firebase and management logs and Summaize logs by ChatGPT"
+  },
+  {
+    "full_name": "tsuchidarikuto/chatgpt-followup-extension",
+    "name": "chatgpt-followup-extension",
+    "description": "chatgptに追加の質問をするための拡張機能です"
+  },
+  {
+    "full_name": "noTe-Z/LLM_Based_Prioritized_Email_Selector",
+    "name": "LLM_Based_Prioritized_Email_Selector",
+    "description": null
+  },
+  {
+    "full_name": "IshaanChamoli/ReverbAI-No-RAG",
+    "name": "ReverbAI-No-RAG",
+    "description": "A basic version of ReVerb (the Content Writing tool)"
+  },
+  {
+    "full_name": "tlongle/aidea",
+    "name": "aidea",
+    "description": "A user-interface for OpenAI's 3.5 turbo model and Stable Diffusion"
+  },
+  {
+    "full_name": "nanikasi/openai-realtime-api-sample",
+    "name": "openai-realtime-api-sample",
+    "description": null
+  },
+  {
+    "full_name": "ck9sky/ai9sky",
+    "name": "ai9sky",
+    "description": "Django project to test various OpenAI.com API options for ChatGPT and DALLE"
+  },
+  {
+    "full_name": "Yvv1214/AiChatBot",
+    "name": "AiChatBot",
+    "description": "An AI chat bot that utilizes model gpt-3.5-turbo as your assistant"
+  },
+  {
+    "full_name": "KyleMit/gpt-cli",
+    "name": "gpt-cli",
+    "description": "CLI chatbot using openai API"
+  },
+  {
+    "full_name": "abhaybabbar/CodeDocsGPT",
+    "name": "CodeDocsGPT",
+    "description": "CodeDocsGPT is a Visual Studio Code extension that generates code documentation for you with the help of OpenAI's powerful GPT language model. Say goodbye to spending hours writing documentation for your code - simply enter your OpenAI API key once and let GPT do the heavy lifting!"
+  },
+  {
+    "full_name": "whereube/quizgpt",
+    "name": "quizgpt",
+    "description": "This is an application that uses OpenAI API to generate quizzes based on a theme provided by the user. "
+  },
+  {
+    "full_name": "matthewhutchings/speech-assistant-openai-realtime-api-node-main",
+    "name": "speech-assistant-openai-realtime-api-node-main",
+    "description": null
+  },
+  {
+    "full_name": "SphaeroX/kalotrack",
+    "name": "kalotrack",
+    "description": "Calorie counter using ChatGPT from OpenAI"
+  },
+  {
+    "full_name": "tejatummuru/ai.ta",
+    "name": "ai.ta",
+    "description": "app that uses on OPENAI API and is trained on internet posts (reddit, and other platforms) to determine whether a person would be considered wrong for certain actions"
+  },
+  {
+    "full_name": "Ai-Yolo/OpenAI-APIKey-Query",
+    "name": "OpenAI-APIKey-Query",
+    "description": "基于Cloudflare Workers自部署查询OpenAI-API-Key密钥使用详情查询网站"
+  },
+  {
+    "full_name": "jonaslsaa/openwraiter",
+    "name": "openwraiter",
+    "description": "Autocompletion on the web using GPT3 (OpenAI API)"
+  },
+  {
+    "full_name": "milanjain2208/ChatGPT-History-Search",
+    "name": "ChatGPT-History-Search",
+    "description": " ChatGPT History Search Extension"
+  },
+  {
+    "full_name": "CabbageSlices/chat-gpt-translator-extension",
+    "name": "chat-gpt-translator-extension",
+    "description": "chrome extension to use chat gpt translator to translate text on screen to english"
+  },
+  {
+    "full_name": "muhammed-shihebi/chatgpt-youtube-ads-detector",
+    "name": "chatgpt-youtube-ads-detector",
+    "description": "A chrome extension powered by OpenAI GPT that detects what part of a YouTube video contains a promotion ad and allows the user to skip them."
+  },
+  {
+    "full_name": "Amey1703/pdfvectorsearch",
+    "name": "pdfvectorsearch",
+    "description": "Extracting data from pdf, creating chunks of document and embedding , vector search and answer generation"
+  },
+  {
+    "full_name": "snekkenull/FO-Translator",
+    "name": "FO-Translator",
+    "description": "A simple LLM translator extension inspired by Translation-Agent, using OpenAI compatible API."
+  },
+  {
+    "full_name": "ViswanathaSwamy-PK-TechSkillz-Academy/chatgpt-clone-tp-js",
+    "name": "chatgpt-clone-tp-js",
+    "description": "I am learning creating ChatGPT Clone from different Video Courses, Books, and Websites"
+  },
+  {
+    "full_name": "dldksco/algopat",
+    "name": "algopat",
+    "description": "ChatGPT & LangChain을 활용한 알고리즘 소스코드 효율성 분석 서비스"
+  },
+  {
+    "full_name": "hamzafarooq009/dragoZ",
+    "name": "dragoZ",
+    "description": null
+  },
+  {
+    "full_name": "ARIBFIB/Chatbot04-ChatGPT-2022-Clone",
+    "name": "Chatbot04-ChatGPT-2022-Clone",
+    "description": "ChatGPT clone of 2022 version"
+  },
+  {
+    "full_name": "AZHenley/Mirror",
+    "name": "Mirror",
+    "description": "An LLM-powered programming-by-example programming language."
+  },
+  {
+    "full_name": "MiSaengg/2800-202310BBY19",
+    "name": "2800-202310BBY19",
+    "description": " A community platform that connects writers and readers, enabling the creation of unique stories with the help of the OpenAI API.  🤖 "
+  },
+  {
+    "full_name": "alanhe421/whisper-web",
+    "name": "whisper-web",
+    "description": "openai whisper api interface"
+  },
+  {
+    "full_name": "WilliamRandol/LLMPersonalProofreader",
+    "name": "LLMPersonalProofreader",
+    "description": "LLM Personal Proofreader is a web application that allows you to type or paste in your content and get corrected copy back."
+  },
+  {
+    "full_name": "ellonde/lazy-reader",
+    "name": "lazy-reader",
+    "description": "Chrome extension that will read content on the web for you using TTS from openAI."
+  },
+  {
+    "full_name": "o00Jason00o/ChatGPT-Web-Extension",
+    "name": "ChatGPT-Web-Extension",
+    "description": "Harness the capability of ChatGPT directly within your browser! Select webpage text, send prompts to ChatGPT, and view results without ever leaving your page. Whether it's translations, summaries, or quick queries, interact with ChatGPT seamlessly."
+  },
+  {
+    "full_name": "Ayumu-O/gpt-app",
+    "name": "gpt-app",
+    "description": null
+  },
+  {
+    "full_name": "ashokgit/OnlineExamWithGPT-4",
+    "name": "OnlineExamWithGPT-4",
+    "description": "A chrome extension to crack online exams, download,  add your API keys, add the extension, Ctrl + U"
+  },
+  {
+    "full_name": "DuGuYifei/vscode_chatgpt-note-helper",
+    "name": "vscode_chatgpt-note-helper",
+    "description": "The vscode plugin which use chatgpt to help me make notes, finish text assignment, chat with GPT-3.5, code."
+  },
+  {
+    "full_name": "ta223dh/TextBuddy",
+    "name": "TextBuddy",
+    "description": "TextBuddy is a JavaScript module for text analysis. TextBuddy can assist you with a wide range of tasks - from simple character and word count to chatbot integration with OpenAi's API."
+  },
+  {
+    "full_name": "client-studio/wp-editor-ai",
+    "name": "wp-editor-ai",
+    "description": "Add OpenAI to Wordpress Classic Editor"
+  },
+  {
+    "full_name": "scalable-dynamics/gpt-spa",
+    "name": "gpt-spa",
+    "description": "A customizable GPT in a single page, using OpenAI models text-embedding-ada-002, tts-1, whisper-1, dall-e-3, and gpt-4-vision-preview"
+  },
+  {
+    "full_name": "smlabto/factcheckassistant",
+    "name": "factcheckassistant",
+    "description": "The Social Media Lab's Fact Check Assistant is an AI-powered bot for simple fact checking. It was created as demo for the Social Media Lab’s 2023 Canadian #AI Misinformation Hackathon. The app uses OpenAI API capabilities for simple fact checking. "
+  },
+  {
+    "full_name": "albert3661/Musikalody_APP",
+    "name": "Musikalody_APP",
+    "description": "Musikalody APP is a versatile music trivia quiz designed to function both online and offline. Leveraging the OpenAI API, it offers dynamically generated quiz questions when connected to the internet and switches to a robust set of static questions when offline. "
+  },
+  {
+    "full_name": "downthecrop/tiny-native-chat",
+    "name": "tiny-native-chat",
+    "description": "Ultra minimal react native interface for communicating with LLM Chats"
+  },
+  {
+    "full_name": "vbookshelf/LLM-Vision-Experiments",
+    "name": "LLM-Vision-Experiments",
+    "description": "My experiments with LLM vision"
+  },
+  {
+    "full_name": "hamzanasir/vonage-openai-demo",
+    "name": "vonage-openai-demo",
+    "description": null
+  },
+  {
+    "full_name": "dbochicchio/reactor-openai",
+    "name": "reactor-openai",
+    "description": "OpenAI Controller per Reactor"
+  },
+  {
+    "full_name": "matheusrodrivi/Projeto-Pontos-Turisticos-CHATGPT-API",
+    "name": "Projeto-Pontos-Turisticos-CHATGPT-API",
+    "description": "Projeto javascript integrado com chatgpt."
+  },
+  {
+    "full_name": "usamasaleem1/SOEN321",
+    "name": "SOEN321",
+    "description": "Chrome Extension with LLMs"
+  },
+  {
+    "full_name": "pfe-holbies/The_Gym_Genie",
+    "name": "The_Gym_Genie",
+    "description": "MERN + GraphQL Prompt Engineering Web App consumes OpenAI API "
+  },
+  {
+    "full_name": "0xAsten/summarize-it",
+    "name": "summarize-it",
+    "description": "Summarize is a powerful and easy-to-use Chrome extension that lets you quickly obtain a summary of content. Powered by advanced natural language processing technology, Summarize uses GPT-3 API to generate accurate and concise summaries of the most important information, so you can get the gist of it in seconds. "
+  },
+  {
+    "full_name": "varunshenoy/GraphGPT",
+    "name": "GraphGPT",
+    "description": "Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️"
+  },
+  {
+    "full_name": "fingerthief/minimal-chat",
+    "name": "minimal-chat",
+    "description": "MinimalChat is a lightweight, open-source chat application that allows you to interact with various large language models."
+  },
+  {
+    "full_name": "netresearch/ckeditor-cowriter",
+    "name": "ckeditor-cowriter",
+    "description": "This plugin generates content with the help of artificial intelligence. It is based on the CKEditor 4. It uses the OpenAI API to generate text."
+  },
+  {
+    "full_name": "TheMorpheus407/OpenAI-Audiobook-Generator",
+    "name": "OpenAI-Audiobook-Generator",
+    "description": "This project is a web-based application that converts text into audio, primarily focusing on creating audiobooks. "
+  },
+  {
+    "full_name": "Cre8steveDev/Healthor",
+    "name": "Healthor",
+    "description": "Healthor - An AI-Powered Web-Based Medical Diagnosis and Consultancy Project. Leveraging, OpenAI and Google Maps API."
+  },
+  {
+    "full_name": "chuckzee/dungeonmAIster",
+    "name": "dungeonmAIster",
+    "description": "A GPT node/express app using prompt engineering and system instructions to facilitate a dungeon crawl"
+  },
+  {
+    "full_name": "kalmix/GPT-React",
+    "name": "GPT-React",
+    "description": null
+  },
+  {
+    "full_name": "DevAro178/Mistral_web_ui",
+    "name": "Mistral_web_ui",
+    "description": null
+  },
+  {
+    "full_name": "paideia1200bce/sbhacks-ResumAI",
+    "name": "sbhacks-ResumAI",
+    "description": "smart resume feedback using OpenAI's GPT."
+  },
+  {
+    "full_name": "JangSE123/Intelligent-Web",
+    "name": "Intelligent-Web",
+    "description": "We create an intelligent web that recommends a coding study timetable using LLM and manages Git."
+  },
+  {
+    "full_name": "eross220/Telegrambot_ChatGPT",
+    "name": "Telegrambot_ChatGPT",
+    "description": "This is the telegram bot using GPT-3 model"
+  },
+  {
+    "full_name": "IvanCampos/OpenAI-API",
+    "name": "OpenAI-API",
+    "description": "OpenAI API JavaScript Jumpstart provides an introduction to using the OpenAI API with JavaScript. It includes instructions for setting up an API key, making requests to the API, and working with the API's response data in JavaScript. The goal of the jumpstart is to help developers quickly get started using the OpenAI API in their JavaScript project"
+  },
+  {
+    "full_name": "DeepakSaini2331997/openai-realtime-voice-assistant",
+    "name": "openai-realtime-voice-assistant",
+    "description": null
+  },
+  {
+    "full_name": "easychen/openai-api-proxy",
+    "name": "openai-api-proxy",
+    "description": "一行Docker命令部署的 OpenAI/GPT API代理，支持SSE流式返回、腾讯云函数 。Simple proxy for OpenAi api via a one-line docker command"
+  },
+  {
+    "full_name": "juliendorra/esquisse",
+    "name": "esquisse",
+    "description": "Quick prototyping tool to create AI workflows one level or two above prompt engineering"
+  },
+  {
+    "full_name": "Rosbifbr/ask",
+    "name": "ask",
+    "description": "Simple, lightweight terminal LLM app."
+  },
+  {
+    "full_name": "jeyabbalas/medical-report-information-extractor",
+    "name": "medical-report-information-extractor",
+    "description": "An application that leverages large language models to extract structured information from any type of text reports."
+  },
+  {
+    "full_name": "thomaspernet/MemChatGPT-Extension",
+    "name": "MemChatGPT-Extension",
+    "description": "a Chrome extension designed to streamline your workflow by leveraging the power of OpenAI's ChatGPT and Mem AI"
+  },
+  {
+    "full_name": "Daniel-1-2-3/AI-Tour-Guide",
+    "name": "AI-Tour-Guide",
+    "description": "App that gives detailed descriptions of tourist destinations, especailly ones in Yellowstone National Park, utilizing image recognition GPT-4o "
+  },
+  {
+    "full_name": "MoritzLaurer/GPT-google-sheets",
+    "name": "GPT-google-sheets",
+    "description": "Code and documentation for running generative LLMs like ChatGPT or GPT4 in google sheets without any coding knowledge. Transform unstructured text to structured data."
+  },
+  {
+    "full_name": "gourao/llm",
+    "name": "llm",
+    "description": "llm experiments"
+  },
+  {
+    "full_name": "tieuandpepper/smart-autofill-form",
+    "name": "smart-autofill-form",
+    "description": "Chrome extension to autofill forms using LLMs"
+  },
+  {
+    "full_name": "ikechan8370/chatgpt-plugin",
+    "name": "chatgpt-plugin",
+    "description": "云崽系机器人的智能聊天插件"
+  },
+  {
+    "full_name": "elfvingralf/claude-data-fetcher",
+    "name": "claude-data-fetcher",
+    "description": "A Chrome plugin that makes it easier to augment Claude AI conversation with information from the Internet"
+  },
+  {
+    "full_name": "Chinmay-Deo-2004/GPT-app",
+    "name": "GPT-app",
+    "description": "ChinGPT, as I like to call it, is a web application powered by OpenAI's GPT-3.5-Turbo. I wanted to design an application that multiple users can use, using their phone numbers to register, using OTP verification to verify the users, who can then ask the AI-assistant their questions. It can be asked via both text and voice."
+  },
+  {
+    "full_name": "Justmalhar/open-audio",
+    "name": "open-audio",
+    "description": "Open-Audio TTS: A robust web app leveraging OpenAI's powerful Text-to-Speech (TTS) models to generate natural-sounding audio from text. Built with modern web technologies for an intuitive user experience, including customizable voice and speech speed settings, and the ability to download audio files directly."
+  },
+  {
+    "full_name": "mrtrizer/VSCRewriteExtension",
+    "name": "VSCRewriteExtension",
+    "description": "An extension to rewrite blocks of text and continue text for refactoring and documentation writing with local LLM"
+  },
+  {
+    "full_name": "hichipli/PromptOptimizer",
+    "name": "PromptOptimizer",
+    "description": "Generate high-quality Prompts for LLMs with simple natural language descriptions."
+  },
+  {
+    "full_name": "mingxiangzhangmark/AI_GPTPRO",
+    "name": "AI_GPTPRO",
+    "description": "This is a AI Chat Web APP developed using GPT-3.5 API + React + Vite, Deployed on Vercel."
+  },
+  {
+    "full_name": "Jakob-al28/LLM_Experimental_Study",
+    "name": "LLM_Experimental_Study",
+    "description": null
+  },
+  {
+    "full_name": "lygitdata/MedLinkAI",
+    "name": "MedLinkAI",
+    "description": "MedLinkAI+ is a smart pre-diagnostic system powered by Generative AI (LLM-based), aimed at enhancing communication between patients and healthcare providers. By offering personalized symptom interpretation and recommending medical services, it helps streamline diagnostic processes while overcoming language and cultural barriers."
+  },
+  {
+    "full_name": "silasnevstad/GPT-Extension-VSCode",
+    "name": "GPT-Extension-VSCode",
+    "description": "An extension bringing OpenAI's API to your fingertips inside of Visual Studio Code"
+  },
+  {
+    "full_name": "neethanm/MoviePitch_OpenAI",
+    "name": "MoviePitch_OpenAI",
+    "description": null
+  },
+  {
+    "full_name": "DominicBoettger/gnome-extension-whisper",
+    "name": "gnome-extension-whisper",
+    "description": "A gnome extension for speech to text with openai whisper"
+  },
+  {
+    "full_name": "echohive42/Real-time-voice-ultra-simple-template-with-function-calling",
+    "name": "Real-time-voice-ultra-simple-template-with-function-calling",
+    "description": "OpenAI real-time voice Fastapi template with function calling with maximum simplicity. comes with arxiv paper function as an example and full event capture"
+  },
+  {
+    "full_name": "wassname/rag_search_cite",
+    "name": "rag_search_cite",
+    "description": "Hackable frontend for LLM assisted searching with citations"
+  },
+  {
+    "full_name": "moiguitarrock/twilio-ai-assistant",
+    "name": "twilio-ai-assistant",
+    "description": "Twilio + openAI realtime assistant "
+  },
+  {
+    "full_name": "wangyz1999/LiteLoaderQQNT-GPT-Reply",
+    "name": "LiteLoaderQQNT-GPT-Reply",
+    "description": "在QQNT直接使用ChatGPT发消息 | Use ChatGPT in QQNT"
+  },
+  {
+    "full_name": "pankaj-davi/gpt-api-node-poc",
+    "name": "gpt-api-node-poc",
+    "description": "live URL"
+  },
+  {
+    "full_name": "Bhushan1398/speech-assistant-openai-realtime-api-nodeJS",
+    "name": "speech-assistant-openai-realtime-api-nodeJS",
+    "description": null
+  },
+  {
+    "full_name": "remcobrilstra/static-website-chatgpt",
+    "name": "static-website-chatgpt",
+    "description": "small plaything i used for test some prompt engineering stuff (warning: html/css/js may cause eyes to bleed)"
+  },
+  {
+    "full_name": "isaiahxs/ClarityCompanions",
+    "name": "ClarityCompanions",
+    "description": "Interactive chatbot using three different external APIs. OpenAI's Whisper Speech-to-Text API + OpenAI's GPT 3.5-turbo API + ElevenLabs' Text-to-Speech API with custom AI voice cloned & modified by me."
+  },
+  {
+    "full_name": "florian-kalisch/auto-mindmapping",
+    "name": "auto-mindmapping",
+    "description": "Revolutionize your mind mapping with this repo, combining mermaid and GPT-3.5-turbo / GPT-4! Craft captivating mindmaps for brainstorming and text summarization, unlocking creativity and productivity. Experience this trailblazing solution for the ultimate mind mapping experience today! Don't miss out and elevate your creative thinking skills!"
+  },
+  {
+    "full_name": "AndraxDev/speak-gpt-web",
+    "name": "speak-gpt-web",
+    "description": "Web version of SpeakGPT created using ReactJS and Google Material Design 3."
+  },
+  {
+    "full_name": "NikosiaPhD/ParrotTaboo",
+    "name": "ParrotTaboo",
+    "description": "An LLM-powered browser-based game"
+  },
+  {
+    "full_name": "andrewgcodes/ama",
+    "name": "ama",
+    "description": "Ask Me Anything for any website, powered by Firecrawl and OpenAI GPT-4o-mini"
+  },
+  {
+    "full_name": "usselman/MUDbot",
+    "name": "MUDbot",
+    "description": "GPT-enabled Discord bot for MUD Room server"
+  },
+  {
+    "full_name": "AlexAuragan/dotfiles",
+    "name": "dotfiles",
+    "description": "dotfiles organized using stow"
+  },
+  {
+    "full_name": "iglv/openai-usage",
+    "name": "openai-usage",
+    "description": "Track individual usage by users in Open AI"
+  },
+  {
+    "full_name": "haixuxu/chatgpt-mirror",
+    "name": "chatgpt-mirror",
+    "description": "chatgpt-mirror"
+  },
+  {
+    "full_name": "craftercms/chatgpt-plugin",
+    "name": "chatgpt-plugin",
+    "description": "OpenAI's ChatGPT plugin for CrafterCMS"
+  },
+  {
+    "full_name": "sanand0/aiproxy",
+    "name": "aiproxy",
+    "description": "Authorizing proxy for LLMs"
+  },
+  {
+    "full_name": "brutusB1/snoop-chat",
+    "name": "snoop-chat",
+    "description": "“A React chat application integrated with OpenAI’s API.”"
+  },
+  {
+    "full_name": "EduardR02/AI-Filter",
+    "name": "AI-Filter",
+    "description": "Filter social media content with LLMs"
+  },
+  {
+    "full_name": "DinorexTim/GPT-webUI",
+    "name": "GPT-webUI",
+    "description": "一个基于OpenAI api的webUI"
+  },
+  {
+    "full_name": "hihumanzone/AI-Discord-Bot-GEMM-X",
+    "name": "AI-Discord-Bot-GEMM-X",
+    "description": "AI Discord Bot (GEMM-X) is an intelligent assistant for Discord, leveraging AI technologies from multiple providers to generate images, create music, produce speech, and more. It supports custom personality settings and advanced user/server configurations."
+  },
+  {
+    "full_name": "UltraInstinct0x/SonGokuBot",
+    "name": "SonGokuBot",
+    "description": "Utilizing dragon powers of web."
+  },
+  {
+    "full_name": "nitroz3us/GPThreatIntel-Summarizer",
+    "name": "GPThreatIntel-Summarizer",
+    "description": "GPThreatIntel-Summarizer is a Python tool that uses OpenAI models and CTI to automate report summarization. Extract key insights from CTI reports, generate concise summaries."
+  },
+  {
+    "full_name": "yonder-gg/rpgGPT",
+    "name": "rpgGPT",
+    "description": "LLM powered text RPG"
+  },
+  {
+    "full_name": "girmmy/gimmyai",
+    "name": "gimmyai",
+    "description": "React.js and Vite project that has a chatbot with OpenAI's GPT4 model (although its changable to any other model)."
+  },
+  {
+    "full_name": "yudai1204/slack-llm-bot",
+    "name": "slack-llm-bot",
+    "description": null
+  },
+  {
+    "full_name": "Varchasva45/cogniscript",
+    "name": "cogniscript",
+    "description": "CogniScript: An interactive online educational platform that facilitates the hosting, buying, and selling of courses. Features AI-powered quizzes evaluated using OpenAI's string matching technology, catering to both students and educators. Built with the MERN stack for a scalable and efficient learning experience."
+  },
+  {
+    "full_name": "DEboy2007/GPTTextbook",
+    "name": "GPTTextbook",
+    "description": "A GPT model specifically trained on a textbook to combine the convenience of tools like ChatGPT with the appropriateness and accuracy of a textbook"
+  },
+  {
+    "full_name": "rickyokitaUK/gurugpt",
+    "name": "gurugpt",
+    "description": "Whatsapp chatbot using OpenaI api"
+  },
+  {
+    "full_name": "AadarshDubey/llm-ui",
+    "name": "llm-ui",
+    "description": null
+  },
+  {
+    "full_name": "CartValderama/FlashCardFinal",
+    "name": "FlashCardFinal",
+    "description": "Flashcard-based learning tool with interactive flashcards, decks, and folders, built using MVC framework and OpenAI API for feedback. First version for web application course."
+  },
+  {
+    "full_name": "easychen/gpt-bat",
+    "name": "gpt-bat",
+    "description": "GPT长文本批处理工具，Batch Processing tools for GPT "
+  },
+  {
+    "full_name": "cortoppassi/Portifolio",
+    "name": "Portifolio",
+    "description": "site de portfólio com chatbot alimentado por um modelo de Inteligência Artificial da OpenAI."
+  },
+  {
+    "full_name": "Rayan-Weragala/ITPM_REG_WE_08_SLIIT_2024",
+    "name": "ITPM_REG_WE_08_SLIIT_2024",
+    "description": "SLIIT Bsc(Hons) Information Technology 3 Year 1 Semester ITPM  Project MERN Stack | 2024/05/04"
+  },
+  {
+    "full_name": "Fede91/aicommit",
+    "name": "aicommit",
+    "description": "A tool that generates git commit messages using AI models"
+  },
+  {
+    "full_name": "elh/0-0-0",
+    "name": "0-0-0",
+    "description": "Play chess against gpt-3.5-turbo-instruct"
+  },
+  {
+    "full_name": "harperreed/firebase-openai-proxy",
+    "name": "firebase-openai-proxy",
+    "description": "A simple firebase app that acts as an openai api proxy. Tracks usage, and costs. "
+  },
+  {
+    "full_name": "bravekingzhang/gpt-frontend-code-gen",
+    "name": "gpt-frontend-code-gen",
+    "description": "一个生成前端页面和组件代码的神器，支持Chakra UI 、ShadcnUI ，支持本地大模型、可对话不断调整效果，直到获得满意的效果"
+  },
+  {
+    "full_name": "zjrwtx/SFT-data-builder",
+    "name": "SFT-data-builder",
+    "description": "利用免费的大模型api来结合你的私域数据来生成sft训练数据（妥妥白嫖）支持llamafactory等工具的训练数据格式synthetic data"
+  },
+  {
+    "full_name": "un1crom/openai-codex-hello-world",
+    "name": "openai-codex-hello-world",
+    "description": "Integrate with OpenAI API Codex to shape and evolve code through generative iterations."
+  },
+  {
+    "full_name": "DoingDog/chatgpt-proxy-cloudflare-worker",
+    "name": "chatgpt-proxy-cloudflare-worker",
+    "description": "Cloudflare Worker 反向代理 ChatGPT API，支持流式输出，支持联网搜索功能，支持设置访问密码"
+  },
+  {
+    "full_name": "jeffgreenca/dialograph",
+    "name": "dialograph",
+    "description": "Experimental - Diagram in real-time while narrating aloud, and let an LLM enhance your diagram with labels and connections based on your spoken narration."
+  },
+  {
+    "full_name": "Mishalabdullah/Chiua",
+    "name": "Chiua",
+    "description": "A fronted for the chatgpt"
+  },
+  {
+    "full_name": "ameer-clara/writegenius",
+    "name": "writegenius",
+    "description": "Chrome plugin that communicates with OpenAI (GPT4/GPT3.5)"
+  },
+  {
+    "full_name": "Jitesh-Raghav/BigYikes.js",
+    "name": "BigYikes.js",
+    "description": "Open-source tool for creating AI-driven, short-form videos. Choose templates, character voices, and generate stunning videos instantly with a simple prompt."
+  },
+  {
+    "full_name": "HappymanOkajima/gpt-slide",
+    "name": "gpt-slide",
+    "description": "Googleスライド用のアドオンです。生成AI（GPT、DALL-E）の力で文章や画像を生成しスライド作成をサポートします。"
+  },
+  {
+    "full_name": "simonmysun/logprobsvz",
+    "name": "logprobsvz",
+    "description": "Visualize the log probabilities of OpenAI GPT completions"
+  },
+  {
+    "full_name": "quantum-coders/burritollm",
+    "name": "burritollm",
+    "description": "Uncensored Burrito Friend"
+  },
+  {
+    "full_name": "iagolirapasssos/ChatGPTForAll",
+    "name": "ChatGPTForAll",
+    "description": "ChatAIForAll is a versatile web application that allows users to interact with AI models for text generation and image creation. It provides a user-friendly interface for having conversations with AI and generating images based on text prompts."
+  },
+  {
+    "full_name": "research-outcome/LLM-Game-Benchmark",
+    "name": "LLM-Game-Benchmark",
+    "description": "Evaluating Large Language Models with Grid-Based Game Competitions: An Extensible LLM Benchmark and Leaderboard"
+  },
+  {
+    "full_name": "parkchamchi/GlossySnake",
+    "name": "GlossySnake",
+    "description": "An Application of LLM for Approximation of Interlinear Translation Corpora"
+  },
+  {
+    "full_name": "cameronking4/Fridge2Food",
+    "name": "Fridge2Food",
+    "description": "Voted Top 10 of the day on Product Hunt. Take photos of fridge and pantry, and generate instant recipes to cook with food available using gpt-4-vision-previeiw"
+  },
+  {
+    "full_name": "itsrawlinz-jeff/HydraGPT-",
+    "name": "HydraGPT-",
+    "description": null
+  },
+  {
+    "full_name": "DavidBradbury/tts-assistant",
+    "name": "tts-assistant",
+    "description": "TTS Assistant: A front-end app utilizing OpenAI's TTS API. Easily input text and get audio outputs, store them locally, and manage your collection. Perfect for educators, developers, and content creators looking to integrate advanced TTS into their workflow."
+  },
+  {
+    "full_name": "fisherdaddy/FisherAI",
+    "name": "FisherAI",
+    "description": " FisherAI 是一款为提高学习效率而设计的Chrome插件，通过一键操作，支持自动摘要、网页及视频翻译、多轮对话等功能。此外，FisherAI 支持多种大语言模型，包括但不限于gpt/azure/gemini/deepseek/mistral/groq/yi/moonshot等等，为用户提供灵活且强大的AI工具。"
+  },
+  {
+    "full_name": "cgiugno/GPT3-Powered-Video-Game",
+    "name": "GPT3-Powered-Video-Game",
+    "description": "A short little experiment in whether GPT-3 can provide dialogue for a video game (spoiler alert: it can, but not at a feasible scale, and not better than an actual human)."
+  },
+  {
+    "full_name": "LeifChristian/GPT-speech-realtime-data",
+    "name": "GPT-speech-realtime-data",
+    "description": "Multimodal chatbot with text to speech, news & web search APIs for realtime data img recognition & generation"
+  },
+  {
+    "full_name": "threedesoft/toshimo",
+    "name": "toshimo",
+    "description": "AI-powered coding assistant with multi-LLM support and comprehensive testing"
+  },
+  {
+    "full_name": "nextblock-ai/puck-conversation-documents",
+    "name": "puck-conversation-documents",
+    "description": "Implements a portable conversation document format for GPT-4 in VS code"
+  },
+  {
+    "full_name": "ittuann/obsidian-gpt-liteinquirer-plugin",
+    "name": "obsidian-gpt-liteinquirer-plugin",
+    "description": "💬 Experience OpenAI ChatGPT assistance directly within Obsidian, drafting content without interrupting your creative flow."
+  },
+  {
+    "full_name": "jenyss/ZhenFlow",
+    "name": "ZhenFlow",
+    "description": "Automating Confluence & Jira workflows using LLMs"
+  },
+  {
+    "full_name": "easychen/api2d-js",
+    "name": "api2d-js",
+    "description": "OpenAI/Api2d pure js sdk 无需node后端直接在浏览器中运行，支持SSE流式输出"
+  },
+  {
+    "full_name": "bbz662/compare-multi-llm-outputs",
+    "name": "compare-multi-llm-outputs",
+    "description": null
+  },
+  {
+    "full_name": "antonok-edm/ai-led-matrix-art",
+    "name": "ai-led-matrix-art",
+    "description": "Let GPT-4 and GPT-4 with Vision write code for a Pixelblaze-controlled LED matrix, evolving over time towards a user-defined theme."
+  },
+  {
+    "full_name": "Useems/openai-nodejs",
+    "name": "openai-nodejs",
+    "description": "A OpenAI API wrapper for node."
+  },
+  {
+    "full_name": "TommyJu/2800-202410-DTC14",
+    "name": "2800-202410-DTC14",
+    "description": "GUD aims to motivate gamers to develop healthy habits by gamifying their lives and tapping into their competitive spirit. This app uses APIs from OpenAI, Riot Games, and OpenWeatherMap. Custom and suggested tasks allow the user to improve their game, diet, and fitness."
+  },
+  {
+    "full_name": "longlongago2/chatgpt-console",
+    "name": "chatgpt-console",
+    "description": "ChatGPT for terminal"
+  },
+  {
+    "full_name": "frontend-engineering/chatgpt-webapp-fullstack",
+    "name": "chatgpt-webapp-fullstack",
+    "description": "A fullstack chat webapp based on ChatGPT/BingAI/AndMore..."
+  },
+  {
+    "full_name": "sikong1/node-gpt-server",
+    "name": "node-gpt-server",
+    "description": "gpt接口-node"
+  },
+  {
+    "full_name": "Y-AIFE/ChatGPT-API",
+    "name": "ChatGPT-API",
+    "description": "a more universal open-source library for the ChatGPT API that supports the CommonJS module system"
+  },
+  {
+    "full_name": "WhyDoWeLiveWithoutMeaning/AIMessage",
+    "name": "AIMessage",
+    "description": "Allows you to connect to the OpenAI API to generate responses for you."
+  },
+  {
+    "full_name": "waylaidwanderer/node-chatgpt-api",
+    "name": "node-chatgpt-api",
+    "description": "A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app."
+  },
+  {
+    "full_name": "mrjuice01/node-chat-gpt-api",
+    "name": "node-chat-gpt-api",
+    "description": "A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app."
+  },
+  {
+    "full_name": "hotrainy/ai-gpt-refiner",
+    "name": "ai-gpt-refiner",
+    "description": "AI-GPT-Refiner is a feature-rich node.js project that implements OpenAI's GPT-suite for creating chatbots. It's not just limited to Node.js, it can serve as a REST API server and CLI application. It has very concise and useful documentations about its usage and setup. OpenAI's API key is needed to get it working."
+  },
+  {
+    "full_name": "HappymanOkajima/gpt-document",
+    "name": "gpt-document",
+    "description": "Googleドキュメント用のアドオンです。生成AIの力で文章や画像を生成しドキュメント作成をサポートします。"
+  },
+  {
+    "full_name": "hichipli/ChatcatGPT",
+    "name": "ChatcatGPT",
+    "description": "A flexible, user-customizable AI assistant powered by OpenAI. This lightweight web-based interface allows users to leverage the capabilities of AI in a personalized manner. "
+  },
+  {
+    "full_name": "Barty-Bart/openai-realtime-api-voice-assistant-V2",
+    "name": "openai-realtime-api-voice-assistant-V2",
+    "description": "OpenAI Realtime API Voice Agent with RAG, Function Calling, and Caller History"
+  },
+  {
+    "full_name": "Index-al/Choose-Your-Own-AI-venture",
+    "name": "Choose-Your-Own-AI-venture",
+    "description": "Choose your own AI-venture. A web application which utilizes openAI & DALL-E to generate unique and dynamic narrative experiences."
+  },
+  {
+    "full_name": "heshengtao/comfyui_LLM_party",
+    "name": "comfyui_LLM_party",
+    "description": "LLM Agent Framework in ComfyUI includes Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, moonshot,doubao. Adapted to local llms, vlm, gguf such as llama-3.2, Linkage graphRAG / RAG"
+  },
+  {
+    "full_name": "terukusu/gas-openai",
+    "name": "gas-openai",
+    "description": "Google Apps Script(GAS)からOpenAI(or Azure OpenAI)のAPIを簡単に使うためのライブラリ"
+  },
+  {
+    "full_name": "project-luminate/luminate",
+    "name": "luminate",
+    "description": "Luminate - an interactive system that enables structured generation and exploration of LLM outputs"
+  },
+  {
+    "full_name": "SunnyChopper/followup-question-generator",
+    "name": "followup-question-generator",
+    "description": "A GPT-powered tool meant to supplement the work of interviewers by brainstorming new follow-up questions based on some context, a question and the candidate's response to it."
+  },
+  {
+    "full_name": "radareorg/r2ai",
+    "name": "r2ai",
+    "description": "local language model for radare2"
+  },
+  {
+    "full_name": "ajprokop/imageProcessing",
+    "name": "imageProcessing",
+    "description": "A web application that uses OpenAI image APIs to create an image, create image variations, and edit an existing image."
+  },
+  {
+    "full_name": "tusharmctrl/interact-puppeteer-with-openai",
+    "name": "interact-puppeteer-with-openai",
+    "description": null
+  },
+  {
+    "full_name": "MEDELBOU3/gemini-ai-chatbot",
+    "name": "gemini-ai-chatbot",
+    "description": "SM.studio ai is an AI chatbot that creates text, tables, analyzes images, and provides YouTube video tutorials."
+  },
+  {
+    "full_name": "dermotcanniffe/RobotFrameworkSpiraApp",
+    "name": "RobotFrameworkSpiraApp",
+    "description": "SpiraApp for Generating Robot Framework code using LLM Chatbot requests"
+  },
+  {
+    "full_name": "Inc44/CoFlu",
+    "name": "CoFlu",
+    "description": "CoFlu is a comprehensive text manipulation and comparison tool that allows users to compare two pieces of text, generate text using various AI models, and view differences in both single- and double-column formats. It also includes features for text transformation, audio transcription, and image handling."
+  },
+  {
+    "full_name": "lektor-lol/lektor-lol.github.io",
+    "name": "lektor-lol.github.io",
+    "description": "a minimal website to get the diff of llm rewrites"
+  },
+  {
+    "full_name": "shulinbao/horseapi",
+    "name": "horseapi",
+    "description": "A secondary development of the Calcium-Ion/new-api project, designed as an OpenAI-compatible API management tool, primarily for the HorseGPT project."
+  },
+  {
+    "full_name": "ariya/query-llm",
+    "name": "query-llm",
+    "description": "Query LLM with Chain-of-Tought"
+  },
+  {
+    "full_name": "myselfshravan/fastiq-genai",
+    "name": "fastiq-genai",
+    "description": "FastIQ is an innovative platform designed to streamline the integration and utilization of multiple API providers for large language models (LLMs). Our platform serves as a hub for developers, researchers, and businesses to access a diverse range of AI models from leading providers such as Groq, OpenAI, Anyscale, and TogetherAI, among others."
+  },
+  {
+    "full_name": "SuffolkLITLab/prompts",
+    "name": "prompts",
+    "description": "A browser extension that generates and runs LLM prompts based on templates and user input such as selected text and the contents of the current page "
+  },
+  {
+    "full_name": "python273/eimi",
+    "name": "eimi",
+    "description": "Tree Comments / Threaded UI for LLMs | eimi.cns.wtf"
+  },
+  {
+    "full_name": "ruvnet/powerprompt",
+    "name": "powerprompt",
+    "description": "Power Prompt - Enhance ChatGPT & OpenAi interaction. Seamless conversations. Choose models, save templates, set temp, length & tokens."
+  },
+  {
+    "full_name": "BrunoSobrino/openai-botwa",
+    "name": "openai-botwa",
+    "description": "WhatsApp Bot que usa la IA de OpenAI creado por @rtwone y editado por @BrunoSobrino"
+  },
+  {
+    "full_name": "pat-jj/TextbookKG",
+    "name": "TextbookKG",
+    "description": "TxBKG - Knowledge Graph Generation for Any PDFs"
+  },
+  {
+    "full_name": "itsmarsss/kahootgpt",
+    "name": "kahootgpt",
+    "description": "KahootGPT is a Chrome extension that enhances the Kahoot game experience with OpenAI's  GPT 3.5 model to answer questions. It's an essential tool for anyone looking to improve their Kahoot game performance, with powerful features and an easy-to-use interface."
+  },
+  {
+    "full_name": "JD-P/minihf",
+    "name": "minihf",
+    "description": "MiniHF is an inference, human preference data collection, and fine-tuning tool for local language models. It is intended to help the user develop their prompts into full models."
+  },
+  {
+    "full_name": "SillyTavern/SillyTavern",
+    "name": "SillyTavern",
+    "description": "LLM Frontend for Power Users."
+  },
+  {
+    "full_name": "larksq/obsidian-llm-summary",
+    "name": "obsidian-llm-summary",
+    "description": "wip"
+  },
+  {
+    "full_name": "AcuChat/RAGTruth-processor",
+    "name": "RAGTruth-processor",
+    "description": "Nodejs service to process RAGTruth submissions"
+  },
+  {
+    "full_name": "garbledhamster/joesaverage.blog",
+    "name": "joesaverage.blog",
+    "description": "Mini Blog Admin"
+  },
+  {
+    "full_name": "scriptit-fr/ChatGPTApp",
+    "name": "ChatGPTApp",
+    "description": "The Google Apps Script binding for the OpenAI chat completion API"
+  },
+  {
+    "full_name": "v3ucn/GPT-SoVits-Read-Aloud",
+    "name": "GPT-SoVits-Read-Aloud",
+    "description": "基于Read-aloud项目增加GPT-SoVits接口，Chrome扩展，大声朗读"
+  },
+  {
+    "full_name": "hoyoung1359/Chat-082",
+    "name": "Chat-082",
+    "description": "LLM을 활용한 컴퓨터 구매 챗봇 익스텐션"
+  },
+  {
+    "full_name": "asdfMaciej/HackYeah2024",
+    "name": "HackYeah2024",
+    "description": "Navigate and search through websites using LLMs - finalist project at HackYeah 2024"
+  },
+  {
+    "full_name": "aseichter2007/ClipboardConqueror",
+    "name": "ClipboardConqueror",
+    "description": "Clipboard Conqueror is a novel copy and paste copilot alternative designed to bring your very own LLM AI assistant to any text field.  "
+  }
+]

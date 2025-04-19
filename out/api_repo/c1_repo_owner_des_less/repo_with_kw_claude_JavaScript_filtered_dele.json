@@ -1,0 +1,297 @@
+[
+  {
+    "full_name": "suvansh/CeLLM",
+    "name": "CeLLM",
+    "description": "applying LLM prompting to spreadsheets"
+  },
+  {
+    "full_name": "godwinjs/GymBuddy",
+    "name": "GymBuddy",
+    "description": "Gym Assistant chatbot built with GoogleAI, Superbase and langchainJS"
+  },
+  {
+    "full_name": "tikserziku/dev-guides-new",
+    "name": "dev-guides-new",
+    "description": "AI Project Generator using Claude API"
+  },
+  {
+    "full_name": "yongli233/llm-reverse-proxy",
+    "name": "llm-reverse-proxy",
+    "description": "Basic OpenAI/Anthropic 2-in-1 reverse proxy"
+  },
+  {
+    "full_name": "iguatemigarin/web-client-anthropic-llm",
+    "name": "web-client-anthropic-llm",
+    "description": null
+  },
+  {
+    "full_name": "yutamatsuura/ai-chat-interface",
+    "name": "ai-chat-interface",
+    "description": "AI-powered chat interface using Claude API"
+  },
+  {
+    "full_name": "GuyMitchy/planai",
+    "name": "planai",
+    "description": "Agent-Zero using instructions from claude to build Planai"
+  },
+  {
+    "full_name": "alexandurrr/NextJS-AI-Toolkit",
+    "name": "NextJS-AI-Toolkit",
+    "description": "Using Next.JS to explore all the OpenAI, and Claude Capabilities"
+  },
+  {
+    "full_name": "ezetech/anthropic-gui",
+    "name": "anthropic-gui",
+    "description": "A user-friendly, feature-rich UI enhancing interaction with Anthropic's Claude AI, enabling model selection, chat saving, and improved prompt editing."
+  },
+  {
+    "full_name": "RylandAdams/AutoTaskGenerator",
+    "name": "AutoTaskGenerator",
+    "description": "Fireflies -> Claude -> Click-up, Automates reviewing a meeting summary and passes it to Claude to parse out the tasks then filters and assigns in Clickup."
+  },
+  {
+    "full_name": "VedaVerse-opensource/chatsphere",
+    "name": "chatsphere",
+    "description": "Your all-in-one open source AI assistant hub: Access cutting-edge language models through a single platform. Store conversations locally for easy reference, use your own API keys, and enjoy complete privacy . Streamline your AI interactions while maintaining full control and eliminating multiple subscriptions"
+  },
+  {
+    "full_name": "snakeying/GPT-Telegram-Bot",
+    "name": "GPT-Telegram-Bot",
+    "description": "Your own GPT Telegram Bot on Vercel"
+  },
+  {
+    "full_name": "mloef/ducky-poc",
+    "name": "ducky-poc",
+    "description": "Three experiments with talking to ChatGPT.  First, based off a talk-to-chatgpt chrome extension. Second, a standalone js page based on the extension. Finally,  a simple python script that runs Silero TTS locally, calls Claude instant for a response, then streams audio from Elevenlabs."
+  },
+  {
+    "full_name": "Ficlu/ModelrRevolver",
+    "name": "ModelrRevolver",
+    "description": "LLM API GUI, basic CRUD app in Node and React."
+  },
+  {
+    "full_name": "libaxuan/ChatGPT-Next-Web-3",
+    "name": "ChatGPT-Next-Web-3",
+    "description": "Next-V3"
+  },
+  {
+    "full_name": "SuiYunsy/NextWeb",
+    "name": "NextWeb",
+    "description": "原项目：https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web"
+  },
+  {
+    "full_name": "zhou-jian-qq/chatgpt-next-web-langchain",
+    "name": "chatgpt-next-web-langchain",
+    "description": null
+  },
+  {
+    "full_name": "ice-lemon/ChatGPT-Next-Web-LangChain-aixtoolbox",
+    "name": "ChatGPT-Next-Web-LangChain-aixtoolbox",
+    "description": null
+  },
+  {
+    "full_name": "lifenglsf/self_chatgpt-next-web",
+    "name": "self_chatgpt-next-web",
+    "description": "自用，基于v2版本修改"
+  },
+  {
+    "full_name": "SillyTavern/SillyTavern",
+    "name": "SillyTavern",
+    "description": "LLM Frontend for Power Users."
+  },
+  {
+    "full_name": "locmaymo/SillyTavern-huggingface",
+    "name": "SillyTavern-huggingface",
+    "description": null
+  },
+  {
+    "full_name": "gisderdube/auto-commit",
+    "name": "auto-commit",
+    "description": "automatically create a commit message, commit & push using Anthropic API"
+  },
+  {
+    "full_name": "utkarsh-umang/LLM-Extensions-sheets",
+    "name": "LLM-Extensions-sheets",
+    "description": "Scripts that can be added as Extensions on Google Sheets to make LLM calls"
+  },
+  {
+    "full_name": "sandeep20162017/LawAIExpert",
+    "name": "LawAIExpert",
+    "description": "AI Law expert. LLM model fine tuned for law. Contact Sandeep.Kanao@gmail.com"
+  },
+  {
+    "full_name": "eainarafatasif/ChatGPT-Next-Web-main",
+    "name": "ChatGPT-Next-Web-main",
+    "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS)"
+  },
+  {
+    "full_name": "ZhangYichi-ZYc/ChatGPT",
+    "name": "ChatGPT",
+    "description": "Forked from Yidadaa/ChatGPT-Next-Web"
+  },
+  {
+    "full_name": "Definetelynotbranon/Anthropic_API_Checker",
+    "name": "Anthropic_API_Checker",
+    "description": "Simple script that allows you to check if your Anthropic API keys outputs."
+  },
+  {
+    "full_name": "kaiban-ai/kaiban-llm-proxy",
+    "name": "kaiban-llm-proxy",
+    "description": "Kaiban LLM Proxy provides a proxy implementation for multiple Large Language Model (LLM) providers, including OpenAI, Anthropic, Google Gemini, and Mistral. This proxy allows developers to securely route API requests from the frontend while keeping API keys hidden from client-side code."
+  },
+  {
+    "full_name": "themaximalist/llm.js",
+    "name": "llm.js",
+    "description": "Simple LLM library for JavaScript"
+  },
+  {
+    "full_name": "semajyllek/capture_claude_context",
+    "name": "capture_claude_context",
+    "description": null
+  },
+  {
+    "full_name": "andemengo/Alfred",
+    "name": "Alfred",
+    "description": "Alfred supercharges your GitHub workflow by auto-generating awesome PR descriptions using AI"
+  },
+  {
+    "full_name": "huhuhang/bob-plugin-cloudflare",
+    "name": "bob-plugin-cloudflare",
+    "description": "Azure OpenAI + Cloudflare AI Gateway 进行翻译或润色"
+  },
+  {
+    "full_name": "ToGe3688/ioBroker.ai-toolbox",
+    "name": "ioBroker.ai-toolbox",
+    "description": "The ioBroker AI Toolbox Adapter is a powerful integration that enables users to create and manage custom AI tools based on LLMs within their ioBroker smart home environment. This adapter supports multiple providers of Large Language Models (LLMs) and a flexible framework for AI-based automation and interaction."
+  },
+  {
+    "full_name": "jamesloper/poon-llm",
+    "name": "poon-llm",
+    "description": "Connect to and stream from any OpenAI/Anthropic API"
+  },
+  {
+    "full_name": "ikechan8370/chatgpt-plugin",
+    "name": "chatgpt-plugin",
+    "description": "云崽系机器人的智能聊天插件"
+  },
+  {
+    "full_name": "orefalo/LLM_Superset.popclipext",
+    "name": "LLM_Superset.popclipext",
+    "description": null
+  },
+  {
+    "full_name": "pacnpal/Claude-code-review",
+    "name": "Claude-code-review",
+    "description": "GitHub Action for code review using Claude"
+  },
+  {
+    "full_name": "pollinations/pollinations",
+    "name": "pollinations",
+    "description": "Free Open-Source Image and Text Generation"
+  },
+  {
+    "full_name": "IlyaGusev/saiga_bot",
+    "name": "saiga_bot",
+    "description": "Telegram bot for different language models. Supports system prompts and images"
+  },
+  {
+    "full_name": "arihaniyer9/Healthcare-Chatbot-using-LLM",
+    "name": "Healthcare-Chatbot-using-LLM",
+    "description": null
+  },
+  {
+    "full_name": "BoundaryML/baml",
+    "name": "baml",
+    "description": "BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground"
+  },
+  {
+    "full_name": "padolsey/xmllm",
+    "name": "xmllm",
+    "description": "Simple structured data from any LLM"
+  },
+  {
+    "full_name": "j0n0m3/TokenTalk",
+    "name": "TokenTalk",
+    "description": "Scalable chat app with Claude AI integration, token tracking, syntax highlighting, and Azure Blob Storage for persistent chat history."
+  },
+  {
+    "full_name": "briancsparks/js-llm-cli",
+    "name": "js-llm-cli",
+    "description": null
+  },
+  {
+    "full_name": "sh2/extension-summarize-translate-claude",
+    "name": "extension-summarize-translate-claude",
+    "description": "Chrome extension to summarize and translate web pages. Uses Claude as the backend."
+  },
+  {
+    "full_name": "richardhyy/ice-vscode",
+    "name": "ice-vscode",
+    "description": "ICE (Integrated Conversational Environment) is a VSCode extension that allows users to chat with and customize language models (LLMs) within their coding environment, manage chat histories, fork conversations, and create custom LLM integrations using JavaScript. Docs: https://ice.leaforest.cc/"
+  },
+  {
+    "full_name": "tg1482/surf-sage",
+    "name": "surf-sage",
+    "description": "A chrome extension to chat with any webpage using OpenAI, Claude, or Ollama"
+  },
+  {
+    "full_name": "cescanue/Claude-interface",
+    "name": "Claude-interface",
+    "description": "A powerful and elegant web interface for Claude AI that combines enterprise-grade functionality with seamless user experience. Built to maximize the potential of Claude's API while ensuring security and efficiency."
+  },
+  {
+    "full_name": "harperreed/firebase-openai-proxy",
+    "name": "firebase-openai-proxy",
+    "description": "A simple firebase app that acts as an openai api proxy. Tracks usage, and costs. "
+  },
+  {
+    "full_name": "stoerr/chatGPTtools",
+    "name": "chatGPTtools",
+    "description": "Many command line tools, bookmarklets and apps for productivity using the OpenAI chat completion API that models ChatGPT"
+  },
+  {
+    "full_name": "clasen/ModelMix",
+    "name": "ModelMix",
+    "description": "🧬 ModelMix - Unified API for Diverse AI Language Models."
+  },
+  {
+    "full_name": "LostAbaddon/Agentverse",
+    "name": "Agentverse",
+    "description": "A multi-agent AI tool based on Claude"
+  },
+  {
+    "full_name": "Zaki-1052/GPTPortal",
+    "name": "GPTPortal",
+    "description": "A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files."
+  },
+  {
+    "full_name": "Inc44/CoFlu",
+    "name": "CoFlu",
+    "description": "CoFlu is a comprehensive text manipulation and comparison tool that allows users to compare two pieces of text, generate text using various AI models, and view differences in both single- and double-column formats. It also includes features for text transformation, audio transcription, and image handling."
+  },
+  {
+    "full_name": "EliasPereirah/OrionChat",
+    "name": "OrionChat",
+    "description": "Orion is a web-based chat interface that simplifies interactions with multiple AI model providers. "
+  },
+  {
+    "full_name": "aseichter2007/ClipboardConqueror",
+    "name": "ClipboardConqueror",
+    "description": "Clipboard Conqueror is a novel copy and paste copilot alternative designed to bring your very own LLM AI assistant to any text field.  "
+  },
+  {
+    "full_name": "SimonPhoenix96/spectral-scribe",
+    "name": "spectral-scribe",
+    "description": "This Chrome extension provides a powerful suite of AI-driven text analysis tools, leveraging Akash Network powered Llama 3.1 or Anthropics Claude models . It offers various functionalities for processing and analyzing text from YouTube video transcripts, user input and more."
+  },
+  {
+    "full_name": "sschepis/ai-assistant",
+    "name": "ai-assistant",
+    "description": "Another AI assistant, this one using Claude 3"
+  },
+  {
+    "full_name": "19h/chatbot",
+    "name": "chatbot",
+    "description": "Telegram bot powered by Claude and .... GPT4 aka EvilCorp SecondPilot"
+  }
+]

@@ -1,0 +1,1513 @@
+{
+  "all_public_dependent_repos": [
+    {
+      "name": "winpython/winpython",
+      "stars": 1906,
+      "img": "https://avatars.githubusercontent.com/u/8850436?s=40&v=4",
+      "owner": "winpython",
+      "repo_name": "winpython"
+    },
+    {
+      "name": "disler/always-on-ai-assistant",
+      "stars": 858,
+      "img": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4",
+      "owner": "disler",
+      "repo_name": "always-on-ai-assistant"
+    },
+    {
+      "name": "monarch-initiative/ontogpt",
+      "stars": 653,
+      "img": "https://avatars.githubusercontent.com/u/5161984?s=40&v=4",
+      "owner": "monarch-initiative",
+      "repo_name": "ontogpt"
+    },
+    {
+      "name": "simonw/llm-cmd",
+      "stars": 331,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-cmd"
+    },
+    {
+      "name": "disler/benchy",
+      "stars": 309,
+      "img": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4",
+      "owner": "disler",
+      "repo_name": "benchy"
+    },
+    {
+      "name": "dave1010/clipea",
+      "stars": 305,
+      "img": "https://avatars.githubusercontent.com/u/50682?s=40&v=4",
+      "owner": "dave1010",
+      "repo_name": "clipea"
+    },
+    {
+      "name": "simonw/llm-gpt4all",
+      "stars": 242,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-gpt4all"
+    },
+    {
+      "name": "taketwo/llm-ollama",
+      "stars": 237,
+      "img": "https://avatars.githubusercontent.com/u/1241736?s=40&v=4",
+      "owner": "taketwo",
+      "repo_name": "llm-ollama"
+    },
+    {
+      "name": "simonw/llm-gemini",
+      "stars": 196,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-gemini"
+    },
+    {
+      "name": "disler/marimo-prompt-library",
+      "stars": 186,
+      "img": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4",
+      "owner": "disler",
+      "repo_name": "marimo-prompt-library"
+    },
+    {
+      "name": "simonw/llm-mlc",
+      "stars": 184,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-mlc"
+    },
+    {
+      "name": "irthomasthomas/llm-consortium",
+      "stars": 170,
+      "img": "https://avatars.githubusercontent.com/u/20578100?s=40&v=4",
+      "owner": "irthomasthomas",
+      "repo_name": "llm-consortium"
+    },
+    {
+      "name": "simonw/llm-mistral",
+      "stars": 167,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-mistral"
+    },
+    {
+      "name": "disler/personal-ai-starter-pack",
+      "stars": 160,
+      "img": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4",
+      "owner": "disler",
+      "repo_name": "personal-ai-starter-pack"
+    },
+    {
+      "name": "simonw/llm-jq",
+      "stars": 153,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-jq"
+    },
+    {
+      "name": "wagtail/wagtail-ai",
+      "stars": 145,
+      "img": "https://avatars.githubusercontent.com/u/23708009?s=40&v=4",
+      "owner": "wagtail",
+      "repo_name": "wagtail-ai"
+    },
+    {
+      "name": "simonw/llm-llama-cpp",
+      "stars": 142,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-llama-cpp"
+    },
+    {
+      "name": "disler/mermaid-js-ai-agent",
+      "stars": 131,
+      "img": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4",
+      "owner": "disler",
+      "repo_name": "mermaid-js-ai-agent"
+    },
+    {
+      "name": "INCATools/ontology-access-kit",
+      "stars": 131,
+      "img": "https://avatars.githubusercontent.com/u/20801739?s=40&v=4",
+      "owner": "INCATools",
+      "repo_name": "ontology-access-kit"
+    },
+    {
+      "name": "simonw/llm-openrouter",
+      "stars": 109,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-openrouter"
+    },
+    {
+      "name": "simonw/pelican-bicycle",
+      "stars": 105,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "pelican-bicycle"
+    },
+    {
+      "name": "vagos/llm-sort",
+      "stars": 99,
+      "img": "https://avatars.githubusercontent.com/u/4410494?s=40&v=4",
+      "owner": "vagos",
+      "repo_name": "llm-sort"
+    },
+    {
+      "name": "monarch-initiative/curategpt",
+      "stars": 80,
+      "img": "https://avatars.githubusercontent.com/u/5161984?s=40&v=4",
+      "owner": "monarch-initiative",
+      "repo_name": "curategpt"
+    },
+    {
+      "name": "simonw/llm-cluster",
+      "stars": 68,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-cluster"
+    },
+    {
+      "name": "tkellogg/fossil",
+      "stars": 67,
+      "img": "https://avatars.githubusercontent.com/u/437044?s=40&v=4",
+      "owner": "tkellogg",
+      "repo_name": "fossil"
+    },
+    {
+      "name": "simonw/llm-clip",
+      "stars": 66,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-clip"
+    },
+    {
+      "name": "GNtousakis/llm-commit",
+      "stars": 65,
+      "img": "https://avatars.githubusercontent.com/u/48942855?s=40&v=4",
+      "owner": "GNtousakis",
+      "repo_name": "llm-commit"
+    },
+    {
+      "name": "simonw/sqlite-utils-ask",
+      "stars": 62,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "sqlite-utils-ask"
+    },
+    {
+      "name": "simonw/llm-replicate",
+      "stars": 61,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-replicate"
+    },
+    {
+      "name": "simonw/llm-gguf",
+      "stars": 58,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-gguf"
+    },
+    {
+      "name": "simonw/llm-embed-jina",
+      "stars": 58,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-embed-jina"
+    },
+    {
+      "name": "relston/mark",
+      "stars": 55,
+      "img": "https://avatars.githubusercontent.com/u/122532?s=40&v=4",
+      "owner": "relston",
+      "repo_name": "mark"
+    },
+    {
+      "name": "simonw/llm-mlx",
+      "stars": 55,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-mlx"
+    },
+    {
+      "name": "larsyencken/wide-language-index",
+      "stars": 50,
+      "img": "https://avatars.githubusercontent.com/u/36012?s=40&v=4",
+      "owner": "larsyencken",
+      "repo_name": "wide-language-index"
+    },
+    {
+      "name": "simonw/llm-sentence-transformers",
+      "stars": 50,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-sentence-transformers"
+    },
+    {
+      "name": "linkml/schema-automator",
+      "stars": 43,
+      "img": "https://avatars.githubusercontent.com/u/79337873?s=40&v=4",
+      "owner": "linkml",
+      "repo_name": "schema-automator"
+    },
+    {
+      "name": "sblakey/llm-bedrock-anthropic",
+      "stars": 42,
+      "img": "https://avatars.githubusercontent.com/u/538514?s=40&v=4",
+      "owner": "sblakey",
+      "repo_name": "llm-bedrock-anthropic"
+    },
+    {
+      "name": "dpunj/weft",
+      "stars": 39,
+      "img": "https://avatars.githubusercontent.com/u/101072201?s=40&v=4",
+      "owner": "dpunj",
+      "repo_name": "weft"
+    },
+    {
+      "name": "sderev/lmtoolbox",
+      "stars": 38,
+      "img": "https://avatars.githubusercontent.com/u/24412384?s=40&v=4",
+      "owner": "sderev",
+      "repo_name": "lmtoolbox"
+    },
+    {
+      "name": "tomviner/llm-claude",
+      "stars": 36,
+      "img": "https://avatars.githubusercontent.com/u/167319?s=40&v=4",
+      "owner": "tomviner",
+      "repo_name": "llm-claude"
+    },
+    {
+      "name": "simonw/llm-command-r",
+      "stars": 34,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-command-r"
+    },
+    {
+      "name": "smy20011/MorningRadio",
+      "stars": 33,
+      "img": "https://avatars.githubusercontent.com/u/1560175?s=40&v=4",
+      "owner": "smy20011",
+      "repo_name": "MorningRadio"
+    },
+    {
+      "name": "vagos/llm-interpolate",
+      "stars": 33,
+      "img": "https://avatars.githubusercontent.com/u/4410494?s=40&v=4",
+      "owner": "vagos",
+      "repo_name": "llm-interpolate"
+    },
+    {
+      "name": "simonw/llm-mlx-llama",
+      "stars": 33,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-mlx-llama"
+    },
+    {
+      "name": "simonw/llm-anyscale-endpoints",
+      "stars": 33,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-anyscale-endpoints"
+    },
+    {
+      "name": "simonw/llm-mpt30b",
+      "stars": 33,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-mpt30b"
+    },
+    {
+      "name": "angerman/llm-groq",
+      "stars": 32,
+      "img": "https://avatars.githubusercontent.com/u/40449?s=40&v=4",
+      "owner": "angerman",
+      "repo_name": "llm-groq"
+    },
+    {
+      "name": "infokiller/config-public",
+      "stars": 32,
+      "img": "https://avatars.githubusercontent.com/u/10516814?s=40&v=4",
+      "owner": "infokiller",
+      "repo_name": "config-public"
+    },
+    {
+      "name": "simonw/llm-python",
+      "stars": 31,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-python"
+    },
+    {
+      "name": "simonw/llm-embed-onnx",
+      "stars": 30,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-embed-onnx"
+    },
+    {
+      "name": "dsummersl/sn2md",
+      "stars": 28,
+      "img": "https://avatars.githubusercontent.com/u/30856?s=40&v=4",
+      "owner": "dsummersl",
+      "repo_name": "sn2md"
+    },
+    {
+      "name": "simonw/llm-anthropic",
+      "stars": 28,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-anthropic"
+    },
+    {
+      "name": "simonw/llm-bedrock",
+      "stars": 28,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-bedrock"
+    },
+    {
+      "name": "sixfeetup/rally-llm-presentation",
+      "stars": 27,
+      "img": "https://avatars.githubusercontent.com/u/1036941?s=40&v=4",
+      "owner": "sixfeetup",
+      "repo_name": "rally-llm-presentation"
+    },
+    {
+      "name": "hex/llm-perplexity",
+      "stars": 26,
+      "img": "https://avatars.githubusercontent.com/u/88922?s=40&v=4",
+      "owner": "hex",
+      "repo_name": "llm-perplexity"
+    },
+    {
+      "name": "simonw/llm-rag",
+      "stars": 26,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-rag"
+    },
+    {
+      "name": "irthomasthomas/llm-cerebras",
+      "stars": 23,
+      "img": "https://avatars.githubusercontent.com/u/20578100?s=40&v=4",
+      "owner": "irthomasthomas",
+      "repo_name": "llm-cerebras"
+    },
+    {
+      "name": "simonw/llm-smollm2",
+      "stars": 22,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-smollm2"
+    },
+    {
+      "name": "Florents-Tselai/tsellm",
+      "stars": 22,
+      "img": "https://avatars.githubusercontent.com/u/2118708?s=40&v=4",
+      "owner": "Florents-Tselai",
+      "repo_name": "tsellm"
+    },
+    {
+      "name": "simonw/llm-nomic-api-embed",
+      "stars": 22,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-nomic-api-embed"
+    },
+    {
+      "name": "simonw/llm-evals-plugin",
+      "stars": 21,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-evals-plugin"
+    },
+    {
+      "name": "simonw/llm-whisper-api",
+      "stars": 20,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-whisper-api"
+    },
+    {
+      "name": "tonybaloney/llm-github-models",
+      "stars": 19,
+      "img": "https://avatars.githubusercontent.com/u/1532417?s=40&v=4",
+      "owner": "tonybaloney",
+      "repo_name": "llm-github-models"
+    },
+    {
+      "name": "simonw/llm-groq-whisper",
+      "stars": 18,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-groq-whisper"
+    },
+    {
+      "name": "elithrar/llm-cloudflare",
+      "stars": 18,
+      "img": "https://avatars.githubusercontent.com/u/18544?s=40&v=4",
+      "owner": "elithrar",
+      "repo_name": "llm-cloudflare"
+    },
+    {
+      "name": "simonw/llm-markov",
+      "stars": 18,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-markov"
+    },
+    {
+      "name": "Knowledge-Graph-Hub/kg-microbe",
+      "stars": 17,
+      "img": "https://avatars.githubusercontent.com/u/62400914?s=40&v=4",
+      "owner": "Knowledge-Graph-Hub",
+      "repo_name": "kg-microbe"
+    },
+    {
+      "name": "logicalpath/photomanage",
+      "stars": 16,
+      "img": "https://avatars.githubusercontent.com/u/1452835?s=40&v=4",
+      "owner": "logicalpath",
+      "repo_name": "photomanage"
+    },
+    {
+      "name": "simonw/llm-llamafile",
+      "stars": 16,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-llamafile"
+    },
+    {
+      "name": "linkml/linkml-store",
+      "stars": 16,
+      "img": "https://avatars.githubusercontent.com/u/79337873?s=40&v=4",
+      "owner": "linkml",
+      "repo_name": "linkml-store"
+    },
+    {
+      "name": "wearedevx/llm-together",
+      "stars": 16,
+      "img": "https://avatars.githubusercontent.com/u/52704864?s=40&v=4",
+      "owner": "wearedevx",
+      "repo_name": "llm-together"
+    },
+    {
+      "name": "phil65/LLMling",
+      "stars": 14,
+      "img": "https://avatars.githubusercontent.com/u/110931?s=40&v=4",
+      "owner": "phil65",
+      "repo_name": "LLMling"
+    },
+    {
+      "name": "vagos/llm-clap",
+      "stars": 14,
+      "img": "https://avatars.githubusercontent.com/u/4410494?s=40&v=4",
+      "owner": "vagos",
+      "repo_name": "llm-clap"
+    },
+    {
+      "name": "simonw/llm-palm",
+      "stars": 14,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-palm"
+    },
+    {
+      "name": "bradAGI/LLM-Shortcut",
+      "stars": 13,
+      "img": "https://avatars.githubusercontent.com/u/46579244?s=40&v=4",
+      "owner": "bradAGI",
+      "repo_name": "LLM-Shortcut"
+    },
+    {
+      "name": "simonw/datasette-llm",
+      "stars": 13,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "datasette-llm"
+    },
+    {
+      "name": "kmad/llm-structure",
+      "stars": 12,
+      "img": "https://avatars.githubusercontent.com/u/3433032?s=40&v=4",
+      "owner": "kmad",
+      "repo_name": "llm-structure"
+    },
+    {
+      "name": "fabge/llm-azure",
+      "stars": 12,
+      "img": "https://avatars.githubusercontent.com/u/21140791?s=40&v=4",
+      "owner": "fabge",
+      "repo_name": "llm-azure"
+    },
+    {
+      "name": "simonw/llm-reka",
+      "stars": 12,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-reka"
+    },
+    {
+      "name": "simonw/datasette-llm-embed",
+      "stars": 12,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "datasette-llm-embed"
+    },
+    {
+      "name": "simonw/llm-jina-api",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-jina-api"
+    },
+    {
+      "name": "simonw/llm-fireworks",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-fireworks"
+    },
+    {
+      "name": "datasette/datasette-enrichments-llm",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/139249755?s=40&v=4",
+      "owner": "datasette",
+      "repo_name": "datasette-enrichments-llm"
+    },
+    {
+      "name": "CGamesPlay/llm-cmd-comp",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/1216626?s=40&v=4",
+      "owner": "CGamesPlay",
+      "repo_name": "llm-cmd-comp"
+    },
+    {
+      "name": "dat-lequoc/aaider",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/71183203?s=40&v=4",
+      "owner": "dat-lequoc",
+      "repo_name": "aaider"
+    },
+    {
+      "name": "nathanielknight/llm-questioncache",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/1239091?s=40&v=4",
+      "owner": "nathanielknight",
+      "repo_name": "llm-questioncache"
+    },
+    {
+      "name": "ar-jan/llm-venice",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/1176293?s=40&v=4",
+      "owner": "ar-jan",
+      "repo_name": "llm-venice"
+    },
+    {
+      "name": "ghostofpokemon/llm-xai",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/74148990?s=40&v=4",
+      "owner": "ghostofpokemon",
+      "repo_name": "llm-xai"
+    },
+    {
+      "name": "irthomasthomas/llm-plugin-generator",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/20578100?s=40&v=4",
+      "owner": "irthomasthomas",
+      "repo_name": "llm-plugin-generator"
+    },
+    {
+      "name": "samsledje/philharmonic",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/23251453?s=40&v=4",
+      "owner": "samsledje",
+      "repo_name": "philharmonic"
+    },
+    {
+      "name": "py-typedlogic/py-typedlogic",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/182177314?s=40&v=4",
+      "owner": "py-typedlogic",
+      "repo_name": "py-typedlogic"
+    },
+    {
+      "name": "sukhbinder/llm-embed-ollama",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/4360747?s=40&v=4",
+      "owner": "sukhbinder",
+      "repo_name": "llm-embed-ollama"
+    },
+    {
+      "name": "irthomasthomas/llm-model-gateway",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/20578100?s=40&v=4",
+      "owner": "irthomasthomas",
+      "repo_name": "llm-model-gateway"
+    },
+    {
+      "name": "irthomasthomas/llm-jina",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/20578100?s=40&v=4",
+      "owner": "irthomasthomas",
+      "repo_name": "llm-jina"
+    },
+    {
+      "name": "monarch-initiative/babelon",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/5161984?s=40&v=4",
+      "owner": "monarch-initiative",
+      "repo_name": "babelon"
+    },
+    {
+      "name": "daJster/Knowledge-Graph-Generator",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/95942865?s=40&v=4",
+      "owner": "daJster",
+      "repo_name": "Knowledge-Graph-Generator"
+    },
+    {
+      "name": "dbuytaert/image-caption",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/1197670?s=40&v=4",
+      "owner": "dbuytaert",
+      "repo_name": "image-caption"
+    },
+    {
+      "name": "nuwandavek/llm-council",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/1649262?s=40&v=4",
+      "owner": "nuwandavek",
+      "repo_name": "llm-council"
+    },
+    {
+      "name": "datasette/datasette-llm-usage",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/139249755?s=40&v=4",
+      "owner": "datasette",
+      "repo_name": "datasette-llm-usage"
+    },
+    {
+      "name": "mlaugharn/cli-mcp",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/306442?s=40&v=4",
+      "owner": "mlaugharn",
+      "repo_name": "cli-mcp"
+    },
+    {
+      "name": "Hiepler/llm-grok",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/10552622?s=40&v=4",
+      "owner": "Hiepler",
+      "repo_name": "llm-grok"
+    },
+    {
+      "name": "simonw/llm-lambda-labs",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-lambda-labs"
+    },
+    {
+      "name": "tomdyson/wagtail-model-maker",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/15543?s=40&v=4",
+      "owner": "tomdyson",
+      "repo_name": "wagtail-model-maker"
+    },
+    {
+      "name": "datamade/chicago-council-scrapers",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/3723931?s=40&v=4",
+      "owner": "datamade",
+      "repo_name": "chicago-council-scrapers"
+    },
+    {
+      "name": "irthomasthomas/llm-classify",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/20578100?s=40&v=4",
+      "owner": "irthomasthomas",
+      "repo_name": "llm-classify"
+    },
+    {
+      "name": "chemkg/c3p",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/97137618?s=40&v=4",
+      "owner": "chemkg",
+      "repo_name": "c3p"
+    },
+    {
+      "name": "kitft/funsearch",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/58341426?s=40&v=4",
+      "owner": "kitft",
+      "repo_name": "funsearch"
+    },
+    {
+      "name": "Florents-Tselai/pgllm",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/2118708?s=40&v=4",
+      "owner": "Florents-Tselai",
+      "repo_name": "pgllm"
+    },
+    {
+      "name": "oshapio/intermediate-layer-generalization",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/13506934?s=40&v=4",
+      "owner": "oshapio",
+      "repo_name": "intermediate-layer-generalization"
+    },
+    {
+      "name": "wunderwuzzi23/wuzzi-chat",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/35349594?s=40&v=4",
+      "owner": "wunderwuzzi23",
+      "repo_name": "wuzzi-chat"
+    },
+    {
+      "name": "IBM/llm-watsonx",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/1459110?s=40&v=4",
+      "owner": "IBM",
+      "repo_name": "llm-watsonx"
+    },
+    {
+      "name": "flabat/llm-bedrock-meta",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/105673?s=40&v=4",
+      "owner": "flabat",
+      "repo_name": "llm-bedrock-meta"
+    },
+    {
+      "name": "Accudio/llm-cohere",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/6884757?s=40&v=4",
+      "owner": "Accudio",
+      "repo_name": "llm-cohere"
+    },
+    {
+      "name": "strangeloopcanon/llm-poker",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/20874969?s=40&v=4",
+      "owner": "strangeloopcanon",
+      "repo_name": "llm-poker"
+    },
+    {
+      "name": "norrisaftcc/ce_usingllms101_24su",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/15367101?s=40&v=4",
+      "owner": "norrisaftcc",
+      "repo_name": "ce_usingllms101_24su"
+    },
+    {
+      "name": "dwillis/all-foreign-gifts-around-us",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/2214?s=40&v=4",
+      "owner": "dwillis",
+      "repo_name": "all-foreign-gifts-around-us"
+    },
+    {
+      "name": "monarch-initiative/pheval.llm",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/5161984?s=40&v=4",
+      "owner": "monarch-initiative",
+      "repo_name": "pheval.llm"
+    },
+    {
+      "name": "NCBI-Codeathons/mlxai-2024-team-landrum-song",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/55161150?s=40&v=4",
+      "owner": "NCBI-Codeathons",
+      "repo_name": "mlxai-2024-team-landrum-song"
+    },
+    {
+      "name": "Deadsg/DQNAgent",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/144394753?s=40&v=4",
+      "owner": "Deadsg",
+      "repo_name": "DQNAgent"
+    },
+    {
+      "name": "rupurt/llm-http-api",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/680789?s=40&v=4",
+      "owner": "rupurt",
+      "repo_name": "llm-http-api"
+    },
+    {
+      "name": "ksparavec/pyrlab",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/23062310?s=40&v=4",
+      "owner": "ksparavec",
+      "repo_name": "pyrlab"
+    },
+    {
+      "name": "elithrar/shootout.py",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/18544?s=40&v=4",
+      "owner": "elithrar",
+      "repo_name": "shootout.py"
+    },
+    {
+      "name": "yshalsager/telegram-utils-bot",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/17043808?s=40&v=4",
+      "owner": "yshalsager",
+      "repo_name": "telegram-utils-bot"
+    },
+    {
+      "name": "luebken/llm-logs-feedback",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/53055?s=40&v=4",
+      "owner": "luebken",
+      "repo_name": "llm-logs-feedback"
+    },
+    {
+      "name": "mod-construction/prefab-smart-parser",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/131269409?s=40&v=4",
+      "owner": "mod-construction",
+      "repo_name": "prefab-smart-parser"
+    },
+    {
+      "name": "simonw/llm-smolvlm",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-smolvlm"
+    },
+    {
+      "name": "petunder/tte_webui",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/7860649?s=40&v=4",
+      "owner": "petunder",
+      "repo_name": "tte_webui"
+    },
+    {
+      "name": "lucasrcezimbra/llm-jupyter",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/7042915?s=40&v=4",
+      "owner": "lucasrcezimbra",
+      "repo_name": "llm-jupyter"
+    },
+    {
+      "name": "dwillis/ire-resources",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/2214?s=40&v=4",
+      "owner": "dwillis",
+      "repo_name": "ire-resources"
+    },
+    {
+      "name": "irthomasthomas/llm-web-search",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/20578100?s=40&v=4",
+      "owner": "irthomasthomas",
+      "repo_name": "llm-web-search"
+    },
+    {
+      "name": "bossjones/prompt-library",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/709872?s=40&v=4",
+      "owner": "bossjones",
+      "repo_name": "prompt-library"
+    },
+    {
+      "name": "alphavector/all",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/11805788?s=40&v=4",
+      "owner": "alphavector",
+      "repo_name": "all"
+    },
+    {
+      "name": "larryhudson/aiderbot",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/10627494?s=40&v=4",
+      "owner": "larryhudson",
+      "repo_name": "aiderbot"
+    },
+    {
+      "name": "fractalcounty/llm-cmds",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/121070110?s=40&v=4",
+      "owner": "fractalcounty",
+      "repo_name": "llm-cmds"
+    },
+    {
+      "name": "ghostofpokemon/llm-hyperbolic",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/74148990?s=40&v=4",
+      "owner": "ghostofpokemon",
+      "repo_name": "llm-hyperbolic"
+    },
+    {
+      "name": "Lyn4ever29/pipy_server",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/25952589?s=40&v=4",
+      "owner": "Lyn4ever29",
+      "repo_name": "pipy_server"
+    },
+    {
+      "name": "sixfeetup/good-tech-fest-llm-presentation",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/1036941?s=40&v=4",
+      "owner": "sixfeetup",
+      "repo_name": "good-tech-fest-llm-presentation"
+    },
+    {
+      "name": "Florents-Tselai/babar",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/2118708?s=40&v=4",
+      "owner": "Florents-Tselai",
+      "repo_name": "babar"
+    },
+    {
+      "name": "jauderho/sandbox",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/13562?s=40&v=4",
+      "owner": "jauderho",
+      "repo_name": "sandbox"
+    },
+    {
+      "name": "aj47/WBHack47",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/8023513?s=40&v=4",
+      "owner": "aj47",
+      "repo_name": "WBHack47"
+    },
+    {
+      "name": "monarch-initiative/aurelian",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/5161984?s=40&v=4",
+      "owner": "monarch-initiative",
+      "repo_name": "aurelian"
+    },
+    {
+      "name": "irthomasthomas/llm-twitter",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/20578100?s=40&v=4",
+      "owner": "irthomasthomas",
+      "repo_name": "llm-twitter"
+    },
+    {
+      "name": "FergusFettes/llm-head",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/18656755?s=40&v=4",
+      "owner": "FergusFettes",
+      "repo_name": "llm-head"
+    },
+    {
+      "name": "tonybaloney/llm-dotnet",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/1532417?s=40&v=4",
+      "owner": "tonybaloney",
+      "repo_name": "llm-dotnet"
+    },
+    {
+      "name": "monarch-initiative/llm-matrix",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/5161984?s=40&v=4",
+      "owner": "monarch-initiative",
+      "repo_name": "llm-matrix"
+    },
+    {
+      "name": "SuthPhy2Ai/DD2D",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/82198750?s=40&v=4",
+      "owner": "SuthPhy2Ai",
+      "repo_name": "DD2D"
+    },
+    {
+      "name": "jesse-c/local-audio-toolkit",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/1405676?s=40&v=4",
+      "owner": "jesse-c",
+      "repo_name": "local-audio-toolkit"
+    },
+    {
+      "name": "matweldon/markdown_llm",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/35453679?s=40&v=4",
+      "owner": "matweldon",
+      "repo_name": "markdown_llm"
+    },
+    {
+      "name": "lucasrcezimbra/missas.com.br",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/7042915?s=40&v=4",
+      "owner": "lucasrcezimbra",
+      "repo_name": "missas.com.br"
+    },
+    {
+      "name": "ghostofpokemon/llm-deepseek",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/74148990?s=40&v=4",
+      "owner": "ghostofpokemon",
+      "repo_name": "llm-deepseek"
+    },
+    {
+      "name": "ak-maker/sionna-LLMs",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/64005655?s=40&v=4",
+      "owner": "ak-maker",
+      "repo_name": "sionna-LLMs"
+    },
+    {
+      "name": "monarch-initiative/automaxo",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/5161984?s=40&v=4",
+      "owner": "monarch-initiative",
+      "repo_name": "automaxo"
+    },
+    {
+      "name": "jkpe/home-assistant-rewrite-automations-ai",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/16779171?s=40&v=4",
+      "owner": "jkpe",
+      "repo_name": "home-assistant-rewrite-automations-ai"
+    },
+    {
+      "name": "antonjan/useful_python_programs",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/2240283?s=40&v=4",
+      "owner": "antonjan",
+      "repo_name": "useful_python_programs"
+    },
+    {
+      "name": "justyns/llm-vertex",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/215985?s=40&v=4",
+      "owner": "justyns",
+      "repo_name": "llm-vertex"
+    },
+    {
+      "name": "Grusinator/development-workforce",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/11134858?s=40&v=4",
+      "owner": "Grusinator",
+      "repo_name": "development-workforce"
+    },
+    {
+      "name": "YRG999/chatbot",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/16637430?s=40&v=4",
+      "owner": "YRG999",
+      "repo_name": "chatbot"
+    },
+    {
+      "name": "acebot712/autorank-llm",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/19170489?s=40&v=4",
+      "owner": "acebot712",
+      "repo_name": "autorank-llm"
+    },
+    {
+      "name": "aldoborrero/llm-prompt",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/82811?s=40&v=4",
+      "owner": "aldoborrero",
+      "repo_name": "llm-prompt"
+    },
+    {
+      "name": "colinmccabe/dockerfiles",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/5923214?s=40&v=4",
+      "owner": "colinmccabe",
+      "repo_name": "dockerfiles"
+    },
+    {
+      "name": "opencontext/archaeology-images-ai",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/12172278?s=40&v=4",
+      "owner": "opencontext",
+      "repo_name": "archaeology-images-ai"
+    },
+    {
+      "name": "yashsavani/bashtalk",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/6228832?s=40&v=4",
+      "owner": "yashsavani",
+      "repo_name": "bashtalk"
+    },
+    {
+      "name": "seb-m-satellytes/spotify-playlistr",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/122791163?s=40&v=4",
+      "owner": "seb-m-satellytes",
+      "repo_name": "spotify-playlistr"
+    },
+    {
+      "name": "simonw/llm-hello-world",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/9599?s=40&v=4",
+      "owner": "simonw",
+      "repo_name": "llm-hello-world"
+    },
+    {
+      "name": "errorcorrectionzoo/eczoo_generator",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/93397130?s=40&v=4",
+      "owner": "errorcorrectionzoo",
+      "repo_name": "eczoo_generator"
+    },
+    {
+      "name": "HagaiRaja/AudioAI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/37261965?s=40&v=4",
+      "owner": "HagaiRaja",
+      "repo_name": "AudioAI"
+    },
+    {
+      "name": "Raja2703/AI-Interviewer",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/110714184?s=40&v=4",
+      "owner": "Raja2703",
+      "repo_name": "AI-Interviewer"
+    },
+    {
+      "name": "HasnainAhmedO7/image_similarity",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/102479739?s=40&v=4",
+      "owner": "HasnainAhmedO7",
+      "repo_name": "image_similarity"
+    },
+    {
+      "name": "irthomasthomas/llm-compare",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/20578100?s=40&v=4",
+      "owner": "irthomasthomas",
+      "repo_name": "llm-compare"
+    },
+    {
+      "name": "ajac-zero/llm-edit",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/115488250?s=40&v=4",
+      "owner": "ajac-zero",
+      "repo_name": "llm-edit"
+    },
+    {
+      "name": "Unity-Construction-and-architecture/always-on-ai-assistant",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/179314479?s=40&v=4",
+      "owner": "Unity-Construction-and-architecture",
+      "repo_name": "always-on-ai-assistant"
+    },
+    {
+      "name": "Bai-A/Funsearch_Research",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/70304330?s=40&v=4",
+      "owner": "Bai-A",
+      "repo_name": "Funsearch_Research"
+    },
+    {
+      "name": "Fortyseven/AImee",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/156409?s=40&v=4",
+      "owner": "Fortyseven",
+      "repo_name": "AImee"
+    },
+    {
+      "name": "kempcao/2024-Hackathon---PDFtoDLM",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/29739755?s=40&v=4",
+      "owner": "kempcao",
+      "repo_name": "2024-Hackathon---PDFtoDLM"
+    },
+    {
+      "name": "ghostofpokemon/llm-inference",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/74148990?s=40&v=4",
+      "owner": "ghostofpokemon",
+      "repo_name": "llm-inference"
+    },
+    {
+      "name": "IMTMarburg/flakes",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/13032074?s=40&v=4",
+      "owner": "IMTMarburg",
+      "repo_name": "flakes"
+    },
+    {
+      "name": "workroomprds/ATD2024trial",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/3080163?s=40&v=4",
+      "owner": "workroomprds",
+      "repo_name": "ATD2024trial"
+    },
+    {
+      "name": "workroomprds/replit_BelayUsurySurroundsClapping",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/3080163?s=40&v=4",
+      "owner": "workroomprds",
+      "repo_name": "replit_BelayUsurySurroundsClapping"
+    },
+    {
+      "name": "datawaybr/EDAI-0001",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/131407160?s=40&v=4",
+      "owner": "datawaybr",
+      "repo_name": "EDAI-0001"
+    },
+    {
+      "name": "jgwill/orpheuspypractice",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/23141173?s=40&v=4",
+      "owner": "jgwill",
+      "repo_name": "orpheuspypractice"
+    },
+    {
+      "name": "AkshayDaundkar/HackUTA2024",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/43786054?s=40&v=4",
+      "owner": "AkshayDaundkar",
+      "repo_name": "HackUTA2024"
+    },
+    {
+      "name": "makov3c/legal-AI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/120831504?s=40&v=4",
+      "owner": "makov3c",
+      "repo_name": "legal-AI"
+    },
+    {
+      "name": "BenGale93/cli-llm",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/55455454?s=40&v=4",
+      "owner": "BenGale93",
+      "repo_name": "cli-llm"
+    },
+    {
+      "name": "pokt-network/shannon-tx-builder",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/33689860?s=40&v=4",
+      "owner": "pokt-network",
+      "repo_name": "shannon-tx-builder"
+    },
+    {
+      "name": "CodisteTechTeam/SalesAI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/180278860?s=40&v=4",
+      "owner": "CodisteTechTeam",
+      "repo_name": "SalesAI"
+    },
+    {
+      "name": "ryanklee/LLM-Workflow-Director",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/418460?s=40&v=4",
+      "owner": "ryanklee",
+      "repo_name": "LLM-Workflow-Director"
+    },
+    {
+      "name": "rtango5301/Spam-Identifier-API",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/91723939?s=40&v=4",
+      "owner": "rtango5301",
+      "repo_name": "Spam-Identifier-API"
+    },
+    {
+      "name": "xeb/hpchat",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/7634?s=40&v=4",
+      "owner": "xeb",
+      "repo_name": "hpchat"
+    },
+    {
+      "name": "ghostofpokemon/llm-lambda",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/74148990?s=40&v=4",
+      "owner": "ghostofpokemon",
+      "repo_name": "llm-lambda"
+    },
+    {
+      "name": "NicolasCort/asistente-personal",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/110467001?s=40&v=4",
+      "owner": "NicolasCort",
+      "repo_name": "asistente-personal"
+    },
+    {
+      "name": "yaniv-aknin/llm-rename",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/101657?s=40&v=4",
+      "owner": "yaniv-aknin",
+      "repo_name": "llm-rename"
+    },
+    {
+      "name": "dcnguyen060899/UC-Berkeley-ML-AI-Professional-Certificate-Capstone",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/146409192?s=40&v=4",
+      "owner": "dcnguyen060899",
+      "repo_name": "UC-Berkeley-ML-AI-Professional-Certificate-Capstone"
+    },
+    {
+      "name": "ghostofpokemon/llm-topology",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/74148990?s=40&v=4",
+      "owner": "ghostofpokemon",
+      "repo_name": "llm-topology"
+    },
+    {
+      "name": "Knowledge-Graph-Hub/microbe-traits-ingest",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/62400914?s=40&v=4",
+      "owner": "Knowledge-Graph-Hub",
+      "repo_name": "microbe-traits-ingest"
+    },
+    {
+      "name": "tbuckley/llm-lm-studio",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/416927?s=40&v=4",
+      "owner": "tbuckley",
+      "repo_name": "llm-lm-studio"
+    },
+    {
+      "name": "kkeeling/yt-to-reflect-agent",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/366274?s=40&v=4",
+      "owner": "kkeeling",
+      "repo_name": "yt-to-reflect-agent"
+    },
+    {
+      "name": "orangewise/llm-azure-api-embed",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/244419?s=40&v=4",
+      "owner": "orangewise",
+      "repo_name": "llm-azure-api-embed"
+    },
+    {
+      "name": "dhiraj-instalily/chain",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/141154615?s=40&v=4",
+      "owner": "dhiraj-instalily",
+      "repo_name": "chain"
+    },
+    {
+      "name": "caufieldjh/linkml-generate",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/7987729?s=40&v=4",
+      "owner": "caufieldjh",
+      "repo_name": "linkml-generate"
+    },
+    {
+      "name": "ar-jan/llm-vertex",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1176293?s=40&v=4",
+      "owner": "ar-jan",
+      "repo_name": "llm-vertex"
+    },
+    {
+      "name": "Remmie0/OpenFunsearch",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/71265894?s=40&v=4",
+      "owner": "Remmie0",
+      "repo_name": "OpenFunsearch"
+    },
+    {
+      "name": "nehiljain/find-your-mate-ai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/2761999?s=40&v=4",
+      "owner": "nehiljain",
+      "repo_name": "find-your-mate-ai"
+    },
+    {
+      "name": "prateekjain24/Public",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/19404752?s=40&v=4",
+      "owner": "prateekjain24",
+      "repo_name": "Public"
+    },
+    {
+      "name": "nkkko/llm-whisper",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/6250945?s=40&v=4",
+      "owner": "nkkko",
+      "repo_name": "llm-whisper"
+    },
+    {
+      "name": "tlpinney/llm-bedrock-mistral",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/152429?s=40&v=4",
+      "owner": "tlpinney",
+      "repo_name": "llm-bedrock-mistral"
+    },
+    {
+      "name": "noahlias/llm-zhipu",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/3949397?s=40&v=4",
+      "owner": "noahlias",
+      "repo_name": "llm-zhipu"
+    },
+    {
+      "name": "monarch-initiative/pheval.ontogpt",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/5161984?s=40&v=4",
+      "owner": "monarch-initiative",
+      "repo_name": "pheval.ontogpt"
+    },
+    {
+      "name": "cmungall/rhea-go-llm-analysis",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/50745?s=40&v=4",
+      "owner": "cmungall",
+      "repo_name": "rhea-go-llm-analysis"
+    },
+    {
+      "name": "datamade/bill_summarize",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/3723931?s=40&v=4",
+      "owner": "datamade",
+      "repo_name": "bill_summarize"
+    },
+    {
+      "name": "flabat/llm-bedrock-ai21",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/105673?s=40&v=4",
+      "owner": "flabat",
+      "repo_name": "llm-bedrock-ai21"
+    },
+    {
+      "name": "Knowledge-Graph-Hub/kg-bacdive",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/62400914?s=40&v=4",
+      "owner": "Knowledge-Graph-Hub",
+      "repo_name": "kg-bacdive"
+    },
+    {
+      "name": "dtmirizzi/clrfy",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/12215103?s=40&v=4",
+      "owner": "dtmirizzi",
+      "repo_name": "clrfy"
+    },
+    {
+      "name": "VelimirMueller/aurorae_ws_chatbot_api",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/56129997?s=40&v=4",
+      "owner": "VelimirMueller",
+      "repo_name": "aurorae_ws_chatbot_api"
+    },
+    {
+      "name": "innovationOUtside/ouseful-ai-magics",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/29434334?s=40&v=4",
+      "owner": "innovationOUtside",
+      "repo_name": "ouseful-ai-magics"
+    }
+  ],
+  "total_dependents_number": 214,
+  "public_dependents_number": 214,
+  "private_dependents_number": -218,
+  "public_dependents_stars": 9258,
+  "badges": {
+    "total_doc_url": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=218&color=informational&logo=slickpic)](https://github.com/nvuillam/github-dependents-info)",
+    "total": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=214&color=informational&logo=slickpic)](https://github.com/simonw/llm/network/dependents)",
+    "public": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=214&color=informational&logo=slickpic)](https://github.com/simonw/llm/network/dependents)",
+    "private": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-218&color=informational&logo=slickpic)](https://github.com/simonw/llm/network/dependents)",
+    "stars": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=9258&color=informational&logo=slickpic)](https://github.com/simonw/llm/network/dependents)"
+  }
+}

@@ -1,0 +1,1362 @@
+[
+  {
+    "full_name": "rdkworld/portfolio",
+    "name": "portfolio",
+    "description": "Portfolio of side-projects by Raghavendra Kulkarni"
+  },
+  {
+    "full_name": "rajib76/gcpllm",
+    "name": "gcpllm",
+    "description": "google llm examples"
+  },
+  {
+    "full_name": "andrekramer/py-multi-llm",
+    "name": "py-multi-llm",
+    "description": "Triskelion Python3 Project: Query multiple AI models (LLMs) and compare results to help suppress  model errors."
+  },
+  {
+    "full_name": "abhinandansgit/GENai-chat",
+    "name": "GENai-chat",
+    "description": "created an ai chatbot based on generetive text response working through gemini API key."
+  },
+  {
+    "full_name": "Keshav-T-M/Astra-AI",
+    "name": "Astra-AI",
+    "description": "It's an Ai Project build using Python and Gemini Ai"
+  },
+  {
+    "full_name": "eniompw/GeminiAPI",
+    "name": "GeminiAPI",
+    "description": "Simple ChatGPT Clone"
+  },
+  {
+    "full_name": "faiza293/gemini-argocd",
+    "name": "gemini-argocd",
+    "description": null
+  },
+  {
+    "full_name": "ALMerrill/wiki-rag",
+    "name": "wiki-rag",
+    "description": "RAG model pipeline set up to work with wikipedia articles"
+  },
+  {
+    "full_name": "abhineetraj1/flask-autogenius",
+    "name": "flask-autogenius",
+    "description": "  AutoGenius  Problem Statement : 3.2.1.7 Generative AI solutions for developing proposals based on customer requirements – AI tools for generating customized proposals tailored to customer demands."
+  },
+  {
+    "full_name": "googleapis/python-genai",
+    "name": "python-genai",
+    "description": "Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications. This is an early release. API is subject to change. Please do not use this SDK in production environments at this stage"
+  },
+  {
+    "full_name": "qiuchen001/gemini-vision-perception",
+    "name": "gemini-vision-perception",
+    "description": "基于google geminiAPI视频理解的能力，实现标签挖掘、视频RAG"
+  },
+  {
+    "full_name": "dungca1512/llm_retrieval_rag",
+    "name": "llm_retrieval_rag",
+    "description": null
+  },
+  {
+    "full_name": "ChijieAn/Chatbot-Based-on-Google-Gemini",
+    "name": "Chatbot-Based-on-Google-Gemini",
+    "description": "This repository is a prototype of a chatbot which can help professors to generate letters regarding a student's performance. The backbone chatbot is based on the google Gemini API, and it also utilized the text to speech and speech to text API from Google cloud platform to realize a live dialogue with user.  "
+  },
+  {
+    "full_name": "RAHULMYDUR/DocuChat-RAG-Based-ChatBOT",
+    "name": "DocuChat-RAG-Based-ChatBOT",
+    "description": "This Streamlit application allows users to upload PDF files, extract text, and interact with a Retrieval Augmented Generation (RAG)-based chatbot. "
+  },
+  {
+    "full_name": "Archillesjakins/Ecommerce-Recommendation-LLM-System",
+    "name": "Ecommerce-Recommendation-LLM-System",
+    "description": "An AI driven app combining Tinder-like interface with personalized recommendations  with Gemini embeddings"
+  },
+  {
+    "full_name": "carlini/yet-another-applied-llm-benchmark",
+    "name": "yet-another-applied-llm-benchmark",
+    "description": "A benchmark to evaluate language models on questions I've previously asked them to solve."
+  },
+  {
+    "full_name": "KroMiose/fis-tool",
+    "name": "fis-tool",
+    "description": "FIS (File Interaction Script) 工具，用于生成、读取和应用项目文件结构描述，方便与 LLM 进行交互，实现高效的项目迭代"
+  },
+  {
+    "full_name": "v019-exe/shellgemini",
+    "name": "shellgemini",
+    "description": "Shellgemini, tu asistente en la terminal de linux!"
+  },
+  {
+    "full_name": "keeqin/esp32_micropython_gemini",
+    "name": "esp32_micropython_gemini",
+    "description": null
+  },
+  {
+    "full_name": "araobp/node-red-genai",
+    "name": "node-red-genai",
+    "description": "Node-RED as an LLM-chain framework with IoT"
+  },
+  {
+    "full_name": "GitData-GA/GenAI",
+    "name": "GenAI",
+    "description": "GenAI harnesses the power of advanced models like GPT-4 and Gemini Pro to serve as versatile coding and writing assistants for users in both R and, soon, Python. This toolbox empowers users with a range of capabilities, including text generation, code optimization, natural language processing, chat assistance, and image interpretation."
+  },
+  {
+    "full_name": "Audecitysid/CV-Project",
+    "name": "CV-Project",
+    "description": "This Streamlit app designed to upload an image, generate captions, detect objects, and ask questions about the image. It combines ml models with Gemini’s AI to provide intelligent responses to user queries. "
+  },
+  {
+    "full_name": "withmartian/llm-adapters",
+    "name": "llm-adapters",
+    "description": "Package for calling different models with same interface"
+  },
+  {
+    "full_name": "Laksh-Mendpara/ADVANCED-RAG",
+    "name": "ADVANCED-RAG",
+    "description": null
+  },
+  {
+    "full_name": "CXwudi/litellm-config-generator",
+    "name": "litellm-config-generator",
+    "description": "Fill up the `model_list` field in your LiteLLM proxy configuration file"
+  },
+  {
+    "full_name": "duolabmeng6/pro-api",
+    "name": "pro-api",
+    "description": "Unified management of projects with large model APIs, unified conversion to OpenAI format, calling multiple backend services, OpenAI, Anthropic, Gemini, Vertex, Cloudflare, DeepBricks, OpenRouter, etc."
+  },
+  {
+    "full_name": "KaitoEight/Translating-with-gemini-api",
+    "name": "Translating-with-gemini-api",
+    "description": null
+  },
+  {
+    "full_name": "PawanYadav007s/AutoExamSolver",
+    "name": "AutoExamSolver",
+    "description": "**Automated Exam Paper Answering Using Python and Google Gemini**    A Python automation project that processes mixed-type exam papers using Google Gemini. It generates answers and exports them to Word documents, following a structured file naming convention."
+  },
+  {
+    "full_name": "pshubham96k/ExamAnswerBot",
+    "name": "ExamAnswerBot",
+    "description": "A Python automation project that processes 800 mixed-type exam papers using Google Gemini. It generates answers and exports them to Word documents, following a structured file naming convention."
+  },
+  {
+    "full_name": "TeamDman/gemini-engine",
+    "name": "gemini-engine",
+    "description": "A suite of utilities for interacting with the Gemini 1.5 Pro API"
+  },
+  {
+    "full_name": "runvnc/mr_gemini",
+    "name": "mr_gemini",
+    "description": null
+  },
+  {
+    "full_name": "trancethehuman/ai-workshop-code",
+    "name": "ai-workshop-code",
+    "description": "Code I wrote for my AI & LLM workshops"
+  },
+  {
+    "full_name": "merlinbaptista/Handwriting-Recognition-with-Gemini-API",
+    "name": "Handwriting-Recognition-with-Gemini-API",
+    "description": "This Python script integrates image capture, text extraction from documents, grammar correction, translation, speech recognition, and chatbot interaction using the Gemini API. It allows users to process images, correct and translate text, and interact with a chatbot to answer questions about the documents."
+  },
+  {
+    "full_name": "SomeoneKong/llm_tool_test_202411",
+    "name": "llm_tool_test_202411",
+    "description": null
+  },
+  {
+    "full_name": "jaredpek/Study-Buddy",
+    "name": "Study-Buddy",
+    "description": "A platform to optimize productivity built in Vite.js and Django, leveraging Google Maps API and Gemini LLM"
+  },
+  {
+    "full_name": "RMNCLDYO/gemini-ai-toolkit",
+    "name": "gemini-ai-toolkit",
+    "description": "Unlock the potential of Google's Gemini AI models with this versatile toolkit. Offering seamless chat, text generation, and multimodal interactions, supporting various file types, including PDF's, images, videos, audio, text and more. Enjoy real-time responses, customizable parameters, and easy integration for diverse AI tasks."
+  },
+  {
+    "full_name": "Rohan-Vij/llm-product-name",
+    "name": "llm-product-name",
+    "description": null
+  },
+  {
+    "full_name": "nishant-bhandigare/LLM-based-Customer-Virtual-Assistant",
+    "name": "LLM-based-Customer-Virtual-Assistant",
+    "description": null
+  },
+  {
+    "full_name": "Puzan789/LLM-Projects",
+    "name": "LLM-Projects",
+    "description": null
+  },
+  {
+    "full_name": "baochi0212/gemini-host",
+    "name": "gemini-host",
+    "description": "free gemini host for yall"
+  },
+  {
+    "full_name": "Ajay-Bazuu/gemini_python_esp8266",
+    "name": "gemini_python_esp8266",
+    "description": null
+  },
+  {
+    "full_name": "marco0antonio0/py-api-gemini",
+    "name": "py-api-gemini",
+    "description": "Este projeto fornece uma implementação básica de uma classe Python para interagir com a API do Google Gemini. A classe `ia_google` é projetada para realizar consultas na API de maneira organizada e eficiente."
+  },
+  {
+    "full_name": "g-divya/RAGMedicalReportAnalyzer",
+    "name": "RAGMedicalReportAnalyzer",
+    "description": "The Retrieval Augmenter Generator (RAG) Enhanced Medical Report Analyzer project aims to develop an advanced system for automatically analyzing medical reports in PDF format and providing summarized insights while enabling users to ask questions based on the extracted information. "
+  },
+  {
+    "full_name": "DattatrayBodake25/LLM-Integration",
+    "name": "LLM-Integration",
+    "description": null
+  },
+  {
+    "full_name": "whanyu1212/agent-from-scratch",
+    "name": "agent-from-scratch",
+    "description": "Implementing LLM Agents from scratch without intermediate libraries"
+  },
+  {
+    "full_name": "DTabernam/youtube-summarizer",
+    "name": "youtube-summarizer",
+    "description": "YouTube Summarizer is an automated tool that fetches transcripts from YouTube videos and generates concise summaries using natural language model"
+  },
+  {
+    "full_name": "yosh95/chat",
+    "name": "chat",
+    "description": "LLM Chat Tool"
+  },
+  {
+    "full_name": "TrustedFloppa/Telegram-Bot-Gemini-AI",
+    "name": "Telegram-Bot-Gemini-AI",
+    "description": null
+  },
+  {
+    "full_name": "ashuthe1/Flask-Ecommerce-Ticket-Classifier",
+    "name": "Flask-Ecommerce-Ticket-Classifier",
+    "description": "This Flask application provides an endpoint to classify e-commerce reviews into predefined categories using LLama3 and Gemini API."
+  },
+  {
+    "full_name": "eususu/lite-llm-client",
+    "name": "lite-llm-client",
+    "description": "LLM client library. it communicate with LLM by only REST API"
+  },
+  {
+    "full_name": "datacommonsorg/llm-tools",
+    "name": "llm-tools",
+    "description": null
+  },
+  {
+    "full_name": "mthnguyener/mini-m",
+    "name": "mini-m",
+    "description": "Local LLM agent that takes instructions before triggering actions to compile files (txt, scripts – py, cpp). "
+  },
+  {
+    "full_name": "HawkClaws/proxy_gemini",
+    "name": "proxy_gemini",
+    "description": "LLamaIndex's custom LLM, a Proxy-enabled version of Gemini!"
+  },
+  {
+    "full_name": "BalajiMittapalli/LLM-based-Rag",
+    "name": "LLM-based-Rag",
+    "description": null
+  },
+  {
+    "full_name": "akhilpenugonda/LLM_Journey",
+    "name": "LLM_Journey",
+    "description": "My LLM_Journey"
+  },
+  {
+    "full_name": "bozicschucky/pdf_rag",
+    "name": "pdf_rag",
+    "description": "Simple RAG app for query any pdf, for this case i am using a resume but any kind of pdf can be used"
+  },
+  {
+    "full_name": "deep-diver/llamaduo",
+    "name": "llamaduo",
+    "description": "This project showcases an LLMOps pipeline that fine-tunes a small-size LLM model to prepare for the outage of the service LLM. "
+  },
+  {
+    "full_name": "SigmaNight/basiliskLLM",
+    "name": "basiliskLLM",
+    "description": "🐍 Where LLMs Unite"
+  },
+  {
+    "full_name": "shreysharma/llm-rabbitmq-streaming",
+    "name": "llm-rabbitmq-streaming",
+    "description": "Using Rabbit MQ for communication with LLM with streaming response for the user"
+  },
+  {
+    "full_name": "Poojan38380/SwayamGPT",
+    "name": "SwayamGPT",
+    "description": "Get solution to every assignment of Swayam Courses on National Programme on Technology Enhanced Learning(NPTEL) through premium LLMs like GPT-4 and GPT-4-TURBO . There is also an added functionality to use premium GPTs for free."
+  },
+  {
+    "full_name": "GoodAI/goodai-ltm-benchmark",
+    "name": "goodai-ltm-benchmark",
+    "description": "A library for benchmarking the Long Term Memory and Continual learning capabilities of  LLM based agents. With all the tests and code you need to evaluate your own agents. See more in the blogpost:"
+  },
+  {
+    "full_name": "pranavmittal07/Mind-Mitra",
+    "name": "Mind-Mitra",
+    "description": "Developed Mental Health Chatbot using Flask and Gemini API for emotional support. Full-stack Web App with responsive UI, API integration, and real-time interaction."
+  },
+  {
+    "full_name": "Piyush5madhukar/LLM-based-Feedback-mechanism-to-situational-solutions",
+    "name": "LLM-based-Feedback-mechanism-to-situational-solutions",
+    "description": null
+  },
+  {
+    "full_name": "Nikun0209/Application-GeoSpeak-Techwiz-5-GenAI-2024",
+    "name": "Application-GeoSpeak-Techwiz-5-GenAI-2024",
+    "description": "Using OpenAI's Large Language Models (LLMs) and Generative  AI (Gen AI), the application can dynamically interpret and translate text  considering context, idioms, and subtle nuances."
+  },
+  {
+    "full_name": "cpujades/Podsum",
+    "name": "Podsum",
+    "description": "Podsum is a SaaS platform that transcribes, summarizes, and answers questions about podcasts, helping users extract insights quickly and efficiently. Powered by state-of-the-art AI models and vector search technology, Podsum transforms long audio content into actionable information."
+  },
+  {
+    "full_name": "BerriAI/litellm",
+    "name": "litellm",
+    "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]"
+  },
+  {
+    "full_name": "uripeled2/llm-client-sdk",
+    "name": "llm-client-sdk",
+    "description": "SDK for using LLM"
+  },
+  {
+    "full_name": "bixorko/weather-app",
+    "name": "weather-app",
+    "description": "Weather Application with utilizing the LLM for reporting the obtained forecast."
+  },
+  {
+    "full_name": "ijaric/llm-service",
+    "name": "llm-service",
+    "description": "Universal LLM service with support for OpenAI, Anthropic, and Gemini"
+  },
+  {
+    "full_name": "pymike00/tinychat",
+    "name": "tinychat",
+    "description": "🔮 TinyChat is a lightweight Desktop client for modern Language Models designed for straightforward comprehension. Supports OpenAI, Anthropic, Meta, Mistral, Google and Cohere APIs."
+  },
+  {
+    "full_name": "NeuronQ/summony",
+    "name": "summony",
+    "description": "🍋😛 Collection of tools and UIs for chatting and experimenting with multiple LLMs (via their APIs) at the same time."
+  },
+  {
+    "full_name": "Lakshay-13/RAGs",
+    "name": "RAGs",
+    "description": null
+  },
+  {
+    "full_name": "xfluidsss/Gemini_george_bot",
+    "name": "Gemini_george_bot",
+    "description": null
+  },
+  {
+    "full_name": "Vijaygurung1/Negotiation_Chatbot_Gemini_AI",
+    "name": "Negotiation_Chatbot_Gemini_AI",
+    "description": null
+  },
+  {
+    "full_name": "if-ai/ComfyUI-IF_AI_tools",
+    "name": "ComfyUI-IF_AI_tools",
+    "description": "ComfyUI-IF_AI_tools is a set of custom nodes for ComfyUI that allows you to generate prompts using a local Large Language Model (LLM) via Ollama. This tool enables you to enhance your image generation workflow by leveraging the power of language models."
+  },
+  {
+    "full_name": "Evolvify-Project/AI-Chatbot",
+    "name": "AI-Chatbot",
+    "description": "AI Chatbot using Google Gemini made using Streamlit"
+  },
+  {
+    "full_name": "if-ai/ComfyUI-IF_LLM",
+    "name": "ComfyUI-IF_LLM",
+    "description": null
+  },
+  {
+    "full_name": "akesh-0909/RAG-application",
+    "name": "RAG-application",
+    "description": null
+  },
+  {
+    "full_name": "gewanbo/gemini-copilot",
+    "name": "gemini-copilot",
+    "description": "Copilot based on Gemini"
+  },
+  {
+    "full_name": "mrfirdauss-20/RaG-Garuda-Hack",
+    "name": "RaG-Garuda-Hack",
+    "description": null
+  },
+  {
+    "full_name": "programerr01/gemini-telegram-bot",
+    "name": "gemini-telegram-bot",
+    "description": "Telegram bot for google's gemini  pro and vision"
+  },
+  {
+    "full_name": "cattodotpy/GeminiBot",
+    "name": "GeminiBot",
+    "description": "A Discord chatbot built with Python using Google's Gemini API."
+  },
+  {
+    "full_name": "tian-minghui/openai-style-api",
+    "name": "openai-style-api",
+    "description": "支持将openai、claude、azure openai, gemini,kimi, 智谱AI,通义千问,讯飞星火API等模型服务方的调用转为openai方式调用。屏蔽不同大模型API的差异，统一用openai api标准格式使用大模型(Shield the differences between different large model APIs and use large models in a unified openai API standard format)"
+  },
+  {
+    "full_name": "yarivtach/PCB_chatbot",
+    "name": "PCB_chatbot",
+    "description": "create a proffsional cahtbot of PCB using RAG"
+  },
+  {
+    "full_name": "chaos4455/doc-generator-ai",
+    "name": "doc-generator-ai",
+    "description": "Documentation, manual and process generation implementention with python and google Gemini"
+  },
+  {
+    "full_name": "ultrasev/llmproxy-vercel",
+    "name": "llmproxy-vercel",
+    "description": "通过 vercel 搭建 LLM API 的反向代理 "
+  },
+  {
+    "full_name": "kmkarakaya/rag-kmk",
+    "name": "rag-kmk",
+    "description": "A simple RAG implemetation for educational purposes implemented by Murat Karakaya Akademi"
+  },
+  {
+    "full_name": "agituts/gemini-2-podcast",
+    "name": "gemini-2-podcast",
+    "description": "A Python-based tool that generates engaging podcast conversations using Google's Gemini 2.0 Flash Experimental model for script generation and text-to-speech conversion."
+  },
+  {
+    "full_name": "ZLMediaKit/Github-AI-Assistant",
+    "name": "Github-AI-Assistant",
+    "description": "The best AI assistant for your Github repository, it can not only help you automatically translate issues/discussions/pr/commit to the specified language, but also help you with code review, automatic code repair and other functions through AI models.您Github存储库的最佳AI助手, 它不但可以帮助您自动翻译issues/discussions/pr/commit到指定语言, 还可以通过AI模型帮助您进行代码审查, 代码自动修复等功能"
+  },
+  {
+    "full_name": "hdi-umd/Semantic_Profiling_LLM_Evaluation",
+    "name": "Semantic_Profiling_LLM_Evaluation",
+    "description": null
+  },
+  {
+    "full_name": "lingo-chat/prompt",
+    "name": "prompt",
+    "description": "lingo-chat AI server (w/ 프롬프트엔지니어링, RAG, Agenting, Dataset generation)"
+  },
+  {
+    "full_name": "nocdn/podcast-ad-trimmer",
+    "name": "podcast-ad-trimmer",
+    "description": "Remove ads from podcasts with Whisper and LLMs"
+  },
+  {
+    "full_name": "YooshaMirza/llm_chatbot_2",
+    "name": "llm_chatbot_2",
+    "description": null
+  },
+  {
+    "full_name": "Parmeesh/SEO_Optimiz_POC",
+    "name": "SEO_Optimiz_POC",
+    "description": "This Proof of Concept (POC) introduces an application that uses OpenAI and Gemini models for SEO optimization of online articles. It allows users to enhance their content's search engine visibility and engagement through text optimization and AI-generated imagery."
+  },
+  {
+    "full_name": "ACM-Amrita-Amritapuri/OmniHubAI",
+    "name": "OmniHubAI",
+    "description": " A modular library offering diverse AI functionalities for text, image, audio, and video processing. Leverage state-of-the-art models to create intelligent solutions for a wide range of tasks."
+  },
+  {
+    "full_name": "asharsha30-1996/LLM_SMART_ASSISTANCE",
+    "name": "LLM_SMART_ASSISTANCE",
+    "description": null
+  },
+  {
+    "full_name": "ankit31199/Gemini-AI-Chatbot-Streamlit_basic",
+    "name": "Gemini-AI-Chatbot-Streamlit_basic",
+    "description": null
+  },
+  {
+    "full_name": "HananeNadi/Extract_data_from_pdf_using_LLM_and_RAG",
+    "name": "Extract_data_from_pdf_using_LLM_and_RAG",
+    "description": null
+  },
+  {
+    "full_name": "codingcat08/Rag-fusion-with-gemini",
+    "name": "Rag-fusion-with-gemini",
+    "description": null
+  },
+  {
+    "full_name": "MarlonJerold/clientgemini",
+    "name": "clientgemini",
+    "description": "Client API para aplicação de notícias utilizando IA, Milho News,  Organização: Milharal dos Devs"
+  },
+  {
+    "full_name": "Roshan0909/LangChain-PDF-Processor",
+    "name": "LangChain-PDF-Processor",
+    "description": null
+  },
+  {
+    "full_name": "Eshwar154/GenAi-Projects",
+    "name": "GenAi-Projects",
+    "description": "Making End to End LLM Application"
+  },
+  {
+    "full_name": "krishnakumbhaj/Langchain_Gemini_Test",
+    "name": "Langchain_Gemini_Test",
+    "description": null
+  },
+  {
+    "full_name": "yashvinshah/LLM-RAG-chat",
+    "name": "LLM-RAG-chat",
+    "description": null
+  },
+  {
+    "full_name": "GhanaSyamSaiVarma/Content-Retrieval-RAG-AI-System",
+    "name": "Content-Retrieval-RAG-AI-System",
+    "description": "This project is designed to create a Retrieval-Augmented Generation (RAG) system using a Large Language Model (LLM)."
+  },
+  {
+    "full_name": "evening1326/gemini_zebra_counter",
+    "name": "gemini_zebra_counter",
+    "description": null
+  },
+  {
+    "full_name": "lmahdy/The-secret-recipe",
+    "name": "The-secret-recipe",
+    "description": "This Django app offers recipes, restaurant search, audio summaries, word definitions, notes, Spotify top tracks, and an AI chatbot with Google Gemini."
+  },
+  {
+    "full_name": "Nameeth-Jalem/LLM-QnAbot",
+    "name": "LLM-QnAbot",
+    "description": null
+  },
+  {
+    "full_name": "iamsajalmondal/Invoice-Extractor-LLM-APP-main",
+    "name": "Invoice-Extractor-LLM-APP-main",
+    "description": null
+  },
+  {
+    "full_name": "jannalulu/llm-forecasting-benchmark",
+    "name": "llm-forecasting-benchmark",
+    "description": "testing llm forecasting abilities"
+  },
+  {
+    "full_name": "theurs/tb1",
+    "name": "tb1",
+    "description": "Телеграм бот для доступа к chatGPT, Google Gemini, Claude AI и др"
+  },
+  {
+    "full_name": "fit-alessandro-berti/llm-dreams-benchmark",
+    "name": "llm-dreams-benchmark",
+    "description": "Personality traits benchmark for LLMs based on 'dreams' interpretation"
+  },
+  {
+    "full_name": "M0ch0/gask",
+    "name": "gask",
+    "description": "Super Simple Command Suggestion Tool with Gemini"
+  },
+  {
+    "full_name": "google/generative-ai-docs",
+    "name": "generative-ai-docs",
+    "description": "Documentation for Google's Gen AI site - including the Gemini API and Gemma"
+  },
+  {
+    "full_name": "Abhishekai1/YouTube-Video-Summarizer-Using-Generative-AI",
+    "name": "YouTube-Video-Summarizer-Using-Generative-AI",
+    "description": "Engineered a Video Summarization Tool using Streamlit and Google Gemini Pro to transform YouTube video transcripts into comprehensive and insightful summaries."
+  },
+  {
+    "full_name": "adityaharishch/llm-microservice",
+    "name": "llm-microservice",
+    "description": null
+  },
+  {
+    "full_name": "top-yun/SPARK",
+    "name": "SPARK",
+    "description": " A benchmark dataset and simple code examples for measuring the perception and reasoning of multi-sensor Vision Language models."
+  },
+  {
+    "full_name": "open-compass/opencompass",
+    "name": "opencompass",
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets."
+  },
+  {
+    "full_name": "Manusiajago/Whisper-Shell",
+    "name": "Whisper-Shell",
+    "description": "Whisper Shell is a terminal-based AI assistant that combines Gemini AI and ElevenLabs for seamless text-to-speech interactions, enabling natural communication through voice and text commands."
+  },
+  {
+    "full_name": "mutuiris/eco-support-system",
+    "name": "eco-support-system",
+    "description": " Innovative application designed to enhance renewable energy management through predictive analytics and automated customer support. This project aims to empower energy providers and consumers by leveraging advanced machine learning models to forecast energy production and consumption while providing instant support through automated responses"
+  },
+  {
+    "full_name": "satyajit-patel/llm-back",
+    "name": "llm-back",
+    "description": null
+  },
+  {
+    "full_name": "chiru-abhinash/Database-Interaction-Using-Gemini-LLM",
+    "name": "Database-Interaction-Using-Gemini-LLM",
+    "description": null
+  },
+  {
+    "full_name": "RAMAKRISHNA-EEDA/Database-Interaction-Using-Gemini-LLM",
+    "name": "Database-Interaction-Using-Gemini-LLM",
+    "description": null
+  },
+  {
+    "full_name": "Malkyounis71/LLM-Chatbot-using-Google-Gemini-Pro-with-Streamlit-Python-Gen-AI",
+    "name": "LLM-Chatbot-using-Google-Gemini-Pro-with-Streamlit-Python-Gen-AI",
+    "description": null
+  },
+  {
+    "full_name": "Sibi-Sebastian/ATS-Resume-LLM-App",
+    "name": "ATS-Resume-LLM-App",
+    "description": "I will be creating an end to end ATS project using Google Gemini Pro Vision API. From this projects you will be able to analyze your resume and compare it with the jobs description and find suggestion with respect to what all improvements you can bring."
+  },
+  {
+    "full_name": "sheefanaaz123/TranscribeTube",
+    "name": "TranscribeTube",
+    "description": "Automate detailed note generation from YouTube video transcripts using AI. Input the video link, choose the words limit and let Gemini Pro model summarize within 250 words."
+  },
+  {
+    "full_name": "y20acs524/Conversational-AI-chatbot",
+    "name": "Conversational-AI-chatbot",
+    "description": "chatbot using python,NLP,LLM and Generative AI technology.It also includes speech recognition to give voice inputs."
+  },
+  {
+    "full_name": "ahmedhanora11/Food_Genie",
+    "name": "Food_Genie",
+    "description": "The idea is to create a website called Food Genie that uses Gemini Ultra to help assist people in choosing the best food to maintain their health."
+  },
+  {
+    "full_name": "Pritam991/ManiLLM",
+    "name": "ManiLLM",
+    "description": "ManiLLM is a web application built with Streamlit that leverages Google Generative AI to create an interactive user experience for exploring and generating content using advanced language models. This project allows users to harness the power of generative AI in a simple and user-friendly interface."
+  },
+  {
+    "full_name": "imrantan/Jimmybot-2024",
+    "name": "Jimmybot-2024",
+    "description": "A telegram chatbot powered by python and Google's Gemini API"
+  },
+  {
+    "full_name": "priyankkumar218/streamlit-gemini",
+    "name": "streamlit-gemini",
+    "description": null
+  },
+  {
+    "full_name": "asappasaheb99/GeminiAI",
+    "name": "GeminiAI",
+    "description": "ChatGPT using GeminiAI"
+  },
+  {
+    "full_name": "asmit-inzanist/Car-Identifier",
+    "name": "Car-Identifier",
+    "description": "A Streamlit web app that leverages Gemini's AI API to analyze uploaded car pictures and generate detailed descriptions."
+  },
+  {
+    "full_name": "thekyleliao/wonderland_gemini",
+    "name": "wonderland_gemini",
+    "description": null
+  },
+  {
+    "full_name": "psomkar01/TS59-Techtonicshift24",
+    "name": "TS59-Techtonicshift24",
+    "description": "This Repository consits of Smart ATS Resume Tracker Using LLM"
+  },
+  {
+    "full_name": "kevint-thd/HR_LLM_PROJECT",
+    "name": "HR_LLM_PROJECT",
+    "description": "GOOGLE_GEMENI_ATS_Application"
+  },
+  {
+    "full_name": "naigggs/clippy-web",
+    "name": "clippy-web",
+    "description": "Clippy is an innovative tool that leverages the power of Artificial Intelligence (AI) to help you get the most out of YouTube videos.  It acts as a YouTube summarizer, allowing you to ask questions and receive concise answers about the content of a YouTube video, all without having to watch the entire thing!"
+  },
+  {
+    "full_name": "Rejhinald/poem.io",
+    "name": "poem.io",
+    "description": "Gemini API AI Poem generator that includes the mood of the poem being generated. Made with NextJS, Material UI, Python, and TailwindCSS"
+  },
+  {
+    "full_name": "leena18/llm-chatbot",
+    "name": "llm-chatbot",
+    "description": null
+  },
+  {
+    "full_name": "GTMaaayur/VideoProctror",
+    "name": "VideoProctror",
+    "description": "Flask based async app+Gemini"
+  },
+  {
+    "full_name": "epam/AIRUN-LLM-Benchmark",
+    "name": "AIRUN-LLM-Benchmark",
+    "description": null
+  },
+  {
+    "full_name": "huynguyen789/llms-eval",
+    "name": "llms-eval",
+    "description": "llm eval"
+  },
+  {
+    "full_name": "rajendrasrao/Ask-Your-CSV-Bot",
+    "name": "Ask-Your-CSV-Bot",
+    "description": "A versatile chatbot capable of answering questions based on the data provided in a CSV file. Simply upload your CSV, ask your questions in provided text box and it will reply using LLM models"
+  },
+  {
+    "full_name": "RakshitYadav09/gemini-practice",
+    "name": "gemini-practice",
+    "description": null
+  },
+  {
+    "full_name": "alexodwright/notion-to-anki-gemini",
+    "name": "notion-to-anki-gemini",
+    "description": "This is a python script that creates Anki flashcard files from your Notion notes! By using the Notion API and the Google Gemini AI 1.5 flash model, flashcards are created to help you study for your exams!"
+  },
+  {
+    "full_name": "lmahdy/ChatWithElmayt",
+    "name": "ChatWithElmayt",
+    "description": "ChatWithElmayt is a Flask-based chatbot where users chat with Elmayt, a virtual entity from an imaginary universe, powered by Google’s Gemini 1.5 model."
+  },
+  {
+    "full_name": "juhid30/Pragati",
+    "name": "Pragati",
+    "description": null
+  },
+  {
+    "full_name": "raginipathak/ResumeIQ",
+    "name": "ResumeIQ",
+    "description": "An AI-Based Resume Evaluator "
+  },
+  {
+    "full_name": "nishant8g/Text-to-SQL-LLM-App",
+    "name": "Text-to-SQL-LLM-App",
+    "description": null
+  },
+  {
+    "full_name": "Anmol-2003/resumer-dockerized",
+    "name": "resumer-dockerized",
+    "description": "A tool to generate a resume given a job description using latex and llama-3.1"
+  },
+  {
+    "full_name": "LeoGamaJ/app-text-to-speech-to-text-GEMINI",
+    "name": "app-text-to-speech-to-text-GEMINI",
+    "description": "Speech-to-text and text-to-speech application with Google GEMINI API integration. Python backend with Flask and Bootstrap interface."
+  },
+  {
+    "full_name": "Aneerudh2k2/codex",
+    "name": "codex",
+    "description": "A mistral ai hackathon winner codebase "
+  },
+  {
+    "full_name": "himynamedan/RAG",
+    "name": "RAG",
+    "description": "Retrieval Augmented Generation using Knowledge Graphs of Neo4j and OpenAI API key in React JS"
+  },
+  {
+    "full_name": "poshalakarthik/we-chat-LLM",
+    "name": "we-chat-LLM",
+    "description": null
+  },
+  {
+    "full_name": "Samin-Sadaf7/Fine-Tuning_LLM_Model",
+    "name": "Fine-Tuning_LLM_Model",
+    "description": null
+  },
+  {
+    "full_name": "adityashakya836/AI-SQL-LLM",
+    "name": "AI-SQL-LLM",
+    "description": null
+  },
+  {
+    "full_name": "Anubhx/Smart-ATS-Analyzer",
+    "name": "Smart-ATS-Analyzer",
+    "description": "Developed an automated ATS analysis tool using Google Gemini Pro, Streamlit, and Python. Created a user-friendly interface and implemented PDF processing to evaluate resumes comprehensively."
+  },
+  {
+    "full_name": "SonarPrasad/langchain-gemini-Chat-PDFs",
+    "name": "langchain-gemini-Chat-PDFs",
+    "description": null
+  },
+  {
+    "full_name": "KrishayNair/RAG_Chatbot",
+    "name": "RAG_Chatbot",
+    "description": null
+  },
+  {
+    "full_name": "rijuma15/chatbot",
+    "name": "chatbot",
+    "description": "A conversational AI chatbot that can answer user queries from documents and handle appointment bookings. The chatbot validates user inputs such as email and phone number and extracts dates from natural language input. Built using LangChain, Google Generative AI (Gemini), and Chainlit."
+  },
+  {
+    "full_name": "Akshya1204/llm",
+    "name": "llm",
+    "description": null
+  },
+  {
+    "full_name": "SonySinha2024/LangChain_work",
+    "name": "LangChain_work",
+    "description": null
+  },
+  {
+    "full_name": "RPA-BOT907/GeminiLLM",
+    "name": "GeminiLLM",
+    "description": null
+  },
+  {
+    "full_name": "Chandril023/HealthLink.ai",
+    "name": "HealthLink.ai",
+    "description": "a  generative ai project using LLM's"
+  },
+  {
+    "full_name": "NIRONMAN/Learnability_2.0",
+    "name": "Learnability_2.0",
+    "description": "This is the next version of learnability with Rag."
+  },
+  {
+    "full_name": "thegoddysmart/headstarter-rag-powered-ai-assistant",
+    "name": "headstarter-rag-powered-ai-assistant",
+    "description": "My team built the Rate My Professor AI Assistant with Next.js, Gemini, and Pinecone."
+  },
+  {
+    "full_name": "KenyonY/openai-forward",
+    "name": "openai-forward",
+    "description": "🚀  大语言模型高效转发服务  · An efficient forwarding service designed for LLMs. ·  OpenAI API Reverse Proxy"
+  },
+  {
+    "full_name": "brucepro/text_gen_use_api",
+    "name": "text_gen_use_api",
+    "description": "Use an api server for generation in textgen"
+  },
+  {
+    "full_name": "dev-priyanshuu/Gemini-Intelligence-Hub",
+    "name": "Gemini-Intelligence-Hub",
+    "description": "The Google Intelligence Hub is a suite of AI tools in a user-friendly platform, featuring applications like a Youtube Summarizer, a Chat with PDF feature, and Google Vision. It leverages Google Gemini models to offer efficient solutions."
+  },
+  {
+    "full_name": "Madhavmurari/Conversational-Q-A-Chatbot-using-Gemini-Pro-LLM",
+    "name": "Conversational-Q-A-Chatbot-using-Gemini-Pro-LLM",
+    "description": null
+  },
+  {
+    "full_name": "lmarena/arena-hard-auto",
+    "name": "arena-hard-auto",
+    "description": "Arena-Hard-Auto: An automatic LLM benchmark. "
+  },
+  {
+    "full_name": "nguyenanhtuan1102/GPT-PowerApps",
+    "name": "GPT-PowerApps",
+    "description": "GPT PowerApps uses NLP to buld 3 main tools: Predict Next Word, QA Chatbot, Resume Screening. The App developed by Flask, HTML, CSS, and deployed by AWS CodePipeline and Beanstalk."
+  },
+  {
+    "full_name": "devamanikantasala/Internship-Project-Repository",
+    "name": "Internship-Project-Repository",
+    "description": "During the entire project, I gained skills to work on pythons collections types and the other type of data handlers, and as our project main theme is Chatbot application development so I also gained an hands on exposure on Chatterbot library, to make my own chatbot called `vortex`, I also used google-generativeai api to use gemini model in my app"
+  },
+  {
+    "full_name": "hajerZitouni105/RFP_hydatis",
+    "name": "RFP_hydatis",
+    "description": "AI-based solution to automate responses to Call for Proposals (CFP) using Gemini Flash Pro 1.5, Few shot learning and RAG techninques."
+  },
+  {
+    "full_name": "Larissa-Antunes/chatbot",
+    "name": "chatbot",
+    "description": "Chatbot em Python com IA do Gemini"
+  },
+  {
+    "full_name": "safwanahmadsaffi/Gemini-ChatBot",
+    "name": "Gemini-ChatBot",
+    "description": "The Google Gemini-1.5-flash Chat Application is a Streamlit-based web interface that facilitates interactive conversations with Google's GenerativeAI. Users can ask questions or engage in dialogue, receiving responses generated by the powerful Gemini-1.5-flash model"
+  },
+  {
+    "full_name": "Faith-Nchang/Voice-AI",
+    "name": "Voice-AI",
+    "description": "A voice assistant created using Python | Flask | SQLite | Gemini API | Twilio | News API | OpenWeather Map API | Geolocation and others |"
+  },
+  {
+    "full_name": "rakshanakrish/LLM-caching-in-langchain",
+    "name": "LLM-caching-in-langchain",
+    "description": null
+  },
+  {
+    "full_name": "Jagya-Vishal/Ai-InterviewModel",
+    "name": "Ai-InterviewModel",
+    "description": "The AI-driven Interview Model revolutionizes recruitment by using AI and NLP technologies. With a React JS frontend for a seamless candidate interface and a Flask backend handling API requests and AI communication via Gemini API, it ensures an efficient, unbiased, and scalable interview process."
+  },
+  {
+    "full_name": "ShambhaviPandey2021/ATS_Resume_Tracker",
+    "name": "ATS_Resume_Tracker",
+    "description": " This app analyzes your resume against job descriptions using Google's Generative AI (Gemini). Upload your resume, enter the job description, and receive instant feedback on alignment and matching percentage. Perfect for optimizing your resume for tech roles!"
+  },
+  {
+    "full_name": "AnandAditya2002/RAG",
+    "name": "RAG",
+    "description": "Retrieval Augmented Generation"
+  },
+  {
+    "full_name": "shankhanraman/RAG_WebApp",
+    "name": "RAG_WebApp",
+    "description": null
+  },
+  {
+    "full_name": "MuhammadAbuBakar11290/ATS-resume-Backend",
+    "name": "ATS-resume-Backend",
+    "description": "ATS Resume Expert that will help the students to check their ATS Score before applying and by the suggestion of Gemini they can use the keywords that will rank their CV"
+  },
+  {
+    "full_name": "MoraisMNS/AI-ChatBot-Gemini",
+    "name": "AI-ChatBot-Gemini",
+    "description": "This AI chatbot is implemented using Gemini AI API and python. This is a user friendly chatbot which gives the intelligent responses. "
+  },
+  {
+    "full_name": "AliAzhar5/Intelligent-LLM-Driven-CSV-Query-Assistant",
+    "name": "Intelligent-LLM-Driven-CSV-Query-Assistant",
+    "description": null
+  },
+  {
+    "full_name": "agituts/gemini-2-tts",
+    "name": "gemini-2-tts",
+    "description": "AI-Powered Podcast Generator: A Python-based tool that converts text scripts into realistic audio podcasts using Google's Generative AI API. This project leverages advanced text-to-speech technology to create dynamic, multi-speaker conversations with customizable voices."
+  },
+  {
+    "full_name": "trishcho/Lang-graph_websearch_agent",
+    "name": "Lang-graph_websearch_agent",
+    "description": "This repository demonstrates the use of LangGraph and various LLM applications to create a Multi-Agent AI system for web search, referred to as a \"Custom WebSearch Agent with LangGraph"
+  },
+  {
+    "full_name": "nishant5790/research_ai",
+    "name": "research_ai",
+    "description": "LLM system to do research "
+  },
+  {
+    "full_name": "SafetImamovic/ForgeAI",
+    "name": "ForgeAI",
+    "description": "ForgeAI is a VST plugin* and website allowing users to generate MIDI files based on natural language instructions, powered by Google Gemini AI models."
+  },
+  {
+    "full_name": "ShakillBDO/bdoGpt-streamlitUI",
+    "name": "bdoGpt-streamlitUI",
+    "description": "Streamlit UI for BDOGPT Pilot Version. "
+  },
+  {
+    "full_name": "Dharinesh/Document-QnA-RAG-App-with--Gemma--Groq",
+    "name": "Document-QnA-RAG-App-with--Gemma--Groq",
+    "description": "A Document QnA App that has the functionality of loading documents and questioning based on the documents contents. This was implemented to Study the working of RAGs and also testing Google's new Open Source Ai model \"Gemma\"(at the time). The llm is accessed through Groq which makes faster and efficient API calls to the Pre-loaded LLM."
+  },
+  {
+    "full_name": "EinKnopfzu/GPM_with_LLM",
+    "name": "GPM_with_LLM",
+    "description": null
+  },
+  {
+    "full_name": "kakolla/Scribo",
+    "name": "Scribo",
+    "description": "Lightweight email-viewing app that shows you your unread emails and stars (⭐) the ones it classifies as the most important using Gaussian Naive Bayes model. Summaries and a to-do can be generated for each email (GeminiAI) to copy and paste into your to-do list of choice (like Notion)."
+  },
+  {
+    "full_name": "SujalNeupane9/GPT-clone",
+    "name": "GPT-clone",
+    "description": null
+  },
+  {
+    "full_name": "wlopezm-unal/chatbot_langchain",
+    "name": "chatbot_langchain",
+    "description": "Chatbot using Langchain and Gemini-pro"
+  },
+  {
+    "full_name": "wasayabasi/rag-powered-shopbot-langchain-pinecone-gemini",
+    "name": "rag-powered-shopbot-langchain-pinecone-gemini",
+    "description": "Shop Assistant with LangChain, RAG, GPT API, and Pinecone Database"
+  },
+  {
+    "full_name": "Tanmay-yadav/DATA-SCIENCE-WITH-GENERATIVE-AI-AND-PROMPT-ENGINEERING",
+    "name": "DATA-SCIENCE-WITH-GENERATIVE-AI-AND-PROMPT-ENGINEERING",
+    "description": "Here i will be learning about data science and will be doing hands on projects and leaning all the concepts provided by upflaires  "
+  },
+  {
+    "full_name": "nirazp1/AI-Chat-Application-master",
+    "name": "AI-Chat-Application-master",
+    "description": "Niraj Bot Chat is an AI-powered chat application that uses Google's Gemini AI model to provide intelligent responses to user queries. The application features a modern, responsive interface with dark mode support and the ability to manage multiple chat session"
+  },
+  {
+    "full_name": "khaled-benahmed/RAG-System-using-LangChain-Gemini",
+    "name": "RAG-System-using-LangChain-Gemini",
+    "description": null
+  },
+  {
+    "full_name": "Abhiram-29/MedRaga-Testing",
+    "name": "MedRaga-Testing",
+    "description": "Microsoft hackathon project"
+  },
+  {
+    "full_name": "Rokade03/AIML_HeathCare_RAG_Model",
+    "name": "AIML_HeathCare_RAG_Model",
+    "description": null
+  },
+  {
+    "full_name": "GIDDY269/Drug_order_bot",
+    "name": "Drug_order_bot",
+    "description": "Langchain powered drug ordering chatbot using function calling and llama 3"
+  },
+  {
+    "full_name": "Nithish-Sri-Ram/Gemini_chat_bot",
+    "name": "Gemini_chat_bot",
+    "description": "This is my first project on genAi. Constructed a straightforward application akin to ChatGPT using Streamlit and Gemini."
+  },
+  {
+    "full_name": "RiH-137/Chintu-GPT",
+    "name": "Chintu-GPT",
+    "description": "A Gemini based Large language model."
+  },
+  {
+    "full_name": "RiH-137/Chintu-GPT-V2",
+    "name": "Chintu-GPT-V2",
+    "description": "A Gemini based Large language model."
+  },
+  {
+    "full_name": "RiH-137/PDF-se-Padhai",
+    "name": "PDF-se-Padhai",
+    "description": "A Gemini based Large language model."
+  },
+  {
+    "full_name": "RiH-137/Invoice-Xtractor",
+    "name": "Invoice-Xtractor",
+    "description": "A Gemini based Large language model.                                                                          IN THIS PROJECT we will use prompt to make a model and that model is itself a model  which is trained on invoices and it will generate the response  based on the input prompt and the image of the invoice  "
+  },
+  {
+    "full_name": "RiH-137/Mera-GPT",
+    "name": "Mera-GPT",
+    "description": "A Gemini based Large language model."
+  },
+  {
+    "full_name": "luphone04/MultiInvoice",
+    "name": "MultiInvoice",
+    "description": "the Gemini Pro Vision model to extract information from invoices"
+  },
+  {
+    "full_name": "MohammedMusharraf11/Gemini-InvoiceExtractor",
+    "name": "Gemini-InvoiceExtractor",
+    "description": null
+  },
+  {
+    "full_name": "NitinYadav1511/PDF-ChatBot",
+    "name": "PDF-ChatBot",
+    "description": "Generative AI Mini Project using Google Gemini API"
+  },
+  {
+    "full_name": "suryanshkillercoderhume/llm-project",
+    "name": "llm-project",
+    "description": null
+  },
+  {
+    "full_name": "patelraj2002/RAG_model",
+    "name": "RAG_model",
+    "description": null
+  },
+  {
+    "full_name": "AsadAbbas026/LLM_and_RAG_chatbot",
+    "name": "LLM_and_RAG_chatbot",
+    "description": null
+  },
+  {
+    "full_name": "Niki-098/LLM_Doc",
+    "name": "LLM_Doc",
+    "description": null
+  },
+  {
+    "full_name": "simonw/llm-gemini",
+    "name": "llm-gemini",
+    "description": "LLM plugin to access Google's Gemini family of models"
+  },
+  {
+    "full_name": "gus7av/gemini_circuitpython",
+    "name": "gemini_circuitpython",
+    "description": null
+  },
+  {
+    "full_name": "datphamvn/HSEvo",
+    "name": "HSEvo",
+    "description": "[AAAI-25] HSEvo: Elevating Automatic Heuristic Design with Diversity-Driven Harmony Search and Genetic Algorithm Using LLMs"
+  },
+  {
+    "full_name": "heroesofcode/pullpanda-cli",
+    "name": "pullpanda-cli",
+    "description": "This script automates code review by calculating the differences between the current branch and the main branch of a git local project repository. It then sends these differences to the Gemini AI API, which generates detailed improvement suggestions."
+  },
+  {
+    "full_name": "vanshksingh/M5Cardputer-Chat-with-Gemini-API",
+    "name": "M5Cardputer-Chat-with-Gemini-API",
+    "description": "M5Cardputer Chat with Gemini API: An application that uses M5Cardputer to interact with the Gemini API for generating responses based on user input. This project includes code for managing Wi-Fi connectivity, user input handling, API requests, and displaying responses on the M5Cardputer's screen."
+  },
+  {
+    "full_name": "Shubham235Chandra/HireHorizon",
+    "name": "HireHorizon",
+    "description": "HireHorizon is a cutting-edge web app that leverages advanced generative AI to optimize resumes. Upload your resume, paste a job description, and receive feedback on alignment, missing keywords, and a profile summary. It's open-source, user-friendly, and accessible on Hugging Face."
+  },
+  {
+    "full_name": "Uddhav-24/Exploring_LLMs",
+    "name": "Exploring_LLMs",
+    "description": "Are you curious about the potential of Large Language Models (LLMs) to revolutionize the way we interact with technology? Let's collaborate and build!"
+  },
+  {
+    "full_name": "avanshh99/chatpdf",
+    "name": "chatpdf",
+    "description": "A project that dwells into the concept of LLM and Langchain "
+  },
+  {
+    "full_name": "vedantp2905/RAG_Debate",
+    "name": "RAG_Debate",
+    "description": null
+  },
+  {
+    "full_name": "SolomonMartin/Text2SQL",
+    "name": "Text2SQL",
+    "description": "Text2SQL is a LangChain and Streamlit application that converts natural language queries into SQL commands to query a database. Users can input their queries in plain English, and the app translates these queries into SQL, executes them on a predefined database, and displays the results. "
+  },
+  {
+    "full_name": "Prince3087/SQL_LLM-app",
+    "name": "SQL_LLM-app",
+    "description": "end to end llm application that converts text to sql query  to retrieve  data from database."
+  },
+  {
+    "full_name": "Ex-Rockstar/Muk-bot",
+    "name": "Muk-bot",
+    "description": "a chatbot based on gemini"
+  },
+  {
+    "full_name": "borrrrring/xcstrings",
+    "name": "xcstrings",
+    "description": "Automatically translates Xcode 15 String Catalog (.xcstrings) files using Google Translation, Gemini Pro or DeepLX."
+  },
+  {
+    "full_name": "Rohantech231/Youtube-Video-Summarizer",
+    "name": "Youtube-Video-Summarizer",
+    "description": "This is a web application that uses Gemini Pro and LLM to summarize the Youtube video transcript in 350."
+  },
+  {
+    "full_name": "Touseeq99/ASK-THE-PDF-GEMINI",
+    "name": "ASK-THE-PDF-GEMINI",
+    "description": null
+  },
+  {
+    "full_name": "weaviate/weaviate-gorilla",
+    "name": "weaviate-gorilla",
+    "description": "Research repository on interfacing LLMs with Weaviate's APIs. Inspired by the Berkeley Gorilla LLM."
+  },
+  {
+    "full_name": "yym68686/ModelMerge",
+    "name": "ModelMerge",
+    "description": "modelmerge is a powerful library designed to simplify and unify the use of various large language models, including GPT-4/4t/4o, GPT-3.5, Claude3/3.5, Claude2, Gemini1.5 Pro/flash, DALL-E 3, DuckDuckGo(gpt-4o-mini, claude-3-haiku, Meta-Llama-3.1-70B, Mixtral-8x7B), and Groq."
+  },
+  {
+    "full_name": "adjdunn/Gemini-Python-Tutorial",
+    "name": "Gemini-Python-Tutorial",
+    "description": null
+  },
+  {
+    "full_name": "Gangatharangurusamy/Gemini-LLM-Application",
+    "name": "Gemini-LLM-Application",
+    "description": null
+  },
+  {
+    "full_name": "kinghim17/Building-LLM-from-scratch",
+    "name": "Building-LLM-from-scratch",
+    "description": "I've developed a large language model (LLM) using the Google API that integrates both image processing and text generation capabilities. The user interface for interacting with the model is built using Streamlit."
+  },
+  {
+    "full_name": "Ganpati-Nath/Placement-and-Interview-Assistance",
+    "name": "Placement-and-Interview-Assistance",
+    "description": "Solving Queries, Getting Guidance Using LLM..."
+  },
+  {
+    "full_name": "ANYANTUDRE/LangChain",
+    "name": "LangChain",
+    "description": "Applications that can reason. Powered by LangChain."
+  },
+  {
+    "full_name": "Ganapati-nk/LLM_Chatbot_Geminii",
+    "name": "LLM_Chatbot_Geminii",
+    "description": null
+  },
+  {
+    "full_name": "himanshuverma0912/Basic-LLM-Application",
+    "name": "Basic-LLM-Application",
+    "description": null
+  },
+  {
+    "full_name": "dibbacodes/Applicant-Tracking-System-ATS",
+    "name": "Applicant-Tracking-System-ATS",
+    "description": "This project is a Streamlit-based ATS (Applicant Tracking System) that uses Google Gemini Pro Vision to analyze resumes. Users can upload a PDF resume and input a job description. The system provides detailed feedback on alignment, strengths, weaknesses, overall suitability, and calculates a percentage match. "
+  },
+  {
+    "full_name": "Pratikbalodi/Text-To-SQL-LLM-App",
+    "name": "Text-To-SQL-LLM-App",
+    "description": "Aan end to end LLM application using Google Gemini Pro where it create  Text To SQL LLM App  and later retrieving query from SQL database"
+  },
+  {
+    "full_name": "Ganapati-nk/LLM_Q-A_Bot",
+    "name": "LLM_Q-A_Bot",
+    "description": null
+  },
+  {
+    "full_name": "Rohit-kumbhar/text_to_sql_using_llm",
+    "name": "text_to_sql_using_llm",
+    "description": null
+  },
+  {
+    "full_name": "samarthvashishta/your-gemini",
+    "name": "your-gemini",
+    "description": "Simple QA Bot "
+  },
+  {
+    "full_name": "Barathzen/AI-Driven-Feedback-and-Assessment_using_flask",
+    "name": "AI-Driven-Feedback-and-Assessment_using_flask",
+    "description": "Speech Analyzer,Paragraph Grader, Query Chatbot"
+  },
+  {
+    "full_name": "janak-ojha/Multilingual_AI_Asistance_using_LLM",
+    "name": "Multilingual_AI_Asistance_using_LLM",
+    "description": "here we make multilingual virtual assistance using the llm model gemini-pro"
+  },
+  {
+    "full_name": "fish4terrisa-MSDSM/gemini_novel_translate",
+    "name": "gemini_novel_translate",
+    "description": "A tool to translate light novel using google's gemini."
+  },
+  {
+    "full_name": "patw/Bottybot",
+    "name": "Bottybot",
+    "description": "A conversational UI for chatbots using the llama.cpp server"
+  },
+  {
+    "full_name": "LyzrCore/lyzr-rag",
+    "name": "lyzr-rag",
+    "description": null
+  },
+  {
+    "full_name": "jsocarras/my-llama-index",
+    "name": "my-llama-index",
+    "description": null
+  },
+  {
+    "full_name": "Hunter71/langchain-google",
+    "name": "langchain-google",
+    "description": null
+  },
+  {
+    "full_name": "ReneDrengen/LlamaHub",
+    "name": "LlamaHub",
+    "description": null
+  },
+  {
+    "full_name": "pkelaita/l2m2",
+    "name": "l2m2",
+    "description": "A simple Python library for asynchronous, model-agnostic LLM inference."
+  },
+  {
+    "full_name": "amidabuddha/unichat",
+    "name": "unichat",
+    "description": "Universal API chat Python client for OpenAI, MistralAI, Anthropic, xAI, and Google AI."
+  },
+  {
+    "full_name": "felipeoes/cocoruta_2",
+    "name": "cocoruta_2",
+    "description": "Cocoruta 2 is a LLM developed in a domain-driven way in order to be specialized in Blue Amazon legislation."
+  },
+  {
+    "full_name": "hitanshu04/Chat-with-Multiple-PDFs",
+    "name": "Chat-with-Multiple-PDFs",
+    "description": "By the use of this code, one can ask any questions to the model, from the uploaded PDFs, and if the answer is present in the PDF, the model will tell the correct answer, else it will just say 'Answer is not available in the context'."
+  },
+  {
+    "full_name": "eliot-99/Plant-Disease-Detection-Using-CNN-",
+    "name": "Plant-Disease-Detection-Using-CNN-",
+    "description": "The Plant Disease Classification project leverages Convolutional Neural Networks (CNNs) to accurately identify plant diseases from images. This innovative tool includes a web application that allows users to upload images of crops and receive instant predictions about potential diseases affecting their plants."
+  },
+  {
+    "full_name": "LluckyYH/XTRUST",
+    "name": "XTRUST",
+    "description": "Multi-Lingual Trustworthy Evaluation Benchmark for Large Lanuage Models"
+  },
+  {
+    "full_name": "serhon/nochbinich",
+    "name": "nochbinich",
+    "description": "Python script-supervisor iteratively executes script-agent and modifies it via LLM that is instructed with description of supervisor functioning and final goal, then at each iteration gets retval, stdout, stderr of current agent, and is asked to reply with next agent verbatim. Optional jailbreak attempt. TUI. Unsafe."
+  },
+  {
+    "full_name": "yym68686/ChatGPT-Telegram-Bot",
+    "name": "ChatGPT-Telegram-Bot",
+    "description": "TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit."
+  },
+  {
+    "full_name": "ITSpecialist111/ai_automation_suggester",
+    "name": "ai_automation_suggester",
+    "description": "This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI providers, including OpenAI, Anthropic, Google, Groq, LocalAI, and Ollama. The integration provides automation suggestions via persistent notifications."
+  },
+  {
+    "full_name": "Soulter/AstrBot",
+    "name": "AstrBot",
+    "description": "✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信平台，支持 OpenAI GPT、Ollama、DeepsSeek、Llama、GLM、Gemini、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。"
+  },
+  {
+    "full_name": "SunnyChopper/llmcore",
+    "name": "llmcore",
+    "description": "Essential tools for LLM development - models, prompts, embeddings, agents, chains, and more."
+  },
+  {
+    "full_name": "nkkko/llm-whisper",
+    "name": "llm-whisper",
+    "description": "Use LLM with audio prompts transcribed by Whisper API"
+  },
+  {
+    "full_name": "danyQe/FRIDAY",
+    "name": "FRIDAY",
+    "description": "This Assistant  is   integrated with Gemini 1.0 pro LLM API and provided a voice an text interface to communicate with AI to complete user based task like webscraping,summarization of youtubed videos and pdf’s,sending whatsapp messages,playing music and many more"
+  },
+  {
+    "full_name": "russellballestrini/opencompletion",
+    "name": "opencompletion",
+    "description": "Chatroom app where messages are sent to GPT, Claude, Mistral, Together, Grok, Groq, vLLM, Ollama & streamed to the frontend."
+  },
+  {
+    "full_name": "yym68686/uni-api",
+    "name": "uni-api",
+    "description": "This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, Anthropic, DeepBricks, OpenRouter, Gemini, Vertex, etc."
+  },
+  {
+    "full_name": "lordpython/new-llm",
+    "name": "new-llm",
+    "description": null
+  },
+  {
+    "full_name": "wzdnzd/chatgpt-collector",
+    "name": "chatgpt-collector",
+    "description": "AIGC API Services Freedom"
+  },
+  {
+    "full_name": "SamG1123/Gemini-chat",
+    "name": "Gemini-chat",
+    "description": "Gemini based chatbot for personalised mentoring for high school student"
+  },
+  {
+    "full_name": "Rishitabansal9/PdfQuery",
+    "name": "PdfQuery",
+    "description": "PDFQuery is a Streamlit-based web app that extracts text from uploaded PDF files and enables users to ask questions about the content. Powered by Google Generative AI embeddings and FAISS vector storage, PDFQuery provides fast and accurate answers based on the context of the PDFs."
+  },
+  {
+    "full_name": "gatemediang/Product-Classification-RAG-System",
+    "name": "Product-Classification-RAG-System",
+    "description": "A simple RAG system to group products into categories based on their description"
+  }
+]

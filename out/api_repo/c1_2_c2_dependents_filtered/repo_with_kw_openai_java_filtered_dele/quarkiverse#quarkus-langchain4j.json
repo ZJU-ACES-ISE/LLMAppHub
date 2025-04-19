@@ -1,0 +1,463 @@
+{
+  "all_public_dependent_repos": [
+    {
+      "name": "quarkusio/quarkus-super-heroes",
+      "stars": 302,
+      "img": "https://avatars.githubusercontent.com/u/47638783?s=40&v=4",
+      "owner": "quarkusio",
+      "repo_name": "quarkus-super-heroes"
+    },
+    {
+      "name": "labsai/EDDI",
+      "stars": 263,
+      "img": "https://avatars.githubusercontent.com/u/22817083?s=40&v=4",
+      "owner": "labsai",
+      "repo_name": "EDDI"
+    },
+    {
+      "name": "apache/camel-quarkus",
+      "stars": 257,
+      "img": "https://avatars.githubusercontent.com/u/47359?s=40&v=4",
+      "owner": "apache",
+      "repo_name": "camel-quarkus"
+    },
+    {
+      "name": "fmarchioni/mastertheboss",
+      "stars": 201,
+      "img": "https://avatars.githubusercontent.com/u/1316493?s=40&v=4",
+      "owner": "fmarchioni",
+      "repo_name": "mastertheboss"
+    },
+    {
+      "name": "quarkiverse/quarkus-langchain4j",
+      "stars": 170,
+      "img": "https://avatars.githubusercontent.com/u/69191779?s=40&v=4",
+      "owner": "quarkiverse",
+      "repo_name": "quarkus-langchain4j"
+    },
+    {
+      "name": "containers/ai-lab-recipes",
+      "stars": 135,
+      "img": "https://avatars.githubusercontent.com/u/5874934?s=40&v=4",
+      "owner": "containers",
+      "repo_name": "ai-lab-recipes"
+    },
+    {
+      "name": "quarkusio/quarkus-platform",
+      "stars": 127,
+      "img": "https://avatars.githubusercontent.com/u/47638783?s=40&v=4",
+      "owner": "quarkusio",
+      "repo_name": "quarkus-platform"
+    },
+    {
+      "name": "mariofusco/quarkus-drools-llm",
+      "stars": 53,
+      "img": "https://avatars.githubusercontent.com/u/372781?s=40&v=4",
+      "owner": "mariofusco",
+      "repo_name": "quarkus-drools-llm"
+    },
+    {
+      "name": "mariofusco/quarkus-agentic-ai",
+      "stars": 27,
+      "img": "https://avatars.githubusercontent.com/u/372781?s=40&v=4",
+      "owner": "mariofusco",
+      "repo_name": "quarkus-agentic-ai"
+    },
+    {
+      "name": "hopps-app/hopps",
+      "stars": 21,
+      "img": "https://avatars.githubusercontent.com/u/168637804?s=40&v=4",
+      "owner": "hopps-app",
+      "repo_name": "hopps"
+    },
+    {
+      "name": "mariofusco/site-summarizer",
+      "stars": 19,
+      "img": "https://avatars.githubusercontent.com/u/372781?s=40&v=4",
+      "owner": "mariofusco",
+      "repo_name": "site-summarizer"
+    },
+    {
+      "name": "cescoffier/langchain4j-deep-dive",
+      "stars": 17,
+      "img": "https://avatars.githubusercontent.com/u/402301?s=40&v=4",
+      "owner": "cescoffier",
+      "repo_name": "langchain4j-deep-dive"
+    },
+    {
+      "name": "LizeRaes/feedback-analyzer",
+      "stars": 17,
+      "img": "https://avatars.githubusercontent.com/u/49833622?s=40&v=4",
+      "owner": "LizeRaes",
+      "repo_name": "feedback-analyzer"
+    },
+    {
+      "name": "microsoft/java-on-aca-with-ai",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "java-on-aca-with-ai"
+    },
+    {
+      "name": "mabartos/keycloak-quarkus-extensions",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/38039883?s=40&v=4",
+      "owner": "mabartos",
+      "repo_name": "keycloak-quarkus-extensions"
+    },
+    {
+      "name": "jmartisk/mock-artifacts",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/937315?s=40&v=4",
+      "owner": "jmartisk",
+      "repo_name": "mock-artifacts"
+    },
+    {
+      "name": "jefrajames/car-booking",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/9978271?s=40&v=4",
+      "owner": "jefrajames",
+      "repo_name": "car-booking"
+    },
+    {
+      "name": "ivargrimstad/duke-ai",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/149188?s=40&v=4",
+      "owner": "ivargrimstad",
+      "repo_name": "duke-ai"
+    },
+    {
+      "name": "kdubois/quarkus-langchain4j-podman-ai-instructlab",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/373537?s=40&v=4",
+      "owner": "kdubois",
+      "repo_name": "quarkus-langchain4j-podman-ai-instructlab"
+    },
+    {
+      "name": "nzuguem/nzuguem-github-bot",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/32323481?s=40&v=4",
+      "owner": "nzuguem",
+      "repo_name": "nzuguem-github-bot"
+    },
+    {
+      "name": "jesuino/code-converter",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/359820?s=40&v=4",
+      "owner": "jesuino",
+      "repo_name": "code-converter"
+    },
+    {
+      "name": "rh-rad-ai-roadshow/parasol-insurance",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/173706059?s=40&v=4",
+      "owner": "rh-rad-ai-roadshow",
+      "repo_name": "parasol-insurance"
+    },
+    {
+      "name": "LizeRaes/shopping-assistant",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/49833622?s=40&v=4",
+      "owner": "LizeRaes",
+      "repo_name": "shopping-assistant"
+    },
+    {
+      "name": "bdauvissat/ragtime",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/2834352?s=40&v=4",
+      "owner": "bdauvissat",
+      "repo_name": "ragtime"
+    },
+    {
+      "name": "nzuguem/rag-something-story",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/32323481?s=40&v=4",
+      "owner": "nzuguem",
+      "repo_name": "rag-something-story"
+    },
+    {
+      "name": "neuland-ingolstadt/reimanns-scraper",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/76657022?s=40&v=4",
+      "owner": "neuland-ingolstadt",
+      "repo_name": "reimanns-scraper"
+    },
+    {
+      "name": "dandreadis/greeter",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/332924?s=40&v=4",
+      "owner": "dandreadis",
+      "repo_name": "greeter"
+    },
+    {
+      "name": "redhat-composer-ai/quarkus-llm-router",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/183846251?s=40&v=4",
+      "owner": "redhat-composer-ai",
+      "repo_name": "quarkus-llm-router"
+    },
+    {
+      "name": "TapiocaAberta/eleicoes-chatbot",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/5611890?s=40&v=4",
+      "owner": "TapiocaAberta",
+      "repo_name": "eleicoes-chatbot"
+    },
+    {
+      "name": "cescoffier/quarkus-customer-review-triage",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/402301?s=40&v=4",
+      "owner": "cescoffier",
+      "repo_name": "quarkus-customer-review-triage"
+    },
+    {
+      "name": "LizeRaes/ai-drug-discovery",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/49833622?s=40&v=4",
+      "owner": "LizeRaes",
+      "repo_name": "ai-drug-discovery"
+    },
+    {
+      "name": "ludovicianul/sol",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/3229811?s=40&v=4",
+      "owner": "ludovicianul",
+      "repo_name": "sol"
+    },
+    {
+      "name": "d135-1r43/mensabot",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/545499?s=40&v=4",
+      "owner": "d135-1r43",
+      "repo_name": "mensabot"
+    },
+    {
+      "name": "jose-carmona/wayne",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/2102206?s=40&v=4",
+      "owner": "jose-carmona",
+      "repo_name": "wayne"
+    },
+    {
+      "name": "orpiske/brainstorm",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/1851560?s=40&v=4",
+      "owner": "orpiske",
+      "repo_name": "brainstorm"
+    },
+    {
+      "name": "SaschaKiebler/thesis-chatbot",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/73725309?s=40&v=4",
+      "owner": "SaschaKiebler",
+      "repo_name": "thesis-chatbot"
+    },
+    {
+      "name": "lreimer/k8s-native-java-ai",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/3668212?s=40&v=4",
+      "owner": "lreimer",
+      "repo_name": "k8s-native-java-ai"
+    },
+    {
+      "name": "nzuguem/llm-fraud-detection",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/32323481?s=40&v=4",
+      "owner": "nzuguem",
+      "repo_name": "llm-fraud-detection"
+    },
+    {
+      "name": "philippart-s/jarvis",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/26224751?s=40&v=4",
+      "owner": "philippart-s",
+      "repo_name": "jarvis"
+    },
+    {
+      "name": "lordofthejars-ai/second-hand-shop",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/169883100?s=40&v=4",
+      "owner": "lordofthejars-ai",
+      "repo_name": "second-hand-shop"
+    },
+    {
+      "name": "gsmet/devoxx24-github-bot",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/1279749?s=40&v=4",
+      "owner": "gsmet",
+      "repo_name": "devoxx24-github-bot"
+    },
+    {
+      "name": "lmagnette/DevfestLille-2024",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/6390187?s=40&v=4",
+      "owner": "lmagnette",
+      "repo_name": "DevfestLille-2024"
+    },
+    {
+      "name": "llamara-ai/llamara-backend",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/191321587?s=40&v=4",
+      "owner": "llamara-ai",
+      "repo_name": "llamara-backend"
+    },
+    {
+      "name": "geoand/quarkus-langchain4j",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/4374975?s=40&v=4",
+      "owner": "geoand",
+      "repo_name": "quarkus-langchain4j"
+    },
+    {
+      "name": "jonathanvila/pingpong-ai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1836434?s=40&v=4",
+      "owner": "jonathanvila",
+      "repo_name": "pingpong-ai"
+    },
+    {
+      "name": "TEAMPB/ollama-vaadin-quarkus",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/21005995?s=40&v=4",
+      "owner": "TEAMPB",
+      "repo_name": "ollama-vaadin-quarkus"
+    },
+    {
+      "name": "patterncatalyst/quarkus-halloween-ai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/14931668?s=40&v=4",
+      "owner": "patterncatalyst",
+      "repo_name": "quarkus-halloween-ai"
+    },
+    {
+      "name": "marcoklaassen/quarkus-ai-chatbot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/33844368?s=40&v=4",
+      "owner": "marcoklaassen",
+      "repo_name": "quarkus-ai-chatbot"
+    },
+    {
+      "name": "megacamelus/camel-assistant",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/101815729?s=40&v=4",
+      "owner": "megacamelus",
+      "repo_name": "camel-assistant"
+    },
+    {
+      "name": "qaware/k8s-native-java-ai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/645319?s=40&v=4",
+      "owner": "qaware",
+      "repo_name": "k8s-native-java-ai"
+    },
+    {
+      "name": "lordofthejars-ai/news-clustering-with-vectors",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/169883100?s=40&v=4",
+      "owner": "lordofthejars-ai",
+      "repo_name": "news-clustering-with-vectors"
+    },
+    {
+      "name": "sebastienblanc/knative-chat-bot-with-Redis-Memory-Store",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/335133?s=40&v=4",
+      "owner": "sebastienblanc",
+      "repo_name": "knative-chat-bot-with-Redis-Memory-Store"
+    },
+    {
+      "name": "Matis-mc/ApsiDart-Back",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/77932902?s=40&v=4",
+      "owner": "Matis-mc",
+      "repo_name": "ApsiDart-Back"
+    },
+    {
+      "name": "LizeRaes/shopping-assistant-light",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/49833622?s=40&v=4",
+      "owner": "LizeRaes",
+      "repo_name": "shopping-assistant-light"
+    },
+    {
+      "name": "anmiralles/quarkus-ai-llm-websearch",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/5773365?s=40&v=4",
+      "owner": "anmiralles",
+      "repo_name": "quarkus-ai-llm-websearch"
+    },
+    {
+      "name": "hsmiranda/quarkus-drools-llm",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/553757?s=40&v=4",
+      "owner": "hsmiranda",
+      "repo_name": "quarkus-drools-llm"
+    },
+    {
+      "name": "nzuguem/sakila-db-llm-rag",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/32323481?s=40&v=4",
+      "owner": "nzuguem",
+      "repo_name": "sakila-db-llm-rag"
+    },
+    {
+      "name": "raffaelespazzoli/rag-exercise",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/6179036?s=40&v=4",
+      "owner": "raffaelespazzoli",
+      "repo_name": "rag-exercise"
+    },
+    {
+      "name": "sebastienblanc/fun-with-quarkus-ai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/335133?s=40&v=4",
+      "owner": "sebastienblanc",
+      "repo_name": "fun-with-quarkus-ai"
+    },
+    {
+      "name": "nzuguem/quarkus-open-feature",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/32323481?s=40&v=4",
+      "owner": "nzuguem",
+      "repo_name": "quarkus-open-feature"
+    },
+    {
+      "name": "hsolucas/senac-test-rag",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/5081298?s=40&v=4",
+      "owner": "hsolucas",
+      "repo_name": "senac-test-rag"
+    },
+    {
+      "name": "ch007m/my-quarkus-chatbot-app",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/45640710?s=40&v=4",
+      "owner": "ch007m",
+      "repo_name": "my-quarkus-chatbot-app"
+    },
+    {
+      "name": "sebastienblanc/quarkus-meeting-bot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/335133?s=40&v=4",
+      "owner": "sebastienblanc",
+      "repo_name": "quarkus-meeting-bot"
+    },
+    {
+      "name": "flavioneubauer/fhir-pex",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/8632588?s=40&v=4",
+      "owner": "flavioneubauer",
+      "repo_name": "fhir-pex"
+    }
+  ],
+  "total_dependents_number": 64,
+  "public_dependents_number": 64,
+  "private_dependents_number": -271,
+  "public_dependents_stars": 1740,
+  "badges": {
+    "total_doc_url": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=271&color=informational&logo=slickpic)](https://github.com/nvuillam/github-dependents-info)",
+    "total": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=64&color=informational&logo=slickpic)](https://github.com/quarkiverse/quarkus-langchain4j/network/dependents)",
+    "public": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=64&color=informational&logo=slickpic)](https://github.com/quarkiverse/quarkus-langchain4j/network/dependents)",
+    "private": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-271&color=informational&logo=slickpic)](https://github.com/quarkiverse/quarkus-langchain4j/network/dependents)",
+    "stars": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=1740&color=informational&logo=slickpic)](https://github.com/quarkiverse/quarkus-langchain4j/network/dependents)"
+  }
+}

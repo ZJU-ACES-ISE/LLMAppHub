@@ -1,0 +1,272 @@
+[
+  {
+    "full_name": "suvansh/CeLLM",
+    "name": "CeLLM",
+    "description": "applying LLM prompting to spreadsheets"
+  },
+  {
+    "full_name": "godwinjs/GymBuddy",
+    "name": "GymBuddy",
+    "description": "Gym Assistant chatbot built with GoogleAI, Superbase and langchainJS"
+  },
+  {
+    "full_name": "tikserziku/dev-guides-new",
+    "name": "dev-guides-new",
+    "description": "AI Project Generator using Claude API"
+  },
+  {
+    "full_name": "zoom/meetingbot-recall-sample",
+    "name": "meetingbot-recall-sample",
+    "description": "Zoom Meeting assistant built using Recall.ai, Anthropic's Claude API, and the Zoom Apps SDK"
+  },
+  {
+    "full_name": "yongli233/llm-reverse-proxy",
+    "name": "llm-reverse-proxy",
+    "description": "Basic OpenAI/Anthropic 2-in-1 reverse proxy"
+  },
+  {
+    "full_name": "yutamatsuura/ai-chat-interface",
+    "name": "ai-chat-interface",
+    "description": "AI-powered chat interface using Claude API"
+  },
+  {
+    "full_name": "GuyMitchy/planai",
+    "name": "planai",
+    "description": "Agent-Zero using instructions from claude to build Planai"
+  },
+  {
+    "full_name": "alexandurrr/NextJS-AI-Toolkit",
+    "name": "NextJS-AI-Toolkit",
+    "description": "Using Next.JS to explore all the OpenAI, and Claude Capabilities"
+  },
+  {
+    "full_name": "JoeyWangTW/youtube-addiction-rehab-chrome-extension",
+    "name": "youtube-addiction-rehab-chrome-extension",
+    "description": "LLM powered chrome extension for content level blocking and filtering"
+  },
+  {
+    "full_name": "ezetech/anthropic-gui",
+    "name": "anthropic-gui",
+    "description": "A user-friendly, feature-rich UI enhancing interaction with Anthropic's Claude AI, enabling model selection, chat saving, and improved prompt editing."
+  },
+  {
+    "full_name": "RylandAdams/AutoTaskGenerator",
+    "name": "AutoTaskGenerator",
+    "description": "Fireflies -> Claude -> Click-up, Automates reviewing a meeting summary and passes it to Claude to parse out the tasks then filters and assigns in Clickup."
+  },
+  {
+    "full_name": "Magnazee/PWA005",
+    "name": "PWA005",
+    "description": "Claude Chat Interface - A simple PWA for interacting with Claude AI"
+  },
+  {
+    "full_name": "VedaVerse-opensource/chatsphere",
+    "name": "chatsphere",
+    "description": "Your all-in-one open source AI assistant hub: Access cutting-edge language models through a single platform. Store conversations locally for easy reference, use your own API keys, and enjoy complete privacy . Streamline your AI interactions while maintaining full control and eliminating multiple subscriptions"
+  },
+  {
+    "full_name": "rxtoolkit/genai",
+    "name": "genai",
+    "description": "Generative AI tools for RxJS (e.g. OpenAI, Anthropic, Cohere, HuggingFace, etc)"
+  },
+  {
+    "full_name": "zmxv/humorset",
+    "name": "humorset",
+    "description": "HumorSet is a data set to evaluate AI model's sense of humor and ability to explain jokes."
+  },
+  {
+    "full_name": "me-suzy/Integrate-ChatBOT-with-CLAUDE.AI-on-your-website",
+    "name": "Integrate-ChatBOT-with-CLAUDE.AI-on-your-website",
+    "description": "Integrate ChatBOT with CHATGPT on your website - Step by step"
+  },
+  {
+    "full_name": "allenyo7/actualclaudecloneworks",
+    "name": "actualclaudecloneworks",
+    "description": "this is the one that works when hosted locally, and is split in two folders for client and server."
+  },
+  {
+    "full_name": "SillyTavern/SillyTavern",
+    "name": "SillyTavern",
+    "description": "LLM Frontend for Power Users."
+  },
+  {
+    "full_name": "locmaymo/SillyTavern-huggingface",
+    "name": "SillyTavern-huggingface",
+    "description": null
+  },
+  {
+    "full_name": "chokiproai/ChatGPT-Plugins",
+    "name": "ChatGPT-Plugins",
+    "description": "Chat AI (↓↓Cuộn trang để xem thêm↓↓)"
+  },
+  {
+    "full_name": "gloryhry/ChatGPT-Next-Web-LangChain",
+    "name": "ChatGPT-Next-Web-LangChain",
+    "description": null
+  },
+  {
+    "full_name": "ChatGPTNextWeb/ChatGPT-Next-Web",
+    "name": "ChatGPT-Next-Web",
+    "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。"
+  },
+  {
+    "full_name": "find-xposed-magisk/Yidadaa_ChatGPT-Next-Web",
+    "name": "Yidadaa_ChatGPT-Next-Web",
+    "description": "A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。"
+  },
+  {
+    "full_name": "zydou/ChatGPT-Next-Web",
+    "name": "ChatGPT-Next-Web",
+    "description": "A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。"
+  },
+  {
+    "full_name": "carsond135/ChatGPT-Next-Web",
+    "name": "ChatGPT-Next-Web",
+    "description": "A cross-platform ChatGPT/Gemini UI."
+  },
+  {
+    "full_name": "buer123123/chatgpt-next-web-gemini",
+    "name": "chatgpt-next-web-gemini",
+    "description": null
+  },
+  {
+    "full_name": "sej95/ChatTopWeb",
+    "name": "ChatTopWeb",
+    "description": "A well-designed cross-platform Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 Gemini 应用。"
+  },
+  {
+    "full_name": "Dogtiti/ChatGPT-Next-Web-EarlyBird",
+    "name": "ChatGPT-Next-Web-EarlyBird",
+    "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。"
+  },
+  {
+    "full_name": "Stevenic/convo",
+    "name": "convo",
+    "description": "Convo is a conversational programming language that's designed to be generated and interpreted by a Large Language Model (LLM)."
+  },
+  {
+    "full_name": "CompendiumLabs/oneping",
+    "name": "oneping",
+    "description": "Library for querying and chatting with LLMs. Supports major providers."
+  },
+  {
+    "full_name": "irom77/filterable-table-demo",
+    "name": "filterable-table-demo",
+    "description": "filter with LLM"
+  },
+  {
+    "full_name": "QuestoM/Linsights",
+    "name": "Linsights",
+    "description": "Linsights is a Chrome extension that adds AI-powered insights to LinkedIn posts. It integrates a \"Linsights\" button into the LinkedIn interface, using the Claude API to analyze post content and generate insights. Users can customize AI settings, and the extension automatically inserts insights into comment boxes."
+  },
+  {
+    "full_name": "remichu-ai/gallamaUI",
+    "name": "gallamaUI",
+    "description": null
+  },
+  {
+    "full_name": "me-suzy/Integrate-ChatBOT-with-CLAUDE.AI-on-your-website-the-second-method",
+    "name": "Integrate-ChatBOT-with-CLAUDE.AI-on-your-website-the-second-method",
+    "description": "Integrate ChatBOT with CLAUDE.AI on your website (the second method)"
+  },
+  {
+    "full_name": "huhuhang/bob-plugin-cloudflare",
+    "name": "bob-plugin-cloudflare",
+    "description": "Azure OpenAI + Cloudflare AI Gateway 进行翻译或润色"
+  },
+  {
+    "full_name": "ikechan8370/chatgpt-plugin",
+    "name": "chatgpt-plugin",
+    "description": "云崽系机器人的智能聊天插件"
+  },
+  {
+    "full_name": "pacnpal/Claude-code-review",
+    "name": "Claude-code-review",
+    "description": "GitHub Action for code review using Claude"
+  },
+  {
+    "full_name": "ivanyu/hn-tldr-extension",
+    "name": "hn-tldr-extension",
+    "description": "A bring-your-own-key browser extension for summarizing Hacker News articles with LLMs"
+  },
+  {
+    "full_name": "AmanPriyanshu/API-LLM-Hub",
+    "name": "API-LLM-Hub",
+    "description": "A static-page vanilla-js interface for various LLM APIs (OpenAI, Claude, Gemini, Together)."
+  },
+  {
+    "full_name": "sh2/extension-summarize-translate-claude",
+    "name": "extension-summarize-translate-claude",
+    "description": "Chrome extension to summarize and translate web pages. Uses Claude as the backend."
+  },
+  {
+    "full_name": "richardhyy/ice-vscode",
+    "name": "ice-vscode",
+    "description": "ICE (Integrated Conversational Environment) is a VSCode extension that allows users to chat with and customize language models (LLMs) within their coding environment, manage chat histories, fork conversations, and create custom LLM integrations using JavaScript. Docs: https://ice.leaforest.cc/"
+  },
+  {
+    "full_name": "tg1482/surf-sage",
+    "name": "surf-sage",
+    "description": "A chrome extension to chat with any webpage using OpenAI, Claude, or Ollama"
+  },
+  {
+    "full_name": "cescanue/Claude-interface",
+    "name": "Claude-interface",
+    "description": "A powerful and elegant web interface for Claude AI that combines enterprise-grade functionality with seamless user experience. Built to maximize the potential of Claude's API while ensuring security and efficiency."
+  },
+  {
+    "full_name": "harperreed/firebase-openai-proxy",
+    "name": "firebase-openai-proxy",
+    "description": "A simple firebase app that acts as an openai api proxy. Tracks usage, and costs. "
+  },
+  {
+    "full_name": "stoerr/chatGPTtools",
+    "name": "chatGPTtools",
+    "description": "Many command line tools, bookmarklets and apps for productivity using the OpenAI chat completion API that models ChatGPT"
+  },
+  {
+    "full_name": "Ficlu/ModelrRevolver",
+    "name": "ModelrRevolver",
+    "description": "LLM API GUI, basic CRUD app in Node and React."
+  },
+  {
+    "full_name": "threedesoft/toshimo",
+    "name": "toshimo",
+    "description": "AI-powered coding assistant with multi-LLM support and comprehensive testing"
+  },
+  {
+    "full_name": "LostAbaddon/Agentverse",
+    "name": "Agentverse",
+    "description": "A multi-agent AI tool based on Claude"
+  },
+  {
+    "full_name": "Zaki-1052/GPTPortal",
+    "name": "GPTPortal",
+    "description": "A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files."
+  },
+  {
+    "full_name": "radareorg/r2ai",
+    "name": "r2ai",
+    "description": "local language model for radare2"
+  },
+  {
+    "full_name": "padolsey/xmllm",
+    "name": "xmllm",
+    "description": "Simple structured data from any LLM"
+  },
+  {
+    "full_name": "Inc44/CoFlu",
+    "name": "CoFlu",
+    "description": "CoFlu is a comprehensive text manipulation and comparison tool that allows users to compare two pieces of text, generate text using various AI models, and view differences in both single- and double-column formats. It also includes features for text transformation, audio transcription, and image handling."
+  },
+  {
+    "full_name": "lugia19/Claude-Usage-Extension",
+    "name": "Claude-Usage-Extension",
+    "description": "A usage tracker extension for Claude.ai"
+  },
+  {
+    "full_name": "aseichter2007/ClipboardConqueror",
+    "name": "ClipboardConqueror",
+    "description": "Clipboard Conqueror is a novel copy and paste copilot alternative designed to bring your very own LLM AI assistant to any text field.  "
+  }
+]

@@ -1,0 +1,2094 @@
+{
+  "all_public_dependent_repos": [
+    {
+      "name": "mudler/LocalAI",
+      "stars": 30582,
+      "img": "https://avatars.githubusercontent.com/u/2420543?s=40&v=4",
+      "owner": "mudler",
+      "repo_name": "LocalAI"
+    },
+    {
+      "name": "Wox-launcher/Wox",
+      "stars": 24985,
+      "img": "https://avatars.githubusercontent.com/u/15628601?s=40&v=4",
+      "owner": "Wox-launcher",
+      "repo_name": "Wox"
+    },
+    {
+      "name": "dapr/dapr",
+      "stars": 24420,
+      "img": "https://avatars.githubusercontent.com/u/51932459?s=40&v=4",
+      "owner": "dapr",
+      "repo_name": "dapr"
+    },
+    {
+      "name": "nilsherzig/LLocalSearch",
+      "stars": 5846,
+      "img": "https://avatars.githubusercontent.com/u/72463901?s=40&v=4",
+      "owner": "nilsherzig",
+      "repo_name": "LLocalSearch"
+    },
+    {
+      "name": "tmc/langchaingo",
+      "stars": 5809,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "langchaingo"
+    },
+    {
+      "name": "testcontainers/testcontainers-go",
+      "stars": 3857,
+      "img": "https://avatars.githubusercontent.com/u/13393021?s=40&v=4",
+      "owner": "testcontainers",
+      "repo_name": "testcontainers-go"
+    },
+    {
+      "name": "semanser/codel",
+      "stars": 2258,
+      "img": "https://avatars.githubusercontent.com/u/4020045?s=40&v=4",
+      "owner": "semanser",
+      "repo_name": "codel"
+    },
+    {
+      "name": "vearch/vearch",
+      "stars": 2124,
+      "img": "https://avatars.githubusercontent.com/u/40046182?s=40&v=4",
+      "owner": "vearch",
+      "repo_name": "vearch"
+    },
+    {
+      "name": "eliben/code-for-blog",
+      "stars": 1632,
+      "img": "https://avatars.githubusercontent.com/u/1130906?s=40&v=4",
+      "owner": "eliben",
+      "repo_name": "code-for-blog"
+    },
+    {
+      "name": "dapr/components-contrib",
+      "stars": 556,
+      "img": "https://avatars.githubusercontent.com/u/51932459?s=40&v=4",
+      "owner": "dapr",
+      "repo_name": "components-contrib"
+    },
+    {
+      "name": "icereed/paperless-gpt",
+      "stars": 552,
+      "img": "https://avatars.githubusercontent.com/u/444269?s=40&v=4",
+      "owner": "icereed",
+      "repo_name": "paperless-gpt"
+    },
+    {
+      "name": "swuecho/chat",
+      "stars": 535,
+      "img": "https://avatars.githubusercontent.com/u/666683?s=40&v=4",
+      "owner": "swuecho",
+      "repo_name": "chat"
+    },
+    {
+      "name": "0x4D31/galah",
+      "stars": 491,
+      "img": "https://avatars.githubusercontent.com/u/11577776?s=40&v=4",
+      "owner": "0x4D31",
+      "repo_name": "galah"
+    },
+    {
+      "name": "helixml/helix",
+      "stars": 418,
+      "img": "https://avatars.githubusercontent.com/u/149581110?s=40&v=4",
+      "owner": "helixml",
+      "repo_name": "helix"
+    },
+    {
+      "name": "IceBearAI/LLM-And-More",
+      "stars": 379,
+      "img": "https://avatars.githubusercontent.com/u/159442497?s=40&v=4",
+      "owner": "IceBearAI",
+      "repo_name": "LLM-And-More"
+    },
+    {
+      "name": "oriondesign2015/SetupOrion",
+      "stars": 339,
+      "img": "https://avatars.githubusercontent.com/u/139019565?s=40&v=4",
+      "owner": "oriondesign2015",
+      "repo_name": "SetupOrion"
+    },
+    {
+      "name": "dapr/cli",
+      "stars": 324,
+      "img": "https://avatars.githubusercontent.com/u/51932459?s=40&v=4",
+      "owner": "dapr",
+      "repo_name": "cli"
+    },
+    {
+      "name": "zhimaAi/chatwiki",
+      "stars": 318,
+      "img": "https://avatars.githubusercontent.com/u/170062741?s=40&v=4",
+      "owner": "zhimaAi",
+      "repo_name": "chatwiki"
+    },
+    {
+      "name": "wesql/wescale",
+      "stars": 287,
+      "img": "https://avatars.githubusercontent.com/u/130346496?s=40&v=4",
+      "owner": "wesql",
+      "repo_name": "wescale"
+    },
+    {
+      "name": "aaronchen2k/deeptest",
+      "stars": 149,
+      "img": "https://avatars.githubusercontent.com/u/3222874?s=40&v=4",
+      "owner": "aaronchen2k",
+      "repo_name": "deeptest"
+    },
+    {
+      "name": "deepakjois/podscript",
+      "stars": 145,
+      "img": "https://avatars.githubusercontent.com/u/5342?s=40&v=4",
+      "owner": "deepakjois",
+      "repo_name": "podscript"
+    },
+    {
+      "name": "tmc/righthand",
+      "stars": 108,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "righthand"
+    },
+    {
+      "name": "rezible/rezible",
+      "stars": 107,
+      "img": "https://avatars.githubusercontent.com/u/191204460?s=40&v=4",
+      "owner": "rezible",
+      "repo_name": "rezible"
+    },
+    {
+      "name": "kubeagi/arcadia",
+      "stars": 99,
+      "img": "https://avatars.githubusercontent.com/u/138267431?s=40&v=4",
+      "owner": "kubeagi",
+      "repo_name": "arcadia"
+    },
+    {
+      "name": "tmc/langgraphgo",
+      "stars": 86,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "langgraphgo"
+    },
+    {
+      "name": "tgulacsi/go",
+      "stars": 81,
+      "img": "https://avatars.githubusercontent.com/u/256074?s=40&v=4",
+      "owner": "tgulacsi",
+      "repo_name": "go"
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "stars": 76,
+      "img": "https://avatars.githubusercontent.com/u/39194251?s=40&v=4",
+      "owner": "vxcontrol",
+      "repo_name": "pentagi"
+    },
+    {
+      "name": "augur-ai/mantis",
+      "stars": 71,
+      "img": "https://avatars.githubusercontent.com/u/186903098?s=40&v=4",
+      "owner": "augur-ai",
+      "repo_name": "mantis"
+    },
+    {
+      "name": "qiniu/reviewbot",
+      "stars": 67,
+      "img": "https://avatars.githubusercontent.com/u/1563636?s=40&v=4",
+      "owner": "qiniu",
+      "repo_name": "reviewbot"
+    },
+    {
+      "name": "lunabrain-ai/lunabrain",
+      "stars": 67,
+      "img": "https://avatars.githubusercontent.com/u/128928473?s=40&v=4",
+      "owner": "lunabrain-ai",
+      "repo_name": "lunabrain"
+    },
+    {
+      "name": "tmc/smol-dev-go",
+      "stars": 66,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "smol-dev-go"
+    },
+    {
+      "name": "zzzgydi/zbyai",
+      "stars": 51,
+      "img": "https://avatars.githubusercontent.com/u/27361820?s=40&v=4",
+      "owner": "zzzgydi",
+      "repo_name": "zbyai"
+    },
+    {
+      "name": "geekr-dev/gpt-engineer",
+      "stars": 50,
+      "img": "https://avatars.githubusercontent.com/u/114386672?s=40&v=4",
+      "owner": "geekr-dev",
+      "repo_name": "gpt-engineer"
+    },
+    {
+      "name": "xavidop/dialogflow-cx-cli",
+      "stars": 44,
+      "img": "https://avatars.githubusercontent.com/u/4416096?s=40&v=4",
+      "owner": "xavidop",
+      "repo_name": "dialogflow-cx-cli"
+    },
+    {
+      "name": "jackmcguire1/alexa-chatgpt",
+      "stars": 42,
+      "img": "https://avatars.githubusercontent.com/u/9089342?s=40&v=4",
+      "owner": "jackmcguire1",
+      "repo_name": "alexa-chatgpt"
+    },
+    {
+      "name": "AkihiroSuda/vexllm",
+      "stars": 41,
+      "img": "https://avatars.githubusercontent.com/u/9248427?s=40&v=4",
+      "owner": "AkihiroSuda",
+      "repo_name": "vexllm"
+    },
+    {
+      "name": "yubing744/trading-gpt",
+      "stars": 39,
+      "img": "https://avatars.githubusercontent.com/u/1449069?s=40&v=4",
+      "owner": "yubing744",
+      "repo_name": "trading-gpt"
+    },
+    {
+      "name": "block/ftl",
+      "stars": 37,
+      "img": "https://avatars.githubusercontent.com/u/185116535?s=40&v=4",
+      "owner": "block",
+      "repo_name": "ftl"
+    },
+    {
+      "name": "xctf-io/xctf",
+      "stars": 37,
+      "img": "https://avatars.githubusercontent.com/u/86289378?s=40&v=4",
+      "owner": "xctf-io",
+      "repo_name": "xctf"
+    },
+    {
+      "name": "sausheong/breeze",
+      "stars": 35,
+      "img": "https://avatars.githubusercontent.com/u/5962?s=40&v=4",
+      "owner": "sausheong",
+      "repo_name": "breeze"
+    },
+    {
+      "name": "ibuilding-X/driver-box",
+      "stars": 34,
+      "img": "https://avatars.githubusercontent.com/u/126446818?s=40&v=4",
+      "owner": "ibuilding-X",
+      "repo_name": "driver-box"
+    },
+    {
+      "name": "SecFathy/Flash",
+      "stars": 31,
+      "img": "https://avatars.githubusercontent.com/u/6282454?s=40&v=4",
+      "owner": "SecFathy",
+      "repo_name": "Flash"
+    },
+    {
+      "name": "build-on-aws/rag-golang-postgresql-langchain",
+      "stars": 31,
+      "img": "https://avatars.githubusercontent.com/u/85496091?s=40&v=4",
+      "owner": "build-on-aws",
+      "repo_name": "rag-golang-postgresql-langchain"
+    },
+    {
+      "name": "tmc/cgpt",
+      "stars": 30,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "cgpt"
+    },
+    {
+      "name": "eryajf/langchaingo-ollama-rag",
+      "stars": 30,
+      "img": "https://avatars.githubusercontent.com/u/33259379?s=40&v=4",
+      "owner": "eryajf",
+      "repo_name": "langchaingo-ollama-rag"
+    },
+    {
+      "name": "milosgajdos/bot-banter",
+      "stars": 27,
+      "img": "https://avatars.githubusercontent.com/u/1392526?s=40&v=4",
+      "owner": "milosgajdos",
+      "repo_name": "bot-banter"
+    },
+    {
+      "name": "Rugz007/liha",
+      "stars": 26,
+      "img": "https://avatars.githubusercontent.com/u/16833604?s=40&v=4",
+      "owner": "Rugz007",
+      "repo_name": "liha"
+    },
+    {
+      "name": "instill-ai/pipeline-backend",
+      "stars": 26,
+      "img": "https://avatars.githubusercontent.com/u/66143470?s=40&v=4",
+      "owner": "instill-ai",
+      "repo_name": "pipeline-backend"
+    },
+    {
+      "name": "ml2068/ollamagoweb",
+      "stars": 25,
+      "img": "https://avatars.githubusercontent.com/u/22173675?s=40&v=4",
+      "owner": "ml2068",
+      "repo_name": "ollamagoweb"
+    },
+    {
+      "name": "marco-souza/omg",
+      "stars": 25,
+      "img": "https://avatars.githubusercontent.com/u/4452113?s=40&v=4",
+      "owner": "marco-souza",
+      "repo_name": "omg"
+    },
+    {
+      "name": "NethermindEth/teeception",
+      "stars": 21,
+      "img": "https://avatars.githubusercontent.com/u/43478154?s=40&v=4",
+      "owner": "NethermindEth",
+      "repo_name": "teeception"
+    },
+    {
+      "name": "devinyf/dashscopego",
+      "stars": 21,
+      "img": "https://avatars.githubusercontent.com/u/31347811?s=40&v=4",
+      "owner": "devinyf",
+      "repo_name": "dashscopego"
+    },
+    {
+      "name": "obot-platform/tools",
+      "stars": 20,
+      "img": "https://avatars.githubusercontent.com/u/191922064?s=40&v=4",
+      "owner": "obot-platform",
+      "repo_name": "tools"
+    },
+    {
+      "name": "lyraaius/LyraAI-exporters",
+      "stars": 20,
+      "img": "https://avatars.githubusercontent.com/u/198034093?s=40&v=4",
+      "owner": "lyraaius",
+      "repo_name": "LyraAI-exporters"
+    },
+    {
+      "name": "mylxsw/adanos-alert",
+      "stars": 18,
+      "img": "https://avatars.githubusercontent.com/u/2330911?s=40&v=4",
+      "owner": "mylxsw",
+      "repo_name": "adanos-alert"
+    },
+    {
+      "name": "mdelapenya/generative-ai-with-testcontainers",
+      "stars": 18,
+      "img": "https://avatars.githubusercontent.com/u/951580?s=40&v=4",
+      "owner": "mdelapenya",
+      "repo_name": "generative-ai-with-testcontainers"
+    },
+    {
+      "name": "mr-karan/clx",
+      "stars": 18,
+      "img": "https://avatars.githubusercontent.com/u/5689132?s=40&v=4",
+      "owner": "mr-karan",
+      "repo_name": "clx"
+    },
+    {
+      "name": "afoley587/52-weeks-of-projects-2024",
+      "stars": 17,
+      "img": "https://avatars.githubusercontent.com/u/54959686?s=40&v=4",
+      "owner": "afoley587",
+      "repo_name": "52-weeks-of-projects-2024"
+    },
+    {
+      "name": "GoSimplicity/AICoreOps",
+      "stars": 16,
+      "img": "https://avatars.githubusercontent.com/u/124539898?s=40&v=4",
+      "owner": "GoSimplicity",
+      "repo_name": "AICoreOps"
+    },
+    {
+      "name": "shayanfarzi/ollama-rag",
+      "stars": 16,
+      "img": "https://avatars.githubusercontent.com/u/20681502?s=40&v=4",
+      "owner": "shayanfarzi",
+      "repo_name": "ollama-rag"
+    },
+    {
+      "name": "flanksource/mission-control",
+      "stars": 15,
+      "img": "https://avatars.githubusercontent.com/u/58787470?s=40&v=4",
+      "owner": "flanksource",
+      "repo_name": "mission-control"
+    },
+    {
+      "name": "kdeps/kdeps",
+      "stars": 15,
+      "img": "https://avatars.githubusercontent.com/u/170785189?s=40&v=4",
+      "owner": "kdeps",
+      "repo_name": "kdeps"
+    },
+    {
+      "name": "triet0612/ShortNews",
+      "stars": 15,
+      "img": "https://avatars.githubusercontent.com/u/75552835?s=40&v=4",
+      "owner": "triet0612",
+      "repo_name": "ShortNews"
+    },
+    {
+      "name": "sausheong/monsoon",
+      "stars": 14,
+      "img": "https://avatars.githubusercontent.com/u/5962?s=40&v=4",
+      "owner": "sausheong",
+      "repo_name": "monsoon"
+    },
+    {
+      "name": "HiveMesh/wasmate-runtime",
+      "stars": 13,
+      "img": "https://avatars.githubusercontent.com/u/156594269?s=40&v=4",
+      "owner": "HiveMesh",
+      "repo_name": "wasmate-runtime"
+    },
+    {
+      "name": "protoflow-labs/protoflow",
+      "stars": 13,
+      "img": "https://avatars.githubusercontent.com/u/131314789?s=40&v=4",
+      "owner": "protoflow-labs",
+      "repo_name": "protoflow"
+    },
+    {
+      "name": "haynb/go_gpt_assistant",
+      "stars": 13,
+      "img": "https://avatars.githubusercontent.com/u/124337128?s=40&v=4",
+      "owner": "haynb",
+      "repo_name": "go_gpt_assistant"
+    },
+    {
+      "name": "ChetanXpro/askme",
+      "stars": 12,
+      "img": "https://avatars.githubusercontent.com/u/107798155?s=40&v=4",
+      "owner": "ChetanXpro",
+      "repo_name": "askme"
+    },
+    {
+      "name": "byebyebruce/chat2data",
+      "stars": 12,
+      "img": "https://avatars.githubusercontent.com/u/3973693?s=40&v=4",
+      "owner": "byebyebruce",
+      "repo_name": "chat2data"
+    },
+    {
+      "name": "tectiv3/chatgpt-bot",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/1974189?s=40&v=4",
+      "owner": "tectiv3",
+      "repo_name": "chatgpt-bot"
+    },
+    {
+      "name": "superfly/llm-describer",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/22525303?s=40&v=4",
+      "owner": "superfly",
+      "repo_name": "llm-describer"
+    },
+    {
+      "name": "justshare-io/justshare",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/156890916?s=40&v=4",
+      "owner": "justshare-io",
+      "repo_name": "justshare"
+    },
+    {
+      "name": "byebyebruce/chat2code",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/3973693?s=40&v=4",
+      "owner": "byebyebruce",
+      "repo_name": "chat2code"
+    },
+    {
+      "name": "ardanlabs/ai-training",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/14281853?s=40&v=4",
+      "owner": "ardanlabs",
+      "repo_name": "ai-training"
+    },
+    {
+      "name": "taraktikos/gollama",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/1644814?s=40&v=4",
+      "owner": "taraktikos",
+      "repo_name": "gollama"
+    },
+    {
+      "name": "JackBekket/Hellper",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/22002044?s=40&v=4",
+      "owner": "JackBekket",
+      "repo_name": "Hellper"
+    },
+    {
+      "name": "born2ngopi/dolphin",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/38811722?s=40&v=4",
+      "owner": "born2ngopi",
+      "repo_name": "dolphin"
+    },
+    {
+      "name": "mvrilo/goprivategpt",
+      "stars": 10,
+      "img": "https://avatars.githubusercontent.com/u/207910?s=40&v=4",
+      "owner": "mvrilo",
+      "repo_name": "goprivategpt"
+    },
+    {
+      "name": "mastersingh24/genai-with-go-gopherconuk24",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/5595790?s=40&v=4",
+      "owner": "mastersingh24",
+      "repo_name": "genai-with-go-gopherconuk24"
+    },
+    {
+      "name": "DarkCaster/Perpetual",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/9012672?s=40&v=4",
+      "owner": "DarkCaster",
+      "repo_name": "Perpetual"
+    },
+    {
+      "name": "usual2970/ikitTG",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/1818414?s=40&v=4",
+      "owner": "usual2970",
+      "repo_name": "ikitTG"
+    },
+    {
+      "name": "sausheong/vdb",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/5962?s=40&v=4",
+      "owner": "sausheong",
+      "repo_name": "vdb"
+    },
+    {
+      "name": "abhirockzz/langchaingo-dynamodb-chat-history",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/6301594?s=40&v=4",
+      "owner": "abhirockzz",
+      "repo_name": "langchaingo-dynamodb-chat-history"
+    },
+    {
+      "name": "abhirockzz/langchain-go-postgresql-vectorstore",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/6301594?s=40&v=4",
+      "owner": "abhirockzz",
+      "repo_name": "langchain-go-postgresql-vectorstore"
+    },
+    {
+      "name": "abhirockzz/amazon-bedrock-langchain-go",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/6301594?s=40&v=4",
+      "owner": "abhirockzz",
+      "repo_name": "amazon-bedrock-langchain-go"
+    },
+    {
+      "name": "HryYyR/HiChat",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/92864176?s=40&v=4",
+      "owner": "HryYyR",
+      "repo_name": "HiChat"
+    },
+    {
+      "name": "tunghng/CVSeeker",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/110160843?s=40&v=4",
+      "owner": "tunghng",
+      "repo_name": "CVSeeker"
+    },
+    {
+      "name": "gempir/gempbot",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/9765622?s=40&v=4",
+      "owner": "gempir",
+      "repo_name": "gempbot"
+    },
+    {
+      "name": "kubebb/core",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/85277200?s=40&v=4",
+      "owner": "kubebb",
+      "repo_name": "core"
+    },
+    {
+      "name": "tmc/audioutil",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "audioutil"
+    },
+    {
+      "name": "zbysir/writeflow",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/61535029?s=40&v=4",
+      "owner": "zbysir",
+      "repo_name": "writeflow"
+    },
+    {
+      "name": "cruvie/kk_etcd_go",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/55651847?s=40&v=4",
+      "owner": "cruvie",
+      "repo_name": "kk_etcd_go"
+    },
+    {
+      "name": "JackBekket/Reflexia",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/22002044?s=40&v=4",
+      "owner": "JackBekket",
+      "repo_name": "Reflexia"
+    },
+    {
+      "name": "darmenliu/nuwa-terminal-chat",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/5330573?s=40&v=4",
+      "owner": "darmenliu",
+      "repo_name": "nuwa-terminal-chat"
+    },
+    {
+      "name": "devalexandre/langsmithgo",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/4489558?s=40&v=4",
+      "owner": "devalexandre",
+      "repo_name": "langsmithgo"
+    },
+    {
+      "name": "fengweiqiang/large_model_application",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/22905300?s=40&v=4",
+      "owner": "fengweiqiang",
+      "repo_name": "large_model_application"
+    },
+    {
+      "name": "bjwswang/assistant",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/30621793?s=40&v=4",
+      "owner": "bjwswang",
+      "repo_name": "assistant"
+    },
+    {
+      "name": "deinfinite/openrouter-gpt-telegram-bot",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/30325594?s=40&v=4",
+      "owner": "deinfinite",
+      "repo_name": "openrouter-gpt-telegram-bot"
+    },
+    {
+      "name": "tmc/mkprog",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "mkprog"
+    },
+    {
+      "name": "deadprogram/talkingheads",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/5520?s=40&v=4",
+      "owner": "deadprogram",
+      "repo_name": "talkingheads"
+    },
+    {
+      "name": "boxabirds/text2sql-prompt-engineering",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/147305?s=40&v=4",
+      "owner": "boxabirds",
+      "repo_name": "text2sql-prompt-engineering"
+    },
+    {
+      "name": "tmc/cudalive",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "cudalive"
+    },
+    {
+      "name": "Rafaelmdcarneiro/aibot_go_vs_rust",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/20961091?s=40&v=4",
+      "owner": "Rafaelmdcarneiro",
+      "repo_name": "aibot_go_vs_rust"
+    },
+    {
+      "name": "sjy-dv/mind-x",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/68223588?s=40&v=4",
+      "owner": "sjy-dv",
+      "repo_name": "mind-x"
+    },
+    {
+      "name": "alexjercan/webapp-go",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/48100248?s=40&v=4",
+      "owner": "alexjercan",
+      "repo_name": "webapp-go"
+    },
+    {
+      "name": "rajaiswal/langchaingo-llm-cloudflare",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/23004183?s=40&v=4",
+      "owner": "rajaiswal",
+      "repo_name": "langchaingo-llm-cloudflare"
+    },
+    {
+      "name": "MohammadBnei/go-ai-cli",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/43962695?s=40&v=4",
+      "owner": "MohammadBnei",
+      "repo_name": "go-ai-cli"
+    },
+    {
+      "name": "rhnvrm/summio",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/952036?s=40&v=4",
+      "owner": "rhnvrm",
+      "repo_name": "summio"
+    },
+    {
+      "name": "tmc/sdgui",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "sdgui"
+    },
+    {
+      "name": "nahumsa/magic-rules-qa",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/49600259?s=40&v=4",
+      "owner": "nahumsa",
+      "repo_name": "magic-rules-qa"
+    },
+    {
+      "name": "tmc/talks",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "talks"
+    },
+    {
+      "name": "hantmac/langchaingo-ollama-rag",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/7600925?s=40&v=4",
+      "owner": "hantmac",
+      "repo_name": "langchaingo-ollama-rag"
+    },
+    {
+      "name": "k33g/seven",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/491848?s=40&v=4",
+      "owner": "k33g",
+      "repo_name": "seven"
+    },
+    {
+      "name": "tmc/worldsim",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "worldsim"
+    },
+    {
+      "name": "dawn-islamic-tech/hadithopen-io-back",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/143660730?s=40&v=4",
+      "owner": "dawn-islamic-tech",
+      "repo_name": "hadithopen-io-back"
+    },
+    {
+      "name": "rafaeldtinoco/ghtimecardator",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/7395852?s=40&v=4",
+      "owner": "rafaeldtinoco",
+      "repo_name": "ghtimecardator"
+    },
+    {
+      "name": "build-on-aws/langchaingo-amazon-bedrock-llm",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/85496091?s=40&v=4",
+      "owner": "build-on-aws",
+      "repo_name": "langchaingo-amazon-bedrock-llm"
+    },
+    {
+      "name": "tmc/misc",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "misc"
+    },
+    {
+      "name": "yanshuaidong/LocalAI",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/54875266?s=40&v=4",
+      "owner": "yanshuaidong",
+      "repo_name": "LocalAI"
+    },
+    {
+      "name": "metaphorsystems/metaphor-go",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/137103665?s=40&v=4",
+      "owner": "metaphorsystems",
+      "repo_name": "metaphor-go"
+    },
+    {
+      "name": "KM8Oz/WhizApp",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/5567515?s=40&v=4",
+      "owner": "KM8Oz",
+      "repo_name": "WhizApp"
+    },
+    {
+      "name": "ci-robbot/localai-huggingface-zoo",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/105103991?s=40&v=4",
+      "owner": "ci-robbot",
+      "repo_name": "localai-huggingface-zoo"
+    },
+    {
+      "name": "tmc/hackathon-starter",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "hackathon-starter"
+    },
+    {
+      "name": "deagentAI/alphax-exporters",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/157687313?s=40&v=4",
+      "owner": "deagentAI",
+      "repo_name": "alphax-exporters"
+    },
+    {
+      "name": "AkhilSharma90/LLM-Projects",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/26513717?s=40&v=4",
+      "owner": "AkhilSharma90",
+      "repo_name": "LLM-Projects"
+    },
+    {
+      "name": "ZanzyTHEbar/file4you",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/45744329?s=40&v=4",
+      "owner": "ZanzyTHEbar",
+      "repo_name": "file4you"
+    },
+    {
+      "name": "hnatekmarorg/GreatIterator",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/89534493?s=40&v=4",
+      "owner": "hnatekmarorg",
+      "repo_name": "GreatIterator"
+    },
+    {
+      "name": "kemalcanbora/kube-alfred",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/9271322?s=40&v=4",
+      "owner": "kemalcanbora",
+      "repo_name": "kube-alfred"
+    },
+    {
+      "name": "KibbeWater/rabbitude-backend",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/35224538?s=40&v=4",
+      "owner": "KibbeWater",
+      "repo_name": "rabbitude-backend"
+    },
+    {
+      "name": "vaxilicaihouxian/github-code-reader",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/8603593?s=40&v=4",
+      "owner": "vaxilicaihouxian",
+      "repo_name": "github-code-reader"
+    },
+    {
+      "name": "jackwillsmith/openui-backend-go",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/130327075?s=40&v=4",
+      "owner": "jackwillsmith",
+      "repo_name": "openui-backend-go"
+    },
+    {
+      "name": "devalexandre/youtube",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/4489558?s=40&v=4",
+      "owner": "devalexandre",
+      "repo_name": "youtube"
+    },
+    {
+      "name": "tmc/kg",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "kg"
+    },
+    {
+      "name": "So-Sahari/jenn-ai",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/94094473?s=40&v=4",
+      "owner": "So-Sahari",
+      "repo_name": "jenn-ai"
+    },
+    {
+      "name": "Kamalesh-Seervi/FuryGPT",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/107933310?s=40&v=4",
+      "owner": "Kamalesh-Seervi",
+      "repo_name": "FuryGPT"
+    },
+    {
+      "name": "abhirockzz/chatbot-bedrock-dynamodb-lambda-langchain",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/6301594?s=40&v=4",
+      "owner": "abhirockzz",
+      "repo_name": "chatbot-bedrock-dynamodb-lambda-langchain"
+    },
+    {
+      "name": "sausheong/waldo",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/5962?s=40&v=4",
+      "owner": "sausheong",
+      "repo_name": "waldo"
+    },
+    {
+      "name": "polyfact/polyfire-api",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/97849788?s=40&v=4",
+      "owner": "polyfact",
+      "repo_name": "polyfire-api"
+    },
+    {
+      "name": "alexsniffin/go-auto-gpt",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/10759760?s=40&v=4",
+      "owner": "alexsniffin",
+      "repo_name": "go-auto-gpt"
+    },
+    {
+      "name": "BrainsOnChain/nema",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/188969760?s=40&v=4",
+      "owner": "BrainsOnChain",
+      "repo_name": "nema"
+    },
+    {
+      "name": "ksysoev/help-my-pet",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/910988?s=40&v=4",
+      "owner": "ksysoev",
+      "repo_name": "help-my-pet"
+    },
+    {
+      "name": "rainu/ask-mai",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/3158810?s=40&v=4",
+      "owner": "rainu",
+      "repo_name": "ask-mai"
+    },
+    {
+      "name": "a-h/ragserver",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/1029947?s=40&v=4",
+      "owner": "a-h",
+      "repo_name": "ragserver"
+    },
+    {
+      "name": "flowline-io/flowbot",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/143322437?s=40&v=4",
+      "owner": "flowline-io",
+      "repo_name": "flowbot"
+    },
+    {
+      "name": "hammybot/hammy",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/182360347?s=40&v=4",
+      "owner": "hammybot",
+      "repo_name": "hammy"
+    },
+    {
+      "name": "sangam14/SBOMInsight",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/21982562?s=40&v=4",
+      "owner": "sangam14",
+      "repo_name": "SBOMInsight"
+    },
+    {
+      "name": "rajathkotyal/LucidSearch",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/53811196?s=40&v=4",
+      "owner": "rajathkotyal",
+      "repo_name": "LucidSearch"
+    },
+    {
+      "name": "3boku/Go-To-Jeju",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/68502584?s=40&v=4",
+      "owner": "3boku",
+      "repo_name": "Go-To-Jeju"
+    },
+    {
+      "name": "Ashad001/golang-chain",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/93534298?s=40&v=4",
+      "owner": "Ashad001",
+      "repo_name": "golang-chain"
+    },
+    {
+      "name": "stong1994/aicommit",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/23580595?s=40&v=4",
+      "owner": "stong1994",
+      "repo_name": "aicommit"
+    },
+    {
+      "name": "stong1994/self-lawyer",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/23580595?s=40&v=4",
+      "owner": "stong1994",
+      "repo_name": "self-lawyer"
+    },
+    {
+      "name": "usual2970/meta-forge",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/1818414?s=40&v=4",
+      "owner": "usual2970",
+      "repo_name": "meta-forge"
+    },
+    {
+      "name": "PranjalD7/ColdExt",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/86157028?s=40&v=4",
+      "owner": "PranjalD7",
+      "repo_name": "ColdExt"
+    },
+    {
+      "name": "openshift-eng/splat-bot",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/84759374?s=40&v=4",
+      "owner": "openshift-eng",
+      "repo_name": "splat-bot"
+    },
+    {
+      "name": "devalexandre/rag-langchaingo",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/4489558?s=40&v=4",
+      "owner": "devalexandre",
+      "repo_name": "rag-langchaingo"
+    },
+    {
+      "name": "IceBear-CreditEase-LLM/aigc-admin",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/157380172?s=40&v=4",
+      "owner": "IceBear-CreditEase-LLM",
+      "repo_name": "aigc-admin"
+    },
+    {
+      "name": "nkcyber/ai-hacking-lab",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/49574868?s=40&v=4",
+      "owner": "nkcyber",
+      "repo_name": "ai-hacking-lab"
+    },
+    {
+      "name": "abhirockzz/langchaingo-extensions",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/6301594?s=40&v=4",
+      "owner": "abhirockzz",
+      "repo_name": "langchaingo-extensions"
+    },
+    {
+      "name": "Coding-Crashkurse/Gin-LangChain",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/64363987?s=40&v=4",
+      "owner": "Coding-Crashkurse",
+      "repo_name": "Gin-LangChain"
+    },
+    {
+      "name": "Ara-O/hound",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/67078991?s=40&v=4",
+      "owner": "Ara-O",
+      "repo_name": "hound"
+    },
+    {
+      "name": "malnick/boundaryai",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/4028224?s=40&v=4",
+      "owner": "malnick",
+      "repo_name": "boundaryai"
+    },
+    {
+      "name": "friddle/lark-gpt-search",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/2897690?s=40&v=4",
+      "owner": "friddle",
+      "repo_name": "lark-gpt-search"
+    },
+    {
+      "name": "JasonLovesDoggo/snapresolve",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/66544866?s=40&v=4",
+      "owner": "JasonLovesDoggo",
+      "repo_name": "snapresolve"
+    },
+    {
+      "name": "dmh2000/sqirvy-ai",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/24842?s=40&v=4",
+      "owner": "dmh2000",
+      "repo_name": "sqirvy-ai"
+    },
+    {
+      "name": "samiran634/SignEase",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/145244691?s=40&v=4",
+      "owner": "samiran634",
+      "repo_name": "SignEase"
+    },
+    {
+      "name": "clocklear/texttrove",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/622205?s=40&v=4",
+      "owner": "clocklear",
+      "repo_name": "texttrove"
+    },
+    {
+      "name": "xieyuhua/ollama-rag",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/29120060?s=40&v=4",
+      "owner": "xieyuhua",
+      "repo_name": "ollama-rag"
+    },
+    {
+      "name": "ydssx/kratos-kit",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/50192931?s=40&v=4",
+      "owner": "ydssx",
+      "repo_name": "kratos-kit"
+    },
+    {
+      "name": "dhiaayachi/llm-fabric",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/7470118?s=40&v=4",
+      "owner": "dhiaayachi",
+      "repo_name": "llm-fabric"
+    },
+    {
+      "name": "lkpalu/AI_Web",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/67643337?s=40&v=4",
+      "owner": "lkpalu",
+      "repo_name": "AI_Web"
+    },
+    {
+      "name": "lidongyue-hub/AIGC_F_ZhiHu",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/133654732?s=40&v=4",
+      "owner": "lidongyue-hub",
+      "repo_name": "AIGC_F_ZhiHu"
+    },
+    {
+      "name": "JackBekket/GitHelper",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/22002044?s=40&v=4",
+      "owner": "JackBekket",
+      "repo_name": "GitHelper"
+    },
+    {
+      "name": "johnscode/go-rag-simple",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/3689360?s=40&v=4",
+      "owner": "johnscode",
+      "repo_name": "go-rag-simple"
+    },
+    {
+      "name": "johnscode/go-rag",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/3689360?s=40&v=4",
+      "owner": "johnscode",
+      "repo_name": "go-rag"
+    },
+    {
+      "name": "prestonvasquez/vectormock",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/24281431?s=40&v=4",
+      "owner": "prestonvasquez",
+      "repo_name": "vectormock"
+    },
+    {
+      "name": "sausheong/bard",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/5962?s=40&v=4",
+      "owner": "sausheong",
+      "repo_name": "bard"
+    },
+    {
+      "name": "code-heim/go_48_llm_cli",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/149709139?s=40&v=4",
+      "owner": "code-heim",
+      "repo_name": "go_48_llm_cli"
+    },
+    {
+      "name": "rupeshtr78/chroma-db-rag",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/52508687?s=40&v=4",
+      "owner": "rupeshtr78",
+      "repo_name": "chroma-db-rag"
+    },
+    {
+      "name": "wicfasho/crawl-xy-ai",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/22081640?s=40&v=4",
+      "owner": "wicfasho",
+      "repo_name": "crawl-xy-ai"
+    },
+    {
+      "name": "ChetanXpro/proxy-checker",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/107798155?s=40&v=4",
+      "owner": "ChetanXpro",
+      "repo_name": "proxy-checker"
+    },
+    {
+      "name": "Soypete/llm-local-test-script",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/34897832?s=40&v=4",
+      "owner": "Soypete",
+      "repo_name": "llm-local-test-script"
+    },
+    {
+      "name": "AstroSynapseAI/rag-service",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/134447566?s=40&v=4",
+      "owner": "AstroSynapseAI",
+      "repo_name": "rag-service"
+    },
+    {
+      "name": "PylotLight/RaGo",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/7006124?s=40&v=4",
+      "owner": "PylotLight",
+      "repo_name": "RaGo"
+    },
+    {
+      "name": "LCY2013/thinking-in-go",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/13252800?s=40&v=4",
+      "owner": "LCY2013",
+      "repo_name": "thinking-in-go"
+    },
+    {
+      "name": "tmc/nbsim",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "nbsim"
+    },
+    {
+      "name": "JackBekket/MedusaParser",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/22002044?s=40&v=4",
+      "owner": "JackBekket",
+      "repo_name": "MedusaParser"
+    },
+    {
+      "name": "devalexandre/mylangchaingo",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/4489558?s=40&v=4",
+      "owner": "devalexandre",
+      "repo_name": "mylangchaingo"
+    },
+    {
+      "name": "babyswordsman/travel_ai_search",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/161180416?s=40&v=4",
+      "owner": "babyswordsman",
+      "repo_name": "travel_ai_search"
+    },
+    {
+      "name": "feuyeux/hello-langchain",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/769711?s=40&v=4",
+      "owner": "feuyeux",
+      "repo_name": "hello-langchain"
+    },
+    {
+      "name": "sausheong/simplerd",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/5962?s=40&v=4",
+      "owner": "sausheong",
+      "repo_name": "simplerd"
+    },
+    {
+      "name": "Neel-G-png/Jot",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/68640843?s=40&v=4",
+      "owner": "Neel-G-png",
+      "repo_name": "Jot"
+    },
+    {
+      "name": "ivynya/illm",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/35588499?s=40&v=4",
+      "owner": "ivynya",
+      "repo_name": "illm"
+    },
+    {
+      "name": "johanbrandhorst/rag-experiment",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/6604151?s=40&v=4",
+      "owner": "johanbrandhorst",
+      "repo_name": "rag-experiment"
+    },
+    {
+      "name": "smegg99/coding-night-2023",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/72160586?s=40&v=4",
+      "owner": "smegg99",
+      "repo_name": "coding-night-2023"
+    },
+    {
+      "name": "oseifrimpong/backend",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/3536601?s=40&v=4",
+      "owner": "oseifrimpong",
+      "repo_name": "backend"
+    },
+    {
+      "name": "Daz-3ux/dBlog",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/90372666?s=40&v=4",
+      "owner": "Daz-3ux",
+      "repo_name": "dBlog"
+    },
+    {
+      "name": "doctor-ew/go_skippy_lc",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/763876?s=40&v=4",
+      "owner": "doctor-ew",
+      "repo_name": "go_skippy_lc"
+    },
+    {
+      "name": "ralphreid/SANDBOX",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/5435062?s=40&v=4",
+      "owner": "ralphreid",
+      "repo_name": "SANDBOX"
+    },
+    {
+      "name": "justman00/university-programming",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/36477870?s=40&v=4",
+      "owner": "justman00",
+      "repo_name": "university-programming"
+    },
+    {
+      "name": "sh0o0/otomo",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/52538706?s=40&v=4",
+      "owner": "sh0o0",
+      "repo_name": "otomo"
+    },
+    {
+      "name": "go-pax/gpt-engineer",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/115803759?s=40&v=4",
+      "owner": "go-pax",
+      "repo_name": "gpt-engineer"
+    },
+    {
+      "name": "tmc/the-AIvengers",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "the-AIvengers"
+    },
+    {
+      "name": "Struki84/gpt-cli",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/1117750?s=40&v=4",
+      "owner": "Struki84",
+      "repo_name": "gpt-cli"
+    },
+    {
+      "name": "youshaojun/box",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/54707860?s=40&v=4",
+      "owner": "youshaojun",
+      "repo_name": "box"
+    },
+    {
+      "name": "tmc/slackutil",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "slackutil"
+    },
+    {
+      "name": "androidsr/paas-ai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/11252716?s=40&v=4",
+      "owner": "androidsr",
+      "repo_name": "paas-ai"
+    },
+    {
+      "name": "scalecraft-dev/abt",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/175860318?s=40&v=4",
+      "owner": "scalecraft-dev",
+      "repo_name": "abt"
+    },
+    {
+      "name": "AriajSarkar/ariaj",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/144548552?s=40&v=4",
+      "owner": "AriajSarkar",
+      "repo_name": "ariaj"
+    },
+    {
+      "name": "tadrianonet/go-ollama-deepSeek",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/168999744?s=40&v=4",
+      "owner": "tadrianonet",
+      "repo_name": "go-ollama-deepSeek"
+    },
+    {
+      "name": "Solsynth/HyperNet.Insight",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/104641532?s=40&v=4",
+      "owner": "Solsynth",
+      "repo_name": "HyperNet.Insight"
+    },
+    {
+      "name": "gafreax/gollum",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/817310?s=40&v=4",
+      "owner": "gafreax",
+      "repo_name": "gollum"
+    },
+    {
+      "name": "isaacphi/slop",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/3385849?s=40&v=4",
+      "owner": "isaacphi",
+      "repo_name": "slop"
+    },
+    {
+      "name": "shivanandgn033/my-gemini-api",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/190751745?s=40&v=4",
+      "owner": "shivanandgn033",
+      "repo_name": "my-gemini-api"
+    },
+    {
+      "name": "04Akaps/elasticSearch",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/83758624?s=40&v=4",
+      "owner": "04Akaps",
+      "repo_name": "elasticSearch"
+    },
+    {
+      "name": "767829413/fy-novel",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/34152277?s=40&v=4",
+      "owner": "767829413",
+      "repo_name": "fy-novel"
+    },
+    {
+      "name": "oniharnantyo/lanchaingo-rag-golang",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/17915982?s=40&v=4",
+      "owner": "oniharnantyo",
+      "repo_name": "lanchaingo-rag-golang"
+    },
+    {
+      "name": "TheApeMachine/caramba",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/9572060?s=40&v=4",
+      "owner": "TheApeMachine",
+      "repo_name": "caramba"
+    },
+    {
+      "name": "pyljain/composer",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/17947548?s=40&v=4",
+      "owner": "pyljain",
+      "repo_name": "composer"
+    },
+    {
+      "name": "andyantrim/ragstack-desktop",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/7671229?s=40&v=4",
+      "owner": "andyantrim",
+      "repo_name": "ragstack-desktop"
+    },
+    {
+      "name": "utkarsh5026/cope",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/73283695?s=40&v=4",
+      "owner": "utkarsh5026",
+      "repo_name": "cope"
+    },
+    {
+      "name": "rcharre/clai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/41190819?s=40&v=4",
+      "owner": "rcharre",
+      "repo_name": "clai"
+    },
+    {
+      "name": "Serein-sz/lang-chain-chat-server",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/85348599?s=40&v=4",
+      "owner": "Serein-sz",
+      "repo_name": "lang-chain-chat-server"
+    },
+    {
+      "name": "beaubeas/langchaingo",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/132536190?s=40&v=4",
+      "owner": "beaubeas",
+      "repo_name": "langchaingo"
+    },
+    {
+      "name": "Klein88/greenTraceChain",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/116494913?s=40&v=4",
+      "owner": "Klein88",
+      "repo_name": "greenTraceChain"
+    },
+    {
+      "name": "kmesiab/think-tank",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/161768?s=40&v=4",
+      "owner": "kmesiab",
+      "repo_name": "think-tank"
+    },
+    {
+      "name": "Ken-hkm/go-chatbot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/29364151?s=40&v=4",
+      "owner": "Ken-hkm",
+      "repo_name": "go-chatbot"
+    },
+    {
+      "name": "lvow2022/damox",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/46198583?s=40&v=4",
+      "owner": "lvow2022",
+      "repo_name": "damox"
+    },
+    {
+      "name": "yockii/celestial",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/5021467?s=40&v=4",
+      "owner": "yockii",
+      "repo_name": "celestial"
+    },
+    {
+      "name": "TalhaBruh/Langchain-made-for-Go",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/79919912?s=40&v=4",
+      "owner": "TalhaBruh",
+      "repo_name": "Langchain-made-for-Go"
+    },
+    {
+      "name": "Integrail/baas-client",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/163600130?s=40&v=4",
+      "owner": "Integrail",
+      "repo_name": "baas-client"
+    },
+    {
+      "name": "lordxarus/go-pair",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/13530156?s=40&v=4",
+      "owner": "lordxarus",
+      "repo_name": "go-pair"
+    },
+    {
+      "name": "helixml/langchaingo",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/149581110?s=40&v=4",
+      "owner": "helixml",
+      "repo_name": "langchaingo"
+    },
+    {
+      "name": "able8/write-code-every-day",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/26692080?s=40&v=4",
+      "owner": "able8",
+      "repo_name": "write-code-every-day"
+    },
+    {
+      "name": "cbpetersen/ai-commit",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1058981?s=40&v=4",
+      "owner": "cbpetersen",
+      "repo_name": "ai-commit"
+    },
+    {
+      "name": "GoldenStain/MyGoHello",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/117290962?s=40&v=4",
+      "owner": "GoldenStain",
+      "repo_name": "MyGoHello"
+    },
+    {
+      "name": "Pietro-Putelli/hyle-backend",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/64473929?s=40&v=4",
+      "owner": "Pietro-Putelli",
+      "repo_name": "hyle-backend"
+    },
+    {
+      "name": "csijindioy/dev-training",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/31936252?s=40&v=4",
+      "owner": "csijindioy",
+      "repo_name": "dev-training"
+    },
+    {
+      "name": "shenlayu/ai_platform",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/125715741?s=40&v=4",
+      "owner": "shenlayu",
+      "repo_name": "ai_platform"
+    },
+    {
+      "name": "mrrizkin/finteligo",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/46787877?s=40&v=4",
+      "owner": "mrrizkin",
+      "repo_name": "finteligo"
+    },
+    {
+      "name": "Martin2037/i18n-llm",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/63692237?s=40&v=4",
+      "owner": "Martin2037",
+      "repo_name": "i18n-llm"
+    },
+    {
+      "name": "tnfssc/gai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/29162020?s=40&v=4",
+      "owner": "tnfssc",
+      "repo_name": "gai"
+    },
+    {
+      "name": "jhonatanbds/LlamaShell",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/17839018?s=40&v=4",
+      "owner": "jhonatanbds",
+      "repo_name": "LlamaShell"
+    },
+    {
+      "name": "fantamanatee/CoverMate",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/83996583?s=40&v=4",
+      "owner": "fantamanatee",
+      "repo_name": "CoverMate"
+    },
+    {
+      "name": "yuchou87/rest-agent",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/47242699?s=40&v=4",
+      "owner": "yuchou87",
+      "repo_name": "rest-agent"
+    },
+    {
+      "name": "aguidirh/go-rag-chatbot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/122013838?s=40&v=4",
+      "owner": "aguidirh",
+      "repo_name": "go-rag-chatbot"
+    },
+    {
+      "name": "liamchampton/go-cli-gpt",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/42477259?s=40&v=4",
+      "owner": "liamchampton",
+      "repo_name": "go-cli-gpt"
+    },
+    {
+      "name": "k33g/small-models-at-rivieradev-2024",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/491848?s=40&v=4",
+      "owner": "k33g",
+      "repo_name": "small-models-at-rivieradev-2024"
+    },
+    {
+      "name": "robinmin/askllm",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/201874?s=40&v=4",
+      "owner": "robinmin",
+      "repo_name": "askllm"
+    },
+    {
+      "name": "slashtechno/cross-blogger",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/77907286?s=40&v=4",
+      "owner": "slashtechno",
+      "repo_name": "cross-blogger"
+    },
+    {
+      "name": "AstroSynapseAI/asai-service",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/134447566?s=40&v=4",
+      "owner": "AstroSynapseAI",
+      "repo_name": "asai-service"
+    },
+    {
+      "name": "llmariner/vector-store-manager",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/164583230?s=40&v=4",
+      "owner": "llmariner",
+      "repo_name": "vector-store-manager"
+    },
+    {
+      "name": "tmc/presentx",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "presentx"
+    },
+    {
+      "name": "tmc/langsmithgo",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "langsmithgo"
+    },
+    {
+      "name": "boxabirds/ai-researcher",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/147305?s=40&v=4",
+      "owner": "boxabirds",
+      "repo_name": "ai-researcher"
+    },
+    {
+      "name": "abhirockzz/langchain-valkey-chat-history",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/6301594?s=40&v=4",
+      "owner": "abhirockzz",
+      "repo_name": "langchain-valkey-chat-history"
+    },
+    {
+      "name": "abhirockzz/multimodal-search-bedrock-langchain-go",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/6301594?s=40&v=4",
+      "owner": "abhirockzz",
+      "repo_name": "multimodal-search-bedrock-langchain-go"
+    },
+    {
+      "name": "boxabirds/proofread-pdf-gemini-go",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/147305?s=40&v=4",
+      "owner": "boxabirds",
+      "repo_name": "proofread-pdf-gemini-go"
+    },
+    {
+      "name": "wgeorgecook/plex-recommendation",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/31553415?s=40&v=4",
+      "owner": "wgeorgecook",
+      "repo_name": "plex-recommendation"
+    },
+    {
+      "name": "kazdevl/artisum",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/39262724?s=40&v=4",
+      "owner": "kazdevl",
+      "repo_name": "artisum"
+    },
+    {
+      "name": "akashdasp/Gemini_cli",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/29863536?s=40&v=4",
+      "owner": "akashdasp",
+      "repo_name": "Gemini_cli"
+    },
+    {
+      "name": "xiaolibuzai-ovo/graduationProject",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/96616876?s=40&v=4",
+      "owner": "xiaolibuzai-ovo",
+      "repo_name": "graduationProject"
+    },
+    {
+      "name": "douglarek/llmverse",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1488134?s=40&v=4",
+      "owner": "douglarek",
+      "repo_name": "llmverse"
+    },
+    {
+      "name": "GoMateoGo/translator",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/18229643?s=40&v=4",
+      "owner": "GoMateoGo",
+      "repo_name": "translator"
+    },
+    {
+      "name": "CarsonCase/CLAI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/43460072?s=40&v=4",
+      "owner": "CarsonCase",
+      "repo_name": "CLAI"
+    },
+    {
+      "name": "jiayuqi7813/AITerm",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/63686458?s=40&v=4",
+      "owner": "jiayuqi7813",
+      "repo_name": "AITerm"
+    },
+    {
+      "name": "dragaoazuljr/ice-breaker-go",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/14008552?s=40&v=4",
+      "owner": "dragaoazuljr",
+      "repo_name": "ice-breaker-go"
+    },
+    {
+      "name": "woyteck/ailabs",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/710496?s=40&v=4",
+      "owner": "woyteck",
+      "repo_name": "ailabs"
+    },
+    {
+      "name": "goiliace/Health-Assitance",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/74876682?s=40&v=4",
+      "owner": "goiliace",
+      "repo_name": "Health-Assitance"
+    },
+    {
+      "name": "mashiike/langchaingo-llm-bedrock",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/24449460?s=40&v=4",
+      "owner": "mashiike",
+      "repo_name": "langchaingo-llm-bedrock"
+    },
+    {
+      "name": "Abirdcfly/langchaingo-google-stream-exit-early",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/5100555?s=40&v=4",
+      "owner": "Abirdcfly",
+      "repo_name": "langchaingo-google-stream-exit-early"
+    },
+    {
+      "name": "Supparerk23/document-scraping-with-ai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/47354556?s=40&v=4",
+      "owner": "Supparerk23",
+      "repo_name": "document-scraping-with-ai"
+    },
+    {
+      "name": "hosseinmirzapur/hgai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/63141950?s=40&v=4",
+      "owner": "hosseinmirzapur",
+      "repo_name": "hgai"
+    },
+    {
+      "name": "lupguo/copilot_develop",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/10703914?s=40&v=4",
+      "owner": "lupguo",
+      "repo_name": "copilot_develop"
+    },
+    {
+      "name": "mfmezger/go-ollama-rag",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/57255687?s=40&v=4",
+      "owner": "mfmezger",
+      "repo_name": "go-ollama-rag"
+    },
+    {
+      "name": "raulfrk/OpenTradingPlatform",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/72997693?s=40&v=4",
+      "owner": "raulfrk",
+      "repo_name": "OpenTradingPlatform"
+    },
+    {
+      "name": "cemayan/llm-manager",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/16626528?s=40&v=4",
+      "owner": "cemayan",
+      "repo_name": "llm-manager"
+    },
+    {
+      "name": "m-stafford/ddx-prenorm",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1482777?s=40&v=4",
+      "owner": "m-stafford",
+      "repo_name": "ddx-prenorm"
+    },
+    {
+      "name": "disturb16/ollama-chat-with-docs",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/24361583?s=40&v=4",
+      "owner": "disturb16",
+      "repo_name": "ollama-chat-with-docs"
+    },
+    {
+      "name": "megaproaktiv/go-rag-pgvector-bedrock",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/29772027?s=40&v=4",
+      "owner": "megaproaktiv",
+      "repo_name": "go-rag-pgvector-bedrock"
+    },
+    {
+      "name": "kkdai/ollama-go",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/2252691?s=40&v=4",
+      "owner": "kkdai",
+      "repo_name": "ollama-go"
+    },
+    {
+      "name": "YuyaAbo/tellme",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/2541034?s=40&v=4",
+      "owner": "YuyaAbo",
+      "repo_name": "tellme"
+    },
+    {
+      "name": "speix/amazon-bedrock-with-langchain",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/5208174?s=40&v=4",
+      "owner": "speix",
+      "repo_name": "amazon-bedrock-with-langchain"
+    },
+    {
+      "name": "Fan-Yu-Feng/qq-channel-llm-question-bot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/46673728?s=40&v=4",
+      "owner": "Fan-Yu-Feng",
+      "repo_name": "qq-channel-llm-question-bot"
+    },
+    {
+      "name": "urjitbhatia/vectorstores",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1226567?s=40&v=4",
+      "owner": "urjitbhatia",
+      "repo_name": "vectorstores"
+    },
+    {
+      "name": "sausheong/mistral",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/5962?s=40&v=4",
+      "owner": "sausheong",
+      "repo_name": "mistral"
+    },
+    {
+      "name": "RSivakov/LocalAI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1380666?s=40&v=4",
+      "owner": "RSivakov",
+      "repo_name": "LocalAI"
+    },
+    {
+      "name": "tmc/certiflow",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "certiflow"
+    },
+    {
+      "name": "SanjarBakhramovich/GoLLM",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/42960903?s=40&v=4",
+      "owner": "SanjarBakhramovich",
+      "repo_name": "GoLLM"
+    },
+    {
+      "name": "sredevopsorg/LocalAI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/91654008?s=40&v=4",
+      "owner": "sredevopsorg",
+      "repo_name": "LocalAI"
+    },
+    {
+      "name": "haynb/go_langchain",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/124337128?s=40&v=4",
+      "owner": "haynb",
+      "repo_name": "go_langchain"
+    },
+    {
+      "name": "sausheong/gale",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/5962?s=40&v=4",
+      "owner": "sausheong",
+      "repo_name": "gale"
+    },
+    {
+      "name": "tmc/d2labs",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "d2labs"
+    },
+    {
+      "name": "myrzx/Claude100kWeb",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/45350198?s=40&v=4",
+      "owner": "myrzx",
+      "repo_name": "Claude100kWeb"
+    },
+    {
+      "name": "zbysir/writeflow-plugin-llm",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/61535029?s=40&v=4",
+      "owner": "zbysir",
+      "repo_name": "writeflow-plugin-llm"
+    },
+    {
+      "name": "tmc/mlops-community-llm-stack-hack",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "mlops-community-llm-stack-hack"
+    },
+    {
+      "name": "tikalk/kube-finder",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1106878?s=40&v=4",
+      "owner": "tikalk",
+      "repo_name": "kube-finder"
+    },
+    {
+      "name": "tmc/climate-hack",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/3977?s=40&v=4",
+      "owner": "tmc",
+      "repo_name": "climate-hack"
+    }
+  ],
+  "total_dependents_number": 297,
+  "public_dependents_number": 297,
+  "private_dependents_number": -312,
+  "public_dependents_stars": 108502,
+  "badges": {
+    "total_doc_url": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=312&color=informational&logo=slickpic)](https://github.com/nvuillam/github-dependents-info)",
+    "total": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=297&color=informational&logo=slickpic)](https://github.com/tmc/langchaingo/network/dependents)",
+    "public": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=297&color=informational&logo=slickpic)](https://github.com/tmc/langchaingo/network/dependents)",
+    "private": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-312&color=informational&logo=slickpic)](https://github.com/tmc/langchaingo/network/dependents)",
+    "stars": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=108502&color=informational&logo=slickpic)](https://github.com/tmc/langchaingo/network/dependents)"
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "all_public_dependent_repos": [
+    {
+      "name": "langgenius/dify",
+      "stars": 71242,
+      "img": "https://avatars.githubusercontent.com/u/127165244?s=40&v=4",
+      "owner": "langgenius",
+      "repo_name": "dify"
+    },
+    {
+      "name": "vanna-ai/vanna-streamlit",
+      "stars": 219,
+      "img": "https://avatars.githubusercontent.com/u/132533812?s=40&v=4",
+      "owner": "vanna-ai",
+      "repo_name": "vanna-streamlit"
+    },
+    {
+      "name": "YFGaia/dify-plus",
+      "stars": 179,
+      "img": "https://avatars.githubusercontent.com/u/179994263?s=40&v=4",
+      "owner": "YFGaia",
+      "repo_name": "dify-plus"
+    },
+    {
+      "name": "vanna-ai/vanna-flask",
+      "stars": 148,
+      "img": "https://avatars.githubusercontent.com/u/132533812?s=40&v=4",
+      "owner": "vanna-ai",
+      "repo_name": "vanna-flask"
+    },
+    {
+      "name": "elenagalun/difygit",
+      "stars": 68,
+      "img": "https://avatars.githubusercontent.com/u/131913382?s=40&v=4",
+      "owner": "elenagalun",
+      "repo_name": "difygit"
+    },
+    {
+      "name": "veragloo/dify",
+      "stars": 67,
+      "img": "https://avatars.githubusercontent.com/u/131913521?s=40&v=4",
+      "owner": "veragloo",
+      "repo_name": "dify"
+    },
+    {
+      "name": "hcymysql/sql_helper",
+      "stars": 55,
+      "img": "https://avatars.githubusercontent.com/u/19261879?s=40&v=4",
+      "owner": "hcymysql",
+      "repo_name": "sql_helper"
+    },
+    {
+      "name": "r0mymendez/text-to-sql",
+      "stars": 54,
+      "img": "https://avatars.githubusercontent.com/u/39013829?s=40&v=4",
+      "owner": "r0mymendez",
+      "repo_name": "text-to-sql"
+    },
+    {
+      "name": "langgenius/dify-official-plugins",
+      "stars": 49,
+      "img": "https://avatars.githubusercontent.com/u/127165244?s=40&v=4",
+      "owner": "langgenius",
+      "repo_name": "dify-official-plugins"
+    },
+    {
+      "name": "archerfish-bench/benchmark",
+      "stars": 46,
+      "img": "https://avatars.githubusercontent.com/u/149750278?s=40&v=4",
+      "owner": "archerfish-bench",
+      "repo_name": "benchmark"
+    },
+    {
+      "name": "UNOAWORLD/unoa-agent",
+      "stars": 33,
+      "img": "https://avatars.githubusercontent.com/u/194567623?s=40&v=4",
+      "owner": "UNOAWORLD",
+      "repo_name": "unoa-agent"
+    },
+    {
+      "name": "vanna-ai/vanna-slack",
+      "stars": 29,
+      "img": "https://avatars.githubusercontent.com/u/132533812?s=40&v=4",
+      "owner": "vanna-ai",
+      "repo_name": "vanna-slack"
+    },
+    {
+      "name": "stack-over-flo-w/Vanna_RAG_llm",
+      "stars": 18,
+      "img": "https://avatars.githubusercontent.com/u/161250580?s=40&v=4",
+      "owner": "stack-over-flo-w",
+      "repo_name": "Vanna_RAG_llm"
+    },
+    {
+      "name": "vanna-ai/vanna-nextjs-flask",
+      "stars": 18,
+      "img": "https://avatars.githubusercontent.com/u/132533812?s=40&v=4",
+      "owner": "vanna-ai",
+      "repo_name": "vanna-nextjs-flask"
+    },
+    {
+      "name": "c00cjz00/llmservice_ip",
+      "stars": 11,
+      "img": "https://avatars.githubusercontent.com/u/8032076?s=40&v=4",
+      "owner": "c00cjz00",
+      "repo_name": "llmservice_ip"
+    },
+    {
+      "name": "vanna-ai/vanna-streamlit-simple",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/132533812?s=40&v=4",
+      "owner": "vanna-ai",
+      "repo_name": "vanna-streamlit-simple"
+    },
+    {
+      "name": "vanna-ai/research",
+      "stars": 7,
+      "img": "https://avatars.githubusercontent.com/u/132533812?s=40&v=4",
+      "owner": "vanna-ai",
+      "repo_name": "research"
+    },
+    {
+      "name": "wandb/ai-virtual-assistant",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/26401354?s=40&v=4",
+      "owner": "wandb",
+      "repo_name": "ai-virtual-assistant"
+    },
+    {
+      "name": "alabarga/hackbcn-2024",
+      "stars": 5,
+      "img": "https://avatars.githubusercontent.com/u/166339?s=40&v=4",
+      "owner": "alabarga",
+      "repo_name": "hackbcn-2024"
+    },
+    {
+      "name": "ZERIX-AI/zerix",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/193864867?s=40&v=4",
+      "owner": "ZERIX-AI",
+      "repo_name": "zerix"
+    },
+    {
+      "name": "sandbury/openmyai",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/163830391?s=40&v=4",
+      "owner": "sandbury",
+      "repo_name": "openmyai"
+    },
+    {
+      "name": "CodingNowPls/vanna-flask-rest-cn",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/22097022?s=40&v=4",
+      "owner": "CodingNowPls",
+      "repo_name": "vanna-flask-rest-cn"
+    },
+    {
+      "name": "gitsofaryan/Hacktoberfest-Projects-2024",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/117700812?s=40&v=4",
+      "owner": "gitsofaryan",
+      "repo_name": "Hacktoberfest-Projects-2024"
+    },
+    {
+      "name": "MLChain/MLChain",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/175324748?s=40&v=4",
+      "owner": "MLChain",
+      "repo_name": "MLChain"
+    },
+    {
+      "name": "alphavector/all",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/11805788?s=40&v=4",
+      "owner": "alphavector",
+      "repo_name": "all"
+    },
+    {
+      "name": "CortexCouncilWorkspace/GenAI4SAP_v3",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/164573037?s=40&v=4",
+      "owner": "CortexCouncilWorkspace",
+      "repo_name": "GenAI4SAP_v3"
+    },
+    {
+      "name": "Lyn4ever29/pipy_server",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/25952589?s=40&v=4",
+      "owner": "Lyn4ever29",
+      "repo_name": "pipy_server"
+    },
+    {
+      "name": "Krooted/thrive-ui",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/6664475?s=40&v=4",
+      "owner": "Krooted",
+      "repo_name": "thrive-ui"
+    },
+    {
+      "name": "kenneth-bro/dify",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/19256972?s=40&v=4",
+      "owner": "kenneth-bro",
+      "repo_name": "dify"
+    },
+    {
+      "name": "victoraguilarc/nlq-on-aws",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/2671876?s=40&v=4",
+      "owner": "victoraguilarc",
+      "repo_name": "nlq-on-aws"
+    },
+    {
+      "name": "Ndaruga/Chatbot-for-SQL-databases",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/68260816?s=40&v=4",
+      "owner": "Ndaruga",
+      "repo_name": "Chatbot-for-SQL-databases"
+    },
+    {
+      "name": "justinmills/vanna-db-explorer",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/3134864?s=40&v=4",
+      "owner": "justinmills",
+      "repo_name": "vanna-db-explorer"
+    },
+    {
+      "name": "pulipulichen/practice-Dify-OpenAI-API-2025",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/2345913?s=40&v=4",
+      "owner": "pulipulichen",
+      "repo_name": "practice-Dify-OpenAI-API-2025"
+    },
+    {
+      "name": "bitterlemonking/dify_local_backup",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/186423827?s=40&v=4",
+      "owner": "bitterlemonking",
+      "repo_name": "dify_local_backup"
+    },
+    {
+      "name": "Raghucharan16/ChatBot-Chat-with-DB",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/104614903?s=40&v=4",
+      "owner": "Raghucharan16",
+      "repo_name": "ChatBot-Chat-with-DB"
+    },
+    {
+      "name": "revolunet/mlops-classifier",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/124937?s=40&v=4",
+      "owner": "revolunet",
+      "repo_name": "mlops-classifier"
+    },
+    {
+      "name": "negita-rms/dify-sandbox",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/183567658?s=40&v=4",
+      "owner": "negita-rms",
+      "repo_name": "dify-sandbox"
+    },
+    {
+      "name": "kkfaisal/van_athena",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/12808921?s=40&v=4",
+      "owner": "kkfaisal",
+      "repo_name": "van_athena"
+    },
+    {
+      "name": "aisigmate/dify-diy",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/193907583?s=40&v=4",
+      "owner": "aisigmate",
+      "repo_name": "dify-diy"
+    },
+    {
+      "name": "vienatjeee/dify",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/161130581?s=40&v=4",
+      "owner": "vienatjeee",
+      "repo_name": "dify"
+    },
+    {
+      "name": "moosenter/llmmiddleware",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/42618001?s=40&v=4",
+      "owner": "moosenter",
+      "repo_name": "llmmiddleware"
+    },
+    {
+      "name": "raja-omar/DB-Assist",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/139909039?s=40&v=4",
+      "owner": "raja-omar",
+      "repo_name": "DB-Assist"
+    },
+    {
+      "name": "openeuler-mirror/euler-copilot-framework",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/59104494?s=40&v=4",
+      "owner": "openeuler-mirror",
+      "repo_name": "euler-copilot-framework"
+    },
+    {
+      "name": "pulipulichen/Docker-Dify",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/2345913?s=40&v=4",
+      "owner": "pulipulichen",
+      "repo_name": "Docker-Dify"
+    },
+    {
+      "name": "LubangaD/database-retrieval-MySQL",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/142976333?s=40&v=4",
+      "owner": "LubangaD",
+      "repo_name": "database-retrieval-MySQL"
+    },
+    {
+      "name": "BBking-12138/dify",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/184476740?s=40&v=4",
+      "owner": "BBking-12138",
+      "repo_name": "dify"
+    },
+    {
+      "name": "shunsukenashiki/dify",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/130203307?s=40&v=4",
+      "owner": "shunsukenashiki",
+      "repo_name": "dify"
+    },
+    {
+      "name": "pedrodgn/sports_analysis",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/62962592?s=40&v=4",
+      "owner": "pedrodgn",
+      "repo_name": "sports_analysis"
+    },
+    {
+      "name": "LTPPPP/Bot-discord-for-valorant",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/126170288?s=40&v=4",
+      "owner": "LTPPPP",
+      "repo_name": "Bot-discord-for-valorant"
+    },
+    {
+      "name": "jl1nie/sota-chatbot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/1872217?s=40&v=4",
+      "owner": "jl1nie",
+      "repo_name": "sota-chatbot"
+    },
+    {
+      "name": "rpdevelops/TheSuperAnalyst",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/98483990?s=40&v=4",
+      "owner": "rpdevelops",
+      "repo_name": "TheSuperAnalyst"
+    },
+    {
+      "name": "NauticaP/API-for-Vanna-Chatbot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/105760066?s=40&v=4",
+      "owner": "NauticaP",
+      "repo_name": "API-for-Vanna-Chatbot"
+    },
+    {
+      "name": "anan0329/agent-chat-sim",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/17813103?s=40&v=4",
+      "owner": "anan0329",
+      "repo_name": "agent-chat-sim"
+    },
+    {
+      "name": "Sanjjushri/vanna-ai",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/67419416?s=40&v=4",
+      "owner": "Sanjjushri",
+      "repo_name": "vanna-ai"
+    },
+    {
+      "name": "priamai/stixtalker",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/57333254?s=40&v=4",
+      "owner": "priamai",
+      "repo_name": "stixtalker"
+    },
+    {
+      "name": "phaniteja5789/Interactive-Text-to-SQL-Query-Generator-and-Visualization",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/36558484?s=40&v=4",
+      "owner": "phaniteja5789",
+      "repo_name": "Interactive-Text-to-SQL-Query-Generator-and-Visualization"
+    },
+    {
+      "name": "kencowu/vanna_versus_rag",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/74225018?s=40&v=4",
+      "owner": "kencowu",
+      "repo_name": "vanna_versus_rag"
+    },
+    {
+      "name": "pdamodaran/vanna-text-to-sql",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/7106134?s=40&v=4",
+      "owner": "pdamodaran",
+      "repo_name": "vanna-text-to-sql"
+    },
+    {
+      "name": "rexyan/dify",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/17903623?s=40&v=4",
+      "owner": "rexyan",
+      "repo_name": "dify"
+    },
+    {
+      "name": "Vinit-180/hacknuthon24-abhimanyu",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/121872021?s=40&v=4",
+      "owner": "Vinit-180",
+      "repo_name": "hacknuthon24-abhimanyu"
+    },
+    {
+      "name": "NBChub/chatBGC",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/82200741?s=40&v=4",
+      "owner": "NBChub",
+      "repo_name": "chatBGC"
+    },
+    {
+      "name": "alckasoc/WeaverOfTasks",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/58043265?s=40&v=4",
+      "owner": "alckasoc",
+      "repo_name": "WeaverOfTasks"
+    },
+    {
+      "name": "broepke/deadpool-app",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/8143790?s=40&v=4",
+      "owner": "broepke",
+      "repo_name": "deadpool-app"
+    },
+    {
+      "name": "Usuario614/PryctI",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/103390456?s=40&v=4",
+      "owner": "Usuario614",
+      "repo_name": "PryctI"
+    },
+    {
+      "name": "NoAtmosphere0/tony-lida",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/57853669?s=40&v=4",
+      "owner": "NoAtmosphere0",
+      "repo_name": "tony-lida"
+    },
+    {
+      "name": "LawrenceTeixeira/co-pilotsql",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/43327665?s=40&v=4",
+      "owner": "LawrenceTeixeira",
+      "repo_name": "co-pilotsql"
+    },
+    {
+      "name": "zainhoda/vanna-streamlit-simple",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/7146154?s=40&v=4",
+      "owner": "zainhoda",
+      "repo_name": "vanna-streamlit-simple"
+    }
+  ],
+  "total_dependents_number": 67,
+  "public_dependents_number": 67,
+  "private_dependents_number": -72,
+  "public_dependents_stars": 72336,
+  "badges": {
+    "total_doc_url": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=72&color=informational&logo=slickpic)](https://github.com/nvuillam/github-dependents-info)",
+    "total": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=67&color=informational&logo=slickpic)](https://github.com/vanna-ai/vanna/network/dependents)",
+    "public": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=67&color=informational&logo=slickpic)](https://github.com/vanna-ai/vanna/network/dependents)",
+    "private": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-72&color=informational&logo=slickpic)](https://github.com/vanna-ai/vanna/network/dependents)",
+    "stars": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=72336&color=informational&logo=slickpic)](https://github.com/vanna-ai/vanna/network/dependents)"
+  }
+}

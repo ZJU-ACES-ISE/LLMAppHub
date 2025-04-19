@@ -1,0 +1,1077 @@
+[
+  {
+    "full_name": "shuntaka9576/oax",
+    "name": "oax",
+    "description": "💥 CLI for OpenAI's ChatGPT"
+  },
+  {
+    "full_name": "ElmosHomie492/chatgpt-api",
+    "name": "chatgpt-api",
+    "description": "Simple API for interacting with OpenAI's ChatGPT. Currently supports gpt3.5-turbo"
+  },
+  {
+    "full_name": "ieee0824/gopenai-api",
+    "name": "gopenai-api",
+    "description": null
+  },
+  {
+    "full_name": "pedrobertao/go-chatgpt",
+    "name": "go-chatgpt",
+    "description": "go-chatgpt-sdk"
+  },
+  {
+    "full_name": "alwqx/infogpt",
+    "name": "infogpt",
+    "description": "info with GPT, made ChatGPT/LLM easy"
+  },
+  {
+    "full_name": "anycable/twilio-ai-demo",
+    "name": "twilio-ai-demo",
+    "description": "Twilio Media Streams, OpenAI Realtime, and AnyCable example application"
+  },
+  {
+    "full_name": "johnazedo/gpt-bot",
+    "name": "gpt-bot",
+    "description": "A telegram bot to chat with ChatGPT IA."
+  },
+  {
+    "full_name": "EgorKurito/openai-go-sdk",
+    "name": "openai-go-sdk",
+    "description": "Golang implementation for OpenAI API"
+  },
+  {
+    "full_name": "ak9024/go-chatgpt-sdk",
+    "name": "go-chatgpt-sdk",
+    "description": "This Library Provides Unofficial Go Client SDK for OpenAI API"
+  },
+  {
+    "full_name": "MementoMori11723/V2V",
+    "name": "V2V",
+    "description": "Echo Flow (V2V) is a voice-driven web application that enables seamless text-to-speech and conversational AI interactions. Powered by the Google Text-to-Speech (TTS) API and OpenAI’s ChatGPT API."
+  },
+  {
+    "full_name": "rchouinard/commit-assistant",
+    "name": "commit-assistant",
+    "description": "Commit Assistant is a utility designed to generate commit messages using AI text generation."
+  },
+  {
+    "full_name": "tab/cmt",
+    "name": "cmt",
+    "description": "command-line utility that generates Conventional Commit messages using OpenAI's GPT"
+  },
+  {
+    "full_name": "ahaostudy/shell_chat",
+    "name": "shell_chat",
+    "description": "基于Openai ChatGPT的终端版GPT"
+  },
+  {
+    "full_name": "franciscoescher/goopenai",
+    "name": "goopenai",
+    "description": "This is a Go client library for the OpenAI API"
+  },
+  {
+    "full_name": "nayonacademy/openai-go",
+    "name": "openai-go",
+    "description": "OpenAI golang library that will support, ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API. This is a golang wrapper library"
+  },
+  {
+    "full_name": "jake-landersweb/gollm",
+    "name": "gollm",
+    "description": "Convenient interface for interacting with multiple LLM providers in Go"
+  },
+  {
+    "full_name": "the-genemachine/Color-Prompt-Generator",
+    "name": "Color-Prompt-Generator",
+    "description": "Mastering OpenAI Python APIs: Unleash ChatGPT and GPT4"
+  },
+  {
+    "full_name": "parakeet-nest/parakeet",
+    "name": "parakeet",
+    "description": "🦜🪺 Parakeet is a GoLang library, made to simplify the development of small generative AI applications with Ollama 🦙."
+  },
+  {
+    "full_name": "initialcapacity/ai-starter",
+    "name": "ai-starter",
+    "description": "A starter application that shows data collection, embedding creation and querying, and text completion with OpenAI."
+  },
+  {
+    "full_name": "fsrv-xyz/ama-webapp",
+    "name": "ama-webapp",
+    "description": "POC: Ask me Anything web service based on OpenAI"
+  },
+  {
+    "full_name": "FIFCOM/fine-grained-openai-proxy",
+    "name": "fine-grained-openai-proxy",
+    "description": "OpenAI API proxy with fine-grained access control, expiration control and remaining request limit."
+  },
+  {
+    "full_name": "Suno-API/Suno-API",
+    "name": "Suno-API",
+    "description": "This is an unofficial Suno AI API based on Golang. It currently supports generating songs, lyrics, and OpenAI Chat"
+  },
+  {
+    "full_name": "adrianliechti/llama",
+    "name": "llama",
+    "description": "Inference Hub for AI at Scale"
+  },
+  {
+    "full_name": "ZuoFuhong/ChatGPT-IM",
+    "name": "ChatGPT-IM",
+    "description": "实时通讯 IM 系统接入 ChatGPT completion API 的绝佳实践案例"
+  },
+  {
+    "full_name": "xoba/openai",
+    "name": "openai",
+    "description": "simple interface to openai's api"
+  },
+  {
+    "full_name": "fruitbars/simple-one-api",
+    "name": "simple-one-api",
+    "description": "OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment."
+  },
+  {
+    "full_name": "szpnygo/VecTextSearch",
+    "name": "VecTextSearch",
+    "description": "一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT."
+  },
+  {
+    "full_name": "razertory/subdomain-llm-proxy",
+    "name": "subdomain-llm-proxy",
+    "description": "LLM proxy base on subdomain"
+  },
+  {
+    "full_name": "blixt/openai-realtime",
+    "name": "openai-realtime",
+    "description": "Playing with the OpenAI Realtime API"
+  },
+  {
+    "full_name": "damejeras/robo",
+    "name": "robo",
+    "description": "cli tool to convert natural language to shell commands with OpenAI"
+  },
+  {
+    "full_name": "elllusion/wechatbot",
+    "name": "wechatbot",
+    "description": "微信机器人(文字版) 使用了OpenAI chatGPT 大型预训练语言模型 gpt-3.5-turbo"
+  },
+  {
+    "full_name": "mengdcn/langchaingo",
+    "name": "langchaingo",
+    "description": "langchaingo"
+  },
+  {
+    "full_name": "DanPlayer/chatgpt-sdk",
+    "name": "chatgpt-sdk",
+    "description": "simple chatgpt sdk"
+  },
+  {
+    "full_name": "bluewolfali/chatgpt-turbo-sample-code",
+    "name": "chatgpt-turbo-sample-code",
+    "description": "This project utilizes gpt-3.5-turbo to enable seamless, uninterrupted chat conversations while also providing the ability to save and revisit previous conversations."
+  },
+  {
+    "full_name": "golang-infrastructure/openai-gosdk",
+    "name": "openai-gosdk",
+    "description": "https://platform.openai.com/docs/api-reference/introduction"
+  },
+  {
+    "full_name": "supreet321/GPTerminal",
+    "name": "GPTerminal",
+    "description": "A command line tool to interact with OpenAI's GPT API, written in Go."
+  },
+  {
+    "full_name": "motolies/telegram-gpt-go",
+    "name": "telegram-gpt-go",
+    "description": "telegram-gpt-go"
+  },
+  {
+    "full_name": "rakyll/openai-go",
+    "name": "openai-go",
+    "description": "Go client libraries for OpenAI"
+  },
+  {
+    "full_name": "WqyJh/go-openai-realtime",
+    "name": "go-openai-realtime",
+    "description": "Golang SDK for OpenAI Realtime API"
+  },
+  {
+    "full_name": "jtclarkjr/go-openai-rest-api",
+    "name": "go-openai-rest-api",
+    "description": "Go OpenAI ChatGPT REST API"
+  },
+  {
+    "full_name": "eloonstra/gopenai",
+    "name": "gopenai",
+    "description": "GopenAI is a lightweight Go library for interacting with the OpenAI API. It simplifies the process of making API requests and handling responses."
+  },
+  {
+    "full_name": "gptscript-ai/chat-completion-client",
+    "name": "chat-completion-client",
+    "description": "OpenAI Chat Completion Client for GPTScript"
+  },
+  {
+    "full_name": "Nostalgiaaaa/ChatGPT-Golang",
+    "name": "ChatGPT-Golang",
+    "description": "chatgpt-web  golang版后端"
+  },
+  {
+    "full_name": "jayantsinghxyz/gptsh",
+    "name": "gptsh",
+    "description": "CLI tool written in Go to use Openai models(gpt-3.5-turbo) directly from terminal"
+  },
+  {
+    "full_name": "kshard/embeddings",
+    "name": "embeddings",
+    "description": "adapter to different solution for creating vector embeddings"
+  },
+  {
+    "full_name": "nephen/simple-openai-api-proxy",
+    "name": "simple-openai-api-proxy",
+    "description": "A lightweight, easy-to-use HTTP proxy to interact with the OpenAI API. "
+  },
+  {
+    "full_name": "SanHacks/AiGen",
+    "name": "AiGen",
+    "description": "Multi Model Personal Assistant Wrapper in Go: Interact with ChatGPT, Claude or Ollama Cross Platform (Speech & Image generation supported)"
+  },
+  {
+    "full_name": "mengbin92/openai",
+    "name": "openai",
+    "description": "use OpenAI API with golang"
+  },
+  {
+    "full_name": "ioki-mobility/summaraizer",
+    "name": "summaraizer",
+    "description": "Summarizes comments from a variety of sources, such as GitHub issues, Slack threads, Reddit posts, and more using AI models from different providers, such as Ollama, OpenAI, and more."
+  },
+  {
+    "full_name": "numbertheory/chatgpt-go",
+    "name": "chatgpt-go",
+    "description": "Go client for ChatGPT"
+  },
+  {
+    "full_name": "brutalzinn/action-chatgpt-me",
+    "name": "action-chatgpt-me",
+    "description": "A small readme editor to adapt me to Mac osx"
+  },
+  {
+    "full_name": "valueserveio/openai-assistants-go",
+    "name": "openai-assistants-go",
+    "description": "OpenAI Assistants API Golang Library. "
+  },
+  {
+    "full_name": "ibmendoza/chatgpt-go",
+    "name": "chatgpt-go",
+    "description": "Learn Go the Chatbot Way! (ChatGPT, Claude, Bard, etc)"
+  },
+  {
+    "full_name": "mglslg/go-discord-gpt",
+    "name": "go-discord-gpt",
+    "description": "A Discord bot based on the OpenAI API, written in Golang"
+  },
+  {
+    "full_name": "EugenSleptsov/chatgpt",
+    "name": "chatgpt",
+    "description": "Simple telegram bot for openai GPT api in Golang"
+  },
+  {
+    "full_name": "nvizero/autoGenTpl",
+    "name": "autoGenTpl",
+    "description": "auto generate template"
+  },
+  {
+    "full_name": "acolev/chatgpt-go",
+    "name": "chatgpt-go",
+    "description": "chatgpt api for go"
+  },
+  {
+    "full_name": "douglarek/llmverse",
+    "name": "llmverse",
+    "description": "A LLM discrod bot"
+  },
+  {
+    "full_name": "sashabaranov/go-openai",
+    "name": "go-openai",
+    "description": "OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go"
+  },
+  {
+    "full_name": "saplaum/gogpt-cli",
+    "name": "gogpt-cli",
+    "description": null
+  },
+  {
+    "full_name": "SakuraAxy/ChatGPT-Cli",
+    "name": "ChatGPT-Cli",
+    "description": "This is A ChatGPT Client"
+  },
+  {
+    "full_name": "stillmatic/gollum",
+    "name": "gollum",
+    "description": "Production grade LLM-ops in Golang"
+  },
+  {
+    "full_name": "NatoBoram/lame",
+    "name": "lame",
+    "description": "A LLM-powered verification tool for explanatory comments in r/LeopardsAteMyFace"
+  },
+  {
+    "full_name": "aaronik/ai-functions",
+    "name": "ai-functions",
+    "description": "A collection of CLI utilities for easily interacting with OpenAI AIs"
+  },
+  {
+    "full_name": "BosNaufal/simple-rag-service",
+    "name": "simple-rag-service",
+    "description": "Simple RAG (Retrival Augmented Generation) Service to create custom knowledge on AI Service"
+  },
+  {
+    "full_name": "all-in-aigc/openai-go",
+    "name": "openai-go",
+    "description": "OpenAI Go SDK."
+  },
+  {
+    "full_name": "devinjeon/kubectl-gpt",
+    "name": "kubectl-gpt",
+    "description": "Kubectl-GPT is a kubectl plugin to generate `kubectl` commands from natural language input by using GPT model."
+  },
+  {
+    "full_name": "phildougherty/llmq",
+    "name": "llmq",
+    "description": "Go utility for quick searches from the command line"
+  },
+  {
+    "full_name": "telepace/voiceflow",
+    "name": "voiceflow",
+    "description": "voiceflow is a solution for LLM audio streaming"
+  },
+  {
+    "full_name": "popcell/chatgpt-proxy",
+    "name": "chatgpt-proxy",
+    "description": "ChatGPT proxy"
+  },
+  {
+    "full_name": "luancgs/dracula-gpt-backend",
+    "name": "dracula-gpt-backend",
+    "description": "A Chat GPT backend instance to simulate Dracula responses."
+  },
+  {
+    "full_name": "AndrewWooo/LLM_AI_Mavericks",
+    "name": "LLM_AI_Mavericks",
+    "description": null
+  },
+  {
+    "full_name": "freesrz93/ask-gpt",
+    "name": "ask-gpt",
+    "description": "A CLI tool to chat with OpenAI LLMs via API. Support custom roles, conversation history and streaming output."
+  },
+  {
+    "full_name": "markmusic27/duo",
+    "name": "duo",
+    "description": "✶ An LLM extension of my workspace hosted on Notion ✶"
+  },
+  {
+    "full_name": "ahr-i/ai-artist",
+    "name": "ai-artist",
+    "description": "An AI Artist application utilizing LLM and Stable Diffusion."
+  },
+  {
+    "full_name": "wooveep/chatserver-api",
+    "name": "chatserver-api",
+    "description": "基于OPENAI的ChatGPT API开发的AI助手系统 Chatserver-web   支持本地数据向量话提问 基于Golang语言的后端API服务"
+  },
+  {
+    "full_name": "masonictemple4/go-openai",
+    "name": "go-openai",
+    "description": "An interactive terminal experience for openai's ChatGPT"
+  },
+  {
+    "full_name": "Simplou/openai",
+    "name": "openai",
+    "description": "OpenAI API Library"
+  },
+  {
+    "full_name": "Plataforma-Simplou/openai",
+    "name": "openai",
+    "description": "OpenAI API Library"
+  },
+  {
+    "full_name": "songquanpeng/one-api",
+    "name": "one-api",
+    "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI."
+  },
+  {
+    "full_name": "djun/wechatbot",
+    "name": "wechatbot",
+    "description": "为个人微信接入ChatGPT"
+  },
+  {
+    "full_name": "lsongdev/chatgpt-cli",
+    "name": "chatgpt-cli",
+    "description": "This is a command-line interface (CLI) that uses OpenAI's GPT-3 model to provide conversational answers to user prompts."
+  },
+  {
+    "full_name": "setkyar/ask",
+    "name": "ask",
+    "description": "Access ChatGPT, Claude via terminal"
+  },
+  {
+    "full_name": "andreyvit/openai",
+    "name": "openai",
+    "description": "Best way to use ChatGPT/GPT-3 with Go: zero dependencies, tokenizer, under 1500 LOC"
+  },
+  {
+    "full_name": "tnvmadhav/llm-chat",
+    "name": "llm-chat",
+    "description": "Simple (in-memory) LLM chat application"
+  },
+  {
+    "full_name": "jonntd/go-chatgpt-api1",
+    "name": "go-chatgpt-api1",
+    "description": "go-chatgpt-api"
+  },
+  {
+    "full_name": "AbacusGPT/Password-Strength-Checker",
+    "name": "Password-Strength-Checker",
+    "description": "Check the password strength via OpenAI"
+  },
+  {
+    "full_name": "nathanSeixeiro/Wpp-Gpt-go",
+    "name": "Wpp-Gpt-go",
+    "description": "a bot in go integrated with ChatGPT for whatsapp"
+  },
+  {
+    "full_name": "CoolProgramme/chatgpt-web-to-api",
+    "name": "chatgpt-web-to-api",
+    "description": "chatgpt web 转 api"
+  },
+  {
+    "full_name": "andyantrim/ask",
+    "name": "ask",
+    "description": "A quick and easy way to query LLMs from your command line"
+  },
+  {
+    "full_name": "2g4/console-ai",
+    "name": "console-ai",
+    "description": "Console-based tool to query OpenAI directly, streamlining AI-powered insights from your terminal."
+  },
+  {
+    "full_name": "robertoseba/gennie",
+    "name": "gennie",
+    "description": "Gennie - Cli assistant with profiles and different LLMs"
+  },
+  {
+    "full_name": "smilingpoplar/translate",
+    "name": "translate",
+    "description": "translate using google, openai"
+  },
+  {
+    "full_name": "tpdns90321/auto-lyricer",
+    "name": "auto-lyricer",
+    "description": "LLM을 활용한 노래 가사 자막 자동화"
+  },
+  {
+    "full_name": "sercanarga/fuckregex",
+    "name": "fuckregex",
+    "description": "this ai tool(gpt-3.5) is for those who hate regex!"
+  },
+  {
+    "full_name": "0x9ef/openai-go",
+    "name": "openai-go",
+    "description": "OpenAI GPT-3/3.5/4 API client written in Go"
+  },
+  {
+    "full_name": "eric-jacobson/terminal-gipity",
+    "name": "terminal-gipity",
+    "description": "A terminal based AI chat bot using the Open AI gpt-3.5-turbo API"
+  },
+  {
+    "full_name": "davidhbaek/llm",
+    "name": "llm",
+    "description": null
+  },
+  {
+    "full_name": "rokiyama/gpt-prompter-backend",
+    "name": "gpt-prompter-backend",
+    "description": "Blog post: Expo でのモバイルアプリ開発、ローカル環境からストア公開まで https://okiyama.dev/posts/2023-07-16-expo-development-react-native-app/"
+  },
+  {
+    "full_name": "rovergulf/openai",
+    "name": "openai",
+    "description": "OpenAI API Golang library"
+  },
+  {
+    "full_name": "mr-joshcrane/goracle",
+    "name": "goracle",
+    "description": "A helpful LLM Framework"
+  },
+  {
+    "full_name": "jepbarasgarov/slack-bot-coala-AI",
+    "name": "slack-bot-coala-AI",
+    "description": "Integrating slack bot to channel which is connected to openAI"
+  },
+  {
+    "full_name": "tan-t/llmsay",
+    "name": "llmsay",
+    "description": "lightweight CLI made with golang, which does nothing but calling LLM from your command line."
+  },
+  {
+    "full_name": "Elixir-Craft/terminalAI",
+    "name": "terminalAI",
+    "description": "Command-line tool for AI-powered text and code generation using Gemini AI, OpenAI and GPT4ALL APIs."
+  },
+  {
+    "full_name": "bz888/blab",
+    "name": "blab",
+    "description": "TUI for communicating to local or remote LLM"
+  },
+  {
+    "full_name": "CalebZoe/go-summarization",
+    "name": "go-summarization",
+    "description": "summarize a passage using openai API "
+  },
+  {
+    "full_name": "TalhaBruh/Langchain-made-for-Go",
+    "name": "Langchain-made-for-Go",
+    "description": "Langchain implementation in Go, enabling developers to build applications with LLMs through composability. It includes example usage and references for creating AI-driven applications, such as generating company name suggestions."
+  },
+  {
+    "full_name": "Utility-Gods/gottem",
+    "name": "gottem",
+    "description": "a cli app written in golang to use LLM like never before"
+  },
+  {
+    "full_name": "samiam2013/crossfire",
+    "name": "crossfire",
+    "description": "some dumb glue code attempting to get AI LLMs to fight one another"
+  },
+  {
+    "full_name": "OlofMoriya/claude",
+    "name": "claude",
+    "description": "Test implementation of claude"
+  },
+  {
+    "full_name": "AvicennaJr/ShellMate",
+    "name": "ShellMate",
+    "description": "Your very own terminal AI assisstant 🤖"
+  },
+  {
+    "full_name": "Kardbord/gopenai",
+    "name": "gopenai",
+    "description": "Unofficial Go (Golang) bindings for the OpenAI API."
+  },
+  {
+    "full_name": "nexptr/llmchain",
+    "name": "llmchain",
+    "description": "Go language implementation of LangChain."
+  },
+  {
+    "full_name": "copyleftdev/shellbot",
+    "name": "shellbot",
+    "description": "ShellBot is a vibrant CLI tool that leverages OpenAI's cutting-edge AI to provide expert guidance on computer science, cloud computing, and Linux systems. Designed for tech enthusiasts and IT professionals alike, ShellBot answers your queries, troubleshoots issues, and shares best practices—all with a splash of color for enhanced readability"
+  },
+  {
+    "full_name": "azr4e1/gollum",
+    "name": "gollum",
+    "description": "A small LLM client library"
+  },
+  {
+    "full_name": "codazoda/ask",
+    "name": "ask",
+    "description": "A command-line tool for passing questions to the OpenAI API."
+  },
+  {
+    "full_name": "IceBearAI/LLM-And-More",
+    "name": "LLM-And-More",
+    "description": "LLM-And-More is a professional, plug-and-play, llm trainer and application builder that guides you through the complete LLM workflow from data to evaluation, from training to deployment, from idea to sevice. / LLM-And-More 是一个专业、开箱即用的大模型训练及应用构建一站式解决方案，包含从数据到评估、从训练到部署、从想法到服务的全流程最佳实践。"
+  },
+  {
+    "full_name": "ZayaanRahman/shellm",
+    "name": "shellm",
+    "description": "> llm powered terminal assistant"
+  },
+  {
+    "full_name": "natexcvi/go-llm",
+    "name": "go-llm",
+    "description": "A framework for building LLM based agents and integrating them into larger applications."
+  },
+  {
+    "full_name": "rezkam/gritty",
+    "name": "gritty",
+    "description": "Generate Git commit messages using GPT"
+  },
+  {
+    "full_name": "vildzi/llm-providers",
+    "name": "llm-providers",
+    "description": "Golang library to access multiple LLM platforms with a unified API"
+  },
+  {
+    "full_name": "liampulles/convogen",
+    "name": "convogen",
+    "description": "Experiments in creating conversations between independent LLM-driven agents"
+  },
+  {
+    "full_name": "SuInk/QQ-ChatGPT-Bot",
+    "name": "QQ-ChatGPT-Bot",
+    "description": "实现ChatGPT qq机器人聊天功能，使用gpt-3.5-turbo基于go-cqhttp+golang, 支持联系上下文对话, 关键词触发, 多平台使用"
+  },
+  {
+    "full_name": "bnallapeta/ai-image-gen",
+    "name": "ai-image-gen",
+    "description": "AI based image generator using OpenAI's DALL-E"
+  },
+  {
+    "full_name": "pura/autogen",
+    "name": "autogen",
+    "description": null
+  },
+  {
+    "full_name": "ConnectAI-E/Feishu-Vector-Knowledge-Management",
+    "name": "Feishu-Vector-Knowledge-Management",
+    "description": "🎒 私有知识库机器人，基于向量数据库和openai实现。"
+  },
+  {
+    "full_name": "tmc/langchaingo",
+    "name": "langchaingo",
+    "description": "LangChain for Go, the easiest way to write LLM-based programs in Go"
+  },
+  {
+    "full_name": "missuo/openai-translate",
+    "name": "openai-translate",
+    "description": "Build your own OpenAI translation API"
+  },
+  {
+    "full_name": "EthanCampana/go-openai",
+    "name": "go-openai",
+    "description": "Unoffical Go Open-Ai API Wrapper"
+  },
+  {
+    "full_name": "hktalent/ChatGPT-API",
+    "name": "ChatGPT-API",
+    "description": "OpenAI ChatGPT, GPT-3, ChatGPT-API for go,ChatGPT in bash shell command line"
+  },
+  {
+    "full_name": "carterharrison/autostruct",
+    "name": "autostruct",
+    "description": "fill in your golang structs with gpt"
+  },
+  {
+    "full_name": "windrivder/go-openai",
+    "name": "go-openai",
+    "description": "OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go"
+  },
+  {
+    "full_name": "Glioh/ai-quiz-project",
+    "name": "ai-quiz-project",
+    "description": "Quiz Generation Platform Leveraging AI to curb low user base for teachers"
+  },
+  {
+    "full_name": "pkoukk/chatgpt-cli",
+    "name": "chatgpt-cli",
+    "description": "CLI app in gpt-3.5.Keep,restore,share your conversion in files.No worry when website busy"
+  },
+  {
+    "full_name": "iimeta/fastapi-sdk",
+    "name": "fastapi-sdk",
+    "description": "智元 Fast API 是一站式API管理系统，将各类LLM API进行统一格式、统一规范、统一管理，使其在功能、性能和用户体验上达到极致。"
+  },
+  {
+    "full_name": "ruiokazaki-archive/gpt-naming",
+    "name": "gpt-naming",
+    "description": "Have them name their programming using GPT-3."
+  },
+  {
+    "full_name": "felicepng/moodboard",
+    "name": "moodboard",
+    "description": "A minimalistic application for generating mood boards using OpenAI API, Go and SolidJS"
+  },
+  {
+    "full_name": "vorobeyme/chatgpt-telegram-bot",
+    "name": "chatgpt-telegram-bot",
+    "description": ":robot: Example telegram bot written in Go that uses the OpenAI API to have conversations with the GPT-3 model."
+  },
+  {
+    "full_name": "devalexandre/mylangchaingo",
+    "name": "mylangchaingo",
+    "description": "this repository have my resources for langchaingo"
+  },
+  {
+    "full_name": "songtianlun/git-commit-generator",
+    "name": "git-commit-generator",
+    "description": "A git commit generator (translator) implemented based on OpenAI, which takes Chinese descriptions as input and outputs standard commits."
+  },
+  {
+    "full_name": "adanomad/embedding",
+    "name": "embedding",
+    "description": "A playground for embeddings"
+  },
+  {
+    "full_name": "xops-infra/go-openai",
+    "name": "go-openai",
+    "description": "OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go，Simultaneously supporting Azure."
+  },
+  {
+    "full_name": "jatinparab/openai-org-bill-splitter",
+    "name": "openai-org-bill-splitter",
+    "description": "A script that splits the bill of an OpenAI org by users according to their usage"
+  },
+  {
+    "full_name": "jayfromhcomm/sox_v1",
+    "name": "sox_v1",
+    "description": "Sox (from the Buzz Lightyear movie) as a CLI based ChatGPT-3 powered assistant."
+  },
+  {
+    "full_name": "whyiyhw/chatgpt-wechat",
+    "name": "chatgpt-wechat",
+    "description": "企业微信/微信 安全使用的 ChatGPT 个人助手应用"
+  },
+  {
+    "full_name": "shoet/gpt-chat",
+    "name": "gpt-chat",
+    "description": null
+  },
+  {
+    "full_name": "Kappa56799/ChatGpt-in-Terminal",
+    "name": "ChatGpt-in-Terminal",
+    "description": "ChatGPT in Terminal Written in Go"
+  },
+  {
+    "full_name": "bradyjoslin/assembllm-openai-go",
+    "name": "assembllm-openai-go",
+    "description": null
+  },
+  {
+    "full_name": "detrin/perun",
+    "name": "perun",
+    "description": "A simple bash script to use wttr.in + openai to produce spoken weather prognosis from terminal. "
+  },
+  {
+    "full_name": "modfin/bellman",
+    "name": "bellman",
+    "description": "Golang lib for LLM APIs, ChatGPT, Gemini and Anthropic"
+  },
+  {
+    "full_name": "ohnotnow/gepetto-cli",
+    "name": "gepetto-cli",
+    "description": "Simple golang cli program to answer questions via OpenAI chat APIs"
+  },
+  {
+    "full_name": "teilomillet/raggo",
+    "name": "raggo",
+    "description": "A lightweight, production-ready RAG (Retrieval Augmented Generation) library in Go."
+  },
+  {
+    "full_name": "blixt/go-llms",
+    "name": "go-llms",
+    "description": "A simple way to deal with streaming text, tools, images from LLMs."
+  },
+  {
+    "full_name": "leafduo/chatgpt-telegram-bot",
+    "name": "chatgpt-telegram-bot",
+    "description": "Telegram bot for ChatGPT"
+  },
+  {
+    "full_name": "glide-im/chat-gpt-bot",
+    "name": "chat-gpt-bot",
+    "description": "接入 ChatGPT 的机器人案例"
+  },
+  {
+    "full_name": "pedcapa/autogpt-api",
+    "name": "autogpt-api",
+    "description": "A unified API built with Go and Fiber for interacting with language models from OpenAI, Google, and Anthropic, with usage tracking and cost management via MongoDB."
+  },
+  {
+    "full_name": "gtoxlili/openai-forward-fiber",
+    "name": "openai-forward-fiber",
+    "description": "Forward OpenAI services easily with Openai-Forward-Fiber."
+  },
+  {
+    "full_name": "Yilimmilk/Tofu-Proxy",
+    "name": "Tofu-Proxy",
+    "description": "A project based on GO language that can proxy OpenAI and Cloudflare APIs"
+  },
+  {
+    "full_name": "patnaikshekhar/Krayon",
+    "name": "Krayon",
+    "description": "A CLI for interacting with LLMs"
+  },
+  {
+    "full_name": "milliorn/chatgpt-cli",
+    "name": "chatgpt-cli",
+    "description": "Chat with OpenAI GPT-3 using Golang or NodeJs"
+  },
+  {
+    "full_name": "basenana/friday",
+    "name": "friday",
+    "description": "Friday is an intelligent question-answering system that leverages knowledge base vectorization and large language models."
+  },
+  {
+    "full_name": "adminlove520/openAI_G",
+    "name": "openAI_G",
+    "description": "公众号接入chatGPT"
+  },
+  {
+    "full_name": "mariocandela/beelzebub",
+    "name": "beelzebub",
+    "description": "A secure low code honeypot framework, leveraging AI for System Virtualization."
+  },
+  {
+    "full_name": "liCells/chatgpt-cli",
+    "name": "chatgpt-cli",
+    "description": "Get the desired command through ChatGPT."
+  },
+  {
+    "full_name": "nmeilick/go-whisper",
+    "name": "go-whisper",
+    "description": "Go package to handle audio using OpenAI's Whisper"
+  },
+  {
+    "full_name": "kklab-com/chatgpt-go",
+    "name": "chatgpt-go",
+    "description": "chatgpt api (gpt-3.5-turbo)  golang version"
+  },
+  {
+    "full_name": "michelo851a1203/learning-golang-openai-assistant",
+    "name": "learning-golang-openai-assistant",
+    "description": null
+  },
+  {
+    "full_name": "AndresDevvv/ChatGPT-Self-Hosted",
+    "name": "ChatGPT-Self-Hosted",
+    "description": "ChatGPT Client Self Hosted For Unblocking ChatGPT In School,Work, Etc"
+  },
+  {
+    "full_name": "weaviate/weaviate",
+    "name": "weaviate",
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​."
+  },
+  {
+    "full_name": "mkXultra/gpt-lamp",
+    "name": "gpt-lamp",
+    "description": null
+  },
+  {
+    "full_name": "kardolus/chatgpt-cli",
+    "name": "chatgpt-cli",
+    "description": "ChatGPT CLI is a versatile tool for interacting with LLM models through OpenAI and Azure, as well as models from Perplexity AI and Llama. It supports prompts and history tracking for seamless, context-aware interactions. With extensive configuration options, it’s designed for both users and developers to create a customized GPT experience."
+  },
+  {
+    "full_name": "philiplinell/commit-msg",
+    "name": "commit-msg",
+    "description": "Create a commit message suggestion using the openAI API. "
+  },
+  {
+    "full_name": "ShintaroaSuzuki/chatgpt-review",
+    "name": "chatgpt-review",
+    "description": "chatgpt-review"
+  },
+  {
+    "full_name": "gregoryv/can",
+    "name": "can",
+    "description": "command line interface to openai"
+  },
+  {
+    "full_name": "pikocloud/pikobrain",
+    "name": "pikobrain",
+    "description": "Function-calling API for LLM from multiple providers"
+  },
+  {
+    "full_name": "tectiv3/chatgpt-bot",
+    "name": "chatgpt-bot",
+    "description": "Telegram bot with OpenAI chat. Supports answering to voice messages. Streaming responses. History summarization. Function calls"
+  },
+  {
+    "full_name": "arunk140/runnr.sh",
+    "name": "runnr.sh",
+    "description": "runnr.sh - using openai - control your linux machine using natural language - golang"
+  },
+  {
+    "full_name": "fabiustech/openai",
+    "name": "openai",
+    "description": "Go client for interacting with OpenAI API endpoints."
+  },
+  {
+    "full_name": "vibovenkat123/review-gpt",
+    "name": "review-gpt",
+    "description": "An automatic code review tool that uses gpt-3, gpt-3.5, and gpt-4"
+  },
+  {
+    "full_name": "vmorsell/openai-gpt-sdk-go",
+    "name": "openai-gpt-sdk-go",
+    "description": "OpenAI GPT SDK for Go"
+  },
+  {
+    "full_name": "StacklokLabs/gorag",
+    "name": "gorag",
+    "description": "GoRag: Go Interface for Augmented LLM retrieval 📜"
+  },
+  {
+    "full_name": "ericsource/wechatbot",
+    "name": "wechatbot",
+    "description": "wechat 接入 chatGPT"
+  },
+  {
+    "full_name": "openshieldai/openshield",
+    "name": "openshield",
+    "description": "OpenShield is a new generation security layer for AI models"
+  },
+  {
+    "full_name": "beglov/go-chatgpt-telegram-bot",
+    "name": "go-chatgpt-telegram-bot",
+    "description": "ChatGPT Telegram bot "
+  },
+  {
+    "full_name": "rfielding/gorag",
+    "name": "gorag",
+    "description": "golang openai SQL query and explain."
+  },
+  {
+    "full_name": "zhimaAi/llm_adaptor",
+    "name": "llm_adaptor",
+    "description": null
+  },
+  {
+    "full_name": "openai/openai-go",
+    "name": "openai-go",
+    "description": "The official Go library for the OpenAI API"
+  },
+  {
+    "full_name": "GeniusAI-Platform/openai",
+    "name": "openai",
+    "description": "OpenAi SDK for Go (community-maintained)"
+  },
+  {
+    "full_name": "shulinbao/horseapi",
+    "name": "horseapi",
+    "description": "A secondary development of the Calcium-Ion/new-api project, designed as an OpenAI-compatible API management tool, primarily for the HorseGPT project."
+  },
+  {
+    "full_name": "PotatoWhite/openai-realtime",
+    "name": "openai-realtime",
+    "description": null
+  },
+  {
+    "full_name": "Calcium-Ion/new-api",
+    "name": "new-api",
+    "description": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages."
+  },
+  {
+    "full_name": "shakibhasan09/twilio-voice-openai",
+    "name": "twilio-voice-openai",
+    "description": "A Golang application that integrates Twilio Voice with OpenAI's language models. This project enables voice interactions powered by AI, allowing for intelligent phone call handling, voice-based chatbots, or automated customer service systems."
+  },
+  {
+    "full_name": "tluyben/llm-router",
+    "name": "llm-router",
+    "description": null
+  },
+  {
+    "full_name": "simongottschlag/azure-openai-gpt-slack-bot",
+    "name": "azure-openai-gpt-slack-bot",
+    "description": "An example for OpenAI slack integration"
+  },
+  {
+    "full_name": "dengaletin/CallFrescoBot",
+    "name": "CallFrescoBot",
+    "description": "Quick and dirty bot to chat with ChatGPT"
+  },
+  {
+    "full_name": "dialmaster/ThePhantomPhreak",
+    "name": "ThePhantomPhreak",
+    "description": "OpenAI chatbot"
+  },
+  {
+    "full_name": "meinside/openai-go",
+    "name": "openai-go",
+    "description": "OpenAI API wrapper for golang"
+  },
+  {
+    "full_name": "rfielding/gochat",
+    "name": "gochat",
+    "description": "an OpenAI agent built with Cursor+Claude, for filling out office forms."
+  },
+  {
+    "full_name": "WillChangeThisLater/lm",
+    "name": "lm",
+    "description": "Simple Go interface for querying OpenAI LLMs"
+  },
+  {
+    "full_name": "Pooh-Mucho/go-aigc",
+    "name": "go-aigc",
+    "description": "The client written in golang for invoking various Large Language Models and Image/Video Generation models."
+  },
+  {
+    "full_name": "yubing744/chatgpt-go",
+    "name": "chatgpt-go",
+    "description": "chatGPT golang client translated from https://github.com/acheong08/ChatGPT"
+  },
+  {
+    "full_name": "yoanbernabeu/MeetingResumeGenerator",
+    "name": "MeetingResumeGenerator",
+    "description": "MeetingResumeGenerator est un outil en ligne de commande écrit en Go qui transforme des fichiers audio en texte et en résumés structurés, facilitant ainsi la transcription et la synthèse de réunions, conférences et discussions grâce aux API OpenAI Whisper et GPT-4."
+  },
+  {
+    "full_name": "billikeu/go-chatgpt",
+    "name": "go-chatgpt",
+    "description": "go-chatgpt: Reverse engineered API of OpenAi's ChatGPT. ChatGPT聊天功能的逆向工程"
+  },
+  {
+    "full_name": "teilomillet/gollm",
+    "name": "gollm",
+    "description": "Unified Go interface for Language Model (LLM) providers. Simplifies LLM integration with flexible prompt management and common task functions."
+  },
+  {
+    "full_name": "bench-ai/agent-workbench",
+    "name": "agent-workbench",
+    "description": "Create LLM based agents that can perform higher levels of operations and analysis"
+  },
+  {
+    "full_name": "PullRequestInc/go-gpt3",
+    "name": "go-gpt3",
+    "description": "An OpenAI GPT-3 API client enabling Go/Golang programs to interact with the gpt3 APIs."
+  },
+  {
+    "full_name": "mark3labs/mcphost",
+    "name": "mcphost",
+    "description": "A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP)."
+  },
+  {
+    "full_name": "xdrudis/llm-proxy",
+    "name": "llm-proxy",
+    "description": "💰 Save 50% on OpenAI API costs with a one-line change"
+  },
+  {
+    "full_name": "bricks-cloud/BricksLLM",
+    "name": "BricksLLM",
+    "description": "🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI, Azure OpenAI, Anthropic, vLLM, and open-source LLMs."
+  },
+  {
+    "full_name": "fireinrain/opaitokens",
+    "name": "opaitokens",
+    "description": "A golang lib to help you to get openai access token and refresh the token(一个golang sdk，帮助你更容易的获取openai chatgpt的accessToken :)"
+  },
+  {
+    "full_name": "DarkCaster/Perpetual",
+    "name": "Perpetual",
+    "description": "LLM-driven software development helper."
+  },
+  {
+    "full_name": "hanyuancheung/gpt-go",
+    "name": "gpt-go",
+    "description": "OpenAI ChatGPT/GPT-4/GPT-3 SDK Go Client to Interact with the GPT-4/GPT-3 APIs."
+  },
+  {
+    "full_name": "quantonganh/chatgpt-tui",
+    "name": "chatgpt-tui",
+    "description": "A simple terminal user interface for ChatGPT, written in Go"
+  },
+  {
+    "full_name": "momokii/go-llmbridge",
+    "name": "go-llmbridge",
+    "description": "Golang LLM Wrapper for OpenAI and Anthropic (Claude)"
+  },
+  {
+    "full_name": "ossrs/ai-talk",
+    "name": "ai-talk",
+    "description": "AI-Talk allows you to talk with OpenAI GPT."
+  }
+]

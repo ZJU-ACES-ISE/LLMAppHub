@@ -1,0 +1,260 @@
+{
+  "all_public_dependent_repos": [
+    {
+      "name": "promptfoo/promptfoo",
+      "stars": 5603,
+      "img": "https://avatars.githubusercontent.com/u/137907881?s=40&v=4",
+      "owner": "promptfoo",
+      "repo_name": "promptfoo"
+    },
+    {
+      "name": "microsoft/genaiscript",
+      "stars": 2275,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "genaiscript"
+    },
+    {
+      "name": "inferablehq/inferable",
+      "stars": 332,
+      "img": "https://avatars.githubusercontent.com/u/170831637?s=40&v=4",
+      "owner": "inferablehq",
+      "repo_name": "inferable"
+    },
+    {
+      "name": "souzatharsis/tamingLLMs",
+      "stars": 288,
+      "img": "https://avatars.githubusercontent.com/u/15125613?s=40&v=4",
+      "owner": "souzatharsis",
+      "repo_name": "tamingLLMs"
+    },
+    {
+      "name": "i-am-alice/3rd-devs",
+      "stars": 183,
+      "img": "https://avatars.githubusercontent.com/u/148684274?s=40&v=4",
+      "owner": "i-am-alice",
+      "repo_name": "3rd-devs"
+    },
+    {
+      "name": "babelcloud/LLM-RGB",
+      "stars": 150,
+      "img": "https://avatars.githubusercontent.com/u/104478511?s=40&v=4",
+      "owner": "babelcloud",
+      "repo_name": "LLM-RGB"
+    },
+    {
+      "name": "privacera/paig",
+      "stars": 118,
+      "img": "https://avatars.githubusercontent.com/u/69572925?s=40&v=4",
+      "owner": "privacera",
+      "repo_name": "paig"
+    },
+    {
+      "name": "disler/llm-prompt-testing-quick-start",
+      "stars": 68,
+      "img": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4",
+      "owner": "disler",
+      "repo_name": "llm-prompt-testing-quick-start"
+    },
+    {
+      "name": "bjsi/open-recommender",
+      "stars": 57,
+      "img": "https://avatars.githubusercontent.com/u/58147075?s=40&v=4",
+      "owner": "bjsi",
+      "repo_name": "open-recommender"
+    },
+    {
+      "name": "disler/omni-complete",
+      "stars": 55,
+      "img": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4",
+      "owner": "disler",
+      "repo_name": "omni-complete"
+    },
+    {
+      "name": "disler/elm-itv-benchmark",
+      "stars": 45,
+      "img": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4",
+      "owner": "disler",
+      "repo_name": "elm-itv-benchmark"
+    },
+    {
+      "name": "Chainlit/literalai-cookbooks",
+      "stars": 44,
+      "img": "https://avatars.githubusercontent.com/u/128686189?s=40&v=4",
+      "owner": "Chainlit",
+      "repo_name": "literalai-cookbooks"
+    },
+    {
+      "name": "Future-House/LAB-Bench",
+      "stars": 33,
+      "img": "https://avatars.githubusercontent.com/u/131727825?s=40&v=4",
+      "owner": "Future-House",
+      "repo_name": "LAB-Bench"
+    },
+    {
+      "name": "bflaven/ia_usages",
+      "stars": 24,
+      "img": "https://avatars.githubusercontent.com/u/5916084?s=40&v=4",
+      "owner": "bflaven",
+      "repo_name": "ia_usages"
+    },
+    {
+      "name": "cardstack/boxel",
+      "stars": 17,
+      "img": "https://avatars.githubusercontent.com/u/10118425?s=40&v=4",
+      "owner": "cardstack",
+      "repo_name": "boxel"
+    },
+    {
+      "name": "microsoft/vscode-azureapicenter",
+      "stars": 16,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "vscode-azureapicenter"
+    },
+    {
+      "name": "promptfoo/promptfoo-action",
+      "stars": 15,
+      "img": "https://avatars.githubusercontent.com/u/137907881?s=40&v=4",
+      "owner": "promptfoo",
+      "repo_name": "promptfoo-action"
+    },
+    {
+      "name": "bjsi/open-fresh",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/58147075?s=40&v=4",
+      "owner": "bjsi",
+      "repo_name": "open-fresh"
+    },
+    {
+      "name": "bjsi/prompt-iteration-assistant",
+      "stars": 8,
+      "img": "https://avatars.githubusercontent.com/u/58147075?s=40&v=4",
+      "owner": "bjsi",
+      "repo_name": "prompt-iteration-assistant"
+    },
+    {
+      "name": "Evobaso-J/ai-gitlab-code-review",
+      "stars": 6,
+      "img": "https://avatars.githubusercontent.com/u/57828270?s=40&v=4",
+      "owner": "Evobaso-J",
+      "repo_name": "ai-gitlab-code-review"
+    },
+    {
+      "name": "rh-rad-ai-roadshow/parasol-insurance",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/173706059?s=40&v=4",
+      "owner": "rh-rad-ai-roadshow",
+      "repo_name": "parasol-insurance"
+    },
+    {
+      "name": "sourcegraph/openapi",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/3979584?s=40&v=4",
+      "owner": "sourcegraph",
+      "repo_name": "openapi"
+    },
+    {
+      "name": "yukinagae/genkitx-promptfoo",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/1390726?s=40&v=4",
+      "owner": "yukinagae",
+      "repo_name": "genkitx-promptfoo"
+    },
+    {
+      "name": "blanky0230/promptfoo_lab",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/5700358?s=40&v=4",
+      "owner": "blanky0230",
+      "repo_name": "promptfoo_lab"
+    },
+    {
+      "name": "nodeshift/parasol-insurance-nodejs",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/44449734?s=40&v=4",
+      "owner": "nodeshift",
+      "repo_name": "parasol-insurance-nodejs"
+    },
+    {
+      "name": "koki-nagatani/llm-ginatayomi-evaluation",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/16715506?s=40&v=4",
+      "owner": "koki-nagatani",
+      "repo_name": "llm-ginatayomi-evaluation"
+    },
+    {
+      "name": "mihalik/llmstat",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/153942?s=40&v=4",
+      "owner": "mihalik",
+      "repo_name": "llmstat"
+    },
+    {
+      "name": "RaheesAhmed/prompts-master",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/48914925?s=40&v=4",
+      "owner": "RaheesAhmed",
+      "repo_name": "prompts-master"
+    },
+    {
+      "name": "joshuali925/observability-langchain",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/28062824?s=40&v=4",
+      "owner": "joshuali925",
+      "repo_name": "observability-langchain"
+    },
+    {
+      "name": "theodo-group/dojo-genaiscript",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/102953894?s=40&v=4",
+      "owner": "theodo-group",
+      "repo_name": "dojo-genaiscript"
+    },
+    {
+      "name": "AdamPtk/3rd-devs-tasks",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/74918235?s=40&v=4",
+      "owner": "AdamPtk",
+      "repo_name": "3rd-devs-tasks"
+    },
+    {
+      "name": "mohammadak95/Yemen_Market_Analysis",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/158298916?s=40&v=4",
+      "owner": "mohammadak95",
+      "repo_name": "Yemen_Market_Analysis"
+    },
+    {
+      "name": "mayflower/zod_vercel_ai_data_validation",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/536878?s=40&v=4",
+      "owner": "mayflower",
+      "repo_name": "zod_vercel_ai_data_validation"
+    },
+    {
+      "name": "hyzco/LLM-Rag-Assistant",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/48827301?s=40&v=4",
+      "owner": "hyzco",
+      "repo_name": "LLM-Rag-Assistant"
+    },
+    {
+      "name": "opensearch-project/skills-eval",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/80134844?s=40&v=4",
+      "owner": "opensearch-project",
+      "repo_name": "skills-eval"
+    }
+  ],
+  "total_dependents_number": 35,
+  "public_dependents_number": 35,
+  "private_dependents_number": -37,
+  "public_dependents_stars": 9375,
+  "badges": {
+    "total_doc_url": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=37&color=informational&logo=slickpic)](https://github.com/nvuillam/github-dependents-info)",
+    "total": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=35&color=informational&logo=slickpic)](https://github.com/promptfoo/promptfoo/network/dependents)",
+    "public": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=35&color=informational&logo=slickpic)](https://github.com/promptfoo/promptfoo/network/dependents)",
+    "private": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-37&color=informational&logo=slickpic)](https://github.com/promptfoo/promptfoo/network/dependents)",
+    "stars": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=9375&color=informational&logo=slickpic)](https://github.com/promptfoo/promptfoo/network/dependents)"
+  }
+}

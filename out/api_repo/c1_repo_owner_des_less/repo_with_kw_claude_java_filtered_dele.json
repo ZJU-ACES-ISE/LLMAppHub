@@ -1,0 +1,22 @@
+[
+  {
+    "full_name": "CaSkade-Automation/LLM4Cap",
+    "name": "LLM4Cap",
+    "description": "Method for the automated generation of capability ontologies with LLMs and the verification of the results. "
+  },
+  {
+    "full_name": "vacuityv/ai-java-sdk",
+    "name": "ai-java-sdk",
+    "description": "java sdk for ai apis. Support claude ai and google gemini and part of openai (chatgpt). 支持chatgpt/gemini/claude的java sdk。"
+  },
+  {
+    "full_name": "rcprcp/ReformatKnowledgeBase",
+    "name": "ReformatKnowledgeBase",
+    "description": "Reformat Zendesk KB articles using LocalAI or Claude.ai"
+  },
+  {
+    "full_name": "langchain4j/langchain4j",
+    "name": "langchain4j",
+    "description": "Java version of LangChain"
+  }
+]

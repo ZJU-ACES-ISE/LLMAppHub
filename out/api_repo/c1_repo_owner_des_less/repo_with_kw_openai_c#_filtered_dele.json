@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "radareorg/r2ai",
+    "name": "r2ai",
+    "description": "local language model for radare2"
+  },
+  {
+    "full_name": "ChatAFLndss/ChatAFL",
+    "name": "ChatAFL",
+    "description": "Large Language Model guided Protocol Fuzzing (NDSS'24)"
+  },
+  {
+    "full_name": "LumitoLuma/chatgpt-client",
+    "name": "chatgpt-client",
+    "description": "A simple ChatGPT client written in C"
+  },
+  {
+    "full_name": "semissioncontrol/openai.c",
+    "name": "openai.c",
+    "description": "C wrapper for accessing the OpenAI GPT-3 API"
+  },
+  {
+    "full_name": "MrHuu/openai-3ds",
+    "name": "openai-3ds",
+    "description": "Open-AI playground for Nintendo 3DS"
+  },
+  {
+    "full_name": "bwathomas/LLM_SchoolChoice",
+    "name": "LLM_SchoolChoice",
+    "description": "Code used for research on ChatGPT and school choice"
+  },
+  {
+    "full_name": "MertGunduz/mkhtml",
+    "name": "mkhtml",
+    "description": "mkhtml is an html document generator that works with gpt"
+  },
+  {
+    "full_name": "theesfeld/lIeRC",
+    "name": "lIeRC",
+    "description": "LIERC - a fake irc chatroom populated by LLMs"
+  }
+]

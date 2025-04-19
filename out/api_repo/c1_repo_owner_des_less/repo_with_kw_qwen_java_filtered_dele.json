@@ -1,0 +1,27 @@
+[
+  {
+    "full_name": "my-fastcms/nexfly",
+    "name": "nexfly",
+    "description": "Nexfly是一款深度整合Spring-Ai框架构建的微服务开源项目，拥有RAG，以及AI编排等功能，旨在简化包含人工智能功能的应用程序的开发，避免不必要的复杂性，让企业接入ai能力变得更加容易"
+  },
+  {
+    "full_name": "fuzhengwei/openai-sdk-java",
+    "name": "openai-sdk-java",
+    "description": "星球开源共建项目 《OpenAI SDK》 统一大模型标准化对接的技术组件项目，此项目以解决实际市面上的场景为诉求，将 OpenAI、Claude、PalM、文心一言、通义千问、讯飞星火、智谱 ChatGLM、腾讯混元等这些大模型做一个统一的 SDK 对接组件。"
+  },
+  {
+    "full_name": "Devin-XYW/LLMAgents",
+    "name": "LLMAgents",
+    "description": "The LLM Agents for Android"
+  },
+  {
+    "full_name": "pig-mesh/langchain4j-course",
+    "name": "langchain4j-course",
+    "description": null
+  },
+  {
+    "full_name": "tencentmusic/supersonic",
+    "name": "supersonic",
+    "description": "SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms."
+  }
+]

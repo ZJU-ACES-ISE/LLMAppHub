@@ -1,0 +1,197 @@
+[
+  {
+    "full_name": "TechNinja-Sun/SmartReportv1.0",
+    "name": "SmartReportv1.0",
+    "description": "Intelligent generation reporting system based on RAG technology"
+  },
+  {
+    "full_name": "franlin1860/llm",
+    "name": "llm",
+    "description": null
+  },
+  {
+    "full_name": "poppanda/LLM_PDF_Translator",
+    "name": "LLM_PDF_Translator",
+    "description": "Use LLM (ollama, QWEN, ChatGPT) to translate the pdf inplacely"
+  },
+  {
+    "full_name": "BloodLotusqwq/LLM_EduChat",
+    "name": "LLM_EduChat",
+    "description": "与大模型对话的教学工程"
+  },
+  {
+    "full_name": "AI4Finance-Foundation/FinRAG",
+    "name": "FinRAG",
+    "description": "FinRAG: Financial Retrieval Augmented Generation"
+  },
+  {
+    "full_name": "Plumess/MimirFW",
+    "name": "MimirFW",
+    "description": "（制作中）本项目旨在开发一个基于大语言模型（LLM）的对话游戏主持框架，支持类似DND（龙与地下城）、狼人杀等对话类游戏的自动化主持。"
+  },
+  {
+    "full_name": "tangent95/Comforter-LLMJudger",
+    "name": "Comforter-LLMJudger",
+    "description": "Comforter项目下的大模型判断模块，用来判断一个人的发言是否需要被安慰/温暖"
+  },
+  {
+    "full_name": "toke648/AI-Interactive-LLM-VTuber",
+    "name": "AI-Interactive-LLM-VTuber",
+    "description": null
+  },
+  {
+    "full_name": "HarderThenHarder/AgentLife",
+    "name": "AgentLife",
+    "description": "A small open source 3D agent simulator based on LLM."
+  },
+  {
+    "full_name": "NewToolAI/docapi",
+    "name": "docapi",
+    "description": "DocAPI is a Python package that automatically generates API documentation using LLMs. It currently supports Flask and Django frameworks."
+  },
+  {
+    "full_name": "ThomasXIONG151215/RABBIT-Multi-Agents",
+    "name": "RABBIT-Multi-Agents",
+    "description": "探索如何用LLM Agent自动化种植工作流"
+  },
+  {
+    "full_name": "HzaCode/LLM",
+    "name": "LLM",
+    "description": null
+  },
+  {
+    "full_name": "underwoodnoble/SPAGF",
+    "name": "SPAGF",
+    "description": "SPAG for finance llm."
+  },
+  {
+    "full_name": "injet-zhou/cofreq",
+    "name": "cofreq",
+    "description": "cofreq makes public LLM APIs compatible with open-webui"
+  },
+  {
+    "full_name": "Anionex/RAG-QA-Assistant",
+    "name": "RAG-QA-Assistant",
+    "description": "数据结构个人期末作业。实现一个尽量高效的近邻向量检索，并基于此实现基于语义的近似文段检索，进一步做成一个基础的问答助手应用。"
+  },
+  {
+    "full_name": "shidu-xie/ChatLLM",
+    "name": "ChatLLM",
+    "description": null
+  },
+  {
+    "full_name": "qiuchen001/gemini-vision-perception",
+    "name": "gemini-vision-perception",
+    "description": "基于google geminiAPI视频理解的能力，实现标签挖掘、视频RAG"
+  },
+  {
+    "full_name": "xyhzhlove/a-langchain-generate-data-demo",
+    "name": "a-langchain-generate-data-demo",
+    "description": "a-langchain-generate-data-dem"
+  },
+  {
+    "full_name": "Metisyolo/Qwen-Agent",
+    "name": "Qwen-Agent",
+    "description": "LLM-Agent"
+  },
+  {
+    "full_name": "Cao1014/Full_Stack_LLM_Project",
+    "name": "Full_Stack_LLM_Project",
+    "description": "《基于AI大模型的前后端应用开发》课程仓库"
+  },
+  {
+    "full_name": "libinpg/AI-group-files",
+    "name": "AI-group-files",
+    "description": "An innovative file organization system powered by advanced AI algorithms. This tool leverages the OpenAI GPT-3.5 model and Baidu qianfan models to intelligently categorize and organize files based on their content. With a focus on ease of use and automation"
+  },
+  {
+    "full_name": "dekumylove/llm_agent",
+    "name": "llm_agent",
+    "description": null
+  },
+  {
+    "full_name": "Pommissarzhu/vpsm-llm",
+    "name": "vpsm-llm",
+    "description": "A Visual Parsing System for Menus Based on Large Language Modeling"
+  },
+  {
+    "full_name": "OrchardUniverse/basket",
+    "name": "basket",
+    "description": "The common toolkit for all MaaS with OpenAI API"
+  },
+  {
+    "full_name": "linyqh/NarratoAI",
+    "name": "NarratoAI",
+    "description": "利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click."
+  },
+  {
+    "full_name": "vanna-ai/vanna",
+    "name": "vanna",
+    "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄."
+  },
+  {
+    "full_name": "ReneDrengen/LlamaHub",
+    "name": "LlamaHub",
+    "description": null
+  },
+  {
+    "full_name": "DevinNorgarb/llama-index-notebook",
+    "name": "llama-index-notebook",
+    "description": null
+  },
+  {
+    "full_name": "SmartAG-Team/CDIP-ChatGLM3",
+    "name": "CDIP-ChatGLM3",
+    "description": "crop disease identification and prescription with CNN and LLMs"
+  },
+  {
+    "full_name": "tian-minghui/openai-style-api",
+    "name": "openai-style-api",
+    "description": "支持将openai、claude、azure openai, gemini,kimi, 智谱AI,通义千问,讯飞星火API等模型服务方的调用转为openai方式调用。屏蔽不同大模型API的差异，统一用openai api标准格式使用大模型(Shield the differences between different large model APIs and use large models in a unified openai API standard format)"
+  },
+  {
+    "full_name": "huaxlin/lmconf",
+    "name": "lmconf",
+    "description": "Support for multiple LLM configurations in one application settings"
+  },
+  {
+    "full_name": "q2wxec/lang2openai",
+    "name": "lang2openai",
+    "description": "lang2openai"
+  },
+  {
+    "full_name": "time1527/teach-chat",
+    "name": "teach-chat",
+    "description": "tool+memory+rag"
+  },
+  {
+    "full_name": "BlackBearCC/CharacterAgent",
+    "name": "CharacterAgent",
+    "description": "用于角色扮演代理开发，解决单一角色模仿深度不够的问题。正在开发中"
+  },
+  {
+    "full_name": "flybywind/llm-wechat",
+    "name": "llm-wechat",
+    "description": "llm-wechat"
+  },
+  {
+    "full_name": "MGzhou/modelscope-agent-with-local-llm",
+    "name": "modelscope-agent-with-local-llm",
+    "description": "本项目基于modelscope-agent-v0.3和 api-for-open-llm 或 llamacpp 组件共同实现了一个AI Agent，能够利用本地的大模型（LLM）实现使用自定义工具功能。使用了Qwen1.5大模型。"
+  },
+  {
+    "full_name": "shellwork/XJTLU-Software-RAG",
+    "name": "XJTLU-Software-RAG",
+    "description": null
+  },
+  {
+    "full_name": "LATQAQ/LLM",
+    "name": "LLM",
+    "description": null
+  },
+  {
+    "full_name": "cbdb-project/processing-prompts-by-batch",
+    "name": "processing-prompts-by-batch",
+    "description": "This project provides a Python script to interact with multiple Large Language Models (LLMs) from various APIs. The script allows batch processing of prompts, splitting lengthy inputs into manageable chunks, and retrieving responses from the specified LLM."
+  }
+]

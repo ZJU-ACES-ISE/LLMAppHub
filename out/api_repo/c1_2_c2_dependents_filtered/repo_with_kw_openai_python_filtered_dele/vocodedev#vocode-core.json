@@ -1,0 +1,204 @@
+{
+  "all_public_dependent_repos": [
+    {
+      "name": "vocodedev/vocode-core",
+      "stars": 3165,
+      "img": "https://avatars.githubusercontent.com/u/126283459?s=40&v=4",
+      "owner": "vocodedev",
+      "repo_name": "vocode-core"
+    },
+    {
+      "name": "Ikaros-521/RealtimeSTT_LLM_TTS",
+      "stars": 323,
+      "img": "https://avatars.githubusercontent.com/u/40910637?s=40&v=4",
+      "owner": "Ikaros-521",
+      "repo_name": "RealtimeSTT_LLM_TTS"
+    },
+    {
+      "name": "Mithun1508/ChatGPT-Phone-Call-Server",
+      "stars": 18,
+      "img": "https://avatars.githubusercontent.com/u/93249038?s=40&v=4",
+      "owner": "Mithun1508",
+      "repo_name": "ChatGPT-Phone-Call-Server"
+    },
+    {
+      "name": "Agentic-Insights/voice-bot",
+      "stars": 17,
+      "img": "https://avatars.githubusercontent.com/u/171188275?s=40&v=4",
+      "owner": "Agentic-Insights",
+      "repo_name": "voice-bot"
+    },
+    {
+      "name": "harmony-one/x",
+      "stars": 9,
+      "img": "https://avatars.githubusercontent.com/u/39147399?s=40&v=4",
+      "owner": "harmony-one",
+      "repo_name": "x"
+    },
+    {
+      "name": "amrynsky/vocode_langchain",
+      "stars": 4,
+      "img": "https://avatars.githubusercontent.com/u/4339035?s=40&v=4",
+      "owner": "amrynsky",
+      "repo_name": "vocode_langchain"
+    },
+    {
+      "name": "alphavector/all",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/11805788?s=40&v=4",
+      "owner": "alphavector",
+      "repo_name": "all"
+    },
+    {
+      "name": "Lyn4ever29/pipy_server",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/25952589?s=40&v=4",
+      "owner": "Lyn4ever29",
+      "repo_name": "pipy_server"
+    },
+    {
+      "name": "bajajcodes/vocode-custom-actions",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/29247011?s=40&v=4",
+      "owner": "bajajcodes",
+      "repo_name": "vocode-custom-actions"
+    },
+    {
+      "name": "zakariaelh/goldendj",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/39914277?s=40&v=4",
+      "owner": "zakariaelh",
+      "repo_name": "goldendj"
+    },
+    {
+      "name": "ArtisanLabs/replit-vocode-telegram-app",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/140651630?s=40&v=4",
+      "owner": "ArtisanLabs",
+      "repo_name": "replit-vocode-telegram-app"
+    },
+    {
+      "name": "avardaan/vocode-health-ai",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/26334821?s=40&v=4",
+      "owner": "avardaan",
+      "repo_name": "vocode-health-ai"
+    },
+    {
+      "name": "anwaraliahmad/callcenter",
+      "stars": 3,
+      "img": "https://avatars.githubusercontent.com/u/3928422?s=40&v=4",
+      "owner": "anwaraliahmad",
+      "repo_name": "callcenter"
+    },
+    {
+      "name": "SeniorDev0830/vocode-python",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/180333232?s=40&v=4",
+      "owner": "SeniorDev0830",
+      "repo_name": "vocode-python"
+    },
+    {
+      "name": "FrostGod/EventDash",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/47188680?s=40&v=4",
+      "owner": "FrostGod",
+      "repo_name": "EventDash"
+    },
+    {
+      "name": "ArtisanLabs/vocode-python",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/140651630?s=40&v=4",
+      "owner": "ArtisanLabs",
+      "repo_name": "vocode-python"
+    },
+    {
+      "name": "rs2247/ai_callcenter",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/11172715?s=40&v=4",
+      "owner": "rs2247",
+      "repo_name": "ai_callcenter"
+    },
+    {
+      "name": "navanchauhan/CallMeMaybe",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/29234112?s=40&v=4",
+      "owner": "navanchauhan",
+      "repo_name": "CallMeMaybe"
+    },
+    {
+      "name": "jdgilhuly/appointment_manager",
+      "stars": 2,
+      "img": "https://avatars.githubusercontent.com/u/61561750?s=40&v=4",
+      "owner": "jdgilhuly",
+      "repo_name": "appointment_manager"
+    },
+    {
+      "name": "SeniorDev222/vocode-python",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/171833607?s=40&v=4",
+      "owner": "SeniorDev222",
+      "repo_name": "vocode-python"
+    },
+    {
+      "name": "arijeetghosal/Voice-Bot-Using-OpenAI-and-Docker",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/123424345?s=40&v=4",
+      "owner": "arijeetghosal",
+      "repo_name": "Voice-Bot-Using-OpenAI-and-Docker"
+    },
+    {
+      "name": "sachin0034/VocodeCallAssistant",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/161276831?s=40&v=4",
+      "owner": "sachin0034",
+      "repo_name": "VocodeCallAssistant"
+    },
+    {
+      "name": "ming94539/DrAIAgent",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/29558829?s=40&v=4",
+      "owner": "ming94539",
+      "repo_name": "DrAIAgent"
+    },
+    {
+      "name": "spalman/vocode-phonebot",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/8028505?s=40&v=4",
+      "owner": "spalman",
+      "repo_name": "vocode-phonebot"
+    },
+    {
+      "name": "robonafisi/vocode-python-newvoice",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/91758786?s=40&v=4",
+      "owner": "robonafisi",
+      "repo_name": "vocode-python-newvoice"
+    },
+    {
+      "name": "Qucy/vocode-hsbc-backend",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/4914654?s=40&v=4",
+      "owner": "Qucy",
+      "repo_name": "vocode-hsbc-backend"
+    },
+    {
+      "name": "bestie-bot/lancaster-ai-2023",
+      "stars": 1,
+      "img": "https://avatars.githubusercontent.com/u/49245382?s=40&v=4",
+      "owner": "bestie-bot",
+      "repo_name": "lancaster-ai-2023"
+    }
+  ],
+  "total_dependents_number": 27,
+  "public_dependents_number": 27,
+  "private_dependents_number": -31,
+  "public_dependents_stars": 3577,
+  "badges": {
+    "total_doc_url": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=31&color=informational&logo=slickpic)](https://github.com/nvuillam/github-dependents-info)",
+    "total": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by&message=27&color=informational&logo=slickpic)](https://github.com/vocodedev/vocode-core/network/dependents)",
+    "public": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=27&color=informational&logo=slickpic)](https://github.com/vocodedev/vocode-core/network/dependents)",
+    "private": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-31&color=informational&logo=slickpic)](https://github.com/vocodedev/vocode-core/network/dependents)",
+    "stars": "[![Generated by github-dependents-info](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=3577&color=informational&logo=slickpic)](https://github.com/vocodedev/vocode-core/network/dependents)"
+  }
+}

@@ -1,0 +1,797 @@
+[
+  {
+    "full_name": "NangGong/GPT-Voice",
+    "name": "GPT-Voice",
+    "description": null
+  },
+  {
+    "full_name": "miroslaws8/laravel-openai",
+    "name": "laravel-openai",
+    "description": "A laravel package to integrate openai in laravel application"
+  },
+  {
+    "full_name": "damkes777/openAI-API-translator",
+    "name": "openAI-API-translator",
+    "description": "An application built on the Laravel framework utilizing the OpenAI API to translate product descriptions and their parameters."
+  },
+  {
+    "full_name": "parlo12/openai",
+    "name": "openai",
+    "description": "Laravel OpenAI v2 Integration: A simple and flexible Laravel package for seamless integration with OpenAI API v2, enabling features like chat completions, embeddings, and more."
+  },
+  {
+    "full_name": "dreamer133/openai-api",
+    "name": "openai-api",
+    "description": "openAI simple api challenging"
+  },
+  {
+    "full_name": "tonythornton435/laravel-openai-backend",
+    "name": "laravel-openai-backend",
+    "description": "laravel openai backend"
+  },
+  {
+    "full_name": "sarfraznawaz2005/docchat",
+    "name": "docchat",
+    "description": "A laravel plugin that allows to chat with PDF documents using OpenAI and Gemini."
+  },
+  {
+    "full_name": "geekr-dev/openai-laravel",
+    "name": "openai-laravel",
+    "description": "Laravel OpenAI Wrapper with support for proxy"
+  },
+  {
+    "full_name": "TonySlam/slamtony-openai",
+    "name": "slamtony-openai",
+    "description": null
+  },
+  {
+    "full_name": "openai-php/client",
+    "name": "client",
+    "description": "⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API."
+  },
+  {
+    "full_name": "theodo-group/LLPhant",
+    "name": "LLPhant",
+    "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain"
+  },
+  {
+    "full_name": "laymont/chatgpt-api",
+    "name": "chatgpt-api",
+    "description": "Api para consumir chatgpt desde venezuela"
+  },
+  {
+    "full_name": "AyrtonGonsallo/allmarathon",
+    "name": "allmarathon",
+    "description": "les marathons en france et dans le monde"
+  },
+  {
+    "full_name": "gasievt/huggingface-openai-key-scraper",
+    "name": "huggingface-openai-key-scraper",
+    "description": "A PHP script to scrape OpenAI API keys that are exposed on public HuggingFace projects."
+  },
+  {
+    "full_name": "peterramsing/laravel-rag-test",
+    "name": "laravel-rag-test",
+    "description": "RAG testing and workshopping in Laravel"
+  },
+  {
+    "full_name": "nenuadrian/project-omega",
+    "name": "project-omega",
+    "description": "Lightweight Model-View-Controller (MVC) framework for PHP that aims to provide a simple and efficient solution for building web applications. It emphasizes simplicity, flexibility, and performance, making it ideal for small to medium-sized projects."
+  },
+  {
+    "full_name": "arkonique/gpt-embed",
+    "name": "gpt-embed",
+    "description": "A simple chatGPT clone that uses OpenAI on the backend to act basically like a stripped down chatGPT. Made this because I wasnted to embed chatGPT for personal uses."
+  },
+  {
+    "full_name": "whitleyhorn/ChatGPT-PHP-Interface",
+    "name": "ChatGPT-PHP-Interface",
+    "description": "ChatGPT-PHP-Interface is a proof of concept for integrating ChatGPT API with PHP. It features simple scripts that generate text from prompts & keywords, useful for email automation, content generation & SEO. Leverages OpenAI's powerful natural language processing tech for customizable high-quality text generation."
+  },
+  {
+    "full_name": "Jerome-W-90/chatgpt-laravel",
+    "name": "chatgpt-laravel",
+    "description": "Project used in tutorial that explains how to use ChatGPT in a Laravel 10 project."
+  },
+  {
+    "full_name": "wildshark/copilot-chat",
+    "name": "copilot-chat",
+    "description": "Copilot Chat is a simple web application that uses the OpenAI API to create a chatbot that responds to user inputs. This project demonstrates how to integrate HTML, PHP, and JavaScript to build a basic chatbot interface that interacts with the OpenAI GPT-3 API."
+  },
+  {
+    "full_name": "snehalkadwe/laravel-openai-api",
+    "name": "laravel-openai-api",
+    "description": null
+  },
+  {
+    "full_name": "jschildgen/sql-llm-demo",
+    "name": "sql-llm-demo",
+    "description": null
+  },
+  {
+    "full_name": "michaelklopf/chat-gpt-playground",
+    "name": "chat-gpt-playground",
+    "description": "Play around with chat gpt api based on Laravel, Inertia, Vite, Tailwind"
+  },
+  {
+    "full_name": "rossedlin/chat-gpt-laravel",
+    "name": "chat-gpt-laravel",
+    "description": "Chat GPT Laravel"
+  },
+  {
+    "full_name": "hidemyas/php-chatgpt-api",
+    "name": "php-chatgpt-api",
+    "description": "CHATGPT APİ with php "
+  },
+  {
+    "full_name": "iteks/laravel-openai",
+    "name": "laravel-openai",
+    "description": "A powerful package that seamlessly integrates OpenAI's advanced AI capabilities into your Laravel applications. This package offers quick setup and intuitive configuration to leverage AI models for chat, embeddings, and more."
+  },
+  {
+    "full_name": "EngRidhoNet/chatbot_gemini_laravel",
+    "name": "chatbot_gemini_laravel",
+    "description": null
+  },
+  {
+    "full_name": "Radulepy/PHP-ChatGPT",
+    "name": "PHP-ChatGPT",
+    "description": "Connect to ChatGPT / OpenAI API using plain PHP"
+  },
+  {
+    "full_name": "yavuzselimblog/chatgpt-api",
+    "name": "chatgpt-api",
+    "description": "php chat gpt api"
+  },
+  {
+    "full_name": "flocko-motion/gpt-adventure",
+    "name": "gpt-adventure",
+    "description": "Simple text-adventure game based on OpenAI GPT API"
+  },
+  {
+    "full_name": "LlmLaraHub/larallama",
+    "name": "larallama",
+    "description": "This is version 2 of LaraChain.io ream more at https://LaraLlama.io"
+  },
+  {
+    "full_name": "echolabsdev/prism",
+    "name": "prism",
+    "description": "A unified interface for working with LLMs in Laravel"
+  },
+  {
+    "full_name": "php-llm/llm-chain",
+    "name": "llm-chain",
+    "description": "PHP library for building LLM-based features and applications."
+  },
+  {
+    "full_name": "akirk/cll",
+    "name": "cll",
+    "description": "An easy to use command line interface for ChatGPT and Ollama in PHP."
+  },
+  {
+    "full_name": "Cornholio6969/OpenAI-wrapper-php",
+    "name": "OpenAI-wrapper-php",
+    "description": "A simplistic OpenAI wrapper for php."
+  },
+  {
+    "full_name": "beikeshop/beikeshop",
+    "name": "beikeshop",
+    "description": "🔥🔥🔥 Free open source and easy-to-use laravel eCommerce platform，BeikeShop基于Laravel 10 框架开发开源电商系统，多语言、多货币100%全开源，已集成ChatGPT OpenAI，支持自定义可视化装修并拥有丰富的插件市场。由成都光大网络科技开发维护 QQ交流群 639108380"
+  },
+  {
+    "full_name": "wgalindo1453/Story_Teller",
+    "name": "Story_Teller",
+    "description": "An interactive web application built with Laravel, integrating OpenAI's GPT-3 and DALL-E models to generate stories, images, and audio based on user input. It showcases the capabilities of AI in creative storytelling, offering users a unique and engaging experience with dynamically generated content."
+  },
+  {
+    "full_name": "speakeasy-sdks/openai-php-sdk",
+    "name": "openai-php-sdk",
+    "description": "PHP SDK for the OpenAI API"
+  },
+  {
+    "full_name": "byronomio/Chat-GPT-4-Spelling-Grammar-Improver",
+    "name": "Chat-GPT-4-Spelling-Grammar-Improver",
+    "description": "A simple and intuitive interface that leverages the power of OpenAI's GPT-4 to rectify spelling and grammar."
+  },
+  {
+    "full_name": "MilitoNathan/FormationLaravelSql",
+    "name": "FormationLaravelSql",
+    "description": "Projet d'un chatbot fait en laravel relié à l'API OpenAI"
+  },
+  {
+    "full_name": "SamiAbrash/Laravel_OpenAI_GPT_Integration",
+    "name": "Laravel_OpenAI_GPT_Integration",
+    "description": null
+  },
+  {
+    "full_name": "CodeWithKyrian/chromadb-php",
+    "name": "chromadb-php",
+    "description": "A PHP SDK for interacting with Chroma Vector Database seamlessly."
+  },
+  {
+    "full_name": "eutheuzin7/bot-telegram-OpenAI-php",
+    "name": "bot-telegram-OpenAI-php",
+    "description": "Esse é um pequeno bot telegram com a API openai usando apenas curl "
+  },
+  {
+    "full_name": "nazmulpcc/framework-x-openai-demo",
+    "name": "framework-x-openai-demo",
+    "description": null
+  },
+  {
+    "full_name": "cosmocode/dokuwiki-plugin-aichat",
+    "name": "dokuwiki-plugin-aichat",
+    "description": "Chat with a LLM about your DokuWiki contents"
+  },
+  {
+    "full_name": "tommasogalli/JSPHPer",
+    "name": "JSPHPer",
+    "description": "JSPHPer is a simple but very easy to use client for OpenAI GPT3.5Turbo Model with Embedding API enabled on text files. It only uses JS & PHP."
+  },
+  {
+    "full_name": "tatsuno-system/chatgpt-interface",
+    "name": "chatgpt-interface",
+    "description": "chatgptのAPIを呼び出すだけのシンプルなPHPコード"
+  },
+  {
+    "full_name": "izisaurio/openai",
+    "name": "openai",
+    "description": "A small Open AI API wrapper"
+  },
+  {
+    "full_name": "adrienbrault/instructrice",
+    "name": "instructrice",
+    "description": "👩‍🏫 Typed LLM Outputs in PHP. Supports GPT, Claude, Gemini or any OpenAI compatible provider!"
+  },
+  {
+    "full_name": "quchuanping/chatgpt-php",
+    "name": "chatgpt-php",
+    "description": "chatgpt php接口对接"
+  },
+  {
+    "full_name": "garissman/larachain",
+    "name": "larachain",
+    "description": "Chat bot Using LLM Models to support your product made with Laravel."
+  },
+  {
+    "full_name": "AishwaryaKumar387/ChatGpt-in-PHP",
+    "name": "ChatGpt-in-PHP",
+    "description": "ChatGpt in PHP"
+  },
+  {
+    "full_name": "code-lives/chatgpt-php",
+    "name": "chatgpt-php",
+    "description": "php调用 chatgpt"
+  },
+  {
+    "full_name": "rx350h/daily_horoscopes",
+    "name": "daily_horoscopes",
+    "description": "gpt-3.5 model generated hoscopes"
+  },
+  {
+    "full_name": "webman-php/openai",
+    "name": "openai",
+    "description": "OpenAI PHP asynchronous client for workerman and webman."
+  },
+  {
+    "full_name": "nstation/ChatGPT_PHP_gpt-3_5-turbo_Sample",
+    "name": "ChatGPT_PHP_gpt-3_5-turbo_Sample",
+    "description": "PHPを使ってChatGPTのチャットAPIのレスポンスを確認するサンプルプログラム"
+  },
+  {
+    "full_name": "bush1D3v/diverti_lembrete_api",
+    "name": "diverti_lembrete_api",
+    "description": "O DivertiLembrete é uma aplicação de lembretes, feita para criar lembretes baseados nos enviados pelo usuário, os pré-processando com a Openai apartir de uma emoção requisitada ao usuário."
+  },
+  {
+    "full_name": "surajoliver/convobot",
+    "name": "convobot",
+    "description": "An project to chat with openai using php laravel and javascript react."
+  },
+  {
+    "full_name": "mornone/chatgpt-dcat-php-admin",
+    "name": "chatgpt-dcat-php-admin",
+    "description": "使用php语言dcat-admin开发chatgpt管理后台，配合前端页面(https://github.com/zhaohao19941221/chatgpt-dcat-php-admin-web)使用"
+  },
+  {
+    "full_name": "krzar/laravel-openai-api",
+    "name": "laravel-openai-api",
+    "description": "Open AI Api Connector for Laravel"
+  },
+  {
+    "full_name": "delabon/aiartgen",
+    "name": "aiartgen",
+    "description": "A platform for AI artists where they can leverage Opanai's DALL-E to generate modern art. Built with Laravel."
+  },
+  {
+    "full_name": "vdm-io/openai",
+    "name": "openai",
+    "description": "mirror of https://git.vdm.dev/joomla/vdm-openai"
+  },
+  {
+    "full_name": "dahexer/ChatGPT-Vision-PHP-Example",
+    "name": "ChatGPT-Vision-PHP-Example",
+    "description": "How to use openai Gpt-4 Vision API using PHP"
+  },
+  {
+    "full_name": "Aeknasd145/ChatGPT-Assistant-API-with-Pure-PHP",
+    "name": "ChatGPT-Assistant-API-with-Pure-PHP",
+    "description": "This is basic a chatgpt assistant created with PHP8 and using OOP"
+  },
+  {
+    "full_name": "TimAnthonyAlexander/chatgpt-wrapper",
+    "name": "chatgpt-wrapper",
+    "description": "ChatGPT-Wrapper is a sleek PHP interface for integrating with OpenAI's ChatGPT. "
+  },
+  {
+    "full_name": "VolkanSah/GPT-API-Integration-in-HTML-CSS-with-JS-PHP",
+    "name": "GPT-API-Integration-in-HTML-CSS-with-JS-PHP",
+    "description": "A basic GPT conversation script designed to help you learn to interact with OpenAI's GPT technology. Includes best practices and a free security whitepaper."
+  },
+  {
+    "full_name": "egebagcivan/fake-comment-generator-backend-chatgpt-api",
+    "name": "fake-comment-generator-backend-chatgpt-api",
+    "description": "Laravel backend for chatgpt api, fake comment generator"
+  },
+  {
+    "full_name": "chaana-00/CodeAlpha_ChatGPT-Integration",
+    "name": "CodeAlpha_ChatGPT-Integration",
+    "description": "The ChatGPT Integration"
+  },
+  {
+    "full_name": "convergine/craft-content-buddy",
+    "name": "craft-content-buddy",
+    "description": "CraftCMS plugin, that uses OpenAI's ChatGPT for efficient creation of multi-lingual, keyword-focused articles and entries."
+  },
+  {
+    "full_name": "movetz/php-fwdays24-llm-demo",
+    "name": "php-fwdays24-llm-demo",
+    "description": null
+  },
+  {
+    "full_name": "xuchunyang/llm",
+    "name": "llm",
+    "description": "试用 Laravel Zero 写个 LLM CLI 工具"
+  },
+  {
+    "full_name": "bladealex9848/ChatGPT",
+    "name": "ChatGPT",
+    "description": "Aplicación que te permite interactuar con la API de OpenAI y utilizar el modelo GPT-3."
+  },
+  {
+    "full_name": "tshenolo/chatgpt-integration",
+    "name": "chatgpt-integration",
+    "description": "This repository provides an example integration guide for incorporating ChatGPT into an existing application"
+  },
+  {
+    "full_name": "chrispage1/ai-image-searching-laravel",
+    "name": "ai-image-searching-laravel",
+    "description": "Example of using OpenAI GPT Turbo 4 in Laravel"
+  },
+  {
+    "full_name": "AGC007/ChatGPT-APi--PHP",
+    "name": "ChatGPT-APi--PHP",
+    "description": "♾️ ChatGPT [API] - (PHP-AGC007)"
+  },
+  {
+    "full_name": "karamusluk/OpenAI-GPT-3-API-Wrapper-for-PHP-8",
+    "name": "OpenAI-GPT-3-API-Wrapper-for-PHP-8",
+    "description": "PHP 8 Wrapper for OpenAI GPT-3 API."
+  },
+  {
+    "full_name": "dirk1983/ChatGPT-4",
+    "name": "ChatGPT-4",
+    "description": "GPT-4已正式发布，调用ChatGPT4接口需要申请，请加微信群或在项目讨论区交流创业心得吧！群内可批发账号，代充开Plus，免费的反代地址，获取网站源码，对接各种资源。欢迎各位中国的ChatGPT爱好者和创业者一起谋划点大事！"
+  },
+  {
+    "full_name": "alnutile/php-llms",
+    "name": "php-llms",
+    "description": "Laravel and LLMs "
+  },
+  {
+    "full_name": "GithubRealFan/PHP-Based-ChatGPT-API",
+    "name": "PHP-Based-ChatGPT-API",
+    "description": "This example is base of using ChatGPT."
+  },
+  {
+    "full_name": "wpaimuse/ai-muse",
+    "name": "ai-muse",
+    "description": "AI Chatbot and AI Content Generation with over 300+ models from OpenAI (ChatGPT), Google AI and OpenRouter. Generate contents and images with AI Muse."
+  },
+  {
+    "full_name": "tawafmesar/GPTNote",
+    "name": "GPTNote",
+    "description": "This website offers note management with AI assistance through a linked app to OpenAI models. Users can summarize and explain their notes before saving them. The site was built using HTML, CSS, PHP, MySQL, and integrated OpenAI models."
+  },
+  {
+    "full_name": "ruscoe/openai-php",
+    "name": "openai-php",
+    "description": "A PHP library for the OpenAI API."
+  },
+  {
+    "full_name": "vormkracht10/laravel-embeddings",
+    "name": "laravel-embeddings",
+    "description": "Create embeddings for your Eloquent models to use with OpenAI"
+  },
+  {
+    "full_name": "passionweb-manuel-schnabel/open-ai-api",
+    "name": "open-ai-api",
+    "description": "Shows the usage of the OpenAI API within TYPO3. Sends an example request with the entered prompt."
+  },
+  {
+    "full_name": "elementoracle/ai_content",
+    "name": "ai_content",
+    "description": "OpenAI integration with WordPress Elementor for automated content generation."
+  },
+  {
+    "full_name": "yllw-digital/laravel-chatgpt-mock-api",
+    "name": "laravel-chatgpt-mock-api",
+    "description": "Generate smart API mocks in Laravel using ChatGPT prompts"
+  },
+  {
+    "full_name": "kognetiks/kognetiks-chatbot",
+    "name": "kognetiks-chatbot",
+    "description": "Kognetiks Chatbot for WordPress is a plugin that allows you to effortlessly integrate OpenAI's ChatGPT API into your website, providing a powerful, AI-driven chatbot for enhanced user experience and personalized support."
+  },
+  {
+    "full_name": "initMAX/Zabbix-UI-Widgets-ChatGPT",
+    "name": "Zabbix-UI-Widgets-ChatGPT",
+    "description": "The ChatGPT widget integrates AI capabilities into your Zabbix dashboard, allowing interaction with OpenAI models directly from the widget."
+  },
+  {
+    "full_name": "roadlabs/PHP-GPT-3.5-Proxy-API",
+    "name": "PHP-GPT-3.5-Proxy-API",
+    "description": "For use with Slack, Teams, ect. Saves user and bot history so bot can reference in future responses."
+  },
+  {
+    "full_name": "ZylerKade/chatgpt-website-clone",
+    "name": "chatgpt-website-clone",
+    "description": "An easy-to-install ChatGPT clone you can host on your own web server and access from a web browser."
+  },
+  {
+    "full_name": "bensonruan/ReplyWithChatGPT",
+    "name": "ReplyWithChatGPT",
+    "description": "A WordPress plugin that integrate with OpenAI's ChatGPT API, use AI generated response to help you reply comments"
+  },
+  {
+    "full_name": "SanHacks/ImagineAI",
+    "name": "ImagineAI",
+    "description": "Generate Products In Magento Powered By OpenAI Dall-E 2 Model ."
+  },
+  {
+    "full_name": "adrielzimbril/Turbo-AI",
+    "name": "Turbo-AI",
+    "description": "Turbo AI's intelligent text generation feature harnesses the power of artificial intelligence to provide users with a seamless and efficient content creation experience. "
+  },
+  {
+    "full_name": "crembelski/iacommunication",
+    "name": "iacommunication",
+    "description": "This package allows you to communicate with OpenAI via a simple interface."
+  },
+  {
+    "full_name": "stellarhk/ChatGPT4.0-Web-Stellar",
+    "name": "ChatGPT4.0-Web-Stellar",
+    "description": "本项目已更新GPT-4o以及GPT-4-32k模型，现在免费加群讨论，即将达到500人上限，欲加从速！"
+  },
+  {
+    "full_name": "chrisreedio/laravel-openai-sdk",
+    "name": "laravel-openai-sdk",
+    "description": "OpenAI integration for Laravel"
+  },
+  {
+    "full_name": "cty1735/chatGpt-web",
+    "name": "chatGpt-web",
+    "description": "chatGpt web PC版本，支持填apiKey，也可自行修改样式，二次开发，部署属于自己的chatgpt！"
+  },
+  {
+    "full_name": "blinq-dev/php-openai-api",
+    "name": "php-openai-api",
+    "description": "PHP OpenAI Api - A library wrapper around the OpenAI API."
+  },
+  {
+    "full_name": "orhanerday/open-ai",
+    "name": "open-ai",
+    "description": "OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)"
+  },
+  {
+    "full_name": "yukihamada/voiceGPTweb",
+    "name": "voiceGPTweb",
+    "description": "🔊voiceGPTweb is a user-friendly web application that enables voice-based conversations with language models such as GPT-3 and GPT-4. The project's goal is to achieve more natural language processing, increase knowledge, and create a new ecosystem where open extensions such as plugins can be added."
+  },
+  {
+    "full_name": "AtomicRoland/ChatGPT-8bit",
+    "name": "ChatGPT-8bit",
+    "description": "ChatGPT client for 8bit Acorn computers"
+  },
+  {
+    "full_name": "bnoordsij/chatgpt-api",
+    "name": "chatgpt-api",
+    "description": "This is a wrapper for the chatGPT API to specify the response format"
+  },
+  {
+    "full_name": "h2ndev/AutoResponderTicketGPT-for-WHMCS",
+    "name": "AutoResponderTicketGPT-for-WHMCS",
+    "description": "Addon cho WHMCS, tự động phản hồi các ticket mới bằng cách sử dụng API ChatGPT. Addon này lấy nội dung và tiêu đề của ticket mới, gửi chúng đến ChatGPT API để tạo câu trả lời, và sau đó phản hồi lại ticket dưới tư cách là admin."
+  },
+  {
+    "full_name": "prikpot/chatgpt-wordpress",
+    "name": "chatgpt-wordpress",
+    "description": "A ChatGPT plugin for Wordpress"
+  },
+  {
+    "full_name": "zerexly/QUICKAI-2.3",
+    "name": "QUICKAI-2.3",
+    "description": "OpenAI Content & Image Generator and Writing Assistant (SaaS)."
+  },
+  {
+    "full_name": "thojou/openai-php-client",
+    "name": "openai-php-client",
+    "description": "The OpenAi PHP Client is a user-friendly PHP library designed to facilitate interactions with the OpenAI Rest API."
+  },
+  {
+    "full_name": "virgiliud/wp-gpt-starter",
+    "name": "wp-gpt-starter",
+    "description": "A starter plugin for connecting WordPress to OpenAI's API."
+  },
+  {
+    "full_name": "RevertIT/mybb-rt_chatgpt",
+    "name": "mybb-rt_chatgpt",
+    "description": "RT ChatGPT  is a plugin which utilizes OpenAI API to generate responses in selected forums and do tasks. The plugin can be extended and new models can be added with ease!"
+  },
+  {
+    "full_name": "mikestratton/aicms",
+    "name": "aicms",
+    "description": "Artificially Intelligent Content Management System - Built Using OpenAI's API and Laravel"
+  },
+  {
+    "full_name": "ablancodev/tellme",
+    "name": "tellme",
+    "description": "TellMe project"
+  },
+  {
+    "full_name": "dirk1983/chatgpt-wechat-personal",
+    "name": "chatgpt-wechat-personal",
+    "description": "在微信个人订阅号中通过调用OpenAI最新接口和gpt-3.5-turbo模型实现ChatGPT聊天机器人的功能"
+  },
+  {
+    "full_name": "vishanurag/diploma-final-year-project",
+    "name": "diploma-final-year-project",
+    "description": "This repository contains all the Documentations & Code of DiAIGen Website which is required to build an 'AI Based Website Builder' Website"
+  },
+  {
+    "full_name": "ArSn/chatgpt-client",
+    "name": "chatgpt-client",
+    "description": "A simple chatGPT-like openAI client to talk to"
+  },
+  {
+    "full_name": "lfalcao/wp-gpt-content",
+    "name": "wp-gpt-content",
+    "description": "PHP script that reviews and improve WordPress content using ChatGPT to enhance SEO"
+  },
+  {
+    "full_name": "skito/aipi-php",
+    "name": "aipi-php",
+    "description": "Universal API client for common AI models"
+  },
+  {
+    "full_name": "Firiks/php-openai-wrapper",
+    "name": "php-openai-wrapper",
+    "description": "PHP wrapper for OpenAI API."
+  },
+  {
+    "full_name": "krishmk1009/Langchain_Based_custom_Chabot-Wordpress-Plugin",
+    "name": "Langchain_Based_custom_Chabot-Wordpress-Plugin",
+    "description": "EasyLangChainChatbot-WordPress is a user-friendly and efficient language chain-based chatbot plugin designed specifically for WordPress websites. With this plugin, you can seamlessly integrate a powerful chatbot feature into your WordPress site, enabling users to interact with the chatbot through WhatsApp messages or by uploading documents."
+  },
+  {
+    "full_name": "dirk1983/chatgpt",
+    "name": "chatgpt",
+    "description": "演示站现在可以免费使用ChatGPT对话和画图了。全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，账号等周边资源，欢迎进群交流，一切全免费。"
+  },
+  {
+    "full_name": "oszuidwest/teksttvgpt",
+    "name": "teksttvgpt",
+    "description": "WordPress plug-in die tekst tv berichten schrijft met OpenAI's GPT"
+  },
+  {
+    "full_name": "Littlemonk-java/moss",
+    "name": "moss",
+    "description": "chatgpt"
+  },
+  {
+    "full_name": "ahaseeb99/healthly",
+    "name": "healthly",
+    "description": "This project is a dynamic and user-centric website for Healthly (healthly.live), a platform dedicated to covering all aspects of well-being. It empowers users with personalized meditation experiences and comprehensive health content creation, leveraging AI to deliver holistic wellness plans."
+  },
+  {
+    "full_name": "olegopro/gpt-tools",
+    "name": "gpt-tools",
+    "description": "Репозиторий gpt-tools включает PHP скрипты для автоматизации задач с текстами, используя API OpenAI. Полезен для разработки и управления кодом."
+  },
+  {
+    "full_name": "kambo-1st/langchain-php",
+    "name": "langchain-php",
+    "description": "⚡ Building applications with LLMs through composability in PHP ⚡"
+  },
+  {
+    "full_name": "lymesh/Txt-to-Voice",
+    "name": "Txt-to-Voice",
+    "description": "txt to voice for openai（GPT）"
+  },
+  {
+    "full_name": "zef-dev/convoworks-gpt",
+    "name": "convoworks-gpt",
+    "description": "Convoworks GPT integrates OpenAI GPT into WordPress, enabling chat, custom API endpoints, and hook-based processing with GPT components for versatile content handling and automation."
+  },
+  {
+    "full_name": "galaxytwenty/PmGPT",
+    "name": "PmGPT",
+    "description": "Have a conversation with the ChatGPT gpt-3.5-turbo model"
+  },
+  {
+    "full_name": "Masood404/scheduler",
+    "name": "scheduler",
+    "description": "Scheduler is a web application that provides scheduling capabilities to help you manage your tasks effectively. It is developed in PHP. The application integrates with various APIs, including a Weather API and OpenAI GPT."
+  },
+  {
+    "full_name": "privet-fun/phpbb_ailabs",
+    "name": "phpbb_ailabs",
+    "description": "phpBB extension for Midjourney, ChatGPT and DALL-E (OpenAI), Gemini and Gemini Vision (Google), Claude (Anthropic), Stable Diffusion (Stability AI), Pika (Pika.art)"
+  },
+  {
+    "full_name": "devscast/lugha",
+    "name": "lugha",
+    "description": "Lugha is a PHP Generative AI Framework to build chatbot, RAG systems and AI-powered applications"
+  },
+  {
+    "full_name": "alexlancer/codeigniter4_chatgpt_assistant",
+    "name": "codeigniter4_chatgpt_assistant",
+    "description": "Integrating ChatGPT in Codeigniter 4 via OpenAI API"
+  },
+  {
+    "full_name": "s-gardette/gptdescriptionimprover",
+    "name": "gptdescriptionimprover",
+    "description": "The GPT Description Improver is a PrestaShop module that improves product descriptions using OpenAI's ChatGPT. It adds a button next to the description field in the product editing page, which, when clicked, improves the product description using ChatGPT's AI capabilities."
+  },
+  {
+    "full_name": "vbookshelf/RAG-Experiments",
+    "name": "RAG-Experiments",
+    "description": "My experiments while learning how to build a RAG (Retrieval Augmented Generation) system."
+  },
+  {
+    "full_name": "bghira/chatgpt-video-generator",
+    "name": "chatgpt-video-generator",
+    "description": "Generate small, comedic videos, from ChatGPT. Entirely coded by ChatGPT, and me."
+  },
+  {
+    "full_name": "shawnveltman/laravel-openai",
+    "name": "laravel-openai",
+    "description": "An OpenAI API wrapper that uses HTTP facade for easier testing and test faking"
+  },
+  {
+    "full_name": "kevinbenabdelhak/WP-Text-to-Voice-AI",
+    "name": "WP-Text-to-Voice-AI",
+    "description": "WP Text to Voice AI est un plugin qui converti le contenu textuel de vos articles et pages en fichier MP3 audio à l'aide de l'API OpenAI. Avec le shortcode [transcription_ia] vous pourrez afficher un lecteur MP3 personnalisé."
+  },
+  {
+    "full_name": "iwasakiyosuke5/pre-RAG",
+    "name": "pre-RAG",
+    "description": null
+  },
+  {
+    "full_name": "MauricioPerera/Rckflr-AI-Image-Thingamabob",
+    "name": "Rckflr-AI-Image-Thingamabob",
+    "description": "This WordPress plugin uses the OpenAI API to automatically add alt text, caption, and description to images when they are added to the media library. The generated content is based on the image and is output in JSON format. The plugin includes a settings page where you can enter your OpenAI API key."
+  },
+  {
+    "full_name": "PapaRascal2020/sidekick",
+    "name": "sidekick",
+    "description": "Say hello to Sidekick! A Laravel package that provides a common syntax for using Claude, Mistral, Cohere and OpenAi APIs."
+  },
+  {
+    "full_name": "smartsendercommunity/openAI",
+    "name": "openAI",
+    "description": "Интеграция с openAI (создатели chatGPT)"
+  },
+  {
+    "full_name": "unconv/php-gpt-funcs",
+    "name": "php-gpt-funcs",
+    "description": "GPT-4 Function Calling Example in PHP"
+  },
+  {
+    "full_name": "gustavobrigatti/assisstant-gpt-study",
+    "name": "assisstant-gpt-study",
+    "description": "Projeto de estudo do assistente GPT, utilizando as chamadas de funções e retorno de dado para o usuário, utilizando threads."
+  },
+  {
+    "full_name": "yrvelez/auto_vignette",
+    "name": "auto_vignette",
+    "description": "Toy example of how LLMs can be used to create survey experiments"
+  },
+  {
+    "full_name": "cognesy/instructor-php",
+    "name": "instructor-php",
+    "description": "Structured data outputs with LLMs, in PHP. Designed for simplicity, transparency, and control."
+  },
+  {
+    "full_name": "CiobanuPaul/Website---PHP",
+    "name": "Website---PHP",
+    "description": "A website of a faculty. It uses PHP and MySQL. It provides securized authentication for different types of users, each user having different possible functionalities. It uses libraries such as PHPMailer, FPDF, jpgraph. It also uses an API to OpenAI."
+  },
+  {
+    "full_name": "otiemann/moodle-plugins",
+    "name": "moodle-plugins",
+    "description": "Adapted Moodle plugin to local language and usage of gpt-4 turbo model"
+  },
+  {
+    "full_name": "alexz006/ChatGPT-Example",
+    "name": "ChatGPT-Example",
+    "description": "Example of a ChatGPT on PHP and JS: GPT-3, GPT-3.5 and GPT-4 (chat.openai.com)"
+  },
+  {
+    "full_name": "tylerkessler/wp-gpt-assistant-widget",
+    "name": "wp-gpt-assistant-widget",
+    "description": "Adds a Chat GPT Widget to connect to Survey Analyst Assistant."
+  },
+  {
+    "full_name": "jkalaj/InvoicePDFParserGPT",
+    "name": "InvoicePDFParserGPT",
+    "description": "This program uses the PDF to Text library from xpdf as the pre-processing for an invoice, converts the pdf file into text, and uses a ChatGPT API for parsing and organizing that data. Using this API made what felt like was impossible for smaller pre-trained models ran locally and OCR extremely easy since PDF's are a mess when converted to text. "
+  },
+  {
+    "full_name": "developers-savyour/openai",
+    "name": "openai",
+    "description": "Open AI API Integration with Laravel"
+  },
+  {
+    "full_name": "salehhashemi1992/ai-code-guard",
+    "name": "ai-code-guard",
+    "description": "Automatically reviews code changes in pull requests using OpenAI models to generate thoughtful suggestions for improving code quality."
+  },
+  {
+    "full_name": "KimBranzell/WP-Auto-Alt-Text",
+    "name": "WP-Auto-Alt-Text",
+    "description": "WIP: A plugin that generates an alt text on upload, or when editing existing images. Uses GPT-4 with Vision to understand and analyze the images."
+  },
+  {
+    "full_name": "adminazhar/intelli-content",
+    "name": "intelli-content",
+    "description": "IntelliContent is a WordPress plugin that leverages the power of OpenAI to generate high-quality content for your website. Seamlessly integrate AI-generated articles directly into the Gutenberg editor, with customizable settings for model selection, temperature, and more. Enhance your content creation workflow and save time with IntelliContent."
+  },
+  {
+    "full_name": "ibrhmky/chatgpt-assistant",
+    "name": "chatgpt-assistant",
+    "description": "Integrates with OpenAI API to provide an AI-powered assistant."
+  },
+  {
+    "full_name": "fmesasc/OpenAI-Telegram-Chatbot",
+    "name": "OpenAI-Telegram-Chatbot",
+    "description": "OpenAI-Telegram-Chatbot es un bot de Telegram que utiliza la API de OpenAI para generar respuestas de conversación. Está diseñado para mantener conversaciones de manera natural y ofrecer respuestas útiles y precisas a las preguntas que se le hagan. "
+  },
+  {
+    "full_name": "mredd2222/wpdocugenius",
+    "name": "wpdocugenius",
+    "description": "WP DocuGenius scans your theme's functions and leverages OpenAI’s GPT model to generate summaries, parameter explanations, and return details—transforming complex code into readable, user-friendly documentation directly in the WordPress admin."
+  },
+  {
+    "full_name": "flamecoders/Gpt-Chat-Builder",
+    "name": "Gpt-Chat-Builder",
+    "description": "Create Ai powered chat bot for your wordpress website in one click"
+  },
+  {
+    "full_name": "yedidiaklein/moodle-repository_txttoimg",
+    "name": "moodle-repository_txttoimg",
+    "description": "Moodle repo for openai images api"
+  },
+  {
+    "full_name": "daveymason/ai-lesson-planner",
+    "name": "ai-lesson-planner",
+    "description": "A Wordpress plugin that leverages AI to create auto-translated culturally sensitive high quality lesson plans within the TEFL context"
+  },
+  {
+    "full_name": "erdum/php-open-ai-assistant-sdk",
+    "name": "php-open-ai-assistant-sdk",
+    "description": "A PHP class for seamless interaction with the OpenAI Assistant API, enabling developers to build powerful AI assistants capable of performing a variety of tasks."
+  }
+]
