@@ -54,7 +54,8 @@ API-based data collection.
     │  ├─repo_with_kw_qwen_java_filtered_dele
     │  └─repo_with_kw_qwen_python_filtered_dele
     ├─c1_repo_owner_des_less   # Owners and repositories of category 1 
-    └─c2_starover0_filtered    # Category 2 repositories over zero stars
+    ├─c2_starover0_filtered    # Category 2 repositories over zero stars
+    └─c2_starover0_full        # Category 2 repositories over zero stars with full information(description and readme)
 ```
 
 ## Configuration
