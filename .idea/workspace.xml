@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7683948-fc40-43ad-958b-1de80c4c4baf" name="Changes" comment="add full information of data c2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/api_repo/c2_starover0_full/langchain-ai#langchain_new.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/api_repo/c2_starover0_full/langchain-ai#langchain_new.json" afterDir="false" />
-    </list>
+    <list default="true" id="b7683948-fc40-43ad-958b-1de80c4c4baf" name="Changes" comment="add full information of data c2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +82,7 @@
       <workItem from="1745069316178" duration="2968000" />
       <workItem from="1745150673663" duration="2553000" />
       <workItem from="1745892601315" duration="2523000" />
-      <workItem from="1749197562661" duration="915000" />
+      <workItem from="1749197562661" duration="1776000" />
     </task>
     <task id="LOCAL-00001" summary="add full information of data c2">
       <option name="closed" value="true" />
