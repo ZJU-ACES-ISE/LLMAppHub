@@ -12,7 +12,7 @@ For the collected GitHub repository dependency graph, please visit https://felin
 The following table shows the number of projects and their dependencies for different programming languages using various LLM APIs:
 
 | Language   | OpenAI   |            | Claude   |            | Gemini   |            | Qwen     |            |
-| ---------- |----------|------------|----------|------------|----------|------------|----------|------------|
+| ---------- | -------- | ---------- | -------- | ---------- | -------- | ---------- | -------- | ---------- |
 |            | Projects | Dependents | Projects | Dependents | Projects | Dependents | Projects | Dependents |
 | Python     | 1481     | 28019      | 212      | 6223       | 272      | 2105       | 39       | 70         |
 | Java       | 194      | 616        | 4        | 316        | 24       | 324        | 5        | 3          |
@@ -20,21 +20,23 @@ The following table shows the number of projects and their dependencies for diff
 
 **Framework-based LLM Applications:**
 
-| Framework        |   Quantity |
-|------------------|-----------:|
-| Autogen          |         61 |
-| Mem0             |        430 |
-| Haystack         |       2694 |
-| Semantic Kernel  |        448 |
-| Llama_Index      |        164 |
-| LangChain        |      26085 |
-| **Total**        |  **29882** |
+| Framework       |        Quantity |
+| --------------- | --------------: |
+| Autogen         |              61 |
+| Mem0            |             430 |
+| Haystack        |            2694 |
+| Semantic Kernel |             448 |
+| Llama_Index     |             164 |
+| LangChain       |           26085 |
+| **Total** | **29882** |
 
 # Usage
 
 API-based data collection.
 
 ```graphql
+
+
 └─api_repo # Output directory
     ├─c1_2_c2_dependents_filtered
     │  ├─repo_with_kw_claude_javascript_filtered_dele # Repositories with "Claude" keyword (JavaScript)
@@ -53,13 +55,17 @@ API-based data collection.
     │  ├─repo_with_kw_qwen_javascript_filtered_dele
     │  ├─repo_with_kw_qwen_java_filtered_dele
     │  └─repo_with_kw_qwen_python_filtered_dele
-    ├─c1_repo_owner_des_less   # Owners and repositories of category 1 
-    ├─c2_starover0_filtered    # Category 2 repositories over zero stars
-    └─c2_starover0_full        # Category 2 repositories over zero stars with full information(description and readme)
+    ├─c1_repo_owner_des_less     # Owners and repositories of category 1 
+    ├─c1_info                    # Related code url and description of category 1 
+    ├─c1_with_framework_keywords # Raw data of category 1
+    ├─c2_starover0_filtered      # Category 2 repositories over zero stars
+    └─c2_starover0_full          # Category 2 repositories over zero stars with full information(description and readme)
 ```
 
 ## Configuration
+
 Before using this tool, please ensure you have properly configured the following in `utils/config.json`:
+
 - `llm_api_url`: LLM API endpoint URL
 - `api_key`: API access key
 - `tokens`: List of GitHub access tokens
