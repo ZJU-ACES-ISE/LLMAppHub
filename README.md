@@ -37,6 +37,7 @@ API-based data collection.
 ```graphql
 
 
+
 └─api_repo # Output directory
     ├─c1_2_c2_dependents_filtered
     │  ├─repo_with_kw_claude_javascript_filtered_dele # Repositories with "Claude" keyword (JavaScript)
@@ -57,9 +58,10 @@ API-based data collection.
     │  └─repo_with_kw_qwen_python_filtered_dele
     ├─c1_repo_owner_des_less     # Owners and repositories of category 1 
     ├─c1_info                    # Related code url and description of category 1 
-    ├─c1_with_framework_keywords # Raw data of category 1
+    ├─c2_info                    # Data of category 2
     ├─c2_starover0_filtered      # Category 2 repositories over zero stars
-    └─c2_starover0_full          # Category 2 repositories over zero stars with full information(description and readme)
+    ├─c2_starover0_full          # Category 2 repositories over zero stars with full information(description and readme)
+    └─dependents_openai_sdk      # Dependents of openAI sdk
 ```
 
 ## Configuration

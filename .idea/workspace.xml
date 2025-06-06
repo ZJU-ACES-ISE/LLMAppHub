@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7683948-fc40-43ad-958b-1de80c4c4baf" name="Changes" comment="add full information of data c2" />
+    <list default="true" id="b7683948-fc40-43ad-958b-1de80c4c4baf" name="Changes" comment="dependents data of openai sdk">
+      <change afterPath="$PROJECT_DIR$/out/api_repo/dependents_openai_sdk/dependents_github.com-openai-openai-python.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/api_repo/dependents_openai_sdk/dependents_openai.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/api_repo/dependents_openai_sdk/packages_openai-openai-python.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/api_repo/c2_starover0_full/langchain-ai#langchain.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/api_repo/c2_starover0_full/langchain-ai#langchain.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/api_repo/c2_starover0_full/langchain-ai#langchain_new.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +90,7 @@
       <workItem from="1745069316178" duration="2968000" />
       <workItem from="1745150673663" duration="2553000" />
       <workItem from="1745892601315" duration="2523000" />
-      <workItem from="1749197562661" duration="1776000" />
+      <workItem from="1749197562661" duration="2784000" />
     </task>
     <task id="LOCAL-00001" summary="add full information of data c2">
       <option name="closed" value="true" />
@@ -92,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745892817284</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dependents data of openai sdk">
+      <option name="closed" value="true" />
+      <created>1749210236865</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749210236865</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +127,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add full information of data c2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add full information of data c2" />
+    <MESSAGE value="dependents data of openai sdk" />
+    <option name="LAST_COMMIT_MESSAGE" value="dependents data of openai sdk" />
   </component>
 </project>
