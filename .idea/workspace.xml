@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7683948-fc40-43ad-958b-1de80c4c4baf" name="Changes" comment="dependents data of openai sdk">
-      <change afterPath="$PROJECT_DIR$/out/api_repo/dependents_openai_sdk/dependents_github.com-openai-openai-python.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/api_repo/dependents_openai_sdk/dependents_openai.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/api_repo/dependents_openai_sdk/packages_openai-openai-python.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/api_repo/c2_starover0_full/langchain-ai#langchain.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/api_repo/c2_starover0_full/langchain-ai#langchain.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/api_repo/c2_starover0_full/langchain-ai#langchain_new.json" beforeDir="false" />
-    </list>
+    <list default="true" id="b7683948-fc40-43ad-958b-1de80c4c4baf" name="Changes" comment="merge data of category 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,21 +24,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/WorkSpace/Pycharm/LLMAppHub/out/api_repo/c2_starover0_full",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/WorkSpace/Pycharm/LLMAppHub/out/api_repo/c2_starover0_full&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WorkSpace\Pycharm\LLMAppHub\out\api_repo\c2_starover0_full" />
@@ -90,7 +82,7 @@
       <workItem from="1745069316178" duration="2968000" />
       <workItem from="1745150673663" duration="2553000" />
       <workItem from="1745892601315" duration="2523000" />
-      <workItem from="1749197562661" duration="2784000" />
+      <workItem from="1749197562661" duration="3053000" />
     </task>
     <task id="LOCAL-00001" summary="add full information of data c2">
       <option name="closed" value="true" />
@@ -108,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749210236865</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="merge data of category 2">
+      <option name="closed" value="true" />
+      <created>1749210350559</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749210350559</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add full information of data c2" />
     <MESSAGE value="dependents data of openai sdk" />
-    <option name="LAST_COMMIT_MESSAGE" value="dependents data of openai sdk" />
+    <MESSAGE value="merge data of category 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge data of category 2" />
   </component>
 </project>
