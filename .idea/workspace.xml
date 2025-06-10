@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7683948-fc40-43ad-958b-1de80c4c4baf" name="Changes" comment="add dependents for claude js sdk">
-      <change beforePath="$PROJECT_DIR$/out/api_repo/dependents_openai_sdk/dependents_anthropic.csv" beforeDir="false" />
+    <list default="true" id="b7683948-fc40-43ad-958b-1de80c4c4baf" name="Changes" comment="add dependents for openai js sdk">
       <change beforePath="$PROJECT_DIR$/out/api_repo/dependents_openai_sdk/dependents_github.com-openai-openai-python.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/api_repo/dependents_openai_sdk/dependents_googleapis-python-genai.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/api_repo/dependents_openai_sdk/dependents_openai.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/api_repo/dependents_openai_sdk/packages_anthropics-anthropic-sdk-python.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/api_repo/dependents_openai_sdk/packages_googleapis-python-genai.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/api_repo/dependents_openai_sdk/packages_openai-openai-python.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +87,7 @@
       <workItem from="1745892601315" duration="2523000" />
       <workItem from="1749197562661" duration="3053000" />
       <workItem from="1749482958816" duration="2962000" />
-      <workItem from="1749568089505" duration="311000" />
+      <workItem from="1749568089505" duration="693000" />
     </task>
     <task id="LOCAL-00001" summary="add full information of data c2">
       <option name="closed" value="true" />
@@ -142,7 +137,55 @@
       <option name="project" value="LOCAL" />
       <updated>1749568316745</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add dependents for claude js sdk">
+      <option name="closed" value="true" />
+      <created>1749568528153</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749568528153</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add dependents for claude python sdk">
+      <option name="closed" value="true" />
+      <created>1749568603272</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749568603272</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add dependents for gemini java sdk">
+      <option name="closed" value="true" />
+      <created>1749568634114</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1749568634114</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add dependents for gemini js sdk">
+      <option name="closed" value="true" />
+      <created>1749568680451</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1749568680451</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add dependents for gemini python sdk">
+      <option name="closed" value="true" />
+      <created>1749568730333</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1749568730333</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add dependents for openai js sdk">
+      <option name="closed" value="true" />
+      <created>1749568771480</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1749568771480</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +209,11 @@
     <MESSAGE value="add dependents for claude and gemini sdks(python)" />
     <MESSAGE value="add dependents for claude, gemini, openai sdks" />
     <MESSAGE value="add dependents for claude js sdk" />
-    <option name="LAST_COMMIT_MESSAGE" value="add dependents for claude js sdk" />
+    <MESSAGE value="add dependents for claude python sdk" />
+    <MESSAGE value="add dependents for gemini java sdk" />
+    <MESSAGE value="add dependents for gemini js sdk" />
+    <MESSAGE value="add dependents for gemini python sdk" />
+    <MESSAGE value="add dependents for openai js sdk" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dependents for openai js sdk" />
   </component>
 </project>
